@@ -1,0 +1,422 @@
+[
+  {
+    "id": "advaita-associated-shankara",
+    "from": "advaita-vedanta",
+    "relationship": "associated-with",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A tradition-aware association record.",
+    "contentHash": "6239627507bfb641475b50e4b673a6b5b1dcff848a53efc49c5c8fb7a46dd0af",
+    "sourceFile": "src\\content\\relationships\\advaita-associated-shankara.md"
+  },
+  {
+    "id": "advaita-vedanta-parent",
+    "from": "advaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship; it does not rank Vedānta schools.",
+    "contentHash": "d7b00e159da70bf6c139c9f6c91efcf966a995c55262f1f2acaba74e1afeb538",
+    "sourceFile": "src\\content\\relationships\\advaita-vedanta-parent.md"
+  },
+  {
+    "id": "bhakti-practice",
+    "from": "bhakti",
+    "relationship": "related-to",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A broad connection between devotional orientation and practice, without reducing diverse traditions to one form.",
+    "contentHash": "d5284478cd1fcf0b4402623c26583dcfb3a94b593b80b4171b155799c36ccc01",
+    "sourceFile": "src\\content\\relationships\\bhakti-practice.md"
+  },
+  {
+    "id": "darshana-nyaya",
+    "from": "nyaya",
+    "relationship": "belongs-to-domain",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship connecting Nyāya to Darśana.",
+    "contentHash": "65045c046fd9ad049cf29aa34f522785fcfba4099175de1a9c29fe0f2814cdf0",
+    "sourceFile": "src\\content\\relationships\\darshana-nyaya.md"
+  },
+  {
+    "id": "dharma-related-karma",
+    "from": "dharma",
+    "relationship": "related-to",
+    "to": "karma",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Broad conceptual relationship; not a claim of identical meaning.",
+    "contentHash": "5a621e517df502bcdd3dbdc9cc3e91e5c56589a8aa1a1848f50cef8c8eddfb4b",
+    "sourceFile": "src\\content\\relationships\\dharma-related-karma.md"
+  },
+  {
+    "id": "dhyana-yoga-domain",
+    "from": "dhyana",
+    "relationship": "belongs-to-domain",
+    "to": "yoga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "067a465a20c95b3170514084f11bc5877c3718b7d88e8cb01a63f81352f0406c",
+    "sourceFile": "src\\content\\relationships\\dhyana-yoga-domain.md"
+  },
+  {
+    "id": "dipavali-festival-domain",
+    "from": "dipavali",
+    "relationship": "belongs-to-domain",
+    "to": "festival",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "f6c07e3e3b82dd65abc05a672d6cbfe31a2902ee5be27eaf8f994102fd938170",
+    "sourceFile": "src\\content\\relationships\\dipavali-festival-domain.md"
+  },
+  {
+    "id": "dvaita-associated-madhva",
+    "from": "dvaita-vedanta",
+    "relationship": "associated-with",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A tradition-aware association record.",
+    "contentHash": "944daa4fffeb96efc251503d587e9d346920130ad4b265e85c82ac22384b3608",
+    "sourceFile": "src\\content\\relationships\\dvaita-associated-madhva.md"
+  },
+  {
+    "id": "gita-part-of-mahabharata",
+    "from": "bhagavad-gita",
+    "relationship": "part-of",
+    "to": "mahabharata",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "a9e3c01e237a161de63b6b59a38aa6c82486f6b6e202ae22cfde8fbdaba49326",
+    "sourceFile": "src\\content\\relationships\\gita-part-of-mahabharata.md"
+  },
+  {
+    "id": "gita-related-dharma",
+    "from": "bhagavad-gita",
+    "relationship": "related-to",
+    "to": "dharma",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorially scoped relationship for future review.",
+    "contentHash": "b6535b50eaf2ae14b2c31489ce30bf82eafcb4cc4f00b7f5a9f718d39fc9ce35",
+    "sourceFile": "src\\content\\relationships\\gita-related-dharma.md"
+  },
+  {
+    "id": "isha-subtype-upanishad",
+    "from": "isha-upanishad",
+    "relationship": "subtype-of",
+    "to": "upanishads",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A provisional taxonomy relationship for the scripture explorer.",
+    "contentHash": "6b9d47ae7515ba7f24f16c6a2f29abdbd633ef379c0c234f7fff79fd4ecc6716",
+    "sourceFile": "src\\content\\relationships\\isha-subtype-upanishad.md"
+  },
+  {
+    "id": "japa-practice",
+    "from": "japa",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled practice-domain relationship.",
+    "contentHash": "4a1b16b18f6fb57ad8554741ff3c44b802614462b247a448e7bf084e6ed80ead",
+    "sourceFile": "src\\content\\relationships\\japa-practice.md"
+  },
+  {
+    "id": "jnana-vedanta",
+    "from": "jnana",
+    "relationship": "related-to",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A broad conceptual relationship that requires school-specific interpretation.",
+    "contentHash": "a1543d214d82babd3402c341a6f5587ad659e1797e78c19c4464e43f9736812e",
+    "sourceFile": "src\\content\\relationships\\jnana-vedanta.md"
+  },
+  {
+    "id": "karma-related-moksha",
+    "from": "karma",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Broad conceptual relationship; school-specific interpretations may differ.",
+    "contentHash": "606db7cb45d3f4d8153e167f5166a9e4ae01925718d8f4e38f20bb15c539e0ce",
+    "sourceFile": "src\\content\\relationships\\karma-related-moksha.md"
+  },
+  {
+    "id": "karma-related-samsara",
+    "from": "karma",
+    "relationship": "related-to",
+    "to": "samsara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A broad conceptual relationship requiring school-specific interpretation.",
+    "contentHash": "448924d663871fac8c8efdc79443557cf6d497487db2419fbf390548fa49dee6",
+    "sourceFile": "src\\content\\relationships\\karma-related-samsara.md"
+  },
+  {
+    "id": "mahabharata-attributed-vyasa",
+    "from": "mahabharata",
+    "relationship": "attributed-to",
+    "to": "vyasa",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Traditional attribution is recorded without treating it as a simple modern historical claim.",
+    "contentHash": "6e0ef062a1415e38c6528c028ad5d0272596847ce368472e6ce1ce6794814278",
+    "sourceFile": "src\\content\\relationships\\mahabharata-attributed-vyasa.md"
+  },
+  {
+    "id": "moksha-related-samsara",
+    "from": "moksha",
+    "relationship": "related-to",
+    "to": "samsara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A broad conceptual relationship represented without a universal doctrinal claim.",
+    "contentHash": "d9cc1f087926bfe828ed0ac120d017e12e51235a3f5625d6352873186b0198fa",
+    "sourceFile": "src\\content\\relationships\\moksha-related-samsara.md"
+  },
+  {
+    "id": "onam-festival-domain",
+    "from": "onam",
+    "relationship": "belongs-to-domain",
+    "to": "festival",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship for a regionally grounded festival record.",
+    "contentHash": "95560ee075f5314fce1d5aa37a5191a15c0302f79876046d45047e6649e151f8",
+    "sourceFile": "src\\content\\relationships\\onam-festival-domain.md"
+  },
+  {
+    "id": "puja-practice-domain",
+    "from": "puja",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "ffc94ed46e6e92f2649814e1e2ced8c898c65188ea6f57cb5899042a150ac374",
+    "sourceFile": "src\\content\\relationships\\puja-practice-domain.md"
+  },
+  {
+    "id": "rigveda-belongs-shruti",
+    "from": "rigveda",
+    "relationship": "belongs-to-domain",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "1f72281ce67afa7516228a6ee2aadd1097164b06d27493c85bbb93e88b526cfe",
+    "sourceFile": "src\\content\\relationships\\rigveda-belongs-shruti.md"
+  },
+  {
+    "id": "sankhya-darshana",
+    "from": "sankhya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
+    "contentHash": "32b92a05ab85e4f96984b8b0af5918fb7e21e1f15b988a7c21937058b6cd3434",
+    "sourceFile": "src\\content\\relationships\\sankhya-darshana.md"
+  },
+  {
+    "id": "sanskrit-vyakarana",
+    "from": "vyakarana",
+    "relationship": "belongs-to-domain",
+    "to": "sanskrit",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship connecting grammatical study to the Sanskrit domain.",
+    "contentHash": "7a3a434dfd7e1da2274c0f25e064da20f2b0983beb1251da0be0057b7e44122d",
+    "sourceFile": "src\\content\\relationships\\sanskrit-vyakarana.md"
+  },
+  {
+    "id": "shiva-deity-domain",
+    "from": "shiva",
+    "relationship": "belongs-to-domain",
+    "to": "deity",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "b3c9172127f7b4e91e91ff0bbc20095a1983866724b2df97152b361a72af6dc7",
+    "sourceFile": "src\\content\\relationships\\shiva-deity-domain.md"
+  },
+  {
+    "id": "vedanga-chandas",
+    "from": "chandas",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
+    "contentHash": "f61778066fc8a7b726b96c9dc2c954968fe0bf83e7cea413144a9fa3f9779c0e",
+    "sourceFile": "src\\content\\relationships\\vedanga-chandas.md"
+  },
+  {
+    "id": "vedanga-jyotisha",
+    "from": "jyotisha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
+    "contentHash": "762ff29c83525a425f9efb971965ca938db1535b3308a77f2cd23126ac294fe3",
+    "sourceFile": "src\\content\\relationships\\vedanga-jyotisha.md"
+  },
+  {
+    "id": "vedanga-kalpa",
+    "from": "kalpa",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
+    "contentHash": "edf42bdd0ff992caa1fb11ffa4e4ace9d0d0c0ff814aa7dc134aff8118e741d5",
+    "sourceFile": "src\\content\\relationships\\vedanga-kalpa.md"
+  },
+  {
+    "id": "vedanga-nirukta",
+    "from": "nirukta",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
+    "contentHash": "0be0b50f054df7ddef856bc89838307998137e54b86749e9c673c9869b6a1ea1",
+    "sourceFile": "src\\content\\relationships\\vedanga-nirukta.md"
+  },
+  {
+    "id": "vedanga-shiksha",
+    "from": "shiksha",
+    "relationship": "belongs-to-domain",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship connecting Śikṣā to the Vedāṅga domain.",
+    "contentHash": "2ea2a8ee4f4599d69a5570c0af3561fa05512bd1693f22c984723a1b5b297e79",
+    "sourceFile": "src\\content\\relationships\\vedanga-shiksha.md"
+  },
+  {
+    "id": "vedanga-vyakarana",
+    "from": "vyakarana",
+    "relationship": "belongs-to-domain",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship connecting Vyākaraṇa to the Vedāṅga domain.",
+    "contentHash": "40b5739fbe3af6164524bbe70573a3e5c80786d3b318ede5b0524259b2ec836d",
+    "sourceFile": "src\\content\\relationships\\vedanga-vyakarana.md"
+  },
+  {
+    "id": "vedanta-darshana",
+    "from": "vedanta",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Darśana and Vedānta discovery clusters.",
+    "contentHash": "886937833d2d2c54f75b2d7d19fb1e0f77f44bfb60e44ca6ce9e5276f830fe36",
+    "sourceFile": "src\\content\\relationships\\vedanta-darshana.md"
+  },
+  {
+    "id": "vishishtadvaita-associated-ramanuja",
+    "from": "vishishtadvaita-vedanta",
+    "relationship": "associated-with",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A tradition-aware association record.",
+    "contentHash": "9b3e0c4ed832cadbde4ef26a5a7ae0cb3e0ae48a751574baaacf4fde078544be",
+    "sourceFile": "src\\content\\relationships\\vishishtadvaita-associated-ramanuja.md"
+  },
+  {
+    "id": "vrata-practice-domain",
+    "from": "vrata",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A taxonomy relationship connecting Vrata to the practice domain.",
+    "contentHash": "e4ce3cc4af38cfe71c86f755a888bc8c0abb3792dc9e6452492a6f211bd22785",
+    "sourceFile": "src\\content\\relationships\\vrata-practice-domain.md"
+  },
+  {
+    "id": "yajna-practice",
+    "from": "yajna",
+    "relationship": "related-to",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A broad ritual and practice relationship for discovery.",
+    "contentHash": "4b538a31ab41645115a95c18ccab68b4286da78254742a4faf6012e363fd63d8",
+    "sourceFile": "src\\content\\relationships\\yajna-practice.md"
+  },
+  {
+    "id": "yajurveda-belongs-shruti",
+    "from": "yajurveda",
+    "relationship": "belongs-to-domain",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled taxonomy relationship.",
+    "contentHash": "eda26fede0b457c228afff05156e946375310117ec34f1a837ab2c898a9da440",
+    "sourceFile": "src\\content\\relationships\\yajurveda-belongs-shruti.md"
+  },
+  {
+    "id": "yoga-darshana-parent",
+    "from": "yoga-darshana",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
+    "contentHash": "6c1915b782ff212ffdea718a41d052aab174e67f337710c9dccdaafe9c5455db",
+    "sourceFile": "src\\content\\relationships\\yoga-darshana-parent.md"
+  }
+]

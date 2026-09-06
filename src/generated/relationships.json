@@ -1,0 +1,254 @@
+[
+  {
+    "id": "advaita-vedanta-parent",
+    "from": "advaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "bhakti-practice",
+    "from": "bhakti",
+    "relationship": "related-to",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "darshana-nyaya",
+    "from": "nyaya",
+    "relationship": "belongs-to-domain",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "dharma-related-karma",
+    "from": "dharma",
+    "relationship": "related-to",
+    "to": "karma",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "dhyana-yoga-domain",
+    "from": "dhyana",
+    "relationship": "belongs-to-domain",
+    "to": "yoga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "gita-part-of-mahabharata",
+    "from": "bhagavad-gita",
+    "relationship": "part-of",
+    "to": "mahabharata",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "gita-related-dharma",
+    "from": "bhagavad-gita",
+    "relationship": "related-to",
+    "to": "dharma",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "isha-subtype-upanishad",
+    "from": "isha-upanishad",
+    "relationship": "subtype-of",
+    "to": "upanishads",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "japa-practice",
+    "from": "japa",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "jnana-vedanta",
+    "from": "jnana",
+    "relationship": "related-to",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "karma-related-moksha",
+    "from": "karma",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "karma-related-samsara",
+    "from": "karma",
+    "relationship": "related-to",
+    "to": "samsara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "moksha-related-samsara",
+    "from": "moksha",
+    "relationship": "related-to",
+    "to": "samsara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "puja-practice-domain",
+    "from": "puja",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "rigveda-belongs-shruti",
+    "from": "rigveda",
+    "relationship": "belongs-to-domain",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "sankhya-darshana",
+    "from": "sankhya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "sanskrit-vyakarana",
+    "from": "vyakarana",
+    "relationship": "belongs-to-domain",
+    "to": "sanskrit",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-chandas",
+    "from": "chandas",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-jyotisha",
+    "from": "jyotisha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-kalpa",
+    "from": "kalpa",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-nirukta",
+    "from": "nirukta",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-shiksha",
+    "from": "shiksha",
+    "relationship": "belongs-to-domain",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanga-vyakarana",
+    "from": "vyakarana",
+    "relationship": "belongs-to-domain",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vedanta-darshana",
+    "from": "vedanta",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vrata-practice-domain",
+    "from": "vrata",
+    "relationship": "belongs-to-domain",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "yajna-practice",
+    "from": "yajna",
+    "relationship": "related-to",
+    "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "yajurveda-belongs-shruti",
+    "from": "yajurveda",
+    "relationship": "belongs-to-domain",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "yoga-darshana-parent",
+    "from": "yoga-darshana",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  }
+]

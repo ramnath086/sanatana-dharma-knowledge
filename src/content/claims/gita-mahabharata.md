@@ -1,0 +1,13 @@
+---
+id: claim-gita-mahabharata
+entityId: bhagavad-gita
+claim: The Bhagavad Gītā is represented as a text situated within the Mahābhārata.
+claimType: textual
+sources: [gretil]
+evidence: [evidence-gita-mahabharata]
+confidence: high
+status: approved
+perspective: scholarly-interpretation
+---
+
+A bounded structural claim for the portal's relationship graph.

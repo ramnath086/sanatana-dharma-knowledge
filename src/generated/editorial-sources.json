@@ -1,0 +1,253 @@
+[
+  {
+    "id": "gretil",
+    "name": "Göttingen Register of Electronic Texts in Indian Languages",
+    "organization": "University of Göttingen",
+    "url": "https://gretil.sub.uni-goettingen.de",
+    "sourceType": "digital-library",
+    "authorityLevel": "academic",
+    "language": [
+      "en"
+    ],
+    "license": "See repository terms",
+    "copyrightStatus": "link-only",
+    "description": "An academic register of electronic texts in Indian languages.",
+    "topics": [
+      "sanskrit-texts",
+      "digital-library",
+      "catalogue"
+    ],
+    "categories": [
+      "SANSKRIT TEXTS",
+      "DIGITAL LIBRARIES",
+      "ACADEMIC RESEARCH"
+    ],
+    "rightsNotes": "The repository may contain material with different rights statuses. Verify each item before reuse.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. The portal links to this resource and does not reproduce its contents.",
+    "contentHash": "1aec5a4629d5fb4ce4322751e749751607539f7707b311770eb7fa877d04353d",
+    "sourceFile": "src\\content\\sources\\gretil.md"
+  },
+  {
+    "id": "ifp-digital-collections",
+    "name": "Digital Collections",
+    "organization": "Institut Français de Pondichéry",
+    "url": "https://www.ifpindia.org/digital-collections/",
+    "sourceType": "manuscript-archive",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "sa",
+      "ta"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "Institutional digital collections including materials relevant to South Asian manuscripts and knowledge traditions.",
+    "topics": [
+      "manuscripts",
+      "archives",
+      "indology"
+    ],
+    "categories": [
+      "MANUSCRIPTS",
+      "ACADEMIC RESEARCH",
+      "DIGITAL LIBRARIES"
+    ],
+    "rightsNotes": "Confirm item-level rights before reuse or redistribution.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. The portal links to collection records without republishing collection contents.",
+    "contentHash": "c2465b94c40136a8fd4dfff5625a592b6a33ae6ead8f09054845c5e2c2c7ea9a",
+    "sourceFile": "src\\content\\sources\\ifp-digital-collections.md"
+  },
+  {
+    "id": "muktabodha",
+    "name": "Muktabodha Digital Library",
+    "organization": "Muktabodha Indological Research Institute",
+    "url": "https://muktabodha.org",
+    "sourceType": "digital-library",
+    "authorityLevel": "traditional",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A digital library resource associated with Śaiva and Tantric manuscript traditions.",
+    "topics": [
+      "manuscripts",
+      "agama",
+      "tantra"
+    ],
+    "categories": [
+      "MANUSCRIPTS",
+      "AGAMA",
+      "TANTRA",
+      "DIGITAL LIBRARIES"
+    ],
+    "rightsNotes": "Rights vary by collection and require confirmation.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. The portal does not mirror manuscript images or texts.",
+    "contentHash": "8054887914224ee4286d1b27fef426228349116e30b90a47284c1387b26480a0",
+    "sourceFile": "src\\content\\sources\\muktabodha.md"
+  },
+  {
+    "id": "sanskrit-library",
+    "name": "The Sanskrit Library",
+    "organization": "The Sanskrit Library",
+    "url": "https://sanskritlibrary.org",
+    "sourceType": "educational",
+    "authorityLevel": "community",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A resource focused on Sanskrit language, texts and learning materials.",
+    "topics": [
+      "sanskrit-language",
+      "education"
+    ],
+    "categories": [
+      "SANSKRIT LANGUAGE",
+      "EDUCATIONAL"
+    ],
+    "rightsNotes": "Public visibility does not imply permission to reuse materials.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. Verify individual resource rights before reuse.",
+    "contentHash": "3211801971223c44ba0a533168fc89867788f3821f01ba345c5ad2d61a29cf7b",
+    "sourceFile": "src\\content\\sources\\sanskrit-library.md"
+  },
+  {
+    "id": "sarit",
+    "name": "SARIT: Search and Retrieval of Indic Texts",
+    "organization": "GRETIL / Indological digital-text project",
+    "url": "https://sarit.indology.info",
+    "sourceType": "research-project",
+    "authorityLevel": "academic",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A research-oriented digital resource for searching Indic texts.",
+    "topics": [
+      "sanskrit-texts",
+      "research"
+    ],
+    "categories": [
+      "SANSKRIT TEXTS",
+      "ACADEMIC RESEARCH"
+    ],
+    "rightsNotes": "Rights and reuse terms require confirmation before any reproduction.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. No third-party text is copied into this project.",
+    "contentHash": "69d2f177dcb1cc3f496d164695861be90549f3459c379106d9d7f321b9bb1eca",
+    "sourceFile": "src\\content\\sources\\sarit.md"
+  },
+  {
+    "id": "vedic-heritage-portal",
+    "name": "Vedic Heritage Portal",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://vedicheritage.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A government-supported portal focused on Vedic heritage and related resources.",
+    "topics": [
+      "vedic",
+      "vedic-heritage"
+    ],
+    "categories": [
+      "VEDIC",
+      "VEDIC HERITAGE"
+    ],
+    "rightsNotes": "Rights and reuse terms require confirmation from the source owner.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06",
+    "notes": "Source seed only. The portal links to this resource and does not reproduce its contents.",
+    "contentHash": "4ff6efdec67f29993131e5ae13db5ef8d57867242143f14ee82ebf7ab4d76350",
+    "sourceFile": "src\\content\\sources\\vedic-heritage-portal.md"
+  }
+]

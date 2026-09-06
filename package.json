@@ -1,0 +1,34 @@
+{
+  "name": "sanathana-dharma",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "validate-content": "node scripts/compile-content.mjs --validate-only",
+    "compile-content": "node scripts/compile-content.mjs",
+    "test-content": "node scripts/test-content-compiler.mjs",
+    "editorial-check": "node scripts/editorial-check.mjs",
+    "content-quality": "node scripts/content-quality.mjs",
+    "bundle-audit": "node scripts/bundle-audit.mjs",
+    "evidence-audit": "node scripts/evidence-audit.mjs",
+    "build": "npm run validate-content && npm run compile-content && tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  }
+}

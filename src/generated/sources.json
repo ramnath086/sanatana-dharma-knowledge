@@ -1,0 +1,235 @@
+[
+  {
+    "id": "gretil",
+    "name": "Göttingen Register of Electronic Texts in Indian Languages",
+    "organization": "University of Göttingen",
+    "url": "https://gretil.sub.uni-goettingen.de",
+    "sourceType": "digital-library",
+    "authorityLevel": "academic",
+    "language": [
+      "en"
+    ],
+    "license": "See repository terms",
+    "copyrightStatus": "link-only",
+    "description": "An academic register of electronic texts in Indian languages.",
+    "topics": [
+      "sanskrit-texts",
+      "digital-library",
+      "catalogue"
+    ],
+    "categories": [
+      "SANSKRIT TEXTS",
+      "DIGITAL LIBRARIES",
+      "ACADEMIC RESEARCH"
+    ],
+    "rightsNotes": "The repository may contain material with different rights statuses. Verify each item before reuse.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  },
+  {
+    "id": "ifp-digital-collections",
+    "name": "Digital Collections",
+    "organization": "Institut Français de Pondichéry",
+    "url": "https://www.ifpindia.org/digital-collections/",
+    "sourceType": "manuscript-archive",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "sa",
+      "ta"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "Institutional digital collections including materials relevant to South Asian manuscripts and knowledge traditions.",
+    "topics": [
+      "manuscripts",
+      "archives",
+      "indology"
+    ],
+    "categories": [
+      "MANUSCRIPTS",
+      "ACADEMIC RESEARCH",
+      "DIGITAL LIBRARIES"
+    ],
+    "rightsNotes": "Confirm item-level rights before reuse or redistribution.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  },
+  {
+    "id": "muktabodha",
+    "name": "Muktabodha Digital Library",
+    "organization": "Muktabodha Indological Research Institute",
+    "url": "https://muktabodha.org",
+    "sourceType": "digital-library",
+    "authorityLevel": "traditional",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A digital library resource associated with Śaiva and Tantric manuscript traditions.",
+    "topics": [
+      "manuscripts",
+      "agama",
+      "tantra"
+    ],
+    "categories": [
+      "MANUSCRIPTS",
+      "AGAMA",
+      "TANTRA",
+      "DIGITAL LIBRARIES"
+    ],
+    "rightsNotes": "Rights vary by collection and require confirmation.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "catalogue",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  },
+  {
+    "id": "sanskrit-library",
+    "name": "The Sanskrit Library",
+    "organization": "The Sanskrit Library",
+    "url": "https://sanskritlibrary.org",
+    "sourceType": "educational",
+    "authorityLevel": "community",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A resource focused on Sanskrit language, texts and learning materials.",
+    "topics": [
+      "sanskrit-language",
+      "education"
+    ],
+    "categories": [
+      "SANSKRIT LANGUAGE",
+      "EDUCATIONAL"
+    ],
+    "rightsNotes": "Public visibility does not imply permission to reuse materials.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  },
+  {
+    "id": "sarit",
+    "name": "SARIT: Search and Retrieval of Indic Texts",
+    "organization": "GRETIL / Indological digital-text project",
+    "url": "https://sarit.indology.info",
+    "sourceType": "research-project",
+    "authorityLevel": "academic",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A research-oriented digital resource for searching Indic texts.",
+    "topics": [
+      "sanskrit-texts",
+      "research"
+    ],
+    "categories": [
+      "SANSKRIT TEXTS",
+      "ACADEMIC RESEARCH"
+    ],
+    "rightsNotes": "Rights and reuse terms require confirmation before any reproduction.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  },
+  {
+    "id": "vedic-heritage-portal",
+    "name": "Vedic Heritage Portal",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://vedicheritage.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi",
+      "sa"
+    ],
+    "license": "Not stated on registry record",
+    "copyrightStatus": "unknown",
+    "description": "A government-supported portal focused on Vedic heritage and related resources.",
+    "topics": [
+      "vedic",
+      "vedic-heritage"
+    ],
+    "categories": [
+      "VEDIC",
+      "VEDIC HERITAGE"
+    ],
+    "rightsNotes": "Rights and reuse terms require confirmation from the source owner.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "lastChecked": "2026-09-06",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-06",
+    "accessDate": "2026-09-06",
+    "lastVerified": "2026-09-06"
+  }
+]

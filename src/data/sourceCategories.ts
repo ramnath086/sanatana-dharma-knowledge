@@ -1,0 +1,7 @@
+export const sourceCategories = [
+  'VEDIC', 'VEDIC HERITAGE', 'SANSKRIT TEXTS', 'MANUSCRIPTS', 'ITIHASA', 'PURANA',
+  'DHARMASHASTRA', 'DARSHANA', 'AGAMA', 'TANTRA', 'YOGA', 'SANSKRIT LANGUAGE',
+  'TRADITIONAL INSTITUTIONS', 'TEMPLES', 'ARCHAEOLOGY', 'ART & CULTURE',
+  'ACADEMIC RESEARCH', 'DIGITAL LIBRARIES', 'AUDIO', 'VIDEO', 'BOOKS',
+] as const
+export type SourceCategory = typeof sourceCategories[number]

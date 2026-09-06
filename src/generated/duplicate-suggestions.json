@@ -1,0 +1,11 @@
+[
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "dharma",
+      "glossary-dharma"
+    ],
+    "reason": "Canonical titles normalize to dharma.",
+    "recommendation": "Editorial review; do not merge automatically."
+  }
+]

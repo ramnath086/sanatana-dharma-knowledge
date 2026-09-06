@@ -1,0 +1,812 @@
+[
+  {
+    "entityId": "ashrama",
+    "title": "Āśrama",
+    "type": "concept",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "bhakti",
+    "title": "Bhakti",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "brahman",
+    "title": "Brahman",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "dharma",
+    "title": "Dharma",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "jnana",
+    "title": "Jñāna",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "karma",
+    "title": "Karma",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 3,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "moksha",
+    "title": "Moksha",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "purushartha",
+    "title": "Puruṣārtha",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "samsara",
+    "title": "Saṃsāra",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "vairagya",
+    "title": "Vairāgya",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "varna",
+    "title": "Varṇa",
+    "type": "concept",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "devi",
+    "title": "Devī",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "ganesha",
+    "title": "Gaṇeśa",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "krishna",
+    "title": "Kṛṣṇa",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "shiva",
+    "title": "Śiva",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "surya",
+    "title": "Sūrya",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "vishnu",
+    "title": "Viṣṇu",
+    "type": "deity",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "dipavali",
+    "title": "Dīpāvalī",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "ganesha-caturthi",
+    "title": "Gaṇeśa Caturthī",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "holi",
+    "title": "Holī",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "janmashtami",
+    "title": "Janmāṣṭamī",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "mahashivaratri",
+    "title": "Mahāśivarātri",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "navaratri",
+    "title": "Navarātri",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "onam",
+    "title": "Onam",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "ramanavami",
+    "title": "Rāmanavamī",
+    "type": "festival",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "madhva",
+    "title": "Madhva",
+    "type": "acharya",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "ramanuja",
+    "title": "Rāmānuja",
+    "type": "acharya",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "shankara",
+    "title": "Śaṅkara",
+    "type": "acharya",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "valmiki",
+    "title": "Vālmīki",
+    "type": "teacher",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "vyasa",
+    "title": "Vyāsa",
+    "type": "teacher",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "advaita-vedanta",
+    "title": "Advaita Vedānta",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "dvaita-vedanta",
+    "title": "Dvaita Vedānta",
+    "type": "philosophical-school",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "nyaya",
+    "title": "Nyāya",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "purva-mimamsa",
+    "title": "Pūrva Mīmāṃsā",
+    "type": "philosophical-school",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "sankhya",
+    "title": "Sāṃkhya",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "vaisheshika",
+    "title": "Vaiśeṣika",
+    "type": "philosophical-school",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "vedanta",
+    "title": "Vedānta",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 3,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "vishishtadvaita-vedanta",
+    "title": "Viśiṣṭādvaita Vedānta",
+    "type": "philosophical-school",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "yoga-darshana",
+    "title": "Yoga Darśana",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "dhyana",
+    "title": "Dhyāna",
+    "type": "practice",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "japa",
+    "title": "Japa",
+    "type": "practice",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "puja",
+    "title": "Pūjā",
+    "type": "practice",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "samskara",
+    "title": "Saṃskāra",
+    "type": "ritual",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "sandhyavandana",
+    "title": "Sandhyāvandana",
+    "type": "practice",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "tirtha",
+    "title": "Tīrtha and pilgrimage",
+    "type": "practice",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "vrata",
+    "title": "Vrata",
+    "type": "practice",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "yajna",
+    "title": "Yajña",
+    "type": "ritual",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "atharvaveda",
+    "title": "Atharvaveda",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "bhagavad-gita",
+    "title": "Bhagavad Gita",
+    "type": "text",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "isha-upanishad",
+    "title": "Īśā Upaniṣad",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "mahabharata",
+    "title": "Mahabharata",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 2,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "ramayana",
+    "title": "Rāmāyaṇa",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "rigveda",
+    "title": "Rigveda",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 1,
+    "evidenceCount": 1,
+    "needsWork": []
+  },
+  {
+    "entityId": "samaveda",
+    "title": "Sāmaveda",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "yajurveda",
+    "title": "Yajurveda",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "shaiva",
+    "title": "Śaiva traditions",
+    "type": "tradition",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "shakta",
+    "title": "Śākta traditions",
+    "type": "tradition",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  },
+  {
+    "entityId": "vaishnava",
+    "title": "Vaiṣṇava traditions",
+    "type": "tradition",
+    "status": "draft",
+    "sourceCount": 1,
+    "relationshipCount": 0,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence",
+      "relationship"
+    ]
+  }
+]

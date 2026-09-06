@@ -1,0 +1,587 @@
+[
+  {
+    "entityId": "gretil-catalogue",
+    "title": "GRETIL electronic text catalogue",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ashrama",
+    "title": "Āśrama",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhakti",
+    "title": "Bhakti",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahman",
+    "title": "Brahman",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "chandas",
+    "title": "Chandas",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dharma",
+    "title": "Dharma",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "jnana",
+    "title": "Jñāna",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "jyotisha",
+    "title": "Jyotiṣa",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kalpa",
+    "title": "Kalpa",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "karma",
+    "title": "Karma",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "moksha",
+    "title": "Moksha",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nirukta",
+    "title": "Nirukta",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purushartha",
+    "title": "Puruṣārtha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samsara",
+    "title": "Saṃsāra",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shiksha",
+    "title": "Śikṣā",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vairagya",
+    "title": "Vairāgya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "varna",
+    "title": "Varṇa",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vyakarana",
+    "title": "Vyākaraṇa",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yoga",
+    "title": "Yoga",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "devi",
+    "title": "Devī",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ganesha",
+    "title": "Gaṇeśa",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "krishna",
+    "title": "Kṛṣṇa",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shiva",
+    "title": "Śiva",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "surya",
+    "title": "Sūrya",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vishnu",
+    "title": "Viṣṇu",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dipavali",
+    "title": "Dīpāvalī",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ganesha-caturthi",
+    "title": "Gaṇeśa Caturthī",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "holi",
+    "title": "Holī",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "janmashtami",
+    "title": "Janmāṣṭamī",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahashivaratri",
+    "title": "Mahāśivarātri",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "navaratri",
+    "title": "Navarātri",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "onam",
+    "title": "Onam",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramanavami",
+    "title": "Rāmanavamī",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "glossary-dharma",
+    "title": "Dharma",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "madhva",
+    "title": "Madhva",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramanuja",
+    "title": "Rāmānuja",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shankara",
+    "title": "Śaṅkara",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "valmiki",
+    "title": "Vālmīki",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vyasa",
+    "title": "Vyāsa",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "advaita-vedanta",
+    "title": "Advaita Vedānta",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dvaita-vedanta",
+    "title": "Dvaita Vedānta",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nyaya",
+    "title": "Nyāya",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purva-mimamsa",
+    "title": "Pūrva Mīmāṃsā",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sankhya",
+    "title": "Sāṃkhya",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaisheshika",
+    "title": "Vaiśeṣika",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedanta",
+    "title": "Vedānta",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vishishtadvaita-vedanta",
+    "title": "Viśiṣṭādvaita Vedānta",
+    "status": "draft",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yoga-darshana",
+    "title": "Yoga Darśana",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dhyana",
+    "title": "Dhyāna",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "japa",
+    "title": "Japa",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "puja",
+    "title": "Pūjā",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samskara",
+    "title": "Saṃskāra",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sandhyavandana",
+    "title": "Sandhyāvandana",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tirtha",
+    "title": "Tīrtha and pilgrimage",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vrata",
+    "title": "Vrata",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yajna",
+    "title": "Yajña",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "atharvaveda",
+    "title": "Atharvaveda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita",
+    "title": "Bhagavad Gita",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "isha-upanishad",
+    "title": "Īśā Upaniṣad",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata",
+    "title": "Mahabharata",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana",
+    "title": "Rāmāyaṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda",
+    "title": "Rigveda",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samaveda",
+    "title": "Sāmaveda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yajurveda",
+    "title": "Yajurveda",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "darshana",
+    "title": "Darśana",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "deity",
+    "title": "Deity traditions",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "festival",
+    "title": "Festival traditions",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "practice",
+    "title": "Practice",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sanskrit",
+    "title": "Sanskrit",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shaiva",
+    "title": "Śaiva traditions",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shakta",
+    "title": "Śākta traditions",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shruti",
+    "title": "Śruti",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishads",
+    "title": "Upaniṣads",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaishnava",
+    "title": "Vaiṣṇava traditions",
+    "status": "draft",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedanga",
+    "title": "Vedāṅga",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  }
+]

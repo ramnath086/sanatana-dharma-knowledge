@@ -1,0 +1,266 @@
+[
+  {
+    "id": "claim-dharma-context",
+    "entityId": "dharma",
+    "claim": "Dharma has context-dependent uses across textual, philosophical and social discussions.",
+    "claimType": "definition",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-dharma-context"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-dharma-context"
+    ],
+    "editorialNotes": "The portal preserves contextual variation rather than reducing the term to a single dictionary equivalent.",
+    "contentHash": "1b94e0f22708ab3686c579ffeaed2cc7711775b5d6b445374697dd0353eb16ab",
+    "sourceFile": "src\\content\\claims\\dharma-context.md"
+  },
+  {
+    "id": "claim-dhyana-variation",
+    "entityId": "dhyana",
+    "claim": "Dhyāna is represented as a practice term with varying methods and aims across traditions.",
+    "claimType": "ritual",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-dhyana-variation"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "traditional-account",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-dhyana-variation"
+    ],
+    "editorialNotes": "This does not prescribe a universal method.",
+    "contentHash": "87fafcf4dda74aecaa667df3b79af69093bf7c4c409b560c382c641c8d8b437f",
+    "sourceFile": "src\\content\\claims\\dhyana-variation.md"
+  },
+  {
+    "id": "claim-dipavali-variation",
+    "entityId": "dipavali",
+    "claim": "Dīpāvalī observances and associated narratives vary across regions and communities.",
+    "claimType": "traditional",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-dipavali-variation"
+    ],
+    "confidence": "low",
+    "status": "draft",
+    "perspective": "regional-tradition",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-dipavali-variation"
+    ],
+    "editorialNotes": "This draft claim requires further region-specific sourcing before any public use.",
+    "contentHash": "f09dc38d5ad099664b63a503979e77b9072268f2f7e6c225fad7508438548a7a",
+    "sourceFile": "src\\content\\claims\\dipavali-variation.md"
+  },
+  {
+    "id": "claim-gita-mahabharata",
+    "entityId": "bhagavad-gita",
+    "claim": "The Bhagavad Gītā is represented as a text situated within the Mahābhārata.",
+    "claimType": "textual",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-gita-mahabharata"
+    ],
+    "confidence": "high",
+    "status": "approved",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-gita-mahabharata"
+    ],
+    "editorialNotes": "A bounded structural claim for the portal's relationship graph.",
+    "contentHash": "077dafb960f99a75534273241bc1eac8a9a447e55a05ec05f5d64e83798685e4",
+    "sourceFile": "src\\content\\claims\\gita-mahabharata.md"
+  },
+  {
+    "id": "claim-karma-context",
+    "entityId": "karma",
+    "claim": "Karma is interpreted differently across philosophical and religious contexts.",
+    "claimType": "philosophical",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-karma-context"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-karma-context"
+    ],
+    "editorialNotes": "This claim intentionally avoids treating every use of karma as equivalent.",
+    "contentHash": "51aec87ceea73b82e5c3f029adc2dd784cebedfd8e92bbb9a75c826c400ea2cf",
+    "sourceFile": "src\\content\\claims\\karma-context.md"
+  },
+  {
+    "id": "claim-mahabharata-attribution",
+    "entityId": "mahabharata",
+    "claim": "Mahābhārata attribution to Vyāsa is represented here as a traditional attribution rather than an uncontested modern historical claim.",
+    "claimType": "traditional",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-mahabharata-attribution"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "traditional-account",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-mahabharata-attribution"
+    ],
+    "editorialNotes": "The distinction between traditional attribution and historical scholarship is intentional.",
+    "contentHash": "2cca707a94541c75898c7a9633f42a2ed79c424dcb3b961064b04bd251aba612",
+    "sourceFile": "src\\content\\claims\\mahabharata-attribution.md"
+  },
+  {
+    "id": "claim-nyaya-context",
+    "entityId": "nyaya",
+    "claim": "Nyāya is represented as a philosophical tradition associated with reasoning, inference and debate.",
+    "claimType": "philosophical",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-nyaya-context"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-nyaya-context"
+    ],
+    "editorialNotes": "A concise, non-exhaustive contextual claim.",
+    "contentHash": "eb38d8b8289a8d3f83fbb7cdacb4355621b3e1f7db7e9fd3721292d917d7cf87",
+    "sourceFile": "src\\content\\claims\\nyaya-context.md"
+  },
+  {
+    "id": "claim-puja-variation",
+    "entityId": "puja",
+    "claim": "Pūjā takes different forms across traditions, regions and communities.",
+    "claimType": "ritual",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-puja-variation"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "regional-tradition",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-puja-variation"
+    ],
+    "editorialNotes": "The portal presents Pūjā as a broad practice category rather than a universal instruction set.",
+    "contentHash": "0be482d5d5ed2127d3eb3af06ad785543af05a87bc3bf9e969ec7eb22db50275",
+    "sourceFile": "src\\content\\claims\\puja-variation.md"
+  },
+  {
+    "id": "claim-rigveda-domain",
+    "entityId": "rigveda",
+    "claim": "The portal classifies Rigveda within its SHRUTI and VEDIC discovery domains.",
+    "claimType": "bibliographical",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-rigveda-domain"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-rigveda-domain"
+    ],
+    "editorialNotes": "This is a bounded catalogue classification, not a claim that all traditions use identical categories.",
+    "contentHash": "2f2bdbc626b2fd784ff493917b2d0a1da69aac3655252570b74a43ac19f32b2e",
+    "sourceFile": "src\\content\\claims\\rigveda-domain.md"
+  },
+  {
+    "id": "claim-vedanga-classification",
+    "entityId": "vedanga",
+    "claim": "Vedāṅga is used in this portal as a classification for auxiliary disciplines associated with Vedic study.",
+    "claimType": "textual",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-vedanga-classification"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-vedanga-classification"
+    ],
+    "editorialNotes": "A bounded classification claim for navigation and discovery.",
+    "contentHash": "a8a81c0a683e3a80626a71d969358d829b98697a1bb46ff3153d4286a89d7d3c",
+    "sourceFile": "src\\content\\claims\\vedanga-classification.md"
+  },
+  {
+    "id": "claim-vedanta-diversity",
+    "entityId": "vedanta",
+    "claim": "Vedānta is represented in the portal as a family of distinct philosophical traditions.",
+    "claimType": "philosophical",
+    "sources": [
+      "gretil"
+    ],
+    "evidence": [
+      "evidence-vedanta-diversity"
+    ],
+    "confidence": "medium",
+    "status": "editorial-review",
+    "perspective": "scholarly-interpretation",
+    "sourceIds": [
+      "gretil"
+    ],
+    "evidenceIds": [
+      "evidence-vedanta-diversity"
+    ],
+    "editorialNotes": "This claim supports separate records for Vedānta schools without ranking them.",
+    "contentHash": "5d5190fc6705b735ac9fd23229313826ef6dd84333f08734bf8b30bbdbc51dfb",
+    "sourceFile": "src\\content\\claims\\vedanta-diversity.md"
+  }
+]

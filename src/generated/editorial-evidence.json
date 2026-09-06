@@ -1,0 +1,178 @@
+[
+  {
+    "id": "evidence-dharma-context",
+    "entityId": "dharma",
+    "sourceId": "gretil",
+    "evidenceType": "scholarly-interpretation",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue-linked textual study",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Repository-linked evidence for a context-sensitive concept record; no single universal definition is asserted.",
+    "contentHash": "7161745c5b58977dd5f7ef3f409253fc20842ef8fb35d593173594e5c47d9fa2",
+    "sourceFile": "src\\content\\evidence\\dharma-context.md"
+  },
+  {
+    "id": "evidence-dhyana-variation",
+    "entityId": "dhyana",
+    "sourceId": "gretil",
+    "evidenceType": "traditional-account",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "practice and philosophical catalogue context",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence for a practice category whose methods and aims vary by tradition.",
+    "contentHash": "c0f22c10c8e47098c9c9a606fdb10607179f8fc7b4a60d4214c2db994707b390",
+    "sourceFile": "src\\content\\evidence\\dhyana-variation.md"
+  },
+  {
+    "id": "evidence-dipavali-variation",
+    "entityId": "dipavali",
+    "sourceId": "gretil",
+    "evidenceType": "regional-tradition",
+    "confidence": "low",
+    "reviewStatus": "needs-review",
+    "location": "festival catalogue context",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence placeholder for regional variation review. It does not establish a single observance pattern.",
+    "contentHash": "5feb1a75b060a146004916cd92153a42ed80df07dd0d6c533c4ca206cd0afb27",
+    "sourceFile": "src\\content\\evidence\\dipavali-variation.md"
+  },
+  {
+    "id": "evidence-gita-mahabharata",
+    "entityId": "bhagavad-gita",
+    "sourceId": "gretil",
+    "evidenceType": "primary-text",
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "location": "catalogue and textual record",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Bibliographic and repository-level evidence for the relationship record. No copyrighted passage is reproduced.",
+    "contentHash": "29b71292c0ca9b84ee783111dda816847bd4c7a90a74fb44b8741e5804701362",
+    "sourceFile": "src\\content\\evidence\\gita-mahabharata.md"
+  },
+  {
+    "id": "evidence-karma-context",
+    "entityId": "karma",
+    "sourceId": "gretil",
+    "evidenceType": "scholarly-interpretation",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue-linked philosophical study",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Repository-linked evidence for a concept record that requires school-specific interpretation.",
+    "contentHash": "0890f1de2db1255e9eb5681a172b49c6b88868217431f17ce15595148c2a264f",
+    "sourceFile": "src\\content\\evidence\\karma-context.md"
+  },
+  {
+    "id": "evidence-mahabharata-attribution",
+    "entityId": "mahabharata",
+    "sourceId": "gretil",
+    "evidenceType": "traditional-account",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue and textual tradition record",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence placeholder for a traditional attribution relationship. No modern historical date or certainty is inferred.",
+    "contentHash": "99b7cda6cf1f9fac6795f03640187c0873ee5d92ad80c18cf087214e75e040fc",
+    "sourceFile": "src\\content\\evidence\\mahabharata-attribution.md"
+  },
+  {
+    "id": "evidence-nyaya-context",
+    "entityId": "nyaya",
+    "sourceId": "gretil",
+    "evidenceType": "scholarly-interpretation",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue-linked philosophical study",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence for a concise school-level catalogue description, without claiming a complete presentation of the tradition.",
+    "contentHash": "0248946336905d37be89050bf122bf4101fb76ec5d6f42d0dc7b50deabedc96e",
+    "sourceFile": "src\\content\\evidence\\nyaya-context.md"
+  },
+  {
+    "id": "evidence-puja-variation",
+    "entityId": "puja",
+    "sourceId": "gretil",
+    "evidenceType": "traditional-account",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "tradition and practice catalogue context",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence placeholder for a tradition-aware practice record; no universal procedure is inferred.",
+    "contentHash": "ceaf5599c9c7192dea8d4e36b150e0c6eac888d959c8d84f1732adffe6a52db0",
+    "sourceFile": "src\\content\\evidence\\puja-variation.md"
+  },
+  {
+    "id": "evidence-rigveda-domain",
+    "entityId": "rigveda",
+    "sourceId": "gretil",
+    "evidenceType": "secondary-source",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "repository catalogue and text registration",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Repository-level evidence for the catalogue identity of the Rigveda record. This does not reproduce text or establish every historical claim about transmission.",
+    "contentHash": "8244587e4f71f175b2022891b2740ebf07550c1a98cc90166494d35b983d17a6",
+    "sourceFile": "src\\content\\evidence\\rigveda-domain.md"
+  },
+  {
+    "id": "evidence-vedanga-classification",
+    "entityId": "vedanga",
+    "sourceId": "gretil",
+    "evidenceType": "scholarly-interpretation",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue-linked Vedic study context",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence for a controlled portal classification. It does not assert that the disciplines have a single uniform historical development.",
+    "contentHash": "702bee734358cff9975398e0938327623d458dab54aa9873e9ccb8356fc5b285",
+    "sourceFile": "src\\content\\evidence\\vedanga-classification.md"
+  },
+  {
+    "id": "evidence-vedanta-diversity",
+    "entityId": "vedanta",
+    "sourceId": "gretil",
+    "evidenceType": "scholarly-interpretation",
+    "confidence": "medium",
+    "reviewStatus": "needs-review",
+    "location": "catalogue-linked philosophical study",
+    "language": [
+      "en",
+      "sa"
+    ],
+    "notes": "Evidence for representing Vedānta as a family of traditions rather than a single homogeneous position.",
+    "contentHash": "f4697111f2f3854a8e2e7cc3197239b4bdb198e7c47b83ca79724a29e28c45ec",
+    "sourceFile": "src\\content\\evidence\\vedanta-diversity.md"
+  }
+]
