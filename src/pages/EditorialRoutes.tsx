@@ -3,10 +3,12 @@ import { ContentCard } from '../components/Cards'
 import { Breadcrumbs } from '../components/UI'
 import { claims, duplicateSuggestions, editorialEntities, evidence, evidenceCoverage, editorialSources, orphanReports, relationships, readiness } from '../generated'
 import { PageFrame } from '../layouts/SiteLayout'
+import { authProvider } from '../utils/editorialAuth'
 import type { WorkflowState } from '../types/editorial'
 import { canTransition } from '../utils/editorialWorkflow'
 
 export function EditorialRoutes({ path }: { path: string }) {
+  if (path === '/editorial/login') return <PageFrame title="Editorial sign in" description="Sign in to the editorial workspace."><EditorialLogin /></PageFrame>
   if (path === '/editorial/sources') return <PageFrame title="Source dashboard" description="Internal editorial view of source coverage, rights and monitoring state."><EditorialSources /></PageFrame>
   if (path === '/editorial/review') return <PageFrame title="Review queue" description="Internal editorial worklist. These records are not public content."><ReviewQueue /></PageFrame>
   if (path === '/editorial/evidence') return <PageFrame title="Evidence coverage" description="Read-only editorial coverage report for claims, sources and evidence."><EvidenceCoveragePage /></PageFrame>
@@ -14,6 +16,39 @@ export function EditorialRoutes({ path }: { path: string }) {
   const entity = editorialEntities.find((item) => item.id === entityId)
   if (!entity) return <PageFrame title="Editorial record not found" description="This record is not in the editorial registry."><Breadcrumbs current="Not found" /></PageFrame>
   return <PageFrame title={entity.title} description="Internal editorial workspace."><EditorialEntityPage entity={entity} preview={path.startsWith('/editorial/preview/')} /></PageFrame>
+}
+
+function EditorialLogin() {
+  const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
+
+  const handleSubmit = async (event: React.FormEvent) => {
+    event.preventDefault()
+    setLoading(true)
+    setError(null)
+    const user = await authProvider.signIn(email, password)
+    setLoading(false)
+    if (user) {
+      window.location.href = '/editorial/review'
+    } else {
+      setError('Invalid email or password.')
+    }
+  }
+
+  return (
+    <div className="editorial-login">
+      <form onSubmit={handleSubmit} className="editorial-login-form">
+        <label htmlFor="editorial-email">Email</label>
+        <input id="editorial-email" type="email" value={email} onChange={(event) => setEmail(event.target.value)} required />
+        <label htmlFor="editorial-password">Password</label>
+        <input id="editorial-password" type="password" value={password} onChange={(event) => setPassword(event.target.value)} required />
+        <button type="submit" disabled={loading}>{loading ? 'Signing in...' : 'Sign in'}</button>
+        {error && <p role="alert">{error}</p>}
+      </form>
+    </div>
+  )
 }
 
 function EditorialSources() {

@@ -180,3 +180,10 @@ h1 em, h2 em { color: var(--saffron); font-style: italic; }
   .library-controls .search-bar { width: 100%; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; } }
+.editorial-login { max-width: 360px; margin: 0 auto; padding: 32px 0; }
+.editorial-login-form { display: flex; flex-direction: column; gap: 16px; }
+.editorial-login-form label { color: var(--muted); font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+.editorial-login-form input { border: 1px solid var(--line); padding: 10px 12px; color: var(--ink); font: 14px var(--body); background: transparent; }
+.editorial-login-form button { align-self: flex-start; border: 1px solid var(--ink); padding: 10px 16px; background: var(--ink); color: var(--paper); font-size: 12px; letter-spacing: .04em; cursor: pointer; }
+.editorial-login-form button:disabled { opacity: .6; cursor: not-allowed; }
+.editorial-login-form p[role="alert"] { color: #b25; font-size: 13px; }
