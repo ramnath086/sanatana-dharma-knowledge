@@ -2,6 +2,16 @@ import type { WorkflowEvent, WorkflowState, ClaimRecord, EvidenceRecord } from '
 import { workflowTransitions } from '../types/editorial'
 import { supabase } from './supabaseClient'
 
+function camelizeKeys(obj: Record<string, unknown>): Record<string, unknown> {
+  const result: Record<string, unknown> = {}
+  for (const key in obj) {
+    if (Object.prototype.hasOwnProperty.call(obj, key)) {
+      result[key.replace(/_([a-z])/g, (_, letter) => letter.toUpperCase())] = obj[key]
+    }
+  }
+  return result
+}
+
 export function canTransition(from: WorkflowState, to: WorkflowState) { return workflowTransitions[from].includes(to) }
 export function transition(event: Omit<WorkflowEvent, 'id' | 'timestamp'>): WorkflowEvent {
   if (!canTransition(event.previousState, event.newState)) throw new Error(`Invalid editorial transition: ${event.previousState} -> ${event.newState}`)
@@ -41,7 +51,7 @@ export async function loadClaims(entityId: string): Promise<ClaimRecord[]> {
     .eq('entity_id', entityId)
     .order('claim_type', { ascending: true })
   if (error) throw new Error(`Failed to load claims: ${error.message}`)
-  return (data ?? []) as ClaimRecord[]
+  return (data ?? []).map(camelizeKeys) as unknown as ClaimRecord[]
 }
 
 export async function loadEvidence(entityId: string): Promise<EvidenceRecord[]> {
@@ -51,7 +61,7 @@ export async function loadEvidence(entityId: string): Promise<EvidenceRecord[]> 
     .eq('entity_id', entityId)
     .order('evidence_type', { ascending: true })
   if (error) throw new Error(`Failed to load evidence: ${error.message}`)
-  return (data ?? []) as EvidenceRecord[]
+  return (data ?? []).map(camelizeKeys) as unknown as EvidenceRecord[]
 }
 
 export async function saveEvidence(evidence: Partial<EvidenceRecord> & { entityId: string; claimId: string; sourceId: string; evidenceType: EvidenceRecord['evidenceType']; confidence: EvidenceRecord['confidence']; reviewStatus: EvidenceRecord['reviewStatus'] }): Promise<EvidenceRecord> {
@@ -76,7 +86,7 @@ export async function saveEvidence(evidence: Partial<EvidenceRecord> & { entityI
       .select('*')
       .single()
     if (error) throw new Error(`Failed to update evidence: ${error.message}`)
-    return data as EvidenceRecord
+    return camelizeKeys(data) as unknown as EvidenceRecord
   }
 
   const id = `evidence-${evidence.entityId}-${Date.now()}`
@@ -86,7 +96,7 @@ export async function saveEvidence(evidence: Partial<EvidenceRecord> & { entityI
     .select('*')
     .single()
   if (error) throw new Error(`Failed to create evidence: ${error.message}`)
-  return data as EvidenceRecord
+  return camelizeKeys(data) as unknown as EvidenceRecord
 }
 
 export async function saveClaim(claim: Partial<ClaimRecord> & { entityId: string; claim: string; claimType: ClaimRecord['claimType']; status: ClaimRecord['status']; confidence: ClaimRecord['confidence'] }): Promise<ClaimRecord> {
@@ -111,7 +121,7 @@ export async function saveClaim(claim: Partial<ClaimRecord> & { entityId: string
       .select('*')
       .single()
     if (error) throw new Error(`Failed to update claim: ${error.message}`)
-    return data as ClaimRecord
+    return camelizeKeys(data) as unknown as ClaimRecord
   }
 
   const id = `claim-${claim.entityId}-${Date.now()}`
@@ -121,5 +131,5 @@ export async function saveClaim(claim: Partial<ClaimRecord> & { entityId: string
     .select('*')
     .single()
   if (error) throw new Error(`Failed to create claim: ${error.message}`)
-  return data as ClaimRecord
+  return camelizeKeys(data) as unknown as ClaimRecord
 }
