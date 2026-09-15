@@ -187,3 +187,43 @@ h1 em, h2 em { color: var(--saffron); font-style: italic; }
 .editorial-login-form button { align-self: flex-start; border: 1px solid var(--ink); padding: 10px 16px; background: var(--ink); color: var(--paper); font-size: 12px; letter-spacing: .04em; cursor: pointer; }
 .editorial-login-form button:disabled { opacity: .6; cursor: not-allowed; }
 .editorial-login-form p[role="alert"] { color: #b25; font-size: 13px; }
+.workflow-history { display: flex; flex-direction: column; gap: 10px; }
+.workflow-history-item { display: grid; grid-template-columns: auto auto auto 1fr auto; gap: 14px; align-items: baseline; padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 12px; color: var(--muted); }
+.workflow-history-time { color: var(--muted); white-space: nowrap; }
+.workflow-history-states { color: var(--ink); font-weight: 500; }
+.workflow-history-action { text-transform: uppercase; letter-spacing: .08em; }
+.workflow-history-reason { color: var(--ink-soft); }
+.workflow-history-actor { color: var(--muted); font-family: var(--mono); }
+.claims-list { display: flex; flex-direction: column; gap: 18px; }
+.claim-item { padding: 16px; border: 1px solid var(--line); }
+.claim-supported { border-left: 3px solid #4a4; }
+.claim-unsupported { border-left: 3px solid #a84; }
+.claim-header { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 10px; }
+.claim-type { color: var(--saffron); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.claim-confidence { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.claim-confidence-high { color: #4a4; }
+.claim-confidence-medium { color: #a84; }
+.claim-confidence-low { color: #a42; }
+.claim-confidence-uncertain { color: #a42; }
+.claim-status { color: var(--muted); font-size: 11px; }
+.claim-text { color: var(--ink); font-size: 14px; line-height: 1.55; margin: 0 0 10px; }
+.claim-notes { color: var(--muted); font-size: 12px; line-height: 1.5; margin: 0 0 10px; }
+.claim-evidence { display: flex; flex-direction: column; gap: 8px; }
+.evidence-item { padding: 10px; border-top: 1px solid var(--line); font-size: 12px; color: var(--muted); }
+.evidence-type { color: var(--saffron); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.evidence-confidence { margin-left: 10px; }
+.evidence-status { margin-left: 10px; }
+.evidence-source { margin-left: 10px; font-family: var(--mono); }
+.evidence-location { display: block; margin-top: 4px; color: var(--ink-soft); }
+.evidence-notes { margin: 6px 0 0; color: var(--muted); line-height: 1.5; }
+.evidence-missing { color: #a84; }
+.claim-form { display: flex; flex-direction: column; gap: 12px; }
+.claim-form label { color: var(--muted); font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+.claim-form textarea, .claim-form select { border: 1px solid var(--line); padding: 10px 12px; color: var(--ink); font: 14px var(--body); background: transparent; }
+.claim-form textarea { min-height: 80px; }
+.claim-form button { align-self: flex-start; }
+.evidence-form { display: flex; flex-direction: column; gap: 12px; margin-top: 10px; }
+.evidence-form label { color: var(--muted); font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+.evidence-form input, .evidence-form select, .evidence-form textarea { border: 1px solid var(--line); padding: 10px 12px; color: var(--ink); font: 14px var(--body); background: transparent; }
+.evidence-form textarea { min-height: 80px; }
+.evidence-form button { align-self: flex-start; }
