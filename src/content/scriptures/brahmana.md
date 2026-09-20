@@ -10,3 +10,4 @@ verification: verified
 classifications: [SHRUTI, VEDIC, RITUAL]
 ---
 The ritual commentaries attached to the Vedic Saṃhitās, explaining sacrificial procedures and their symbolic meanings; represented here as a category rather than individual texts.
+

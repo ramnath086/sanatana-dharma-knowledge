@@ -10,3 +10,6 @@ verification: verified
 classifications: [RITUAL, RITUAL, DHARMASHASTRA, RITUAL]
 ---
 The ancestral offering rites whose procedures, timing, and eligibility vary across textual prescriptions and regional practices.
+
+
+

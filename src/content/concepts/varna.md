@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DHARMASHASTRA, PHILOSOPHY, CULTURE]
 ---
 The fourfold classification—brāhmaṇa, kṣatriya, vaiśya, śūdra—whose textual prescriptions, historical manifestations, and contemporary significance are distinct and should not be conflated.
+

@@ -9,4 +9,6 @@ status: published
 verification: verified
 classifications: [FESTIVAL, PILGRIMAGE, CULTURE, REGIONAL_TRADITION]
 ---
-A massive periodic pilgrimage festival rotating among four sites; its historical development and sectarian participation are complex and varied.
+A massive periodic pilgrimage festival held at four sites—Prayagraj, Haridwar, Ujjain, and Nashik—on different cycles; its historical development, sectarian participation, and site-specific management are complex and varied.
+
+

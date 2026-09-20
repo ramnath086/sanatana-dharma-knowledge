@@ -13,3 +13,4 @@ aliases: [Rgveda, ऋग्वेद]
 ---
 
 A concise source-aware catalogue overview. This record contains no reproduced scripture or translation.
+

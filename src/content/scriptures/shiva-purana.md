@@ -10,3 +10,4 @@ verification: verified
 classifications: [PURANA, TRADITION]
 ---
 A major Śaiva Purāṇa presenting Śiva-centered cosmology, theology, and ritual; represented here as a catalogue entry.
+

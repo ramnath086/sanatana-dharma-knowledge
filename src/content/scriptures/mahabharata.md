@@ -13,3 +13,4 @@ aliases: [Mahābhārata, महाभारत]
 ---
 
 A sample record for a future guide to the Mahābhārata and its textual traditions. No translation or quotation is reproduced here.
+

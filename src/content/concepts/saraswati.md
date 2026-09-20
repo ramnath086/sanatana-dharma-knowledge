@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DEITY, VEDIC, SANSKRIT]
 ---
 A goddess associated with learning, speech, and the arts; also the name of a Vedic river whose identification is debated in scholarship and tradition.
+

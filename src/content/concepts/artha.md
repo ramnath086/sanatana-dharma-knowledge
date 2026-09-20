@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DHARMASHASTRA, CONCEPT]
 ---
 One of the four puruṣārthas, referring to material prosperity, power, and security; its pursuit is contextualized by dharma in textual traditions.
+

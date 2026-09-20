@@ -1,6 +1,6 @@
 ---
-id: sankhya-subtype-darshana
-from: sankhya
+id: samkhya-subtype-darshana
+from: samkhya
 relationship: subtype-of
 to: darshana
 sources: [gretil]

@@ -13,136 +13,251 @@
   <url><loc>/sources</loc></url>
   <url><loc>/about</loc></url>
   <url><loc>/knowledge/concept</loc></url>
+  <url><loc>/knowledge/culture</loc></url>
+  <url><loc>/knowledge/vedanta</loc></url>
+  <url><loc>/knowledge/philosophy</loc></url>
+  <url><loc>/knowledge/manuscript</loc></url>
+  <url><loc>/knowledge/scholarship</loc></url>
+  <url><loc>/knowledge/itihasa</loc></url>
   <url><loc>/knowledge/dharmashastra</loc></url>
   <url><loc>/knowledge/practice</loc></url>
-  <url><loc>/knowledge/philosophy</loc></url>
-  <url><loc>/knowledge/vedanta</loc></url>
   <url><loc>/knowledge/shruti</loc></url>
   <url><loc>/knowledge/tradition</loc></url>
   <url><loc>/knowledge/vedanga</loc></url>
   <url><loc>/knowledge/sanskrit</loc></url>
+  <url><loc>/knowledge/ritual</loc></url>
   <url><loc>/knowledge/deity</loc></url>
   <url><loc>/knowledge/festival</loc></url>
+  <url><loc>/knowledge/history</loc></url>
   <url><loc>/knowledge/mantra</loc></url>
   <url><loc>/knowledge/vedic</loc></url>
-  <url><loc>/knowledge/itihasa</loc></url>
   <url><loc>/knowledge/yoga</loc></url>
-  <url><loc>/knowledge/ritual</loc></url>
-  <url><loc>/knowledge/darshana</loc></url>
-  <url><loc>/knowledge/culture</loc></url>
-  <url><loc>/knowledge/regional_tradition</loc></url>
+  <url><loc>/knowledge/purana</loc></url>
   <url><loc>/knowledge/pilgrimage</loc></url>
+  <url><loc>/knowledge/darshana</loc></url>
+  <url><loc>/knowledge/art</loc></url>
+  <url><loc>/knowledge/regional_tradition</loc></url>
   <url><loc>/knowledge/glossary</loc></url>
   <url><loc>/knowledge/acharya</loc></url>
   <url><loc>/knowledge/rishi</loc></url>
+  <url><loc>/knowledge/temple</loc></url>
   <url><loc>/knowledge/smriti</loc></url>
-  <url><loc>/knowledge/purana</loc></url>
-  <url><loc>/knowledge/tantra</loc></url>
   <url><loc>/knowledge/sampradaya</loc></url>
-  <url><loc>/knowledge/scholarship</loc></url>
+  <url><loc>/knowledge/tantra</loc></url>
+  <url><loc>/concept/alankara-shastra</loc></url>
+  <url><loc>/concept/anubandha-chatushtaya</loc></url>
+  <url><loc>/concept/apparatus-criticus</loc></url>
+  <url><loc>/concept/arjuna</loc></url>
   <url><loc>/concept/artha</loc></url>
   <url><loc>/concept/ashrama</loc></url>
   <url><loc>/concept/atman</loc></url>
   <url><loc>/concept/bhakti</loc></url>
+  <url><loc>/concept/bhedabheda</loc></url>
+  <url><loc>/concept/bhishma</loc></url>
   <url><loc>/concept/brahman</loc></url>
   <url><loc>/concept/chandas</loc></url>
+  <url><loc>/concept/codicology</loc></url>
+  <url><loc>/concept/collation</loc></url>
+  <url><loc>/concept/colophon</loc></url>
+  <url><loc>/concept/critical-edition</loc></url>
+  <url><loc>/concept/dana</loc></url>
   <url><loc>/concept/dharma</loc></url>
+  <url><loc>/concept/dharmasutra</loc></url>
+  <url><loc>/concept/draupadi</loc></url>
   <url><loc>/concept/durga</loc></url>
+  <url><loc>/concept/duryodhana</loc></url>
+  <url><loc>/concept/emendation</loc></url>
+  <url><loc>/concept/epigraphy</loc></url>
+  <url><loc>/concept/folio</loc></url>
+  <url><loc>/concept/gandhari</loc></url>
   <url><loc>/concept/gayatri</loc></url>
+  <url><loc>/concept/gita-dhyana</loc></url>
+  <url><loc>/concept/gita-mahatmya</loc></url>
   <url><loc>/concept/hanuman</loc></url>
   <url><loc>/concept/ishvara</loc></url>
+  <url><loc>/concept/jivanmukti</loc></url>
   <url><loc>/concept/jnana</loc></url>
   <url><loc>/concept/jyotisha</loc></url>
   <url><loc>/concept/kalpa</loc></url>
   <url><loc>/concept/kama</loc></url>
   <url><loc>/concept/karma</loc></url>
+  <url><loc>/concept/karna</loc></url>
   <url><loc>/concept/krishna</loc></url>
+  <url><loc>/concept/kunti</loc></url>
+  <url><loc>/concept/lakshmana</loc></url>
   <url><loc>/concept/lakshmi</loc></url>
+  <url><loc>/concept/mahapurana</loc></url>
+  <url><loc>/concept/mandodari</loc></url>
+  <url><loc>/concept/manuscript-catalogue</loc></url>
+  <url><loc>/concept/maya-vada</loc></url>
   <url><loc>/concept/maya</loc></url>
   <url><loc>/concept/moksha</loc></url>
   <url><loc>/concept/nirukta</loc></url>
+  <url><loc>/concept/numismatics</loc></url>
   <url><loc>/concept/om</loc></url>
+  <url><loc>/concept/padma-tirtha</loc></url>
+  <url><loc>/concept/paleography</loc></url>
+  <url><loc>/concept/parinamavada</loc></url>
   <url><loc>/concept/prakriti</loc></url>
+  <url><loc>/concept/prasthana-traya</loc></url>
+  <url><loc>/concept/prayascitta</loc></url>
+  <url><loc>/concept/purana-panchalaksana</loc></url>
   <url><loc>/concept/purusha</loc></url>
   <url><loc>/concept/purushartha</loc></url>
   <url><loc>/concept/rama</loc></url>
+  <url><loc>/concept/rasa-theory</loc></url>
+  <url><loc>/concept/ravana</loc></url>
+  <url><loc>/concept/recension</loc></url>
+  <url><loc>/concept/rna</loc></url>
   <url><loc>/concept/samsara</loc></url>
   <url><loc>/concept/saraswati</loc></url>
   <url><loc>/concept/shiksha</loc></url>
+  <url><loc>/concept/siglum</loc></url>
+  <url><loc>/concept/sita</loc></url>
+  <url><loc>/concept/smriti</loc></url>
+  <url><loc>/concept/srimad-bhagavatam-commentary</loc></url>
+  <url><loc>/concept/stemmatics</loc></url>
+  <url><loc>/concept/stridharma</loc></url>
+  <url><loc>/concept/textual-criticism</loc></url>
+  <url><loc>/concept/upapurana</loc></url>
   <url><loc>/concept/vairagya</loc></url>
   <url><loc>/concept/varna</loc></url>
+  <url><loc>/concept/videhamukti</loc></url>
+  <url><loc>/concept/vidura</loc></url>
+  <url><loc>/concept/vivarta-vada</loc></url>
   <url><loc>/concept/vyakarana</loc></url>
   <url><loc>/concept/yoga</loc></url>
+  <url><loc>/concept/yudhishthira</loc></url>
   <url><loc>/deity/devi</loc></url>
   <url><loc>/deity/ganesha</loc></url>
   <url><loc>/deity/shiva</loc></url>
   <url><loc>/deity/skanda</loc></url>
   <url><loc>/deity/surya</loc></url>
   <url><loc>/deity/vishnu</loc></url>
+  <url><loc>/festival/adhika-masa</loc></url>
+  <url><loc>/festival/akshaya-tritiya</loc></url>
+  <url><loc>/festival/chaturmasya</loc></url>
+  <url><loc>/festival/deva-uthani-ekadashi</loc></url>
   <url><loc>/festival/dipavali</loc></url>
   <url><loc>/festival/ganesha-caturthi</loc></url>
+  <url><loc>/festival/gita-jayanti</loc></url>
   <url><loc>/festival/guru-purnima</loc></url>
+  <url><loc>/festival/hartalika-teej</loc></url>
   <url><loc>/festival/holi</loc></url>
   <url><loc>/festival/janmashtami</loc></url>
   <url><loc>/festival/kumbha-mela</loc></url>
   <url><loc>/festival/mahashivaratri</loc></url>
+  <url><loc>/festival/makar-sankranti</loc></url>
+  <url><loc>/festival/nag-panchami</loc></url>
   <url><loc>/festival/navaratri</loc></url>
+  <url><loc>/festival/raksha-bandhan</loc></url>
   <url><loc>/festival/ramanavami</loc></url>
+  <url><loc>/festival/rath-yatra</loc></url>
+  <url><loc>/festival/vat-savitri</loc></url>
   <url><loc>/glossary-term/guru</loc></url>
   <url><loc>/glossary-term/mantra</loc></url>
   <url><loc>/glossary-term/prasada</loc></url>
-  <url><loc>/glossary-term/tirtha-glossary</loc></url>
-  <url><loc>/glossary-term/yoga-glossary</loc></url>
+  <url><loc>/acharya/caitanya</loc></url>
+  <url><loc>/acharya/jiva-gosvami</loc></url>
   <url><loc>/acharya/madhva</loc></url>
+  <url><loc>/acharya/nimbarka</loc></url>
   <url><loc>/acharya/ramanuja</loc></url>
   <url><loc>/acharya/shankara</loc></url>
+  <url><loc>/acharya/vallabha</loc></url>
   <url><loc>/teacher/valmiki</loc></url>
   <url><loc>/teacher/vyasa</loc></url>
   <url><loc>/philosophical-school/advaita-vedanta</loc></url>
   <url><loc>/philosophical-school/nyaya</loc></url>
   <url><loc>/philosophical-school/purva-mimamsa</loc></url>
   <url><loc>/philosophical-school/samkhya</loc></url>
-  <url><loc>/philosophical-school/sankhya</loc></url>
   <url><loc>/philosophical-school/vaisheshika</loc></url>
   <url><loc>/philosophical-school/vedanta</loc></url>
   <url><loc>/philosophical-school/yoga-darshana</loc></url>
+  <url><loc>/practice/abhisheka</loc></url>
+  <url><loc>/ritual/annaprashana</loc></url>
   <url><loc>/ritual/antyeshti</loc></url>
+  <url><loc>/practice/arati</loc></url>
+  <url><loc>/practice/archana</loc></url>
+  <url><loc>/practice/bhajan</loc></url>
+  <url><loc>/ritual/chudakarana</loc></url>
   <url><loc>/practice/dhyana</loc></url>
+  <url><loc>/ritual/garbhadhana</loc></url>
+  <url><loc>/practice/havana</loc></url>
+  <url><loc>/practice/homa</loc></url>
   <url><loc>/practice/japa</loc></url>
+  <url><loc>/ritual/jatakarma</loc></url>
+  <url><loc>/ritual/karnavedha</loc></url>
+  <url><loc>/practice/kirtan</loc></url>
+  <url><loc>/practice/nama-sankirtana</loc></url>
+  <url><loc>/ritual/namakarana</loc></url>
+  <url><loc>/ritual/nishkramana</loc></url>
   <url><loc>/ritual/panca-mahayajna</loc></url>
+  <url><loc>/practice/panchamrita</loc></url>
+  <url><loc>/practice/prana-pratishtha</loc></url>
+  <url><loc>/practice/pravachana</loc></url>
   <url><loc>/practice/puja</loc></url>
+  <url><loc>/ritual/pumsavana</loc></url>
+  <url><loc>/ritual/samavartana</loc></url>
   <url><loc>/ritual/samskara</loc></url>
   <url><loc>/practice/sandhyavandana</loc></url>
+  <url><loc>/practice/shodashopachara</loc></url>
   <url><loc>/ritual/shraddha</loc></url>
+  <url><loc>/ritual/simantonnayana</loc></url>
   <url><loc>/practice/svadhyaya</loc></url>
   <url><loc>/practice/tapas</loc></url>
   <url><loc>/practice/tirtha</loc></url>
   <url><loc>/ritual/upanayana</loc></url>
+  <url><loc>/ritual/vidyarambha</loc></url>
   <url><loc>/ritual/vivaha</loc></url>
   <url><loc>/practice/vrata</loc></url>
   <url><loc>/ritual/yajna</loc></url>
+  <url><loc>/scripture/agni-purana</loc></url>
   <url><loc>/scripture/aitareya-upanishad</loc></url>
+  <url><loc>/scripture/apastamba-dharmasutra</loc></url>
   <url><loc>/scripture/aranyaka</loc></url>
   <url><loc>/scripture/atharvaveda</loc></url>
+  <url><loc>/scripture/baudhayana-dharmasutra</loc></url>
   <url><loc>/text/bhagavad-gita</loc></url>
   <url><loc>/scripture/bhagavata-purana</loc></url>
+  <url><loc>/scripture/brahma-purana</loc></url>
+  <url><loc>/scripture/brahma-sutra</loc></url>
   <url><loc>/scripture/brahmana</loc></url>
+  <url><loc>/scripture/brahmanda-purana</loc></url>
   <url><loc>/scripture/brihadaranyaka-upanishad</loc></url>
   <url><loc>/scripture/chandogya-upanishad</loc></url>
   <url><loc>/scripture/devi-bhagavata-purana</loc></url>
+  <url><loc>/scripture/garuda-purana</loc></url>
+  <url><loc>/scripture/gautama-dharmasutra</loc></url>
   <url><loc>/scripture/isha-upanishad</loc></url>
   <url><loc>/scripture/katha-upanishad</loc></url>
   <url><loc>/scripture/kena-upanishad</loc></url>
+  <url><loc>/scripture/kurma-purana</loc></url>
+  <url><loc>/scripture/linga-purana</loc></url>
   <url><loc>/scripture/mahabharata</loc></url>
   <url><loc>/scripture/mandukya-upanishad</loc></url>
+  <url><loc>/scripture/manu-smriti</loc></url>
+  <url><loc>/scripture/markandeya-purana</loc></url>
+  <url><loc>/scripture/matsya-purana</loc></url>
   <url><loc>/scripture/mundaka-upanishad</loc></url>
+  <url><loc>/scripture/narada-purana</loc></url>
+  <url><loc>/scripture/narada-smriti</loc></url>
+  <url><loc>/scripture/natya-shastra</loc></url>
+  <url><loc>/scripture/padma-purana</loc></url>
+  <url><loc>/scripture/parashara-smriti</loc></url>
   <url><loc>/scripture/prashna-upanishad</loc></url>
   <url><loc>/scripture/ramayana</loc></url>
   <url><loc>/scripture/rigveda</loc></url>
   <url><loc>/scripture/samaveda</loc></url>
   <url><loc>/scripture/shiva-purana</loc></url>
+  <url><loc>/scripture/skanda-purana</loc></url>
   <url><loc>/scripture/taittiriya-upanishad</loc></url>
+  <url><loc>/scripture/vamana-purana</loc></url>
+  <url><loc>/scripture/varaha-purana</loc></url>
+  <url><loc>/scripture/vashistha-dharmasutra</loc></url>
+  <url><loc>/scripture/vayu-purana</loc></url>
   <url><loc>/scripture/vishnu-purana</loc></url>
+  <url><loc>/scripture/vyasa-smriti</loc></url>
+  <url><loc>/scripture/yajnavalkya-smriti</loc></url>
   <url><loc>/scripture/yajurveda</loc></url>
   <url><loc>/tradition/darshana</loc></url>
   <url><loc>/tradition/deity</loc></url>

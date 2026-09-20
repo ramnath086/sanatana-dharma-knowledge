@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, PRACTICE, YOGA, VEDANTA]
 ---
 Dispassion or non-attachment, presented in texts as a prerequisite for contemplative progress, with degrees and nuances described differently across traditions.
+

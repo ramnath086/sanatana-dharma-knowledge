@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, PHILOSOPHY, VEDANTA, PRACTICE]
 ---
 A term for knowledge, particularly liberating knowledge, whose content and means of attainment differ across philosophical schools and practice traditions.
+

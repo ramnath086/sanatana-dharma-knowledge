@@ -10,3 +10,4 @@ verification: verified
 classifications: [VEDANGA, SHRUTI, SANSKRIT]
 ---
 The Vedāṅga of grammar, epitomized by Pāṇini's Aṣṭādhyāyī, which systematized Sanskrit morphology and syntax.
+

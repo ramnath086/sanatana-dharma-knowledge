@@ -9,4 +9,5 @@ status: published
 verification: verified
 classifications: [RISHI, ITIHASA, CONCEPT]
 ---
-The traditional author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.
+Traditional attribution identifies Vālmīki as the author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.
+

@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, PHILOSOPHY, DARSHana, YOGA]
 ---
 In Sāṃkhya and Yoga, the material principle composed of the three guṇas; in other contexts, a term for nature or the material world.
+

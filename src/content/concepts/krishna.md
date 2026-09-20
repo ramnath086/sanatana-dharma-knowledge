@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DEITY, ITIHASA, TRADITION, CONCEPT]
 ---
 A central figure of the Mahābhārata and Bhagavad Gītā, represented in diverse textual, devotional, and regional traditions; traditional narratives and historical questions are kept distinct.
+

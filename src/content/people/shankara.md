@@ -9,4 +9,5 @@ status: published
 verification: verified
 classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]
 ---
-An 8th-century ācārya traditionally associated with Advaita Vedānta; traditional hagiography and historical scholarship are kept distinct in this record.
+Traditional attribution places Śaṅkara in the 8th century CE; scholarly dating varies and historical reconstruction remains distinct from hagiographical accounts. He is associated with Advaita Vedānta through traditional and textual lineages.
+

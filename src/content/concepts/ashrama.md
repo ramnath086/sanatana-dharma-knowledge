@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DHARMASHASTRA, PRACTICE, CONCEPT]
 ---
 The four-stage model of life—brahmacarya, gṛhastha, vānaprastha, saṃnyāsa—whose applicability and interpretation vary across texts and historical periods.
+

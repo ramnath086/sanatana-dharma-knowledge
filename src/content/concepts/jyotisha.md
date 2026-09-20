@@ -10,3 +10,4 @@ verification: verified
 classifications: [VEDANGA, SHRUTI, SANSKRIT, CONCEPT]
 ---
 The Vedāṅga of astronomy and calendrical science, used for determining ritual times and celestial observations.
+

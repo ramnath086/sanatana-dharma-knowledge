@@ -7,6 +7,7 @@ aliases: [Brihadaranyaka Upanishad, बृहदारण्यकोपनि�
 sources: [gretil]
 status: published
 verification: verified
-classifications: [SHRUTI, VEDANTA, SHRUTI]
+classifications: [SHRUTI, VEDANTA]
 ---
 The longest Upaniṣad, associated with the Śukla Yajurveda, represented here through an original catalogue description.
+

@@ -13,3 +13,4 @@ aliases: [Bhagavad Gītā, भगवद्गीता]
 ---
 
 A sample record for a future contextual guide to a text situated within the Mahabharata. No translation or quotation is reproduced here.
+

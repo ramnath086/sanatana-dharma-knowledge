@@ -10,3 +10,6 @@ verification: verified
 classifications: [RITUAL, RITUAL, DHARMASHASTRA, CULTURE]
 ---
 The marriage sacrament whose rituals, mantras, and legal frameworks vary across textual prescriptions and regional customary practices.
+
+
+

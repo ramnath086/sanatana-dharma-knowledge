@@ -11,3 +11,6 @@ classifications: [PILGRIMAGE, PRACTICE, CULTURE]
 ---
 
 A category for pilgrimage and sacred journeys whose meanings and practices vary by place and tradition.
+
+
+

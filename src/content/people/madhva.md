@@ -9,4 +9,5 @@ status: published
 verification: verified
 classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]
 ---
-A 13th-century ācārya associated with Dvaita Vedānta; this record represents his tradition without ranking it against other schools.
+Traditional dating assigns Madhva to the 13th century CE; scholarly dates vary. He is associated with Dvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.
+

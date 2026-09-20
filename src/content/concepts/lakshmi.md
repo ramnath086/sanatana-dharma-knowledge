@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, DEITY, TRADITION, FESTIVAL]
 ---
 A goddess associated with prosperity, fortune, and Viṣṇu's consort in Vaiṣṇava traditions; represented here with attention to tradition-specific narratives.
+

@@ -7,6 +7,7 @@ aliases: [Aitareya Upanishad, ऐतरेयोपनिषद्]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [SHRUTI, VEDANTA, SHRUTI]
+classifications: [SHRUTI, VEDANTA]
 ---
 An Upaniṣad associated with the Ṛgveda, represented here through an original catalogue description.
+

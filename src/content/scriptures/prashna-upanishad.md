@@ -7,6 +7,7 @@ aliases: [Prashna Upanishad, प्रश्नोपनिषद्]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [SHRUTI, VEDANTA, SHRUTI]
+classifications: [SHRUTI, VEDANTA]
 ---
 An Upaniṣad organized around six questions, represented here through an original catalogue description.
+

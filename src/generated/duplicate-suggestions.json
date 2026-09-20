@@ -1,56 +1,20 @@
 [
   {
-    "kind": "DUPLICATE_TITLE",
-    "entityIds": [
-      "dharma",
-      "glossary-dharma"
-    ],
-    "reason": "Canonical titles normalize to dharma.",
-    "recommendation": "Editorial review; do not merge automatically."
-  },
-  {
-    "kind": "DUPLICATE_TITLE",
-    "entityIds": [
-      "yoga",
-      "yoga-glossary"
-    ],
-    "reason": "Canonical titles normalize to yoga.",
-    "recommendation": "Editorial review; do not merge automatically."
-  },
-  {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
-      "yoga",
-      "yoga-glossary"
+      "critical-edition",
+      "textual-criticism"
     ],
-    "reason": "Alias collision: योग.",
-    "recommendation": "Review aliases and canonical identity."
-  },
-  {
-    "kind": "DUPLICATE_TITLE",
-    "entityIds": [
-      "samkhya",
-      "sankhya"
-    ],
-    "reason": "Canonical titles normalize to samkhya.",
-    "recommendation": "Editorial review; do not merge automatically."
-  },
-  {
-    "kind": "ALIAS_COLLISION",
-    "entityIds": [
-      "samkhya",
-      "sankhya"
-    ],
-    "reason": "Alias collision: सांख्य.",
+    "reason": "Alias collision: Textual Criticism.",
     "recommendation": "Review aliases and canonical identity."
   },
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
-      "tirtha-glossary",
-      "tirtha"
+      "havana",
+      "homa"
     ],
-    "reason": "Alias collision: तीर्थ.",
+    "reason": "Alias collision: Havan.",
     "recommendation": "Review aliases and canonical identity."
   }
 ]

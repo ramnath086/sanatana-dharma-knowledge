@@ -9,4 +9,4 @@ status: published
 verification: verified
 classifications: [TRADITION, SAMPRADAYA, TRADITION, REGIONAL_TRADITION]
 ---
-A Śaiva tradition originating in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.
+A Śaiva tradition traditionally said to originate in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.

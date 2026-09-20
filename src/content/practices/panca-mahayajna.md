@@ -10,3 +10,6 @@ verification: verified
 classifications: [RITUAL, DHARMASHASTRA, PRACTICE]
 ---
 The five great daily sacrifices—devayajña, ṛṣiyajña, pitṛyajña, bhūtayajña, manusyayajña—prescribed in Dharmaśāstra for householders.
+
+
+

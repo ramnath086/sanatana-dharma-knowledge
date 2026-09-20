@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, PHILOSOPHY, DHARMASHASTRA, CONCEPT]
 ---
 A principle of action and consequence whose scope and mechanics are interpreted differently across philosophical traditions and textual layers.
+

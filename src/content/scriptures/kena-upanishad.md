@@ -7,6 +7,7 @@ aliases: [Kena Upanishad, केनोपनिषद्]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [SHRUTI, VEDANTA, SHRUTI]
+classifications: [SHRUTI, VEDANTA]
 ---
 A short Upaniṣadic text focused on the nature of Brahman and the limits of empirical knowledge, represented here through an original catalogue description.
+

@@ -11,3 +11,6 @@ classifications: [PRACTICE, RITUAL, FESTIVAL]
 ---
 
 A category of vows or observances whose forms and meanings vary by region, text and tradition.
+
+
+

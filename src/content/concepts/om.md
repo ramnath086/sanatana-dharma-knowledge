@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, MANTRA, VEDIC, SHRUTI, YOGA]
 ---
 The praṇava or primordial syllable, discussed in Upaniṣads and foundational to Vedic and Tantric practice; represented here without reproducing esoteric instructions.
+

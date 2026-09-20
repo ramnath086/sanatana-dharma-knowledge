@@ -9,4 +9,5 @@ status: published
 verification: verified
 classifications: [RISHI, ITIHASA, CONCEPT]
 ---
-The traditional compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.
+Traditional attribution identifies Vyāsa as the compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.
+

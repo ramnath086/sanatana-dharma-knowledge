@@ -10,3 +10,6 @@ verification: verified
 classifications: [RITUAL, RITUAL, DHARMASHASTRA]
 ---
 The final sacrament or funeral rites, whose procedures and underlying eschatology differ across texts, regions, and communities.
+
+
+

@@ -10,3 +10,6 @@ verification: verified
 classifications: [PRACTICE, YOGA, DHARMASHASTRA, CONCEPT]
 ---
 A term for austerity, heat, or disciplined effort whose forms and purposes vary across Vedic, Yoga, and Purāṇic contexts.
+
+
+

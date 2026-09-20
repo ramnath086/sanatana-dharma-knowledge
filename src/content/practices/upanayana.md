@@ -10,3 +10,6 @@ verification: verified
 classifications: [RITUAL, RITUAL, DHARMASHASTRA]
 ---
 The initiation ceremony conferring Vedic studentship, whose age, rites, and social applicability differ across textual and community contexts.
+
+
+

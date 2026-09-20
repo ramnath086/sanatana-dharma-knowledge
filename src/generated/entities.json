@@ -1,5 +1,125 @@
 [
   {
+    "id": "alankara-shastra",
+    "title": "Alaṅkāra Śāstra",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Alankara Shastra",
+      "Alamkara Shastra",
+      "अलङ्कार शास्त्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Culture",
+      "Culture"
+    ],
+    "description": "The Sanskrit poetics tradition analyzing figures of speech (alaṅkāras), poetic merits (guṇas), and aesthetic defects (doṣas); its major texts and theorists are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Sanskrit poetics tradition analyzing figures of speech (alaṅkāras), poetic merits (guṇas), and aesthetic defects (doṣas); its major texts and theorists are represented here as a catalogue entry.",
+    "contentHash": "6d44b4910ae096c8d575db05e9346f8fff37959fd078581e6daaf828181206b2"
+  },
+  {
+    "id": "anubandha-chatushtaya",
+    "title": "Anubandha Catuṣṭaya",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Anubandha Chatushtaya",
+      "अनुबन्ध चतुष्टय"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "The four preliminary factors traditionally stated at the beginning of a Vedānta work: adhikārin (qualified student), viṣaya (subject), prayojana (purpose), and sambandha (relationship).",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The four preliminary factors traditionally stated at the beginning of a Vedānta work: adhikārin (qualified student), viṣaya (subject), prayojana (purpose), and sambandha (relationship).",
+    "contentHash": "7ed603326bd5e91175096d244abda9feeb47eb2115e21f55cebb2b8bcd3c3813"
+  },
+  {
+    "id": "apparatus-criticus",
+    "title": "Apparatus Criticus",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Apparatus Criticus",
+      "Critical Apparatus",
+      "क्रिटिकल अपैरेटस"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The critical apparatus in a scholarly edition recording variant readings, editorial decisions, and conjectures; its formats (positive, negative, hybrid) are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The critical apparatus in a scholarly edition recording variant readings, editorial decisions, and conjectures; its formats (positive, negative, hybrid) are represented here as a catalogue entry.",
+    "contentHash": "186c8d3cb991dbe8ebf4be2cd1c452f6c4634c2e0c673a1788826fecec3a5721"
+  },
+  {
+    "id": "arjuna",
+    "title": "Arjuna",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "अर्जुन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The third Pāṇḍava, renowned archer and recipient of the Bhagavad Gītā; traditional narratives and textual portrayals are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The third Pāṇḍava, renowned archer and recipient of the Bhagavad Gītā; traditional narratives and textual portrayals are represented without historical conflation.",
+    "contentHash": "990103a3dd5ae40bb968db1d4fab0af67dc1a9583e378340a6e67a984b96a723"
+  },
+  {
     "id": "artha",
     "title": "Artha",
     "type": "concept",
@@ -26,7 +146,7 @@
     ],
     "relationshipIds": [],
     "body": "One of the four puruṣārthas, referring to material prosperity, power, and security; its pursuit is contextualized by dharma in textual traditions.",
-    "contentHash": "7c56429aada7cd93660af78206593f34ba5cc4e18067be4db283616b3af414b5"
+    "contentHash": "a2d516cc0a33065985f4d2b491a9f7d2879a473e7efb9b390adb02f1de19e09e"
   },
   {
     "id": "ashrama",
@@ -57,7 +177,7 @@
     ],
     "relationshipIds": [],
     "body": "The four-stage model of life—brahmacarya, gṛhastha, vānaprastha, saṃnyāsa—whose applicability and interpretation vary across texts and historical periods.",
-    "contentHash": "747f998fbb366228d091695173e591d08963906bd6e2cead9a0e425ecefe7696"
+    "contentHash": "b98ffeaed688a703323be99358b030040e32cbac48b5c48619630605a3c80403"
   },
   {
     "id": "atman",
@@ -88,7 +208,7 @@
     ],
     "relationshipIds": [],
     "body": "A term for the self or innermost principle whose nature and relationship to Brahman constitute a central question in Upaniṣadic and Vedāntic thought.",
-    "contentHash": "730759aed2e48fd170db976a0c18d910f41eb9df5c4632e9c1374bcaf93ca9cd"
+    "contentHash": "643d103664717d74ac1e3e3ff3a12b2a3de3e54744d9735832f731364192bfbf"
   },
   {
     "id": "bhakti",
@@ -118,7 +238,66 @@
     ],
     "relationshipIds": [],
     "body": "Devotional orientation or practice whose objects, methods, and theological frameworks vary widely across texts, traditions, and historical periods.",
-    "contentHash": "96420228be4ab896ccee513093a9dc9940b0ea1deda84cbf542b10deb0039dfb"
+    "contentHash": "0836e2e451cbae03904e930749a06d36e86d8b1786cdbc8623e210ebdc9d5c88"
+  },
+  {
+    "id": "bhedabheda",
+    "title": "Bhedābheda",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Bhedabheda",
+      "भेदाभेद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "The \"difference and non-difference\" doctrine, positing that the individual self and Brahman are simultaneously distinct and non-distinct; foundational for Viśiṣṭādvaita and other schools.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The \"difference and non-difference\" doctrine, positing that the individual self and Brahman are simultaneously distinct and non-distinct; foundational for Viśiṣṭādvaita and other schools.",
+    "contentHash": "1e9b9262cc07bf411e81189eed0fc039934a343d2bf24e68e9461b5359f9f6e8"
+  },
+  {
+    "id": "bhishma",
+    "title": "Bhīṣma",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Bhishma",
+      "भीष्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The grandsire of the Kuru dynasty, known for his vow of celibacy and role in the Mahābhārata; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The grandsire of the Kuru dynasty, known for his vow of celibacy and role in the Mahābhārata; traditional narratives are represented without historical conflation.",
+    "contentHash": "753ab52417c6646433bdc927a8114e06b4ab00ff227b4aa67f89af1399002d19"
   },
   {
     "id": "brahman",
@@ -148,7 +327,7 @@
     ],
     "relationshipIds": [],
     "body": "The ultimate reality or ground of being in Vedāntic traditions, described through both negation (neti neti) and positive affirmation depending on the school.",
-    "contentHash": "b488eab47014725f6798649706abc18cdb8c0ecd2b55befac245d4eebeb4d561"
+    "contentHash": "6a01a7b0272d13f090c8cf3ceddadfe37cb1eeeb419ce790bcd4b5408099c393"
   },
   {
     "id": "chandas",
@@ -177,7 +356,159 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga of metre and prosody, governing the rhythmic structure of Vedic and classical Sanskrit verse.",
-    "contentHash": "559331896f026d5d555aa61c024aa570ab34b5af59a7ccea457ff8e83ba7216b"
+    "contentHash": "96d2a79f8efafb87d961de027181dfc43285c0a73125e5469c97ed816e82965d"
+  },
+  {
+    "id": "codicology",
+    "title": "Codicology",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Codicology",
+      "कोडिकोलॉजी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The study of manuscripts as physical objects: materials, structure, binding, layout, and production; its methods and descriptive standards are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The study of manuscripts as physical objects: materials, structure, binding, layout, and production; its methods and descriptive standards are represented here as a catalogue entry.",
+    "contentHash": "a9480be61c76097fff7cc0ec94968dfda73a0a0535590ab673c78346512ade6b"
+  },
+  {
+    "id": "collation",
+    "title": "Collation",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Collation",
+      "कोलेशन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The systematic comparison of manuscript witnesses to record variant readings; its methods (manual, mechanical, digital) and output formats are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The systematic comparison of manuscript witnesses to record variant readings; its methods (manual, mechanical, digital) and output formats are represented here as a catalogue entry.",
+    "contentHash": "e669558afce8796b9a532748277bee0b1bc6b8e529c49a898675b40040f9bbd5"
+  },
+  {
+    "id": "colophon",
+    "title": "Colophon",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Colophon",
+      "कोलोफन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The concluding note in a manuscript recording scribe, date, place, patron, or other production details; its formulaic variations across traditions are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The concluding note in a manuscript recording scribe, date, place, patron, or other production details; its formulaic variations across traditions are represented here as a catalogue entry.",
+    "contentHash": "b7c7aff858d894adc77b495b65408c7091dc272621484151a201062b2e12189e"
+  },
+  {
+    "id": "critical-edition",
+    "title": "Critical Edition",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Critical Edition",
+      "Textual Criticism",
+      "आलोचनात्मक संस्करण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The scholarly reconstruction of a text from multiple manuscript witnesses, applying textual criticism to establish the most probable original reading; its methods and principles are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The scholarly reconstruction of a text from multiple manuscript witnesses, applying textual criticism to establish the most probable original reading; its methods and principles are represented here as a catalogue entry.",
+    "contentHash": "7d739363901cc604e76e9ce4502e276d80e8c712e4fed4929148967c9a18d53b"
+  },
+  {
+    "id": "dana",
+    "title": "Dāna",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Dana",
+      "दान"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "DHARMASHASTRA",
+      "PRACTICE",
+      "RITUAL"
+    ],
+    "description": "The practice of giving or gift-giving, regulated in Dharmaśāstra by donor, recipient, gift-type, and occasion; a key householder duty.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The practice of giving or gift-giving, regulated in Dharmaśāstra by donor, recipient, gift-type, and occasion; a key householder duty.",
+    "contentHash": "7aa26259f8164b819528be5f7dcb96bf9752ca161927bf941989fcbf0d6817a7"
   },
   {
     "id": "dharma",
@@ -207,7 +538,66 @@
     ],
     "relationshipIds": [],
     "body": "A foundational concept whose meanings include duty, law, virtue, and the inherent nature of things; its specific sense depends on textual and situational context.",
-    "contentHash": "a571200149f120fb7d96ce090c7e57527974a5520e7d7735c0d467972258a01f"
+    "contentHash": "b1592d5c2b78d1c3b0d6eec769e77da8c52f3cceb1845633592be61c66467a41"
+  },
+  {
+    "id": "dharmasutra",
+    "title": "Dharmasūtra",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Dharmasutra",
+      "धर्मसूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "DHARMASHASTRA",
+      "PHILOSOPHY"
+    ],
+    "description": "The earliest genre of Dharma literature, composed in sūtra style and associated with Vedic schools; distinct from the later metrical Smṛtis.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The earliest genre of Dharma literature, composed in sūtra style and associated with Vedic schools; distinct from the later metrical Smṛtis.",
+    "contentHash": "51bc7a79a2e901842a8a402b58f5e36b55f90962165625c7ece7a62e0fd368f1"
+  },
+  {
+    "id": "draupadi",
+    "title": "Draupadī",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Draupadi",
+      "द्रौपदी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The wife of the five Pāṇḍavas, central to the Mahābhārata narrative; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The wife of the five Pāṇḍavas, central to the Mahābhārata narrative; traditional narratives are represented without historical conflation.",
+    "contentHash": "89736a12e7e3ded9cfab018b455c32cd8eb61e2bd681fcf14d6305e4a9166785"
   },
   {
     "id": "durga",
@@ -238,7 +628,156 @@
     ],
     "relationshipIds": [],
     "body": "A form of the Goddess with major textual, ritual, and festival presence; represented here without imposing a single theological interpretation across Śākta traditions.",
-    "contentHash": "c246a471ae440aa97f291141882d8ab00ec41bd22aff57279fc1ca572f0763fc"
+    "contentHash": "47d8435e7fd3326a84ac09b288b2e6acbf86eb50b2ed67748b1810a745d76fe2"
+  },
+  {
+    "id": "duryodhana",
+    "title": "Duryodhana",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "दुर्योधन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The eldest Kaurava and primary antagonist of the Mahābhārata war; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The eldest Kaurava and primary antagonist of the Mahābhārata war; traditional narratives are represented without historical conflation.",
+    "contentHash": "2483451918199ec84c1c5fb9e464a458553999ab1c7cc47c7b822907345b42a0"
+  },
+  {
+    "id": "emendation",
+    "title": "Emendation",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Emendation",
+      "Conjectural Emendation",
+      "एमेंडेशन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "An editorial correction proposed where all manuscript witnesses appear corrupt; its justification, notation, and scholarly conventions are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "An editorial correction proposed where all manuscript witnesses appear corrupt; its justification, notation, and scholarly conventions are represented here as a catalogue entry.",
+    "contentHash": "95f464c864f11878e3e4c028d00bff65555610ae2b9e100d39e9a9f98f932da5"
+  },
+  {
+    "id": "epigraphy",
+    "title": "Epigraphy",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Epigraphy",
+      "एपिग्राफी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "MANUSCRIPT",
+      "SCHOLARSHIP",
+      "HISTORY"
+    ],
+    "description": "The study of inscriptions on durable materials (stone, metal, copper plates) for historical, linguistic, and cultural reconstruction; its methods and Indian corpora are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The study of inscriptions on durable materials (stone, metal, copper plates) for historical, linguistic, and cultural reconstruction; its methods and Indian corpora are represented here as a catalogue entry.",
+    "contentHash": "772a22d692dd8b311fca605a97d6e0d756d64cd8c8e1726bd91505da19b5afc8"
+  },
+  {
+    "id": "folio",
+    "title": "Folio",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Folio",
+      "फोलियो"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "A single leaf of a manuscript (two pages: recto and verso); its numbering, structure, and descriptive conventions are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A single leaf of a manuscript (two pages: recto and verso); its numbering, structure, and descriptive conventions are represented here as a catalogue entry.",
+    "contentHash": "84e45f5292b9ed6417a8afd36c42a523856bae8e9ceb37f6916846af0fb6b81f"
+  },
+  {
+    "id": "gandhari",
+    "title": "Gāndhārī",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gandhari",
+      "गांधारी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The wife of Dhṛtarāṣṭra and mother of the Kauravas, known for her voluntary blindness; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The wife of Dhṛtarāṣṭra and mother of the Kauravas, known for her voluntary blindness; traditional narratives are represented without historical conflation.",
+    "contentHash": "166c24113bb9415833922b450ffc6fea2d90bd04a986a092735ee312d9e60358"
   },
   {
     "id": "gayatri",
@@ -269,7 +808,67 @@
     ],
     "relationshipIds": [],
     "body": "A celebrated Vedic metre and the hymn composed in it (Ṛgveda 3.62.10); also personified as a deity in later traditions.",
-    "contentHash": "f9ac16cad59e206745deb8a05b8b732afac82fbd59a9694234b2af6e386b6ee7"
+    "contentHash": "59d8cbabc05be4f9d444476fa4e9218f218d2b08706e57ae9470b91d33f4b80f"
+  },
+  {
+    "id": "gita-dhyana",
+    "title": "Gītā Dhyāna",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gita Dhyana",
+      "गीता ध्यान"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa",
+      "Practice"
+    ],
+    "description": "The traditional meditative verses recited before studying the Bhagavad Gītā, invoking the text and its lineage; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The traditional meditative verses recited before studying the Bhagavad Gītā, invoking the text and its lineage; represented here as a catalogue entry.",
+    "contentHash": "0efa61baad32e44bd4b70b77232131e70cdba70e7adf3f3a76777fb72c0acf97"
+  },
+  {
+    "id": "gita-mahatmya",
+    "title": "Gītā Māhātmya",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gita Mahatmya",
+      "गीता माहात्म्य"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa",
+      "Tradition"
+    ],
+    "description": "The traditional texts extolling the greatness of the Bhagavad Gītā, found in various Purāṇas; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The traditional texts extolling the greatness of the Bhagavad Gītā, found in various Purāṇas; represented here as a catalogue entry.",
+    "contentHash": "9ef6c8e257e709c02b288a609829a1c3ea0578a761549b0785c2cf3e111f10e1"
   },
   {
     "id": "hanuman",
@@ -301,7 +900,7 @@
     ],
     "relationshipIds": [],
     "body": "A figure of the Rāmāyaṇa tradition whose devotional significance extends across Vaiṣṇava and Śaiva contexts; represented here without collapsing tradition-specific narratives.",
-    "contentHash": "f7e9d40bc5489aea4e492b397582f71b388559e849ac784f53cc155be52ef6f1"
+    "contentHash": "fe7242210e322ee0228db428a16050d0178643862cad2fa652ac2913cb70414b"
   },
   {
     "id": "ishvara",
@@ -332,7 +931,37 @@
     ],
     "relationshipIds": [],
     "body": "A term for the Supreme Lord or personal God, whose ontological status and attributes are interpreted differently across Vedānta schools and Yoga philosophy.",
-    "contentHash": "eb6e2ecef54d75f2da6af56ef69bd280edf3d8206ecbb3509ccc52480ff7f447"
+    "contentHash": "35da6891292bef32ea3fcafe56dc1da1f91ea2b9276a266689f5122030cabf5d"
+  },
+  {
+    "id": "jivanmukti",
+    "title": "Jīvanmukti",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Jivanmukti",
+      "जीवन्मुक्ति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "Liberation while living, a key concept in Advaita Vedānta and other traditions; its nature and attainability are interpreted differently across schools.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Liberation while living, a key concept in Advaita Vedānta and other traditions; its nature and attainability are interpreted differently across schools.",
+    "contentHash": "1cf7a52014e10e0e0b1bcac88a8d7f4dc250c5e2a38f6768c19d328b9903fb74"
   },
   {
     "id": "jnana",
@@ -363,7 +992,7 @@
     ],
     "relationshipIds": [],
     "body": "A term for knowledge, particularly liberating knowledge, whose content and means of attainment differ across philosophical schools and practice traditions.",
-    "contentHash": "704a17255222f0b09d32057d1b4ed99c58cb2c1921c543adc6d3b054c6ed12c0"
+    "contentHash": "85bb83d9eef136034dcb2c6c0c3cba9fdc4f3018dc0ca326991b6a65cfeae632"
   },
   {
     "id": "jyotisha",
@@ -393,7 +1022,7 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga of astronomy and calendrical science, used for determining ritual times and celestial observations.",
-    "contentHash": "f6c4e96ab0be20d3a44dd8a3ff9ace87aee31e1c11d139c85d2f7a8d99d67d45"
+    "contentHash": "29b593af01c0ef21afaffdb64e308eaaff84dac151203c0b666c1fe8c240e027"
   },
   {
     "id": "kalpa",
@@ -423,7 +1052,7 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga of ritual procedure, comprising Śrauta, Gṛhya, and Dharma sūtras that prescribe sacrificial and domestic rites.",
-    "contentHash": "48df1b1d7cc8c1fd688cc4a92ac7648f6a0a5d8d815c861304166ac7dc7c59ea"
+    "contentHash": "74104049be19eb15c7f0d1a0c0f28304188aa61ad4be271c9cca2bb177cf58fa"
   },
   {
     "id": "kama",
@@ -452,7 +1081,7 @@
     ],
     "relationshipIds": [],
     "body": "One of the four puruṣārthas, referring to desire, pleasure, and aesthetic enjoyment; its legitimate pursuit is bounded by dharma in textual traditions.",
-    "contentHash": "6ba4bdca9f3df5104be3a7c56e7c671be3ff11f821eaf6d1aeea429555178a24"
+    "contentHash": "f51c8173801e6873091229b5002cfaaf121781c19455c6268df46e0099709788"
   },
   {
     "id": "karma",
@@ -482,7 +1111,36 @@
     ],
     "relationshipIds": [],
     "body": "A principle of action and consequence whose scope and mechanics are interpreted differently across philosophical traditions and textual layers.",
-    "contentHash": "aceccc7ac6e2ce23cec3c0d4d2f6f78c3c755a51fa07d6145fd38fcfb6b051d6"
+    "contentHash": "cfd18f61cb3fd92be64d5379296ef45e500e4bbf996c166a9b0dd999a22d6f6a"
+  },
+  {
+    "id": "karna",
+    "title": "Karṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Karna",
+      "कर्ण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "A central figure of the Mahābhārata, known for his generosity and tragic role; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A central figure of the Mahābhārata, known for his generosity and tragic role; traditional narratives are represented without historical conflation.",
+    "contentHash": "c3ce2aa41ef1d43c40d9b9063fe716a02a30f1f837c74b442b5cf50754c63f34"
   },
   {
     "id": "krishna",
@@ -514,7 +1172,65 @@
     ],
     "relationshipIds": [],
     "body": "A central figure of the Mahābhārata and Bhagavad Gītā, represented in diverse textual, devotional, and regional traditions; traditional narratives and historical questions are kept distinct.",
-    "contentHash": "6706778e63ef9ddef32c9f29121f7f1e7eedff5f34a97b2a046408a773ced0a6"
+    "contentHash": "0065e75cea44aee0cb8367b877f5178795544a894a9990dc9ef4b84be29f030b"
+  },
+  {
+    "id": "kunti",
+    "title": "Kuntī",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Kunti",
+      "कुन्ती"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The mother of the Pāṇḍavas, central to the Mahābhārata narrative; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The mother of the Pāṇḍavas, central to the Mahābhārata narrative; traditional narratives are represented without historical conflation.",
+    "contentHash": "d3d3633462bbc291d5d8d4486b39d0f267e9f87bcf99857fff93d1b42d6082ec"
+  },
+  {
+    "id": "lakshmana",
+    "title": "Lakṣmaṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Lakshmana",
+      "लक्ष्मण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The devoted brother of Rāma in the Rāmāyaṇa; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The devoted brother of Rāma in the Rāmāyaṇa; traditional narratives are represented without historical conflation.",
+    "contentHash": "c4622f4614c29a54c38620a84956495751a2c4bcdafc8262dc6db6f5b3c126fb"
   },
   {
     "id": "lakshmi",
@@ -545,7 +1261,126 @@
     ],
     "relationshipIds": [],
     "body": "A goddess associated with prosperity, fortune, and Viṣṇu's consort in Vaiṣṇava traditions; represented here with attention to tradition-specific narratives.",
-    "contentHash": "7e180e6958844d8c1bd625d9b7f8300c21430f1519cc6519edf6b2fceb5fbe93"
+    "contentHash": "3640cf72b1285730a3df7a2df7eca4321798793c28fad1cdf357e62ecfb99bcc"
+  },
+  {
+    "id": "mahapurana",
+    "title": "Mahāpurāṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mahapurana",
+      "महापुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "PURANA",
+      "PHILOSOPHY"
+    ],
+    "description": "The eighteen major Purāṇas distinguished from the Upapurāṇas by their scope, authority, and coverage of the pañcalakṣaṇa.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The eighteen major Purāṇas distinguished from the Upapurāṇas by their scope, authority, and coverage of the pañcalakṣaṇa.",
+    "contentHash": "6f46265ecf99eef80767faa1dc685cb3222e799318171b599bb005a2caf84cc9"
+  },
+  {
+    "id": "mandodari",
+    "title": "Mandodarī",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mandodari",
+      "मन्दोदरी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The wife of Rāvaṇa in the Rāmāyaṇa, known for her wisdom and counsel; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The wife of Rāvaṇa in the Rāmāyaṇa, known for her wisdom and counsel; traditional narratives are represented without historical conflation.",
+    "contentHash": "7b41c27437e937b89b4fad76d4db3e08f835390419ae50df2e9e4d4d1fc1300d"
+  },
+  {
+    "id": "manuscript-catalogue",
+    "title": "Manuscript Catalogue",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Manuscript Catalogue",
+      "Catalogue",
+      "पाण्डुलिपि सूची"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "A systematic descriptive record of manuscript holdings, including codicological, paleographical, and textual metadata; its standards (TEI, MSDESC) and major projects are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A systematic descriptive record of manuscript holdings, including codicological, paleographical, and textual metadata; its standards (TEI, MSDESC) and major projects are represented here as a catalogue entry.",
+    "contentHash": "010e26c6570579f7434ed7468177ebc4f24b06d85d2a59b4d139e3b2a255d172"
+  },
+  {
+    "id": "maya-vada",
+    "title": "Māyāvāda",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mayavada",
+      "मायावाद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Vedanta"
+    ],
+    "description": "The doctrine that the world is māyā (illusion), often used as a designation for Advaita by its critics; Advaitins typically prefer vivartavāda.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The doctrine that the world is māyā (illusion), often used as a designation for Advaita by its critics; Advaitins typically prefer vivartavāda.",
+    "contentHash": "186973c3ac5b6979b1c0755f3a3d42690c4985b88672613e6259c3192cc3172b"
   },
   {
     "id": "maya",
@@ -575,7 +1410,7 @@
     ],
     "relationshipIds": [],
     "body": "A term for the power of manifestation or illusion, whose precise meaning varies significantly between Advaita, Viśiṣṭādvaita, and Dvaita traditions.",
-    "contentHash": "d9bff317a63b4230310d208c05f1e7d5eb23f36f61fed9eae2437a1fb42e840c"
+    "contentHash": "8b96e9446fec329cee9e4737d6854b152c7df21c62e6aa4498fe6c1f2637dc82"
   },
   {
     "id": "moksha",
@@ -606,7 +1441,7 @@
     ],
     "relationshipIds": [],
     "body": "A concept of liberation or release whose nature, means, and attainment are described in varied ways across traditions and texts.",
-    "contentHash": "aa141c02628ae35ed46ac55ca14e809a4529b3067b4fe5c5c31d7a6ea0d7b08e"
+    "contentHash": "1f4aadb0a63bea74dc33e2e86305ee9ad21d0b52b67195d6d4c590ef177a3732"
   },
   {
     "id": "nirukta",
@@ -635,7 +1470,36 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga of etymology and semantic interpretation, exemplified by Yāska's Nirukta, which explains obscure Vedic terms.",
-    "contentHash": "1b0db3530683282820e1e69d2e7182578f02ac86bdd3d6fb53f4dd5933d8a021"
+    "contentHash": "5f5cc9e52e62027c5c2a65821a43d34c96bbc287a4e014020e4d787ef2d672be"
+  },
+  {
+    "id": "numismatics",
+    "title": "Numismatics",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Numismatics",
+      "न्यूमिज्मैटिक्स"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Scholarship"
+    ],
+    "description": "The study of coins and currency for historical, economic, and cultural reconstruction; its Indian series and methodological approaches are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The study of coins and currency for historical, economic, and cultural reconstruction; its Indian series and methodological approaches are represented here as a catalogue entry.",
+    "contentHash": "7b3b0cbb39f83892ed280fddf87090c321993cf0888b42fbbb264e3b6e15f296"
   },
   {
     "id": "om",
@@ -668,7 +1532,97 @@
     ],
     "relationshipIds": [],
     "body": "The praṇava or primordial syllable, discussed in Upaniṣads and foundational to Vedic and Tantric practice; represented here without reproducing esoteric instructions.",
-    "contentHash": "2fa9695c3762d9394267de0a1bc838a3e605caa5e3ffc82c8b3d98fa7b696ee9"
+    "contentHash": "8bbce871e9831a98702c42576403c50a74f6686f2f6b4edf3dfb87669bf080a3"
+  },
+  {
+    "id": "padma-tirtha",
+    "title": "Padma Tīrtha",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Padma Tirtha",
+      "पद्म तीर्थ"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "description": "A sacred site associated with Viṣṇu's lotus (padma) manifestations; traditional accounts are represented without historical verification.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A sacred site associated with Viṣṇu's lotus (padma) manifestations; traditional accounts are represented without historical verification.",
+    "contentHash": "34a708d3c42195dd76e8a4ed66a33473aa8e7f92a76bb4a2b4da7554d1a76e89"
+  },
+  {
+    "id": "paleography",
+    "title": "Paleography",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Palaeography",
+      "पालियोग्राफी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The study of historical handwriting and scripts for dating, localizing, and reading manuscripts; its Indian script traditions (Brāhmī, Gupta, Śāradā, etc.) are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The study of historical handwriting and scripts for dating, localizing, and reading manuscripts; its Indian script traditions (Brāhmī, Gupta, Śāradā, etc.) are represented here as a catalogue entry.",
+    "contentHash": "0f00c36331a026395357bec0cd93dc2f947326c7b0a26d084b16e7259df5bf69"
+  },
+  {
+    "id": "parinamavada",
+    "title": "Pariṇāmavāda",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Parinamavada",
+      "परिणामवाद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "The doctrine of \"real transformation\" — the world as a genuine modification (pariṇāma) of Brahman or prakṛti, upheld by Viśiṣṭādvaita, Dvaita, and Sāṃkhya.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The doctrine of \"real transformation\" — the world as a genuine modification (pariṇāma) of Brahman or prakṛti, upheld by Viśiṣṭādvaita, Dvaita, and Sāṃkhya.",
+    "contentHash": "f524385d8be25189231d5446434603ce8eae075fbf4ac93807520e2e4fe75176"
   },
   {
     "id": "prakriti",
@@ -698,7 +1652,98 @@
     ],
     "relationshipIds": [],
     "body": "In Sāṃkhya and Yoga, the material principle composed of the three guṇas; in other contexts, a term for nature or the material world.",
-    "contentHash": "574f26df7a1ce02693251a8415b7bee64e7aef3284b5e73daed65b37ef57a5ff"
+    "contentHash": "59ffe01911dd9ebc881726cd0c395e410b72baedd40fa4a69994e54230c691fb"
+  },
+  {
+    "id": "prasthana-traya",
+    "title": "Prasthānatraya",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Prasthanatraya",
+      "प्रस्थानत्रय"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "The \"three foundations\" of Vedānta: the Upaniṣads (śruti-prasthāna), the Brahma Sūtras (nyāya-prasthāna), and the Bhagavad Gītā (smṛti-prasthāna).",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The \"three foundations\" of Vedānta: the Upaniṣads (śruti-prasthāna), the Brahma Sūtras (nyāya-prasthāna), and the Bhagavad Gītā (smṛti-prasthāna).",
+    "contentHash": "3c93631937fa097489d2c0a4d5b6314f3e812837867f66bebc3f977973aaf767"
+  },
+  {
+    "id": "prayascitta",
+    "title": "Prāyaścitta",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Prayaschitta",
+      "प्रायश्चित्त"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "DHARMASHASTRA",
+      "PRACTICE",
+      "RITUAL"
+    ],
+    "description": "Expiatory rites prescribed in Dharmaśāstra for intentional or unintentional transgressions; their forms and severity vary by text and offense.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Expiatory rites prescribed in Dharmaśāstra for intentional or unintentional transgressions; their forms and severity vary by text and offense.",
+    "contentHash": "a6b1307ecfb018efec60127ba91031db26027b4251ef01a5023b7fb399d0dd3c"
+  },
+  {
+    "id": "purana-panchalaksana",
+    "title": "Purāṇa Pañcalakṣaṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Purana Panchalaksana",
+      "पुराण पञ्चलक्षण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "PURANA",
+      "PHILOSOPHY"
+    ],
+    "description": "The five distinguishing characteristics of a Purāṇa: sarga (creation), pratisarga (re-creation), vaṃśa (genealogy), manvantara (cosmic ages), and vaṃśānucarita (dynastic history).",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The five distinguishing characteristics of a Purāṇa: sarga (creation), pratisarga (re-creation), vaṃśa (genealogy), manvantara (cosmic ages), and vaṃśānucarita (dynastic history).",
+    "contentHash": "b5713ab7548e9b4a00c64151c392e871a05c56891ace1df2cab08e82327b0d46"
   },
   {
     "id": "purusha",
@@ -729,7 +1774,7 @@
     ],
     "relationshipIds": [],
     "body": "In Sāṃkhya and Yoga, the conscious principle distinct from prakṛti; in Vedic and Vedāntic contexts, a term for the cosmic person or the self.",
-    "contentHash": "dbc616e8800af2f3408ca999b6cc9731d26fd7a132a48589847fe86054309443"
+    "contentHash": "aca779ea5340829cdf767c1b70ae80312d73a12c6250c425590f7cf35f4d9123"
   },
   {
     "id": "purushartha",
@@ -758,7 +1803,7 @@
     ],
     "relationshipIds": [],
     "body": "The four recognized aims of human life—dharma, artha, kāma, mokṣa—whose relative priority and interpretation vary by textual tradition and stage of life.",
-    "contentHash": "fbf73d360a470b78ca05ed3b4b84e9d1f05de341a64db3188d9843d48233f8b0"
+    "contentHash": "d20d361b10089455ab8e1e7e28142d0603e3b6eca056fc5210cc050676c1f75f"
   },
   {
     "id": "rama",
@@ -789,7 +1834,129 @@
     ],
     "relationshipIds": [],
     "body": "A central figure of the Rāmāyaṇa, represented in textual, devotional, and performative traditions; this record does not conflate traditional narratives with historical biography.",
-    "contentHash": "45cb22cb6b25d250e0bdd3640ae8d5c1228fda003699f68da1e90a8e47911099"
+    "contentHash": "b242dbf62bc0d15d45bf507c2eb5203444aac3e62e58c37034022ffc45ff784b"
+  },
+  {
+    "id": "rasa-theory",
+    "title": "Rasa Siddhānta",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Rasa Theory",
+      "Rasa Siddhanta",
+      "रस सिद्धान्त"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "description": "The aesthetic theory of \"rasa\" (aesthetic sentiment) systematized in the Nāṭyaśāstra, with its eight/nine rasas and the conditions of their evocation; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The aesthetic theory of \"rasa\" (aesthetic sentiment) systematized in the Nāṭyaśāstra, with its eight/nine rasas and the conditions of their evocation; represented here as a catalogue entry.",
+    "contentHash": "3dac69a11b88326e55d65d81b27074a362808fdc8a24ac39c7491215abe76e2c"
+  },
+  {
+    "id": "ravana",
+    "title": "Rāvaṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Ravana",
+      "रावण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The antagonist of the Rāmāyaṇa, ruler of Laṅkā; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The antagonist of the Rāmāyaṇa, ruler of Laṅkā; traditional narratives are represented without historical conflation.",
+    "contentHash": "cff8f9359745d1adbf938a1f760da1041a9d2b749307d27dad43d9ec509b8f82"
+  },
+  {
+    "id": "recension",
+    "title": "Recension",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Recension",
+      "Redaction",
+      "रिकेंशन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "A distinct version or redaction of a text transmitted in a particular geographical, textual, or institutional tradition; its identification and classification are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A distinct version or redaction of a text transmitted in a particular geographical, textual, or institutional tradition; its identification and classification are represented here as a catalogue entry.",
+    "contentHash": "eda6a4ce2ef1ae0a00e5cf78997144b55bd0403ebb6e750c9db8ec771520b5aa"
+  },
+  {
+    "id": "rna",
+    "title": "Ṛṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Rina",
+      "Rin",
+      "ऋण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "DHARMASHASTRA",
+      "PHILOSOPHY"
+    ],
+    "description": "The \"three debts\" — to ṛṣis (via study), to devas (via sacrifice), to pitṛs (via progeny) — that frame human obligation in Dharmaśāstra.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The \"three debts\" — to ṛṣis (via study), to devas (via sacrifice), to pitṛs (via progeny) — that frame human obligation in Dharmaśāstra.",
+    "contentHash": "cd3087a0b5770221cd8caf361164ba306071ecf31e1495dd1475e33e8b949a6a"
   },
   {
     "id": "samsara",
@@ -820,7 +1987,7 @@
     ],
     "relationshipIds": [],
     "body": "The cyclic process of birth, death, and rebirth that provides the soteriological background for the pursuit of liberation in Indian traditions.",
-    "contentHash": "d262546179f0b6ac541773a4e96cbb395f6c19847763fc6cc34a31ef0a44fbfb"
+    "contentHash": "a553100d4f65649df5a810fb88603b0ac6dd89c13f962376803ea599852e908b"
   },
   {
     "id": "saraswati",
@@ -851,7 +2018,7 @@
     ],
     "relationshipIds": [],
     "body": "A goddess associated with learning, speech, and the arts; also the name of a Vedic river whose identification is debated in scholarship and tradition.",
-    "contentHash": "86cf820af3707f0b9d71f0b14f4ef5fa4b5bcfb45eac5834c53973d987212fdc"
+    "contentHash": "f6b817e55b2ecaa0760ab2ed585d8ff3db17aef18ab50636be023d5f5ca73799"
   },
   {
     "id": "shiksha",
@@ -880,7 +2047,250 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga concerned with phonetics, pronunciation, and euphonic combination; its treatises form the foundation for Vedic recitation.",
-    "contentHash": "31e9abe04c4358aee061c13033490767322e1eb4b018d4f7495c7637a25b5295"
+    "contentHash": "a91da437fe688c9a2b6af3f8f291ffdb4c52ddb773e77f5065327b9345e16ea4"
+  },
+  {
+    "id": "siglum",
+    "title": "Siglum",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Siglum",
+      "Sigla",
+      "सिग्लम"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "A conventional symbol or abbreviation identifying a specific manuscript witness in a critical apparatus; its assignment and notation standards are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A conventional symbol or abbreviation identifying a specific manuscript witness in a critical apparatus; its assignment and notation standards are represented here as a catalogue entry.",
+    "contentHash": "94645dbebd1ff06d8b8c4ab1e44c8a68a269ca43e33fff693c5b792ab62bf341"
+  },
+  {
+    "id": "sita",
+    "title": "Sītā",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Sita",
+      "सीता"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The wife of Rāma, central to the Rāmāyaṇa; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The wife of Rāma, central to the Rāmāyaṇa; traditional narratives are represented without historical conflation.",
+    "contentHash": "47e718bda697b46821d0ea25f350828bdd0c7f02debacf5fd529f6640d3fdeec"
+  },
+  {
+    "id": "smriti",
+    "title": "Smṛti",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Smriti",
+      "स्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "DHARMASHASTRA",
+      "PHILOSOPHY"
+    ],
+    "description": "The class of \"remembered\" texts — including Dharmaśāstras, Purāṇas, and epics — distinguished from Śruti by human authorship and transmission.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The class of \"remembered\" texts — including Dharmaśāstras, Purāṇas, and epics — distinguished from Śruti by human authorship and transmission.",
+    "contentHash": "4a6f7693ca756c0cfb2c64a7c7349afd268ef53e42223860ffc4801a5a6df298"
+  },
+  {
+    "id": "srimad-bhagavatam-commentary",
+    "title": "Śrīmad Bhāgavata Commentary Traditions",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Bhagavata Commentary",
+      "श्रीमद्भागवत टीका"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Vedanta",
+      "Tradition",
+      "Practice"
+    ],
+    "description": "The diverse commentarial traditions on the Bhāgavata Purāṇa, including Śrīdhara Svāmī, Jīva Gosvāmī, Viśvanātha Cakravartī, and others; represented as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The diverse commentarial traditions on the Bhāgavata Purāṇa, including Śrīdhara Svāmī, Jīva Gosvāmī, Viśvanātha Cakravartī, and others; represented as a catalogue entry.",
+    "contentHash": "7199b5a755a50b0084be7e066590b0e893064a0056ab9aec144c828f578dddc2"
+  },
+  {
+    "id": "stemmatics",
+    "title": "Stemmatics",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Stemmatics",
+      "Stemmatology",
+      "स्टेमेटिक्स"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The method of reconstructing manuscript genealogies (stemma codicum) to infer textual relationships; its principles, limitations, and computational approaches are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The method of reconstructing manuscript genealogies (stemma codicum) to infer textual relationships; its principles, limitations, and computational approaches are represented here as a catalogue entry.",
+    "contentHash": "9f3c522862b6051e1eae98802b3dabc6be2f50fd3021236c47076970534dbb54"
+  },
+  {
+    "id": "stridharma",
+    "title": "Strīdharmā",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Stridharma",
+      "Stri Dharma",
+      "स्त्रीधर्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Dharmashastra"
+    ],
+    "description": "The body of Dharmaśāstra prescriptions concerning women's duties and rites; textual prescriptions are distinguished from diverse historical and regional practices.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The body of Dharmaśāstra prescriptions concerning women's duties and rites; textual prescriptions are distinguished from diverse historical and regional practices.",
+    "contentHash": "1d39dd6d448dcdeb6b299326f1a31b0c739afcd766b5bd35239c98512030aeac"
+  },
+  {
+    "id": "textual-criticism",
+    "title": "Textual Criticism",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Textual Criticism",
+      "Lower Criticism",
+      "आलोचनात्मक समीक्षा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "description": "The discipline of evaluating manuscript variants to reconstruct a text's history and establish an edited text; its methods (stemmatics, best-text, cladistics) are represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The discipline of evaluating manuscript variants to reconstruct a text's history and establish an edited text; its methods (stemmatics, best-text, cladistics) are represented here as a catalogue entry.",
+    "contentHash": "33af16745ef25b26f973fc8789ca7062bc5e0259daa7649b1f0a195039af7743"
+  },
+  {
+    "id": "upapurana",
+    "title": "Upapurāṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Upapurana",
+      "उपपुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "PURANA",
+      "PHILOSOPHY"
+    ],
+    "description": "The subsidiary Purāṇas, traditionally numbering eighteen, supplementing the Mahāpurāṇas with regional and sectarian material.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The subsidiary Purāṇas, traditionally numbering eighteen, supplementing the Mahāpurāṇas with regional and sectarian material.",
+    "contentHash": "37ae46feae1b523bcc11944e13ab3ec6293cd340c7eeabb3cc0741b8ba9c6083"
   },
   {
     "id": "vairagya",
@@ -910,7 +2320,7 @@
     ],
     "relationshipIds": [],
     "body": "Dispassion or non-attachment, presented in texts as a prerequisite for contemplative progress, with degrees and nuances described differently across traditions.",
-    "contentHash": "385bba1606cd60f7e69ce759897e9a6e79355274abf6079c298b705a9308484c"
+    "contentHash": "7370f5837739774caa8060b45c1770484101aacf5b5072e0d744e04155c0fe8a"
   },
   {
     "id": "varna",
@@ -940,7 +2350,94 @@
     ],
     "relationshipIds": [],
     "body": "The fourfold classification—brāhmaṇa, kṣatriya, vaiśya, śūdra—whose textual prescriptions, historical manifestations, and contemporary significance are distinct and should not be conflated.",
-    "contentHash": "4849f5b456b7f969a6db04816738d94394331da6036db4a8ccb795376509d54a"
+    "contentHash": "ac196934e0a8e30674233df707317a897520443622955444b4329c6d490bac98"
+  },
+  {
+    "id": "videhamukti",
+    "title": "Videhamukti",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Videhamukti",
+      "विदेहमुक्ति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "Liberation after death, contrasted with jīvanmukti; its relationship to embodied liberation varies across Vedānta schools.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Liberation after death, contrasted with jīvanmukti; its relationship to embodied liberation varies across Vedānta schools.",
+    "contentHash": "6e715a03db06837996f73a365ee31e25cb4cfdb1f93c70f829e30cf4393c90e3"
+  },
+  {
+    "id": "vidura",
+    "title": "Vidura",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "विदुर"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The wise half-brother of Dhṛtarāṣṭra and Pāṇḍu, known for his counsel in the Mahābhārata; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The wise half-brother of Dhṛtarāṣṭra and Pāṇḍu, known for his counsel in the Mahābhārata; traditional narratives are represented without historical conflation.",
+    "contentHash": "0b09c53a7a9c673fad30e714f1ab16c8384752723f0170ddb377dca8abce519b"
+  },
+  {
+    "id": "vivarta-vada",
+    "title": "Vivartavāda",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vivartavada",
+      "विवर्तवाद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Vedanta"
+    ],
+    "description": "The Advaita doctrine of \"apparent manifestation\" — the world as an illusory appearance (vivarta) of Brahman, not a real transformation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Advaita doctrine of \"apparent manifestation\" — the world as an illusory appearance (vivarta) of Brahman, not a real transformation.",
+    "contentHash": "826b15d04223361de95e01b9f1c54a7315739624200c4e3598c6bf42be576e1a"
   },
   {
     "id": "vyakarana",
@@ -969,7 +2466,7 @@
     ],
     "relationshipIds": [],
     "body": "The Vedāṅga of grammar, epitomized by Pāṇini's Aṣṭādhyāyī, which systematized Sanskrit morphology and syntax.",
-    "contentHash": "fe6cc770cc40a018e110ea28f8e4870fbe376f178c168a00e3ba6cad3b418e53"
+    "contentHash": "20b96ded2aef8383741f713f3f17331db99e2c216b0d041d41c6ea6fb187878e"
   },
   {
     "id": "yoga",
@@ -999,7 +2496,36 @@
     ],
     "relationshipIds": [],
     "body": "A term with philosophical, contemplative and practical uses across different traditions; it is not reduced here to one modern meaning.",
-    "contentHash": "3ae47a6dac3117fef997cffe8cbef2f1d83b245b218828d46ab079f9d8cc795b"
+    "contentHash": "98db129548a181721e85f78391cc8a4afe968f6ee26abab9864c74e3dd6a95b7"
+  },
+  {
+    "id": "yudhishthira",
+    "title": "Yudhiṣṭhira",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Yudhishthira",
+      "युधिष्ठिर"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CONCEPT",
+      "Itihasa"
+    ],
+    "description": "The eldest Pāṇḍava, known for his adherence to dharma; traditional narratives are represented without historical conflation.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The eldest Pāṇḍava, known for his adherence to dharma; traditional narratives are represented without historical conflation.",
+    "contentHash": "2982e4e67d1fc4bf8f4a716304d8e4fcb92fda0e6765fbe3e44eb30d4a06f040"
   },
   {
     "id": "devi",
@@ -1028,7 +2554,7 @@
     ],
     "relationshipIds": [],
     "body": "The Goddess in her manifold forms; this record represents the broad category of Devī-centered traditions without collapsing their distinct textual and ritual expressions.",
-    "contentHash": "9746245d07440429e1e7518a807b1120adb5c4dda606279421c22680e0d7871e"
+    "contentHash": "d537843af72c9b8eb1c09e5df01b58abb324c0cc40b7a7dfabf247e006927332"
   },
   {
     "id": "ganesha",
@@ -1058,7 +2584,7 @@
     ],
     "relationshipIds": [],
     "body": "A widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.",
-    "contentHash": "fffeeceb871c5b538a231b20b72dfa2bf3c660c692480a2bd8d73a406ce772d4"
+    "contentHash": "c54934f70b5f2356735953fffece9075ebe208bd1758716c1d375b707ccf67d1"
   },
   {
     "id": "shiva",
@@ -1087,7 +2613,7 @@
     ],
     "relationshipIds": [],
     "body": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.",
-    "contentHash": "e99cea5bca8153fd4059f461c1fd8cbe2fd9ceb257adfc85883b458f556545ef"
+    "contentHash": "e713d943d9d7fc5904495762979fab847b3c6473049b9707dbb1b174c4fb78d1"
   },
   {
     "id": "skanda",
@@ -1117,7 +2643,7 @@
     ],
     "relationshipIds": [],
     "body": "A deity with prominent roles in Purāṇic, Tamil, and regional traditions; his narratives and epithets vary significantly across textual and geographical contexts.",
-    "contentHash": "79e7161ee246a94d6d0901f53d3ad6238584999ffd28fc1623cd7c532a1020a0"
+    "contentHash": "ba6c08ded5cd9defd8b1fe65e0a931c1026d0bb0fb2319d5ea9ce52b333a4102"
   },
   {
     "id": "surya",
@@ -1147,7 +2673,7 @@
     ],
     "relationshipIds": [],
     "body": "The solar deity represented in Vedic, Puranic, and living traditions; this record distinguishes textual portrayals from later syncretic developments.",
-    "contentHash": "18679de86fe4742d4d7ffa47d8123e6a03918f1d951ce28573b924d7fa41b429"
+    "contentHash": "d68f607f701408d752b6c163ba27212998eb85dba922a49b3c762d8d04f2de98"
   },
   {
     "id": "vishnu",
@@ -1176,7 +2702,131 @@
     ],
     "relationshipIds": [],
     "body": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
-    "contentHash": "2486edef3bbc2132692a3093aca8a0b209897d1636265670da6e6f072b7ff8a7"
+    "contentHash": "013289ea7445d324df8421639c17a8e42c759e5961f0266295c1283652b20685"
+  },
+  {
+    "id": "adhika-masa",
+    "title": "Adhika Māsa",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Adhika Masa",
+      "Purushottama Masa",
+      "अधिक मास"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "The intercalary lunar month inserted approximately every 32.5 months to align lunar and solar calendars; considered especially auspicious for ritual and charity.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The intercalary lunar month inserted approximately every 32.5 months to align lunar and solar calendars; considered especially auspicious for ritual and charity.",
+    "contentHash": "4280eae62a7e94a8a015f3313cf2206861f89183fac0e76772ca8c5aeab93fdd"
+  },
+  {
+    "id": "akshaya-tritiya",
+    "title": "Akṣaya Tṛtīyā",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Akshaya Tritiya",
+      "अक्षय तृतीया"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "A festival falling on the third lunar day of bright Vaiśākha, associated with prosperity, new ventures, and the descent of Gaṅgā; observances vary by region and tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival falling on the third lunar day of bright Vaiśākha, associated with prosperity, new ventures, and the descent of Gaṅgā; observances vary by region and tradition.",
+    "contentHash": "1f7da275a1966e317c5ef25b925c3cb20fa10bcfa98426ce16bd103766a85dc5"
+  },
+  {
+    "id": "chaturmasya",
+    "title": "Cāturmāsya",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Chaturmasya",
+      "Chaturmas",
+      "चार्तुमास्य"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "RITUAL",
+      "PRACTICE"
+    ],
+    "description": "The four-month monsoon period (Āṣāḍha–Kārttika) when ascetics traditionally remain stationary and householders observe additional vows; its observances vary by tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The four-month monsoon period (Āṣāḍha–Kārttika) when ascetics traditionally remain stationary and householders observe additional vows; its observances vary by tradition.",
+    "contentHash": "ae330a7f099675edc2de7ae1d5c7e3f7500ea5c01a5f6cac07ce21ac96c8bdc7"
+  },
+  {
+    "id": "deva-uthani-ekadashi",
+    "title": "Deva Uthānī Ekādaśī",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Deva Uthani Ekadashi",
+      "Prabodhini Ekadashi",
+      "देव उठनी एकादशी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "TRADITION"
+    ],
+    "description": "The Ekādaśī in bright Kārttika marking Viṣṇu's awakening from cosmic sleep (yoganidrā); marks the end of Cāturmāsya and resumption of auspicious activities.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Ekādaśī in bright Kārttika marking Viṣṇu's awakening from cosmic sleep (yoganidrā); marks the end of Cāturmāsya and resumption of auspicious activities.",
+    "contentHash": "16fd80f222319dbacf79bd5f0a572739aafb4357af090549e2959d9498abe148"
   },
   {
     "id": "dipavali",
@@ -1206,7 +2856,7 @@
     ],
     "relationshipIds": [],
     "body": "A festival of lights observed across regions and communities with varied narratives, rituals, and historical associations.",
-    "contentHash": "fcc28201437590e3702fa8a785659bbf1224f6c58db19c9f6a98a77c3c087714"
+    "contentHash": "c3cb3f2d8c3c5edf7a7ca79d316f1c6f125878b159b51b452537350222d809be"
   },
   {
     "id": "ganesha-caturthi",
@@ -1227,7 +2877,7 @@
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "DEITY",
+      "Deity",
       "TRADITION",
       "REGIONAL_TRADITION",
       "CULTURE"
@@ -1238,7 +2888,37 @@
     ],
     "relationshipIds": [],
     "body": "A festival associated with Gaṇeśa whose public and household observances vary by region and community.",
-    "contentHash": "0327019742840955f69c964c5c64de0ed79c181b998584dc4036db5d3617ae70"
+    "contentHash": "0eff7bc67d2bff3002efece3a5d6996dd6b1b8d4328b1b80ea8a6464a498115a"
+  },
+  {
+    "id": "gita-jayanti",
+    "title": "Gītā Jayantī",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gita Jayanti",
+      "गीता जयन्ती"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Itihasa",
+      "Tradition"
+    ],
+    "description": "A festival commemorating the Bhagavad Gītā's revelation, observed on Mokṣadā Ekādaśī in Mārgaśīrṣa; its observances include recitation and discourse.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival commemorating the Bhagavad Gītā's revelation, observed on Mokṣadā Ekādaśī in Mārgaśīrṣa; its observances include recitation and discourse.",
+    "contentHash": "941512c2a426dacc0a183ad8203030d7808e38c063f9d0bb33475789222abfa0"
   },
   {
     "id": "guru-purnima",
@@ -1263,13 +2943,43 @@
       "PRACTICE",
       "REGIONAL_TRADITION"
     ],
-    "description": "A festival honoring spiritual teachers, observed on the full moon of Āṣāḍha; its specific observances vary by lineage and region.",
+    "description": "A festival honoring spiritual teachers, observed on the full moon of Āṣāḍha in Hindu traditions; Buddhist and Jain traditions observe related festivals on different dates; specific observances vary by lineage and region.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A festival honoring spiritual teachers, observed on the full moon of Āṣāḍha; its specific observances vary by lineage and region.",
-    "contentHash": "34443f52d38a0deb6972c62d0259f96fa4b4931f172997d2262144f758a4ecbb"
+    "body": "A festival honoring spiritual teachers, observed on the full moon of Āṣāḍha in Hindu traditions; Buddhist and Jain traditions observe related festivals on different dates; specific observances vary by lineage and region.",
+    "contentHash": "d40a00194fc8a7d6965647e6ce8aa21844499b95a46f2d67badff327e87cb3ab"
+  },
+  {
+    "id": "hartalika-teej",
+    "title": "Hartālika Tīja",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Hartalika Teej",
+      "हरतालिका तीज"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "A festival observed primarily by women in North and Central India for marital well-being, associated with Pārvatī's penance for Śiva; practices vary by region.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival observed primarily by women in North and Central India for marital well-being, associated with Pārvatī's penance for Śiva; practices vary by region.",
+    "contentHash": "481c04b5e17777d0496bf89aaee31337f92d4302138d7d040d85e294be621070"
   },
   {
     "id": "holi",
@@ -1299,7 +3009,7 @@
     ],
     "relationshipIds": [],
     "body": "A spring festival represented through varied regional practice, story, and community contexts.",
-    "contentHash": "2dea679e86b74f95cad60dfc5a54f17d882ff2bc0476feb3859a7262f68de821"
+    "contentHash": "ff831b3be9eb372e1083fb4344b943b416b1658b9daa6e441dbfd5a3f5e3eb5d"
   },
   {
     "id": "janmashtami",
@@ -1320,7 +3030,7 @@
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "DEITY",
+      "Deity",
       "TRADITION",
       "ITIHASA",
       "REGIONAL_TRADITION"
@@ -1331,7 +3041,7 @@
     ],
     "relationshipIds": [],
     "body": "A festival associated with Kṛṣṇa in varied regional and devotional contexts; its observances and narratives differ across traditions.",
-    "contentHash": "ef49e5a3b0a566cfc1c634e5e2f8a4999f55907ad64735a14de52982d122e3e6"
+    "contentHash": "52bb08dfc4840c1bda6c06167624436c82c1e8ff3495e00c25eb6553084e4f01"
   },
   {
     "id": "kumbha-mela",
@@ -1356,13 +3066,13 @@
       "CULTURE",
       "REGIONAL_TRADITION"
     ],
-    "description": "A massive periodic pilgrimage festival rotating among four sites; its historical development and sectarian participation are complex and varied.",
+    "description": "A massive periodic pilgrimage festival held at four sites—Prayagraj, Haridwar, Ujjain, and Nashik—on different cycles; its historical development, sectarian participation, and site-specific management are complex and varied.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A massive periodic pilgrimage festival rotating among four sites; its historical development and sectarian participation are complex and varied.",
-    "contentHash": "b774b9d9a091c9e48c4429b12d55d6fdefc2a39b2c41ad35198c1fe4a343bd90"
+    "body": "A massive periodic pilgrimage festival held at four sites—Prayagraj, Haridwar, Ujjain, and Nashik—on different cycles; its historical development, sectarian participation, and site-specific management are complex and varied.",
+    "contentHash": "0bb3894f0080a7341cb5e1bad88275e49b4082b42438545850fcd5e8e1420f34"
   },
   {
     "id": "mahashivaratri",
@@ -1383,7 +3093,7 @@
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "DEITY",
+      "Deity",
       "TRADITION",
       "REGIONAL_TRADITION"
     ],
@@ -1393,7 +3103,68 @@
     ],
     "relationshipIds": [],
     "body": "A festival associated with Śiva observed through varied devotional and regional practices; its specific narratives and rituals differ across traditions.",
-    "contentHash": "90c85e5c8f005f072f03f71badf05b1019d266a8d2d5bc6c72d768b85f2515d1"
+    "contentHash": "953899155bb39d31e1d14030209cb08029df0cc2ef2ee7aee9081441665aa8bf"
+  },
+  {
+    "id": "makar-sankranti",
+    "title": "Makara Saṅkrānti",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Makar Sankranti",
+      "मकर संक्रान्ति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "Culture",
+      "Sanskrit"
+    ],
+    "description": "The solar transition into Capricorn (Makara), marking uttarāyaṇa; celebrated across India with diverse regional names and practices (Pongal, Lohri, Magh Bihu, etc.).",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The solar transition into Capricorn (Makara), marking uttarāyaṇa; celebrated across India with diverse regional names and practices (Pongal, Lohri, Magh Bihu, etc.).",
+    "contentHash": "f1c269fad3466143753d0b1340aee3567788e948f9df8e17656c5a214e03a5e3"
+  },
+  {
+    "id": "nag-panchami",
+    "title": "Nāga Pañcamī",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nag Panchami",
+      "नाग पंचमी"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "A festival honoring serpent deities (nāgas) on the fifth day of bright Śrāvaṇa; its observances, including milk offerings and snake imagery, vary regionally.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival honoring serpent deities (nāgas) on the fifth day of bright Śrāvaṇa; its observances, including milk offerings and snake imagery, vary regionally.",
+    "contentHash": "77d396e7d508f42ab59dc0c5a2ded121d8d400b9c6c9d185292663732dc6b0d8"
   },
   {
     "id": "navaratri",
@@ -1414,7 +3185,7 @@
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "DEITY",
+      "Deity",
       "REGIONAL_TRADITION",
       "CULTURE"
     ],
@@ -1424,7 +3195,38 @@
     ],
     "relationshipIds": [],
     "body": "A nine-night festival period whose forms, narratives, and observances vary significantly by region, tradition, and Devī-centered lineage.",
-    "contentHash": "799ce68c38b37d33d157ad1b615811d1fda6cc18d02f8f8d41d45e1f5c5980fc"
+    "contentHash": "616e1417bf71ffb61b512a608d92a9791362b447a2e5928231c89134a8000a9a"
+  },
+  {
+    "id": "raksha-bandhan",
+    "title": "Rakṣābandhana",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Raksha Bandhan",
+      "Rakhi",
+      "रक्षाबन्धन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "A festival celebrating the sibling bond, where sisters tie a protective thread (rakhi) on brothers' wrists; its rituals and regional variations are diverse.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival celebrating the sibling bond, where sisters tie a protective thread (rakhi) on brothers' wrists; its rituals and regional variations are diverse.",
+    "contentHash": "241bf0f66a87bef4095dc4d7732f0774b0c5e85b6c4deee965762ee86b0cbbc4"
   },
   {
     "id": "ramanavami",
@@ -1445,7 +3247,7 @@
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "DEITY",
+      "Deity",
       "TRADITION",
       "ITIHASA",
       "REGIONAL_TRADITION"
@@ -1456,7 +3258,70 @@
     ],
     "relationshipIds": [],
     "body": "A festival associated with Rāma in varied regional and devotional contexts; its observances differ across traditions.",
-    "contentHash": "51ccd629f1a608e78828ca691fb828427708e5dc0cc4a2067c8cc9d851a0c9ab"
+    "contentHash": "0a122882379a8a81e6056bcc838446008e284a093da3b80d3dc3a0f56475458e"
+  },
+  {
+    "id": "rath-yatra",
+    "title": "Ratha Yātrā",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Rath Yatra",
+      "Jagannath Rath Yatra",
+      "रथ यात्रा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "Deity",
+      "Tradition",
+      "Culture"
+    ],
+    "description": "The chariot festival of Jagannātha at Purī, where the deities are taken in massive chariots to Guṇḍicā Temple; its scale, rituals, and participation are distinctive to Odisha.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The chariot festival of Jagannātha at Purī, where the deities are taken in massive chariots to Guṇḍicā Temple; its scale, rituals, and participation are distinctive to Odisha.",
+    "contentHash": "e94a1ac4d095dcdb0b03fc4134ad8c0b4d95500e27b58c2bcae6452df43a4e6d"
+  },
+  {
+    "id": "vat-savitri",
+    "title": "Vaṭa Sāvitrī",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vat Savitri",
+      "वट सावित्री"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "Festival",
+      "CULTURE"
+    ],
+    "description": "A festival observed by married women for their husbands' longevity, centered on the banyan tree (vaṭa) and the Sāvitrī-Satyavān narrative; practices vary regionally.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A festival observed by married women for their husbands' longevity, centered on the banyan tree (vaṭa) and the Sāvitrī-Satyavān narrative; practices vary regionally.",
+    "contentHash": "635388acbace8bc22be489f3c49783601beaa24a96ec9a0a321605616c4ad7a9"
   },
   {
     "id": "guru",
@@ -1493,7 +3358,7 @@
     ],
     "relationshipIds": [],
     "body": "A glossary entry for the term guru, representing its range of meanings without prescribing a single definition.",
-    "contentHash": "05e9529a4bc479b040fb6ebb84c3a0534dd65b977fad53bca8eb66dde972c8a5"
+    "contentHash": "6e29e539e10fa87899f938f90697d4ee3cb9f3ea6785d56da3883e008dbc99ce"
   },
   {
     "id": "mantra",
@@ -1531,7 +3396,7 @@
     ],
     "relationshipIds": [],
     "body": "A glossary entry for the term mantra, representing its range of meanings without prescribing a single definition.",
-    "contentHash": "04f5aaacff8fb200ec46448eb6e10e8b8173d2bdda20b803aef63da118580e0b"
+    "contentHash": "3a6ac8152750cabee361b33cd567ac8b758a35cc84c2ee94cf82f328548c7a77"
   },
   {
     "id": "prasada",
@@ -1570,18 +3435,20 @@
     ],
     "relationshipIds": [],
     "body": "A glossary entry for the term prasāda, representing its ritual and social meanings across traditions.",
-    "contentHash": "fa0b7e5bd0bb2f8de2ba859622858f4170fab7ae039f5e7c86218dc0e139d73a"
+    "contentHash": "b762bb0556dba1ee315e039a33981d36efc3bb9013455aab1935c74e4dd4c79d"
   },
   {
-    "id": "tirtha-glossary",
-    "title": "Tīrtha",
-    "type": "glossary-term",
+    "id": "caitanya",
+    "title": "Caitanya Mahāprabhu",
+    "type": "acharya",
     "language": [
       "sa",
       "en"
     ],
     "aliases": [
-      "तीर्थ"
+      "Caitanya Mahaprabhu",
+      "Chaitanya",
+      "चैतन्य महाप्रभु"
     ],
     "sources": [
       "gretil"
@@ -1589,37 +3456,30 @@
     "status": "published",
     "verification": "verified",
     "classifications": [
-      "GLOSSARY",
-      "PILGRIMAGE",
-      "PRACTICE"
+      "ACHARYA",
+      "Vedanta",
+      "Practice",
+      "Tradition"
     ],
-    "term": "Tīrtha",
-    "sanskrit": "तीर्थ",
-    "transliteration": "Tīrtha",
-    "shortMeaning": "A ford, crossing place, or sacred site; also a category of pilgrimage.",
-    "relatedTerms": [
-      "pilgrimage",
-      "tirtha",
-      "kshetra"
-    ],
-    "description": "A glossary entry for the term tīrtha, representing its range from physical geography to metaphorical crossing.",
+    "description": "A 15th–16th century Bengali saint and ācārya, founder of the Gauḍīya Vaiṣṇava tradition; traditional hagiography and historical scholarship are kept distinct.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A glossary entry for the term tīrtha, representing its range from physical geography to metaphorical crossing.",
-    "contentHash": "cbdf80260350d48d795c858e9e5cd5bc50aa829d17467da1ded0dbb1802fe019"
+    "body": "A 15th–16th century Bengali saint and ācārya, founder of the Gauḍīya Vaiṣṇava tradition; traditional hagiography and historical scholarship are kept distinct.",
+    "contentHash": "bc30269c40e1c37f6f78abb2c4002c123e743add2c4f3ba9e7a02b5eeb57cc03"
   },
   {
-    "id": "yoga-glossary",
-    "title": "Yoga",
-    "type": "glossary-term",
+    "id": "jiva-gosvami",
+    "title": "Jīva Gosvāmī",
+    "type": "acharya",
     "language": [
       "sa",
       "en"
     ],
     "aliases": [
-      "योग"
+      "Jiva Gosvami",
+      "जीव गोस्वामी"
     ],
     "sources": [
       "gretil"
@@ -1627,28 +3487,18 @@
     "status": "published",
     "verification": "verified",
     "classifications": [
-      "GLOSSARY",
-      "PRACTICE",
-      "YOGA"
+      "ACHARYA",
+      "Vedanta",
+      "Practice",
+      "Tradition"
     ],
-    "term": "Yoga",
-    "sanskrit": "योग",
-    "transliteration": "Yoga",
-    "shortMeaning": "A term for union, discipline, or method whose meanings span philosophy, contemplative practice, and physical culture.",
-    "relatedTerms": [
-      "asana",
-      "pranayama",
-      "dhyana",
-      "yama",
-      "niyama"
-    ],
-    "description": "A glossary entry for the term yoga, representing its polysemy across textual and living traditions.",
+    "description": "A 16th-century Gauḍīya Vaiṣṇava theologian, author of the Ṣaṭ-sandarbha and systematic expositor of Caitanya's teachings; traditional attribution is represented without historical conflation.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A glossary entry for the term yoga, representing its polysemy across textual and living traditions.",
-    "contentHash": "dfbc3da3a42579fc9c33a38a1f797458e3fd9355d41a8527ffd163bb995bf647"
+    "body": "A 16th-century Gauḍīya Vaiṣṇava theologian, author of the Ṣaṭ-sandarbha and systematic expositor of Caitanya's teachings; traditional attribution is represented without historical conflation.",
+    "contentHash": "7f6a281a8328c3828b3c14b120ce32bed941c7546903c938768b82f53b8e71a2"
   },
   {
     "id": "madhva",
@@ -1673,13 +3523,44 @@
       "TRADITION",
       "CONCEPT"
     ],
-    "description": "A 13th-century ācārya associated with Dvaita Vedānta; this record represents his tradition without ranking it against other schools.",
+    "description": "Traditional dating assigns Madhva to the 13th century CE; scholarly dates vary. He is associated with Dvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A 13th-century ācārya associated with Dvaita Vedānta; this record represents his tradition without ranking it against other schools.",
-    "contentHash": "5a3ca6d7f234419a2d3616421c6492afed4d90120f559e64511bdfe222eae5f1"
+    "body": "Traditional dating assigns Madhva to the 13th century CE; scholarly dates vary. He is associated with Dvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.",
+    "contentHash": "5bc94dd8b9a38072b51d365a387154d12e9a04d31f5f836fe0a8a0d2e4507fda"
+  },
+  {
+    "id": "nimbarka",
+    "title": "Nimbārka",
+    "type": "acharya",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nimbarka",
+      "निम्बार्क"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ACHARYA",
+      "Vedanta",
+      "Tradition",
+      "Practice"
+    ],
+    "description": "A Vedānta ācārya traditionally associated with Dvaitādvaita (Bhedābheda) Vedānta; traditional dating and biography are kept distinct from historical scholarship.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Vedānta ācārya traditionally associated with Dvaitādvaita (Bhedābheda) Vedānta; traditional dating and biography are kept distinct from historical scholarship.",
+    "contentHash": "a9fb9441ae31167587f4ff56f35b96a126fd9a6a3683e869717097845a48c8dd"
   },
   {
     "id": "ramanuja",
@@ -1704,13 +3585,13 @@
       "TRADITION",
       "CONCEPT"
     ],
-    "description": "An 11th–12th-century ācārya associated with Viśiṣṭādvaita Vedānta; this record represents his tradition without ranking it against other schools.",
+    "description": "Traditional dating assigns Rāmānuja to the 11th–12th century CE; scholarly dates vary. He is associated with Viśiṣṭādvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "An 11th–12th-century ācārya associated with Viśiṣṭādvaita Vedānta; this record represents his tradition without ranking it against other schools.",
-    "contentHash": "58666af9b6594e980588c6d90c8af7c32476b2f1dc61649ad446a917e2a02d0d"
+    "body": "Traditional dating assigns Rāmānuja to the 11th–12th century CE; scholarly dates vary. He is associated with Viśiṣṭādvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.",
+    "contentHash": "35ec7836dcf18ab3be08ae6da3e1c59789cd116490010ed48bf596fa7f6a07d3"
   },
   {
     "id": "shankara",
@@ -1735,13 +3616,44 @@
       "TRADITION",
       "CONCEPT"
     ],
-    "description": "An 8th-century ācārya traditionally associated with Advaita Vedānta; traditional hagiography and historical scholarship are kept distinct in this record.",
+    "description": "Traditional attribution places Śaṅkara in the 8th century CE; scholarly dating varies and historical reconstruction remains distinct from hagiographical accounts. He is associated with Advaita Vedānta through traditional and textual lineages.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "An 8th-century ācārya traditionally associated with Advaita Vedānta; traditional hagiography and historical scholarship are kept distinct in this record.",
-    "contentHash": "3f597a117d7356ae40f4aa920537f4b5cabfa7827abea623794bf04331d588d1"
+    "body": "Traditional attribution places Śaṅkara in the 8th century CE; scholarly dating varies and historical reconstruction remains distinct from hagiographical accounts. He is associated with Advaita Vedānta through traditional and textual lineages.",
+    "contentHash": "6dd12ae0b22acbd79d3bc58b253596a4e5633df4b3608bba344c5d73e2932c95"
+  },
+  {
+    "id": "vallabha",
+    "title": "Vallabha",
+    "type": "acharya",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vallabhacharya",
+      "वल्लभ"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ACHARYA",
+      "Vedanta",
+      "Tradition",
+      "Practice"
+    ],
+    "description": "A Vedānta ācārya associated with Śuddhādvaita (Pure Non-dualism) and the Puṣṭimārga tradition; traditional dating and biography are kept distinct from historical scholarship.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Vedānta ācārya associated with Śuddhādvaita (Pure Non-dualism) and the Puṣṭimārga tradition; traditional dating and biography are kept distinct from historical scholarship.",
+    "contentHash": "34371f7d5ad8fbebb3c513ba03dfdc4950aabf67ff5063837c68f92fbdc9f683"
   },
   {
     "id": "valmiki",
@@ -1765,13 +3677,13 @@
       "ITIHASA",
       "CONCEPT"
     ],
-    "description": "The traditional author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.",
+    "description": "Traditional attribution identifies Vālmīki as the author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The traditional author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.",
-    "contentHash": "fd7acc4db23cd37bb8f501f8e0191b81f8396304697e798960ff9902e7b50f3f"
+    "body": "Traditional attribution identifies Vālmīki as the author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.",
+    "contentHash": "b406cdc827da8823c598ecf7874ae86ac1eb8430cda64d4bf24d6431b7ae9cdd"
   },
   {
     "id": "vyasa",
@@ -1795,13 +3707,13 @@
       "ITIHASA",
       "CONCEPT"
     ],
-    "description": "The traditional compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.",
+    "description": "Traditional attribution identifies Vyāsa as the compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The traditional compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.",
-    "contentHash": "cca259ab1cbd91c05fb971ee11007c3681a3b226b97ac0ee294274fe6e909c3a"
+    "body": "Traditional attribution identifies Vyāsa as the compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.",
+    "contentHash": "ff18a727b69fe4693624a81e0b0c9c112b3a147885abdbbdb1e5ee3c0607516d"
   },
   {
     "id": "advaita-vedanta",
@@ -1858,7 +3770,7 @@
     ],
     "relationshipIds": [],
     "body": "A philosophical tradition focused on logic, epistemology, and the means of valid knowledge (pramāṇa), with a distinct technical vocabulary.",
-    "contentHash": "2794b887716f47921b8319a90c90e7f20b2b8096c0c55e15719bd852337945cb"
+    "contentHash": "4fbe886280dadc75ad1ae0a2d2591c632a50ff2a172c6aa4b15409b2234d405b"
   },
   {
     "id": "purva-mimamsa",
@@ -1887,7 +3799,7 @@
     ],
     "relationshipIds": [],
     "body": "A tradition focused on Vedic hermeneutics, ritual action, and the authority of the Veda as an instrument of valid knowledge.",
-    "contentHash": "244440ad30c3209e0fd22bb3cca91211eb3332f59f61f1454a76c355dd72ecf1"
+    "contentHash": "0d1dc14851b916b429a89a9cb8bae540fb20ba828936287e4b23e7799a1b21e3"
   },
   {
     "id": "samkhya",
@@ -1915,35 +3827,7 @@
     ],
     "relationshipIds": [],
     "body": "A dualistic philosophical tradition distinguishing puruṣa and prakṛti, represented here without reducing its technical categories to a universal summary.",
-    "contentHash": "31fbe6b4907b3ce8135830307899a395a279b4428e1b1ba88f57388846590a04"
-  },
-  {
-    "id": "sankhya",
-    "title": "Sāṃkhya",
-    "type": "philosophical-school",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "सांख्य"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "DARSHANA",
-      "PHILOSOPHY"
-    ],
-    "description": "A philosophical tradition represented here without reducing its concepts to a universal summary.",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "A philosophical tradition represented here without reducing its concepts to a universal summary.",
-    "contentHash": "674aadc2695d3a3ce88bf7928135117378cd2c9969d3b3374db441ecc233c2c1"
+    "contentHash": "6a2fa2146f4c6a3955106afa4073da21aba9401caffe809da31f38e6b209ba1a"
   },
   {
     "id": "vaisheshika",
@@ -1971,7 +3855,7 @@
     ],
     "relationshipIds": [],
     "body": "A school of atomistic metaphysics and category theory, closely associated with Nyāya in later synthetic developments.",
-    "contentHash": "d1a3e7ca07f5616c9c1ec55513ab1137b40127e503e1ede5920f41651eb9c708"
+    "contentHash": "cf93fee94771a14c118904ba17da752bf6c7795abaa6011be3a5158e1dfb583e"
   },
   {
     "id": "vedanta",
@@ -2000,7 +3884,7 @@
     ],
     "relationshipIds": [],
     "body": "A family of traditions interpreting the Upaniṣads, Brahma-sūtras, and Bhagavad Gītā; its internal schools are represented separately.",
-    "contentHash": "d071e592cbdf6559bb54eb2cf1eba813c40280b47fe700121c789686bc148621"
+    "contentHash": "144e4fe4d9117a972e21b939017ab59f0a3bab499322d11d03f92f710f718986"
   },
   {
     "id": "yoga-darshana",
@@ -2029,7 +3913,68 @@
     ],
     "relationshipIds": [],
     "body": "The philosophical school systematized in the Yogasūtras, distinct from the many modern and traditional uses of the term yoga.",
-    "contentHash": "8181eda7aa40c8c68c9c7eb77b5542a7a7b77d319e47e99f9d4857a8462938b4"
+    "contentHash": "9b15d09cde423cc08d2f639cf6e15eae9e7d7aab3725d76a1465034620ae9015"
+  },
+  {
+    "id": "abhisheka",
+    "title": "Abhiṣeka",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Abhishek",
+      "Abhisheka",
+      "अभिषेक"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "RITUAL",
+      "DEITY",
+      "TEMPLE"
+    ],
+    "description": "The ritual bathing of a deity or sacred object with water, milk, curd, honey, etc.; its materials, mantras, and occasions vary by tradition and Āgama.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The ritual bathing of a deity or sacred object with water, milk, curd, honey, etc.; its materials, mantras, and occasions vary by tradition and Āgama.",
+    "contentHash": "d72c4204e1afcf5962e905727fa94f32282be14865170d5427c9bbaeb420bd60"
+  },
+  {
+    "id": "annaprashana",
+    "title": "Annaprāśana",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Annaprashana",
+      "अन्नप्राशन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The seventh saṃskāra, the first feeding of solid food, typically in the sixth month; its timing and food items vary by tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The seventh saṃskāra, the first feeding of solid food, typically in the sixth month; its timing and food items vary by tradition.",
+    "contentHash": "af0de69ce136888f6022f60497e41a5a3fb2461d3ffd79567408e812332aa0ae"
   },
   {
     "id": "antyeshti",
@@ -2058,7 +4003,130 @@
     ],
     "relationshipIds": [],
     "body": "The final sacrament or funeral rites, whose procedures and underlying eschatology differ across texts, regions, and communities.",
-    "contentHash": "7bbc941a19ddef609fa9a71f433430a1b27cdd2b304bfdd2c1821abde49ca406"
+    "contentHash": "dabbdf45a1253ce3eb4556f5262094ebb351341161b7714e57d24186d9e47f4c"
+  },
+  {
+    "id": "arati",
+    "title": "Ārati",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Arati",
+      "Aarti",
+      "आरती"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "RITUAL",
+      "DEITY",
+      "TEMPLE"
+    ],
+    "description": "The waving of lights before a deity as the culminating offering in worship; its form, number of lamps, and accompanying hymns vary by tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The waving of lights before a deity as the culminating offering in worship; its form, number of lamps, and accompanying hymns vary by tradition.",
+    "contentHash": "03636f5e9718545f947aac735e5c20c236eaf3187ce9beb9c668e4a630c1d4d5"
+  },
+  {
+    "id": "archana",
+    "title": "Arcana",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Archana",
+      "अर्चन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "RITUAL",
+      "DEITY",
+      "TEMPLE"
+    ],
+    "description": "The ritual worship of a deity through sequential offerings (upacāras), typically in temple or home shrine; its sequence and items vary by tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The ritual worship of a deity through sequential offerings (upacāras), typically in temple or home shrine; its sequence and items vary by tradition.",
+    "contentHash": "e528cd9d041311399ed31d2b5792ba916b426ecb8e1b27e45b4f9525471e6dd0"
+  },
+  {
+    "id": "bhajan",
+    "title": "Bhajan",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "भजन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Practice",
+      "MANTRA",
+      "TRADITION"
+    ],
+    "description": "A devotional song or hymn, often in vernacular languages, sung individually or in groups; its forms, languages, and musical styles are diverse across regions and traditions.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A devotional song or hymn, often in vernacular languages, sung individually or in groups; its forms, languages, and musical styles are diverse across regions and traditions.",
+    "contentHash": "8a0317c5ab3ce70ad2ba0979dae0b45c75af5f7082a2ee6bffd7ef6110739660"
+  },
+  {
+    "id": "chudakarana",
+    "title": "Cūḍākaraṇa",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Chudakarana",
+      "Chudakarma",
+      "चूडाकरण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The eighth saṃskāra, the first haircut (tonsure), typically in the first or third year; its timing and rites vary by text and regional tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The eighth saṃskāra, the first haircut (tonsure), typically in the first or third year; its timing and rites vary by text and regional tradition.",
+    "contentHash": "c18b855f603483ee83bbe200339782bdaa81327fef40627bf516d1526926c93f"
   },
   {
     "id": "dhyana",
@@ -2086,7 +4154,96 @@
     ],
     "relationshipIds": [],
     "body": "A contemplative practice term whose methods and aims vary across philosophical and living traditions.",
-    "contentHash": "033d2de9ecfccfaaf20cdb68e965ebd7ad41dcf668badef0f437ad667b1d2627"
+    "contentHash": "148bea4b39d04b98e290dc9da3bbf51503c929302b883309d063554fb0c3aef1"
+  },
+  {
+    "id": "garbhadhana",
+    "title": "Garbhādhāna",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Garbhadhana",
+      "गर्भाधान"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The first saṃskāra, the rite of conception or impregnation, prescribed in Dharmaśātra for the desire of progeny; its observance varies by text and tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The first saṃskāra, the rite of conception or impregnation, prescribed in Dharmaśātra for the desire of progeny; its observance varies by text and tradition.",
+    "contentHash": "d462895c7c8509e37fca39acc2b863073081dd3cb0d41bbcb01bdae79ae12f79"
+  },
+  {
+    "id": "havana",
+    "title": "Havana",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Havan",
+      "हवन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Ritual",
+      "Vedanga"
+    ],
+    "description": "Synonym for homa, the fire offering ritual; represented here as a catalogue entry without duplicating the homa record.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Synonym for homa, the fire offering ritual; represented here as a catalogue entry without duplicating the homa record.",
+    "contentHash": "ad9ff3137d7cc7e1b6134e969fed02356c3ab3fd6ad77a0035ca83e3f9cb92d4"
+  },
+  {
+    "id": "homa",
+    "title": "Homa",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Havan",
+      "होम"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Ritual",
+      "Vedanga"
+    ],
+    "description": "The fire offering (homa/havana) in which oblations are poured into the sacred fire; its mantras, materials, and purposes vary by Vedic school and occasion.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The fire offering (homa/havana) in which oblations are poured into the sacred fire; its mantras, materials, and purposes vary by Vedic school and occasion.",
+    "contentHash": "0d38c9df43746905d5f9a87574268032b95eea768d6c43016612193c51cfe723"
   },
   {
     "id": "japa",
@@ -2114,7 +4271,185 @@
     ],
     "relationshipIds": [],
     "body": "A practice category involving repeated recitation in varied contexts; traditions differ in mantra, method and guidance.",
-    "contentHash": "f69ac9bb512b37845dd6317f1fe580cc0f02f779444da9e8b7850e445eca6c82"
+    "contentHash": "bb3d7bdb51a7ba49a90792eeb8bf3a2f6a3ba5896c3514af70232fef4fbc7af8"
+  },
+  {
+    "id": "jatakarma",
+    "title": "Jātakarma",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Jatakarma",
+      "जातकर्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The fourth saṃskāra, the birth rite performed immediately after delivery; its mantras and procedures vary across texts and family traditions.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The fourth saṃskāra, the birth rite performed immediately after delivery; its mantras and procedures vary across texts and family traditions.",
+    "contentHash": "8f106a204fa332887c3f5e51fb8c658306051b44c0bba472c8fd66bd1a0b5818"
+  },
+  {
+    "id": "karnavedha",
+    "title": "Karṇavedha",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Karnavedha",
+      "कर्णवेध"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The ninth saṃskāra, the ear-piercing rite; its timing, method, and gender applicability vary across texts and regional customs.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The ninth saṃskāra, the ear-piercing rite; its timing, method, and gender applicability vary across texts and regional customs.",
+    "contentHash": "2feb7995a927154429078ca413454979f68d2557f2b12cbc219e2776d0f50e74"
+  },
+  {
+    "id": "kirtan",
+    "title": "Kīrtana",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Kirtan",
+      "कीर्तन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Practice",
+      "MANTRA",
+      "TRADITION"
+    ],
+    "description": "A form of devotional call-and-response singing, often accompanied by instruments; its structure, repertoire, and performance contexts vary across traditions and regions.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A form of devotional call-and-response singing, often accompanied by instruments; its structure, repertoire, and performance contexts vary across traditions and regions.",
+    "contentHash": "2e28a0a34e03402b4c2abfafff2c4323d9f8bdfa9cc9f080998f7313fbe24380"
+  },
+  {
+    "id": "nama-sankirtana",
+    "title": "Nāma Saṅkīrtana",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nama Sankirtana",
+      "नाम संकीर्तन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Practice",
+      "MANTRA",
+      "TRADITION"
+    ],
+    "description": "The congregational chanting of divine names, central to many bhakti traditions; its forms, melodies, and organizational structures vary widely.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The congregational chanting of divine names, central to many bhakti traditions; its forms, melodies, and organizational structures vary widely.",
+    "contentHash": "ed6916ffe38e88f4a38f8b4776483a41c9980661ecf737987a5dce53f2593d80"
+  },
+  {
+    "id": "namakarana",
+    "title": "Nāmakaraṇa",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Namakarana",
+      "नामकरण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The fifth saṃskāra, the naming ceremony typically performed on the eleventh or twelfth day after birth; its timing and customs vary regionally.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The fifth saṃskāra, the naming ceremony typically performed on the eleventh or twelfth day after birth; its timing and customs vary regionally.",
+    "contentHash": "97ce83c655ddbadc9ad48e30dddd0f548928589b242190cfe57b89efeb016991"
+  },
+  {
+    "id": "nishkramana",
+    "title": "Niṣkramaṇa",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nishkramana",
+      "निष्क्रमण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The sixth saṃskāra, the first outing of the child, traditionally in the fourth month; its observance varies by text and family custom.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The sixth saṃskāra, the first outing of the child, traditionally in the fourth month; its observance varies by text and family custom.",
+    "contentHash": "a8b6c2436172764846b4c54b0b2eff0dcbdb4eda0081797b0579943bfb76f1f6"
   },
   {
     "id": "panca-mahayajna",
@@ -2144,7 +4479,99 @@
     ],
     "relationshipIds": [],
     "body": "The five great daily sacrifices—devayajña, ṛṣiyajña, pitṛyajña, bhūtayajña, manusyayajña—prescribed in Dharmaśāstra for householders.",
-    "contentHash": "3d81019ec737058051af7dd02a9e67573f5950ccb8c3e6cb0553697ebcb3d361"
+    "contentHash": "18476a91ad18a8d8c2bbe9a3c5cfb3c47d7a9a15538c8dc4c35668c357be1ace"
+  },
+  {
+    "id": "panchamrita",
+    "title": "Pañcāmṛta",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Panchamrita",
+      "Panchamrit",
+      "पञ्चामृत"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Ritual",
+      "Deity"
+    ],
+    "description": "The \"five nectars\" (milk, curd, ghee, honey, sugar) mixed as a ritual offering and later distributed as prasāda; proportions and additional ingredients vary regionally.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The \"five nectars\" (milk, curd, ghee, honey, sugar) mixed as a ritual offering and later distributed as prasāda; proportions and additional ingredients vary regionally.",
+    "contentHash": "c7fbd6a9fad8cb2247100e7600c356783b642a023c3fde7072adfafc95887647"
+  },
+  {
+    "id": "prana-pratishtha",
+    "title": "Prāṇa Pratiṣṭhā",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Prana Pratishtha",
+      "प्राण प्रतिष्ठा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "RITUAL",
+      "TEMPLE",
+      "DEITY"
+    ],
+    "description": "The ritual installation of the life-force (prāṇa) into a temple image (mūrti), transforming it into a living embodiment of the deity; its elaborate procedures vary by Āgama tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The ritual installation of the life-force (prāṇa) into a temple image (mūrti), transforming it into a living embodiment of the deity; its elaborate procedures vary by Āgama tradition.",
+    "contentHash": "1187b7d9d5d908f8fea8a958c1708cae9c1a9f59bcde31402142c4c81d7fb3a9"
+  },
+  {
+    "id": "pravachana",
+    "title": "Pravacana",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Pravachan",
+      "प्रवचन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "Practice",
+      "TRADITION"
+    ],
+    "description": "A scriptural discourse or sermon, traditionally delivered by a learned teacher; its content, language, and setting vary across traditions and audiences.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A scriptural discourse or sermon, traditionally delivered by a learned teacher; its content, language, and setting vary across traditions and audiences.",
+    "contentHash": "a486c3e97326721f22ad8ffaba2184e1edf4c433f8e97e6346cbc43dd732ac92"
   },
   {
     "id": "puja",
@@ -2172,7 +4599,65 @@
     ],
     "relationshipIds": [],
     "body": "A broad practice category whose forms, meanings and procedures vary by tradition, place and community. This portal does not provide universal ritual instructions here.",
-    "contentHash": "84c4b32e8809f6434f19bb0d6359e3bacabfa5a0b91b2861e3d43fcfb2b2a9aa"
+    "contentHash": "597dc213fc39a20b5201a1a5894a0c1360c63f6dad65466feeba7fd225523664"
+  },
+  {
+    "id": "pumsavana",
+    "title": "Puṃsavana",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Pumsavana",
+      "पुंसवन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The second saṃskāra, performed during pregnancy for the well-being of the fetus; its timing and procedure vary across Dharmaśāstra texts.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The second saṃskāra, performed during pregnancy for the well-being of the fetus; its timing and procedure vary across Dharmaśāstra texts.",
+    "contentHash": "9c9fa6b60a389cc35b3c28de16e83229d76853902df844a2b89f0be5cfee5087"
+  },
+  {
+    "id": "samavartana",
+    "title": "Samāvartana",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Samavartana",
+      "समावर्तन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The eleventh saṃskāra, the completion of Vedic studentship and return home; its observance marks the transition from brahmacarya to gṛhastha.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The eleventh saṃskāra, the completion of Vedic studentship and return home; its observance marks the transition from brahmacarya to gṛhastha.",
+    "contentHash": "806d7b7eda4677f3e60e8ce56caf9e2b974ebb660689cf6007f975219cb52820"
   },
   {
     "id": "samskara",
@@ -2201,7 +4686,7 @@
     ],
     "relationshipIds": [],
     "body": "The sacraments or rites of passage marking life transitions, whose number, sequence, and content vary across textual and regional traditions.",
-    "contentHash": "7a122aa5079a4ce326f72d4c4d7c2a33da437bce4bc9c5a0607bdb315aed31d3"
+    "contentHash": "f44da026647356b11d42a6ba5e0f8c4050e95c6908b62295c456a201f36e9537"
   },
   {
     "id": "sandhyavandana",
@@ -2231,7 +4716,38 @@
     ],
     "relationshipIds": [],
     "body": "A daily observance associated with the junctures of the day, whose specific mantras and procedures differ by Vedic school and family tradition.",
-    "contentHash": "f7158b0fffce94153fe46a604f65112beb0270da95bd3c988ab625cccc85b109"
+    "contentHash": "d0a1d252769c3251b877e466de7cfda799df2a67ebb10efea514f99485f27ff0"
+  },
+  {
+    "id": "shodashopachara",
+    "title": "Ṣoḍaśopacāra",
+    "type": "practice",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Shodashopachara",
+      "षोडशोपचार"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PRACTICE",
+      "RITUAL",
+      "DEITY",
+      "TEMPLE"
+    ],
+    "description": "The \"sixteen offerings\" (upacāras) in formal deity worship: invocation, seat, water, etc.; the exact list and sequence vary by tradition and Āgama.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The \"sixteen offerings\" (upacāras) in formal deity worship: invocation, seat, water, etc.; the exact list and sequence vary by tradition and Āgama.",
+    "contentHash": "b9ac9fe37a625fe4239f24496dc9b2e1c56ecd9dfc8ad6d0c42199de6ea45331"
   },
   {
     "id": "shraddha",
@@ -2262,7 +4778,36 @@
     ],
     "relationshipIds": [],
     "body": "The ancestral offering rites whose procedures, timing, and eligibility vary across textual prescriptions and regional practices.",
-    "contentHash": "a58a437954e73689b4b979859efca69440926951eb2328027ad117f26ee7e40c"
+    "contentHash": "385794d6a4705606e2bb05057f6a0ee35b8eaf31b2044270b070ae0e5b006145"
+  },
+  {
+    "id": "simantonnayana",
+    "title": "Sīmantonnayana",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Simantonnayana",
+      "सीमन्तोन्नयन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra"
+    ],
+    "description": "The third saṃskāra, the parting of the hair rite performed during late pregnancy; its observance varies by text and regional tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The third saṃskāra, the parting of the hair rite performed during late pregnancy; its observance varies by text and regional tradition.",
+    "contentHash": "54b4deea518713dbe0001ea32599b6f5075e9301d5c8d67e4b9557be8ac43f24"
   },
   {
     "id": "svadhyaya",
@@ -2292,7 +4837,7 @@
     ],
     "relationshipIds": [],
     "body": "The practice of self-study or recitation of one's Vedic branch; a niyama in Yoga philosophy and a daily duty in Dharmaśāstra traditions.",
-    "contentHash": "7e3ca0c9b5d2c722dfc44096115fae7f4ad6b8229779edbf8ad3a80025e9564b"
+    "contentHash": "a986abbd33c94cce4cefb74e66ab03d922fc519e7f9e50cf6051f5ce74d72236"
   },
   {
     "id": "tapas",
@@ -2322,7 +4867,7 @@
     ],
     "relationshipIds": [],
     "body": "A term for austerity, heat, or disciplined effort whose forms and purposes vary across Vedic, Yoga, and Purāṇic contexts.",
-    "contentHash": "e6262824afde48367da707bcbc69c17d00d0d390e2e5689a7698c0d4b5639f9d"
+    "contentHash": "01724f666f8d59a21b63ec01ce11ec6fd18e3384cffc6b9c94e92223f05df753"
   },
   {
     "id": "tirtha",
@@ -2351,7 +4896,7 @@
     ],
     "relationshipIds": [],
     "body": "A category for pilgrimage and sacred journeys whose meanings and practices vary by place and tradition.",
-    "contentHash": "239daca7e196a1370c1c9bfe1d9b842a707cde01a11a86a2a289058882313593"
+    "contentHash": "748d1318719a244bd0525dbaf0ee9b5ea474e19dbc79296ad028ec47b2576ee8"
   },
   {
     "id": "upanayana",
@@ -2380,7 +4925,37 @@
     ],
     "relationshipIds": [],
     "body": "The initiation ceremony conferring Vedic studentship, whose age, rites, and social applicability differ across textual and community contexts.",
-    "contentHash": "bd00c002b90923518712effaf14c6d191ef53afe5a8f455e5fa331aaadcc22b1"
+    "contentHash": "615096f999386c41f35151d84c717b96fe59eab921701ab259d6df42fe9f3239"
+  },
+  {
+    "id": "vidyarambha",
+    "title": "Vidyārambha",
+    "type": "ritual",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vidyarambha",
+      "विद्यारम्भ"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "RITUAL",
+      "Dharmashastra",
+      "Practice"
+    ],
+    "description": "The tenth saṃskāra, the commencement of formal education, often coinciding with upanayana or performed separately; its rites vary by tradition.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The tenth saṃskāra, the commencement of formal education, often coinciding with upanayana or performed separately; its rites vary by tradition.",
+    "contentHash": "b0b531b48bcb6c2ac31667f5db2382a5dbe282eee8364f7e5b9ce58961b0a457"
   },
   {
     "id": "vivaha",
@@ -2410,7 +4985,7 @@
     ],
     "relationshipIds": [],
     "body": "The marriage sacrament whose rituals, mantras, and legal frameworks vary across textual prescriptions and regional customary practices.",
-    "contentHash": "cb78390892cfa0cd37859fb058cc2e541b121f6613925230422ef71116e3d4ae"
+    "contentHash": "b0b729a9522cf0c494c178cd961d1c03c94a6f207e57c7725b739cbd924e1100"
   },
   {
     "id": "vrata",
@@ -2439,7 +5014,7 @@
     ],
     "relationshipIds": [],
     "body": "A category of vows or observances whose forms and meanings vary by region, text and tradition.",
-    "contentHash": "6d1a3f2413797dccfaffae0870354c8e216924a17d68492533bb2f8bf200f2be"
+    "contentHash": "6fb83f987f2c517834a49d754820de8313276a8842d66b53c5bc6229a9bbafeb"
   },
   {
     "id": "yajna",
@@ -2469,7 +5044,36 @@
     ],
     "relationshipIds": [],
     "body": "A ritual category with different textual, historical and contemporary contexts; this portal does not provide universal performance instructions.",
-    "contentHash": "59df327b2ad48bf193799ff80888dedfbcdc8827baa5f646bce4dea61ea0cd3b"
+    "contentHash": "06bb49faaf5695aa0563f5b10fc47ccfec295c32ab9e70e6b1ff44650663fd73"
+  },
+  {
+    "id": "agni-purana",
+    "title": "Agni Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Agni Purana",
+      "अग्नि पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa traditionally attributed to Agni, covering cosmology, ritual, medicine, architecture, and grammar; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa traditionally attributed to Agni, covering cosmology, ritual, medicine, architecture, and grammar; represented here as a catalogue entry.",
+    "contentHash": "101a2f4052a9d6a236544ebfc2c3a5aaf2ac8ec44dcc8ecd7edaeb91d81d3bb3"
   },
   {
     "id": "aitareya-upanishad",
@@ -2490,8 +5094,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "An Upaniṣad associated with the Ṛgveda, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2499,7 +5102,36 @@
     ],
     "relationshipIds": [],
     "body": "An Upaniṣad associated with the Ṛgveda, represented here through an original catalogue description.",
-    "contentHash": "3ead5b57fb541b30659edd5ac7338f5745038e39e7eb8fb9b86e25e7129a70ea"
+    "contentHash": "fa1228333bdf8e8376136e689a96e8d15528cb5903509bea07c51b03cd60f884"
+  },
+  {
+    "id": "apastamba-dharmasutra",
+    "title": "Āpastamba Dharmasūtra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Apastamba Dharmasutra",
+      "आपस्तम्ब धर्मसूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra",
+      "DHARMASHASTRA"
+    ],
+    "description": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, noted for its systematic treatment of ritual and law; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, noted for its systematic treatment of ritual and law; represented here as a catalogue entry.",
+    "contentHash": "be348ef048f619b4f544a99a2a47ae7ba45f7df7118d9ac6762d843923119769"
   },
   {
     "id": "aranyaka",
@@ -2529,7 +5161,7 @@
     ],
     "relationshipIds": [],
     "body": "The \"forest texts\" bridging Vedic ritual and Upaniṣadic speculation; represented here as a category rather than individual texts.",
-    "contentHash": "6165ec003cc8ec8b45062d45d4c8004258ffabce55c88d3123fbcb8e435b4089"
+    "contentHash": "870b7d39a923609a7ae0050b695004d1eacd9d57e3f401450e765600fd01bd98"
   },
   {
     "id": "atharvaveda",
@@ -2557,7 +5189,36 @@
     ],
     "relationshipIds": [],
     "body": "A Vedic collection represented as a concise catalogue record. Interpretive and recensional differences require separate sourcing.",
-    "contentHash": "32b6838056bdd22ecb4da04745681f5470649a65fa53b273492be533b4eaafcd"
+    "contentHash": "ad4e32845609a8fe2f12e6b5f2e5f111c271c48b50758a9d47fb68ec579976fc"
+  },
+  {
+    "id": "baudhayana-dharmasutra",
+    "title": "Baudhāyana Dharmasūtra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Baudhayana Dharmasutra",
+      "बौधायन धर्मसूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra",
+      "DHARMASHASTRA"
+    ],
+    "description": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, covering ritual, law, and domestic rites; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, covering ritual, law, and domestic rites; represented here as a catalogue entry.",
+    "contentHash": "e695ae0b664ebd152a694b2a2e182ea3aa44ce24cc74a3756d785df95c23aa7f"
   },
   {
     "id": "bhagavad-gita",
@@ -2589,7 +5250,7 @@
     ],
     "relationshipIds": [],
     "body": "A sample record for a future contextual guide to a text situated within the Mahabharata. No translation or quotation is reproduced here.",
-    "contentHash": "3b918b72fea508da8d11d5d47771c24f349976a91adde66a5b21a7491eaf890f"
+    "contentHash": "1cf6b417033f0ec5ee3d663a0301a9e2c25c0bb2f5bc72b03338e4c44793b713"
   },
   {
     "id": "bhagavata-purana",
@@ -2610,8 +5271,7 @@
     "verification": "verified",
     "classifications": [
       "PURANA",
-      "TRADITION",
-      "CONCEPT"
+      "TRADITION"
     ],
     "description": "A major Purāṇa centered on Kṛṣṇa-bhakti, influential across Vaiṣṇava traditions; this record contains no reproduced translation.",
     "sourceIds": [
@@ -2619,7 +5279,67 @@
     ],
     "relationshipIds": [],
     "body": "A major Purāṇa centered on Kṛṣṇa-bhakti, influential across Vaiṣṇava traditions; this record contains no reproduced translation.",
-    "contentHash": "b101a9a8a0bd18be05e0064a6bf3c1c0271972e8ceae38fe5d4567b4ab77ca34"
+    "contentHash": "8cf2594dc3cb99708f400499843c15b748c155f79ce82d139f9758dfd011d8f8"
+  },
+  {
+    "id": "brahma-purana",
+    "title": "Brahma Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Brahma Purana",
+      "ब्रह्म पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa focused on Brahmā and creation narratives, with sections on pilgrimage, ritual, and cosmology; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa focused on Brahmā and creation narratives, with sections on pilgrimage, ritual, and cosmology; represented here as a catalogue entry.",
+    "contentHash": "5705c3a87829d3b2ef3afd440715fe4d9cc2c8ca7452a49badc2033bfb96684f"
+  },
+  {
+    "id": "brahma-sutra",
+    "title": "Brahma Sūtra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Brahma Sutra",
+      "Vedanta Sutra",
+      "ब्रह्म सूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDANTA",
+      "PHILOSOPHY"
+    ],
+    "description": "The foundational Vedānta text attributed to Bādarāyaṇa, systematizing Upaniṣadic teachings; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The foundational Vedānta text attributed to Bādarāyaṇa, systematizing Upaniṣadic teachings; represented here as a catalogue entry.",
+    "contentHash": "54fe35275dc239cb19cf5839816aaae7ad682f71bafe5cf2c17435bd2a5abf57"
   },
   {
     "id": "brahmana",
@@ -2649,7 +5369,36 @@
     ],
     "relationshipIds": [],
     "body": "The ritual commentaries attached to the Vedic Saṃhitās, explaining sacrificial procedures and their symbolic meanings; represented here as a category rather than individual texts.",
-    "contentHash": "8aea686d7a9e32cef4cbde5f2c9b78949c1862d4ad65dbb7ca7586fb4fc25b07"
+    "contentHash": "a583d67e1e80052d00947ef4fdfbc22372022b6ea48ec8a328a39ede0472bc7f"
+  },
+  {
+    "id": "brahmanda-purana",
+    "title": "Brahmāṇḍa Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Brahmanda Purana",
+      "ब्रह्माण्ड पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa presenting the cosmic egg (brahmāṇḍa) cosmology, genealogies, and geography; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa presenting the cosmic egg (brahmāṇḍa) cosmology, genealogies, and geography; represented here as a catalogue entry.",
+    "contentHash": "9436c225f86916a7aab3b42a4c99c4d2b332cce981da4709fbdb8c74ef2f88cb"
   },
   {
     "id": "brihadaranyaka-upanishad",
@@ -2670,8 +5419,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "The longest Upaniṣad, associated with the Śukla Yajurveda, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2679,7 +5427,7 @@
     ],
     "relationshipIds": [],
     "body": "The longest Upaniṣad, associated with the Śukla Yajurveda, represented here through an original catalogue description.",
-    "contentHash": "a65fdca026a94ed393b255e2cab9bc6f28006f1b9e4d0d179adfd5c80f750a91"
+    "contentHash": "97e084bdce543e4803dbc551f5efd5a1f5816e5fcda9b5f2aa56d5cce20822c2"
   },
   {
     "id": "chandogya-upanishad",
@@ -2700,8 +5448,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "One of the longest Upaniṣads, associated with the Sāmaveda, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2709,7 +5456,7 @@
     ],
     "relationshipIds": [],
     "body": "One of the longest Upaniṣads, associated with the Sāmaveda, represented here through an original catalogue description.",
-    "contentHash": "3682d85c47bbe85232b4542bd168623b55e7d335279576c742ce5f253aea55bb"
+    "contentHash": "5892a28ca36a1032f3bc2019349609f595eb2a56c639d9c94ccc0a3378757381"
   },
   {
     "id": "devi-bhagavata-purana",
@@ -2730,8 +5477,7 @@
     "verification": "verified",
     "classifications": [
       "PURANA",
-      "TRADITION",
-      "TANTRA"
+      "TRADITION"
     ],
     "description": "A major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
     "sourceIds": [
@@ -2739,7 +5485,65 @@
     ],
     "relationshipIds": [],
     "body": "A major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
-    "contentHash": "b70ae81ccccd8825675010327184a4f143799c0cc663b87f21a525dda811c18c"
+    "contentHash": "cdddf80812ab73263c70016f77d717d44dbbe0005fc808494faac4970d6611c1"
+  },
+  {
+    "id": "garuda-purana",
+    "title": "Garuḍa Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Garuda Purana",
+      "गरुड पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa associated with Viṣṇu's vehicle Garuḍa, known for its sections on death, afterlife, and funerary rites; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa associated with Viṣṇu's vehicle Garuḍa, known for its sections on death, afterlife, and funerary rites; represented here as a catalogue entry.",
+    "contentHash": "fb9e78a12892d0d3c43c29768946d469d98b70f52f87c4de26e525b84bb89e54"
+  },
+  {
+    "id": "gautama-dharmasutra",
+    "title": "Gautama Dharmasūtra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gautama Dharmasutra",
+      "गौतम धर्मसूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra",
+      "DHARMASHASTRA"
+    ],
+    "description": "One of the earliest Dharmasūtras, associated with the Sāmaveda, prescribing student, householder, and ascetic duties; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "One of the earliest Dharmasūtras, associated with the Sāmaveda, prescribing student, householder, and ascetic duties; represented here as a catalogue entry.",
+    "contentHash": "d5970242611f9cf1a8ced865d90fc0d9adf0534006a7c534ee4693f3c699a249"
   },
   {
     "id": "isha-upanishad",
@@ -2768,7 +5572,7 @@
     ],
     "relationshipIds": [],
     "body": "A short Upaniṣadic text represented here through an original catalogue description, without reproducing a translation.",
-    "contentHash": "9129865bd9069621a1978b1da8ebae129a217313c3262ead712cc424ec99d464"
+    "contentHash": "36fb2ee8273886dc7c46ac499a3155895854006bdc5e1fa22362bd265553d1fc"
   },
   {
     "id": "katha-upanishad",
@@ -2789,8 +5593,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "An Upaniṣad structured as a dialogue between Naciketas and Yama, represented here through an original catalogue description without reproducing translations.",
     "sourceIds": [
@@ -2798,7 +5601,7 @@
     ],
     "relationshipIds": [],
     "body": "An Upaniṣad structured as a dialogue between Naciketas and Yama, represented here through an original catalogue description without reproducing translations.",
-    "contentHash": "939e544bede73a740876d0c94a75900b4f21b6dbb80bc96fcb30b4caee1ba2c6"
+    "contentHash": "07a760fee4a8fc143f67b97535509aeef8e4816fcd726aa10d678d7842c991de"
   },
   {
     "id": "kena-upanishad",
@@ -2819,8 +5622,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "A short Upaniṣadic text focused on the nature of Brahman and the limits of empirical knowledge, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2828,7 +5630,65 @@
     ],
     "relationshipIds": [],
     "body": "A short Upaniṣadic text focused on the nature of Brahman and the limits of empirical knowledge, represented here through an original catalogue description.",
-    "contentHash": "96143b3ac012b45278bb579f703e9c94ac8ed7d709e3c9e2d4db7e96408f8b2d"
+    "contentHash": "21a515c14b267b28e4020d2f6019d95015aa67a1603416d6aa2600200e125a83"
+  },
+  {
+    "id": "kurma-purana",
+    "title": "Kūrma Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Kurma Purana",
+      "कूर्म पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa narrated by Viṣṇu in his tortoise (kūrma) incarnation, covering cosmology, duty, and yoga; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa narrated by Viṣṇu in his tortoise (kūrma) incarnation, covering cosmology, duty, and yoga; represented here as a catalogue entry.",
+    "contentHash": "d28a34c9c08f8c65a96e15c1e1e3caebd66b21665cd893d7831ec4566670320a"
+  },
+  {
+    "id": "linga-purana",
+    "title": "Liṅga Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Linga Purana",
+      "लिङ्ग पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa centered on the liṅga as the aniconic form of Śiva, with cosmology and ritual; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa centered on the liṅga as the aniconic form of Śiva, with cosmology and ritual; represented here as a catalogue entry.",
+    "contentHash": "7dad24676ba632f29d777c13aafe2a1e7a2c44bb5bc2a58d9555fe7e14863978"
   },
   {
     "id": "mahabharata",
@@ -2860,7 +5720,7 @@
     ],
     "relationshipIds": [],
     "body": "A sample record for a future guide to the Mahābhārata and its textual traditions. No translation or quotation is reproduced here.",
-    "contentHash": "afad68a083a4ffa91799f0ea214a2584145cf6743af2bed8c467a2f37fe464fe"
+    "contentHash": "f580f3eb6b8fb74a44f03a129d6e107433a2a7535569acd3107effcb6421b425"
   },
   {
     "id": "mandukya-upanishad",
@@ -2881,8 +5741,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "The shortest principal Upaniṣad, focused on the syllable Oṃ and the four states of consciousness, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2890,7 +5749,94 @@
     ],
     "relationshipIds": [],
     "body": "The shortest principal Upaniṣad, focused on the syllable Oṃ and the four states of consciousness, represented here through an original catalogue description.",
-    "contentHash": "3848bcab62222a9419accd825e01404d46fdc7abe2413ae4670d201979a239e4"
+    "contentHash": "b3e48f71cc2606bbf8d0d7bc5d548e69a6ab245ece515862ba6d9073e7a6f695"
+  },
+  {
+    "id": "manu-smriti",
+    "title": "Manusmṛti",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Manusmriti",
+      "Manu Smriti",
+      "मानुस्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra"
+    ],
+    "description": "The most influential Dharmaśāstra text, traditionally attributed to Manu, prescribing social, legal, and ritual norms; represented here as a catalogue entry without endorsing its prescriptions as universal.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The most influential Dharmaśāstra text, traditionally attributed to Manu, prescribing social, legal, and ritual norms; represented here as a catalogue entry without endorsing its prescriptions as universal.",
+    "contentHash": "c844ff256cd3fdd284514448a8b62b1ca700e2e3e981f98294a5527a768e79e4"
+  },
+  {
+    "id": "markandeya-purana",
+    "title": "Mārkaṇḍeya Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Markandeya Purana",
+      "मार्कण्डेय पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa narrated by the sage Mārkaṇḍeya, containing the Devī Māhātmya and diverse cosmological narratives; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa narrated by the sage Mārkaṇḍeya, containing the Devī Māhātmya and diverse cosmological narratives; represented here as a catalogue entry.",
+    "contentHash": "2584a8a63bd79c61c72345256563fa6754b29ce5a03779ae343954974d17965a"
+  },
+  {
+    "id": "matsya-purana",
+    "title": "Matsya Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Matsya Purana",
+      "मत्स्य पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa narrated by Viṣṇu in his fish (matsya) incarnation, covering cosmology, genealogy, and temple architecture; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa narrated by Viṣṇu in his fish (matsya) incarnation, covering cosmology, genealogy, and temple architecture; represented here as a catalogue entry.",
+    "contentHash": "27570e6c2a93004540456b5d6ac4b781a383ea2f0c7851cb8c999282ee0d1560"
   },
   {
     "id": "mundaka-upanishad",
@@ -2911,8 +5857,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "An Upaniṣad distinguishing higher and lower knowledge, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2920,7 +5865,152 @@
     ],
     "relationshipIds": [],
     "body": "An Upaniṣad distinguishing higher and lower knowledge, represented here through an original catalogue description.",
-    "contentHash": "8910ff5e796e26d2f741bfef88c34a70727e796a85b8cbbc1576c82c54136941"
+    "contentHash": "5adf0bf561546fad8d78561b9073421330b8a83afc9654c0bd1a0cfb6a4e9c8b"
+  },
+  {
+    "id": "narada-purana",
+    "title": "Nārada Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Narada Purana",
+      "नारद पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa attributed to the sage Nārada, focusing on pilgrimage, ritual, and devotion; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa attributed to the sage Nārada, focusing on pilgrimage, ritual, and devotion; represented here as a catalogue entry.",
+    "contentHash": "c56f1ea253add63f2806dbe8e378b7268ae9c8a83805dca53f732268595c894e"
+  },
+  {
+    "id": "narada-smriti",
+    "title": "Nāradasmṛti",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Narada Smriti",
+      "नारदस्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra"
+    ],
+    "description": "A Dharmaśāstra focused on juridical procedure and legal process, influential in medieval Indian law; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Dharmaśāstra focused on juridical procedure and legal process, influential in medieval Indian law; represented here as a catalogue entry.",
+    "contentHash": "cb88ed8ddc966c3748699db023e867fa90ed5614a7ae0ee9b0a2884e9ab42bf2"
+  },
+  {
+    "id": "natya-shastra",
+    "title": "Nāṭyaśāstra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Natyashastra",
+      "नाट्यशास्त्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "Sanskrit",
+      "Culture",
+      "Art"
+    ],
+    "description": "The foundational treatise on performing arts attributed to Bharata Muni, covering drama, dance, music, and aesthetics; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The foundational treatise on performing arts attributed to Bharata Muni, covering drama, dance, music, and aesthetics; represented here as a catalogue entry.",
+    "contentHash": "0e855674f72df0569798a188dc3340753ae10ef8fc9a50acd01e551bf5ae12b7"
+  },
+  {
+    "id": "padma-purana",
+    "title": "Padma Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Padma Purana",
+      "पद्म पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "One of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "One of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
+    "contentHash": "93a8e0ac50445f676c8505856a9de7fba4e38d1e2da0a4514176fe3a61f88a7c"
+  },
+  {
+    "id": "parashara-smriti",
+    "title": "Parāśarasmṛti",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Parashara Smriti",
+      "पराशरस्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra"
+    ],
+    "description": "A Dharmaśāstra traditionally attributed to Parāśara, prescribing norms for the Kali age; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Dharmaśāstra traditionally attributed to Parāśara, prescribing norms for the Kali age; represented here as a catalogue entry.",
+    "contentHash": "2d10da793555179e4fd2f63a2b1de0bad8106aa25f82ab3fe82a1a2675904e62"
   },
   {
     "id": "prashna-upanishad",
@@ -2941,8 +6031,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "An Upaniṣad organized around six questions, represented here through an original catalogue description.",
     "sourceIds": [
@@ -2950,7 +6039,7 @@
     ],
     "relationshipIds": [],
     "body": "An Upaniṣad organized around six questions, represented here through an original catalogue description.",
-    "contentHash": "3c3415698492633b0f173f3cf1042944699fe6ce343531a68ce43db1e98daae2"
+    "contentHash": "50f0429cf283ade0b4d3f6fe4461cbdca8afc32fe29b1458e825a4c61e0947d3"
   },
   {
     "id": "ramayana",
@@ -2982,7 +6071,7 @@
     ],
     "relationshipIds": [],
     "body": "An Itihāsa text with many regional and textual traditions. This record avoids collapsing those traditions into one account.",
-    "contentHash": "3cbd05cf679b8682d887647f57b2b8979968a96af57c8a8ab027d2ba8ed82f91"
+    "contentHash": "3bbc99fb17ac07cadfc85659b060eab1df75a3fbcdf9138f9e07f39a54648df0"
   },
   {
     "id": "rigveda",
@@ -3013,7 +6102,7 @@
     ],
     "relationshipIds": [],
     "body": "A concise source-aware catalogue overview. This record contains no reproduced scripture or translation.",
-    "contentHash": "a28cb5cfbdb285eac5add05109c56566c51ca55b14865b9a4ad59dcb52ebb1c7"
+    "contentHash": "0f8822e702ffc739b6f353c08eb52f43c144dfc8d0bd4fcf091ddaf4c3094ff8"
   },
   {
     "id": "samaveda",
@@ -3042,7 +6131,7 @@
     ],
     "relationshipIds": [],
     "body": "A Vedic collection represented as a source-aware catalogue entry. Its textual and recitational traditions are not treated as identical to those of the other Vedas.",
-    "contentHash": "8bb3130b6f7bc10ed73e5ac690e84392b0896a823102bc1c1870242956675f38"
+    "contentHash": "7002810a596c7eeaa0fdd78ddbd4302efab08a1a3cae1beb475b12281f92f980"
   },
   {
     "id": "shiva-purana",
@@ -3071,7 +6160,36 @@
     ],
     "relationshipIds": [],
     "body": "A major Śaiva Purāṇa presenting Śiva-centered cosmology, theology, and ritual; represented here as a catalogue entry.",
-    "contentHash": "0d6cfd479fe7a6d20bcfd7786a9d437551483cc2544b870385b0f3e73840ece6"
+    "contentHash": "4a7c5d01b4da83f7e211fc347ca0a39cd91d6ca4297f33e9d2322090b85d6b04"
+  },
+  {
+    "id": "skanda-purana",
+    "title": "Skanda Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Skanda Purana",
+      "स्कन्द पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "The largest Mahāpurāṇa, centered on Kārttikeya (Skanda), with extensive pilgrimage and temple lore; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The largest Mahāpurāṇa, centered on Kārttikeya (Skanda), with extensive pilgrimage and temple lore; represented here as a catalogue entry.",
+    "contentHash": "769e54d451285a062616233d80f25cbae573cf3dd8c894f25c619f3d0ad35d90"
   },
   {
     "id": "taittiriya-upanishad",
@@ -3092,8 +6210,7 @@
     "verification": "verified",
     "classifications": [
       "SHRUTI",
-      "VEDANTA",
-      "SHRUTI"
+      "VEDANTA"
     ],
     "description": "An Upaniṣad associated with the Kṛṣṇa Yajurveda, represented here through an original catalogue description.",
     "sourceIds": [
@@ -3101,7 +6218,123 @@
     ],
     "relationshipIds": [],
     "body": "An Upaniṣad associated with the Kṛṣṇa Yajurveda, represented here through an original catalogue description.",
-    "contentHash": "674a0beed927c678f7613e9899b92b36549ee41336d442a1daa98d4a40c091dd"
+    "contentHash": "37fd3d2030dbb6712d13dcd5b2d01f2f5eb288d0094d84a9a7f7a54a8587af04"
+  },
+  {
+    "id": "vamana-purana",
+    "title": "Vāmana Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vamana Purana",
+      "वामन पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa associated with Viṣṇu's dwarf (vāmana) incarnation, covering cosmology and pilgrimage; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa associated with Viṣṇu's dwarf (vāmana) incarnation, covering cosmology and pilgrimage; represented here as a catalogue entry.",
+    "contentHash": "bbc9087464fae73b7f8b6f4861bc10ececaa6eeb37b0084e1076059fe2bcd4ca"
+  },
+  {
+    "id": "varaha-purana",
+    "title": "Varāha Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Varaha Purana",
+      "वराह पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa associated with Viṣṇu's boar (varāha) incarnation, focusing on cosmology, ritual, and sacred geography; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa associated with Viṣṇu's boar (varāha) incarnation, focusing on cosmology, ritual, and sacred geography; represented here as a catalogue entry.",
+    "contentHash": "4e15138da7945571b52ff0e99a67c4fc9c6ceb16ff7dd8ac227bf139d1452055"
+  },
+  {
+    "id": "vashistha-dharmasutra",
+    "title": "Vasiṣṭha Dharmasūtra",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vashistha Dharmasutra",
+      "वसिष्ठ धर्मसूत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra",
+      "DHARMASHASTRA"
+    ],
+    "description": "An early Dharmasūtra associated with the Ṛgveda, prescribing duties for the four varṇas and āśramas; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "An early Dharmasūtra associated with the Ṛgveda, prescribing duties for the four varṇas and āśramas; represented here as a catalogue entry.",
+    "contentHash": "fd26f8b47bbe113d65a09ee6d831371ebdf9f1a7023de0f69e91b9819c9b9ba5"
+  },
+  {
+    "id": "vayu-purana",
+    "title": "Vāyu Purāṇa",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vayu Purana",
+      "वायु पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "TRADITION"
+    ],
+    "description": "A Mahāpurāṇa traditionally narrated by the wind-god Vāyu, covering creation, genealogy, and geography; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Mahāpurāṇa traditionally narrated by the wind-god Vāyu, covering creation, genealogy, and geography; represented here as a catalogue entry.",
+    "contentHash": "c7c70bf08535c87b27523c6cdddabde9ebb0827a3e3d5eff74986c97e251c9b7"
   },
   {
     "id": "vishnu-purana",
@@ -3130,7 +6363,63 @@
     ],
     "relationshipIds": [],
     "body": "One of the eighteen Mahāpurāṇas, presenting Viṣṇu-centered cosmology, genealogy, and theology; represented here as a catalogue entry.",
-    "contentHash": "7b85da5ca840cc05e86f891e805c022408a5fcfd8adadf6947cbdda868997c1a"
+    "contentHash": "329b0fe1d190687306b47129eafe83cb54cb41268ab95f78282a063614abe16a"
+  },
+  {
+    "id": "vyasa-smriti",
+    "title": "Vyāsasmṛti",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vyasa Smriti",
+      "व्यासस्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra"
+    ],
+    "description": "A Dharmaśāstra attributed to Vyāsa, covering ritual, penance, and social duties; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A Dharmaśāstra attributed to Vyāsa, covering ritual, penance, and social duties; represented here as a catalogue entry.",
+    "contentHash": "fa20a7f44769a9df526679ffa29785d1aa69fa635abeac6109eae70bde8f57c5"
+  },
+  {
+    "id": "yajnavalkya-smriti",
+    "title": "Yājñavalkyasmṛti",
+    "type": "scripture",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Yajnavalkya Smriti",
+      "याज्ञवल्क्यस्मृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "Dharmashastra"
+    ],
+    "description": "A major Dharmaśāstra noted for its systematic organization of law, procedure, and penance; represented here as a catalogue entry.",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "A major Dharmaśāstra noted for its systematic organization of law, procedure, and penance; represented here as a catalogue entry.",
+    "contentHash": "3b7c0ab48c720bc3499a9815e427c6c21a95a47b2151c8ae9f8e69b3b4d8961d"
   },
   {
     "id": "yajurveda",
@@ -3158,7 +6447,7 @@
     ],
     "relationshipIds": [],
     "body": "A Vedic collection represented here as a concise catalogue record. Its recensions and associated textual layers require context-specific study.",
-    "contentHash": "436e89efbad4a389ef95fcb248b29bea42709d74bc33e58bf1b5f0a87b1bc8f1"
+    "contentHash": "1e3fb8ea21d96a553937e65f1ce14c27468b9bf70d56284f264f33a9cc84cfe0"
   },
   {
     "id": "darshana",
@@ -3263,13 +6552,13 @@
       "TRADITION",
       "CONCEPT"
     ],
-    "description": "A Vaiṣṇava tradition originating in Bengal, centered on Kṛṣṇa-bhakti and the teachings of Caitanya Mahāprabhu; its theological and ritual distinctives are represented here without sectarian ranking.",
+    "description": "A Vaiṣṇava tradition traditionally said to originate in Bengal, centered on Kṛṣṇa-bhakti and the teachings of Caitanya Mahāprabhu; its theological and ritual distinctives are represented here without sectarian ranking.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A Vaiṣṇava tradition originating in Bengal, centered on Kṛṣṇa-bhakti and the teachings of Caitanya Mahāprabhu; its theological and ritual distinctives are represented here without sectarian ranking.",
-    "contentHash": "06788059382c9ef21c42f264dd4b38284e9c48404fcabd98c91741b40a60cad6"
+    "body": "A Vaiṣṇava tradition traditionally said to originate in Bengal, centered on Kṛṣṇa-bhakti and the teachings of Caitanya Mahāprabhu; its theological and ritual distinctives are represented here without sectarian ranking.",
+    "contentHash": "90574d9a2c960eebc2a375d9c7a5cd19396601412616a64205ffe7c3f4d95364"
   },
   {
     "id": "lingayat",
@@ -3295,13 +6584,13 @@
       "TRADITION",
       "REGIONAL_TRADITION"
     ],
-    "description": "A Śaiva tradition originating in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.",
+    "description": "A Śaiva tradition traditionally said to originate in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "A Śaiva tradition originating in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.",
-    "contentHash": "775b6850356d655b00aa2e4c0029c91407bbea78fbe9517f1c005201df52b08a"
+    "body": "A Śaiva tradition traditionally said to originate in Karnataka with distinct institutional and ritual forms; represented here without conflating it with other Śaiva lineages.",
+    "contentHash": "a2e864b21d65e786413c5d5af172b16732b609f4c6335fea1e00f4bfd2d4a8a6"
   },
   {
     "id": "practice",
@@ -3385,7 +6674,7 @@
     ],
     "relationshipIds": [],
     "body": "A broad category for Śiva-centered traditions with diverse textual, ritual, and regional forms; not presented as a single organization.",
-    "contentHash": "5e114d224f65eb51c7f9d3752de28aa9441aa369861f11d1b55bcf5723811c58"
+    "contentHash": "f55264eec08c04a18450fbaf75f87bee27dd73167f3fffd1d29d78eb3c2d3890"
   },
   {
     "id": "shakta",
@@ -3417,7 +6706,7 @@
     ],
     "relationshipIds": [],
     "body": "A broad category for Devī-centered traditions with diverse textual, ritual, and regional forms; not presented as a single organization.",
-    "contentHash": "ebccc7ae42df0016c2549e02c9d66b6b640a92475c2a3a232490195d08ed9ef2"
+    "contentHash": "717e1496f4701dc96fe023bf8370dba2903b43d29381a443e3d83db5dc5518a5"
   },
   {
     "id": "shruti",
@@ -3474,7 +6763,7 @@
     ],
     "relationshipIds": [],
     "body": "A tradition associated with the worship of five deities (pañcāyatana) and the Advaita Vedānta framework; its boundaries and practices vary regionally.",
-    "contentHash": "aa509e66a81ea8688eebf3991411cc458c9d9f034c1031079998bcb2a741d42c"
+    "contentHash": "e84f3ad68970b3edb28a52e8643b7fbb9c552201d6838003e66b62f9942d189b"
   },
   {
     "id": "sri-vaishnava",
@@ -3505,7 +6794,7 @@
     ],
     "relationshipIds": [],
     "body": "A Vaiṣṇava tradition associated with Rāmānuja and the Viśiṣṭādvaita framework; its temple and monastic institutions are distinct from other Vaiṣṇava lineages.",
-    "contentHash": "68bffec91f62ff4464ef529e4e19dccae142abd968dcde12184e537e07fa1127"
+    "contentHash": "1df933e94c5489858a2ee02b3b71078ec2a96cae6c849c749f12689b55612fef"
   },
   {
     "id": "upanishads",
@@ -3565,7 +6854,7 @@
     ],
     "relationshipIds": [],
     "body": "A broad category for traditions centered on Viṣṇu or related forms; it contains diverse lineages and should not be treated as one organization.",
-    "contentHash": "5bfe7be4ef9709be04117dd7e321d72500935ffca8257bb7686ac9c8a58d26c4"
+    "contentHash": "8c76550ee7c915f54ac96f6dc24b8738a98352ce05193fe275e1ec9722106c69"
   },
   {
     "id": "vedanga",

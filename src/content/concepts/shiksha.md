@@ -10,3 +10,4 @@ verification: verified
 classifications: [VEDANGA, SHRUTI, SANSKRIT]
 ---
 The Vedāṅga concerned with phonetics, pronunciation, and euphonic combination; its treatises form the foundation for Vedic recitation.
+

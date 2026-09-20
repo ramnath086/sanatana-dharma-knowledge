@@ -10,3 +10,4 @@ verification: verified
 classifications: [SHRUTI, VEDIC, PHILOSOPHY]
 ---
 The "forest texts" bridging Vedic ritual and Upaniṣadic speculation; represented here as a category rather than individual texts.
+

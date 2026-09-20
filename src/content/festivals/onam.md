@@ -9,4 +9,6 @@ status: published
 verification: partially-verified
 classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-A Kerala harvest festival with distinct regional narratives and practices; represented here as a regionally grounded record awaiting fuller sourcing.
+A Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.
+
+

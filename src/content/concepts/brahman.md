@@ -10,3 +10,4 @@ verification: verified
 classifications: [CONCEPT, PHILOSOPHY, VEDANTA, SHRUTI]
 ---
 The ultimate reality or ground of being in Vedāntic traditions, described through both negation (neti neti) and positive affirmation depending on the school.
+

@@ -11,3 +11,4 @@ classifications: [SHRUTI, VEDIC]
 ---
 
 A Vedic collection represented as a source-aware catalogue entry. Its textual and recitational traditions are not treated as identical to those of the other Vedas.
+

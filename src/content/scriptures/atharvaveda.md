@@ -11,3 +11,4 @@ classifications: [SHRUTI, VEDIC]
 ---
 
 A Vedic collection represented as a concise catalogue record. Interpretive and recensional differences require separate sourcing.
+
