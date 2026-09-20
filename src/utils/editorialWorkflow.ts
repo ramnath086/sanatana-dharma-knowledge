@@ -1,4 +1,4 @@
-import type { WorkflowEvent, WorkflowState, ClaimRecord, EvidenceRecord } from '../types/editorial'
+import type { WorkflowEvent, WorkflowState, ClaimRecord, EvidenceRecord, EditorialSourceRecord } from '../types/editorial'
 import { workflowTransitions } from '../types/editorial'
 import { supabase } from './supabaseClient'
 
@@ -62,6 +62,49 @@ export async function loadEvidence(entityId: string): Promise<EvidenceRecord[]> 
     .order('evidence_type', { ascending: true })
   if (error) throw new Error(`Failed to load evidence: ${error.message}`)
   return (data ?? []).map(camelizeKeys) as unknown as EvidenceRecord[]
+}
+
+export async function loadSources(entityId: string): Promise<EditorialSourceRecord[]> {
+  const { data, error } = await supabase
+    .from('editorial_sources')
+    .select('*')
+    .eq('entity_id', entityId)
+    .order('name', { ascending: true })
+  if (error) throw new Error(`Failed to load sources: ${error.message}`)
+  return (data ?? []).map(camelizeKeys) as unknown as EditorialSourceRecord[]
+}
+
+export async function saveSource(source: Partial<EditorialSourceRecord> & { entityId: string; name: string; sourceType: string; authorityLevel: string; url: string; description: string }): Promise<EditorialSourceRecord> {
+  const payload = {
+    entity_id: source.entityId,
+    name: source.name,
+    source_type: source.sourceType,
+    authority_level: source.authorityLevel,
+    url: source.url,
+    description: source.description,
+    notes: source.notes ?? null,
+    updated_at: new Date().toISOString(),
+  }
+
+  if (source.id) {
+    const { data, error } = await supabase
+      .from('editorial_sources')
+      .update(payload)
+      .eq('id', source.id)
+      .select('*')
+      .single()
+    if (error) throw new Error(`Failed to update source: ${error.message}`)
+    return camelizeKeys(data) as unknown as EditorialSourceRecord
+  }
+
+  const id = `source-${source.entityId}-${Date.now()}`
+  const { data, error } = await supabase
+    .from('editorial_sources')
+    .insert({ ...payload, id })
+    .select('*')
+    .single()
+  if (error) throw new Error(`Failed to create source: ${error.message}`)
+  return camelizeKeys(data) as unknown as EditorialSourceRecord
 }
 
 export async function saveEvidence(evidence: Partial<EvidenceRecord> & { entityId: string; claimId: string; sourceId: string; evidenceType: EvidenceRecord['evidenceType']; confidence: EvidenceRecord['confidence']; reviewStatus: EvidenceRecord['reviewStatus'] }): Promise<EvidenceRecord> {

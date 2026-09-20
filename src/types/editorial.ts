@@ -19,6 +19,7 @@ export const workflowTransitions: Record<WorkflowState, WorkflowState[]> = {
 }
 
 export interface EvidenceRecord { id: string; entityId: string; claimId?: string; sourceId: string; location?: string; evidenceType: EvidenceType; confidence: Confidence; reviewStatus: ReviewStatus; perspective?: 'traditional-account' | 'historical-scholarly-account' | 'modern-interpretation' | 'regional-tradition' | 'sampradaya-specific'; notes?: string }
+export interface EditorialSourceRecord { id: string; entityId: string; name: string; sourceType: string; authorityLevel: string; url: string; description: string; notes?: string }
 export interface ClaimRecord { id: string; entityId: string; claim: string; claimType: ClaimType; sourceIds: string[]; evidenceIds: string[]; status: EditorialStage; confidence: Confidence; editorialNotes?: string; conflictGroupId?: string }
 export interface ConflictRecord { id: string; claimIds: string[]; type: 'conflict' | 'variant' | 'different-tradition' | 'different-edition' | 'uncertain'; notes?: string }
 export interface EditorialRecord { entityId: string; stage: EditorialStage; outstandingIssues: string[]; sourceReview: boolean; rightsReview: boolean; factualReview: boolean; traditionalReview: boolean; translationReview: boolean; relationshipReview: boolean; completeness: number }

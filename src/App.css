@@ -227,3 +227,18 @@ h1 em, h2 em { color: var(--saffron); font-style: italic; }
 .evidence-form input, .evidence-form select, .evidence-form textarea { border: 1px solid var(--line); padding: 10px 12px; color: var(--ink); font: 14px var(--body); background: transparent; }
 .evidence-form textarea { min-height: 80px; }
 .evidence-form button { align-self: flex-start; }
+.sources-list { display: flex; flex-direction: column; gap: 18px; }
+.source-item { padding: 16px; border: 1px solid var(--line); }
+.source-form { display: flex; flex-direction: column; gap: 12px; }
+.source-form label { color: var(--muted); font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+.source-form input, .source-form textarea { border: 1px solid var(--line); padding: 10px 12px; color: var(--ink); font: 14px var(--body); background: transparent; }
+.source-form textarea { min-height: 80px; }
+.source-form button { align-self: flex-start; }
+.source-display { display: flex; flex-direction: column; gap: 8px; }
+.source-header { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.source-name { color: var(--ink); font-weight: 500; }
+.source-type { color: var(--saffron); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.source-authority { color: var(--muted); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.source-url { color: var(--ink-soft); font-size: 13px; }
+.source-description { color: var(--ink); font-size: 14px; line-height: 1.55; margin: 0; }
+.source-notes { color: var(--muted); font-size: 12px; line-height: 1.5; margin: 0; }

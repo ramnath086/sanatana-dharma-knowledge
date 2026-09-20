@@ -4,11 +4,15 @@ import { Breadcrumbs } from '../components/UI'
 import { duplicateSuggestions, editorialEntities, evidenceCoverage, editorialSources, orphanReports, relationships, readiness } from '../generated'
 import { PageFrame } from '../layouts/SiteLayout'
 import { authProvider } from '../utils/editorialAuth'
-import type { ClaimRecord, EvidenceRecord, WorkflowEvent, WorkflowState } from '../types/editorial'
-import { canTransition, transition, loadWorkflowState, loadWorkflowEvents, loadClaims, loadEvidence, saveClaim, saveEvidence, applyWorkflowTransition } from '../utils/editorialWorkflow'
+import type { ClaimRecord, EvidenceRecord, EditorialSourceRecord, WorkflowEvent, WorkflowState } from '../types/editorial'
+import { canTransition, transition, loadWorkflowState, loadWorkflowEvents, loadClaims, loadEvidence, loadSources, saveSource, saveClaim, saveEvidence, applyWorkflowTransition } from '../utils/editorialWorkflow'
 import { supabase } from '../utils/supabaseClient'
 
 export function EditorialRoutes({ path }: { path: string }) {
+  if (path !== '/editorial/login' && !authProvider.isAuthenticated()) {
+    window.location.href = '/editorial/login'
+    return null
+  }
   if (path === '/editorial/login') return <PageFrame title="Editorial sign in" description="Sign in to the editorial workspace."><EditorialLogin /></PageFrame>
   if (path === '/editorial/sources') return <PageFrame title="Source dashboard" description="Internal editorial view of source coverage, rights and monitoring state."><EditorialSources /></PageFrame>
   if (path === '/editorial/review') return <PageFrame title="Review queue" description="Internal editorial worklist. These records are not public content."><ReviewQueue /></PageFrame>
@@ -54,10 +58,82 @@ function EditorialLogin() {
 
 function EditorialSources() {
   const [filter, setFilter] = useState('All')
+  const [showForm, setShowForm] = useState(false)
+  const [sourceForm, setSourceForm] = useState({ entityId: '', name: '', sourceType: 'digital-library' as EditorialSourceRecord['sourceType'], authorityLevel: 'academic' as EditorialSourceRecord['authorityLevel'], url: '', description: '', notes: '' })
+  const [saving, setSaving] = useState(false)
+  const [error, setError] = useState<string | null>(null)
+  const [success, setSuccess] = useState<string | null>(null)
   const stats = { total: editorialSources.length, knownRights: editorialSources.filter((source) => source.copyrightStatus !== 'unknown').length, unknownRights: editorialSources.filter((source) => source.copyrightStatus === 'unknown').length }
   const filterMap: Record<string, string | undefined> = { All: undefined, Government: 'government', Academic: 'academic', Traditional: 'traditional-institution', 'Digital Library': 'digital-library', Manuscript: 'manuscript-archive', Other: 'other' }
   const visible = editorialSources.filter((source) => !filterMap[filter] || source.sourceType === filterMap[filter])
-  return <div className="editorial-dashboard"><div className="card-grid"><ContentCard item={{ title: String(stats.total), description: 'Registered source records.', href: '/editorial/sources', eyebrow: 'Total sources' }} /><ContentCard item={{ title: String(stats.knownRights), description: 'Sources with recorded rights state.', href: '/editorial/sources', eyebrow: 'Rights recorded' }} /><ContentCard item={{ title: String(stats.unknownRights), description: 'Sources requiring rights review before reuse.', href: '/editorial/sources', eyebrow: 'Unknown rights' }} /></div><div className="filter-list" aria-label="Filter sources">{Object.keys(filterMap).map((option) => <button className={filter === option ? 'active' : ''} type="button" onClick={() => setFilter(option)} key={option}>{option}</button>)}</div><div className="entity-sections"><section><h2>Sources</h2>{visible.map((source) => <p key={source.id}><a href={`/sources/${source.id}`}>{source.name}</a> · {source.authorityLevel} · {source.copyrightStatus}</p>)}</section></div></div>
+
+  const handleSave = async () => {
+    if (!authProvider.isAuthenticated()) {
+      setError('You must be signed in to add a source.')
+      return
+    }
+    setSaving(true)
+    setError(null)
+    setSuccess(null)
+    try {
+      await saveSource({ ...sourceForm, entityId: sourceForm.entityId })
+      setSuccess('Source created.')
+      setShowForm(false)
+      setSourceForm({ entityId: '', name: '', sourceType: 'digital-library', authorityLevel: 'academic', url: '', description: '', notes: '' })
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to create source.')
+    } finally {
+      setSaving(false)
+    }
+  }
+
+  return (
+    <div className="editorial-dashboard">
+      <div className="card-grid">
+        <ContentCard item={{ title: String(stats.total), description: 'Registered source records.', href: '/editorial/sources', eyebrow: 'Total sources' }} />
+        <ContentCard item={{ title: String(stats.knownRights), description: 'Sources with recorded rights state.', href: '/editorial/sources', eyebrow: 'Rights recorded' }} />
+        <ContentCard item={{ title: String(stats.unknownRights), description: 'Sources requiring rights review before reuse.', href: '/editorial/sources', eyebrow: 'Unknown rights' }} />
+      </div>
+      <div className="filter-list" aria-label="Filter sources">
+        {Object.keys(filterMap).map((option) => <button className={filter === option ? 'active' : ''} type="button" onClick={() => setFilter(option)} key={option}>{option}</button>)}
+      </div>
+      <div className="entity-sections">
+        <section>
+          <h2>Sources</h2>
+          {!showForm && <div className="filter-list"><button type="button" onClick={() => setShowForm(true)}>Add source</button></div>}
+          {showForm && (
+            <div className="source-form">
+              <label htmlFor="source-entity-id">Entity ID</label>
+              <input id="source-entity-id" value={sourceForm.entityId} onChange={(event) => setSourceForm((form) => ({ ...form, entityId: event.target.value }))} required />
+              <label htmlFor="source-name">Name</label>
+              <input id="source-name" value={sourceForm.name} onChange={(event) => setSourceForm((form) => ({ ...form, name: event.target.value }))} required />
+              <label htmlFor="source-type">Source type</label>
+              <select id="source-type" value={sourceForm.sourceType} onChange={(event) => setSourceForm((form) => ({ ...form, sourceType: event.target.value as EditorialSourceRecord['sourceType'] }))}>
+                {(['primary-text', 'government', 'academic', 'traditional-institution', 'digital-library', 'manuscript-archive', 'publisher', 'museum', 'archive', 'research-project', 'educational', 'community', 'other'] as EditorialSourceRecord['sourceType'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+              </select>
+              <label htmlFor="source-authority">Authority level</label>
+              <select id="source-authority" value={sourceForm.authorityLevel} onChange={(event) => setSourceForm((form) => ({ ...form, authorityLevel: event.target.value as EditorialSourceRecord['authorityLevel'] }))}>
+                {(['primary', 'institutional', 'academic', 'traditional', 'secondary', 'community'] as EditorialSourceRecord['authorityLevel'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+              </select>
+              <label htmlFor="source-url">URL</label>
+              <input id="source-url" value={sourceForm.url} onChange={(event) => setSourceForm((form) => ({ ...form, url: event.target.value }))} required />
+              <label htmlFor="source-description">Description</label>
+              <textarea id="source-description" value={sourceForm.description} onChange={(event) => setSourceForm((form) => ({ ...form, description: event.target.value }))} required />
+              <label htmlFor="source-notes">Notes</label>
+              <textarea id="source-notes" value={sourceForm.notes} onChange={(event) => setSourceForm((form) => ({ ...form, notes: event.target.value }))} />
+              <div className="filter-list">
+                <button type="button" disabled={saving} onClick={handleSave}>{saving ? 'Saving...' : 'Save'}</button>
+                <button type="button" onClick={() => setShowForm(false)}>Cancel</button>
+              </div>
+              {error && <p role="alert">{error}</p>}
+              {success && <p role="status">{success}</p>}
+            </div>
+          )}
+          {visible.map((source) => <p key={source.id}><a href={`/sources/${source.id}`}>{source.name}</a> · {source.authorityLevel} · {source.copyrightStatus}</p>)}
+        </section>
+      </div>
+    </div>
+  )
 }
 
 function ReviewQueue() { return <div className="editorial-dashboard"><div className="card-grid">{editorialEntities.filter((entity) => entity.status !== 'published').map((entity) => <ContentCard item={{ title: entity.title, description: `${entity.sourceIds.length} source(s) · ${entity.verification} · ${entity.publicationReadiness.blockers.length} blocker(s)`, href: `/editorial/content/${entity.type}/${entity.id}`, eyebrow: `${entity.type} · ${entity.status}` }} key={entity.id} />)}</div></div> }
@@ -84,6 +160,14 @@ function EditorialEntityPage({ entity, preview }: { entity: (typeof editorialEnt
   const [evidenceForm, setEvidenceForm] = useState({ sourceId: '', location: '', evidenceType: 'primary-text' as EvidenceRecord['evidenceType'], confidence: 'medium' as EvidenceRecord['confidence'], reviewStatus: 'needs-review' as EvidenceRecord['reviewStatus'], perspective: undefined as EvidenceRecord['perspective'], notes: '' })
   const [evidenceSaving, setEvidenceSaving] = useState(false)
   const [evidenceSuccess, setEvidenceSuccess] = useState<string | null>(null)
+  const [sourcesData, setSourcesData] = useState<EditorialSourceRecord[]>([])
+  const [sourcesLoading, setSourcesLoading] = useState(false)
+  const [sourcesError, setSourcesError] = useState<string | null>(null)
+  const [editingSourceId, setEditingSourceId] = useState<string | null>(null)
+  const [newSourceMode, setNewSourceMode] = useState(false)
+  const [sourceForm, setSourceForm] = useState({ name: '', sourceType: 'digital-library' as EditorialSourceRecord['sourceType'], authorityLevel: 'academic' as EditorialSourceRecord['authorityLevel'], url: '', description: '', notes: '' })
+  const [sourceSaving, setSourceSaving] = useState(false)
+  const [sourceSuccess, setSourceSuccess] = useState<string | null>(null)
   const [authenticated, setAuthenticated] = useState(authProvider.isAuthenticated())
 
   useEffect(() => {
@@ -158,6 +242,25 @@ function EditorialEntityPage({ entity, preview }: { entity: (typeof editorialEnt
         if (!cancelled) {
           // preserve empty evidence state on load failure
         }
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [entity.id])
+
+  useEffect(() => {
+    let cancelled = false
+    setSourcesLoading(true)
+    setSourcesError(null)
+    loadSources(entity.id)
+      .then((items) => {
+        if (!cancelled) setSourcesData(items)
+      })
+      .catch((err) => {
+        if (!cancelled) setSourcesError(err instanceof Error ? err.message : 'Failed to load sources.')
+      })
+      .finally(() => {
+        if (!cancelled) setSourcesLoading(false)
       })
     return () => {
       cancelled = true
@@ -280,6 +383,47 @@ function EditorialEntityPage({ entity, preview }: { entity: (typeof editorialEnt
       setClaimsError(err instanceof Error ? err.message : 'Failed to save evidence.')
     } finally {
       setEvidenceSaving(false)
+    }
+  }
+
+  const startEditSource = (source: EditorialSourceRecord) => {
+    setEditingSourceId(source.id)
+    setSourceForm({ name: source.name, sourceType: source.sourceType as EditorialSourceRecord['sourceType'], authorityLevel: source.authorityLevel as EditorialSourceRecord['authorityLevel'], url: source.url, description: source.description, notes: source.notes ?? '' })
+    setSourceSuccess(null)
+  }
+
+  const startNewSource = () => {
+    setEditingSourceId(null)
+    setNewSourceMode(true)
+    setSourceForm({ name: '', sourceType: 'digital-library', authorityLevel: 'academic', url: '', description: '', notes: '' })
+    setSourceSuccess(null)
+  }
+
+  const cancelSourceForm = () => {
+    setEditingSourceId(null)
+    setNewSourceMode(false)
+    setSourceForm({ name: '', sourceType: 'digital-library', authorityLevel: 'academic', url: '', description: '', notes: '' })
+    setSourceSuccess(null)
+  }
+
+  const handleSaveSource = async () => {
+    if (!authProvider.isAuthenticated()) {
+      setSourcesError('You must be signed in to edit sources.')
+      return
+    }
+    setSourceSaving(true)
+    setSourceSuccess(null)
+    try {
+      const saved = await saveSource({ ...sourceForm, id: editingSourceId ?? '', entityId: entity.id })
+      await loadSources(entity.id).then((items) => setSourcesData(items))
+      setSourceSuccess(`Source ${editingSourceId ? 'updated' : 'created'}: ${saved.id}`)
+      setEditingSourceId(null)
+      setNewSourceMode(false)
+      setSourceForm({ name: '', sourceType: 'digital-library', authorityLevel: 'academic', url: '', description: '', notes: '' })
+    } catch (err) {
+      setSourcesError(err instanceof Error ? err.message : 'Failed to save source.')
+    } finally {
+      setSourceSaving(false)
     }
   }
 
@@ -429,6 +573,93 @@ function EditorialEntityPage({ entity, preview }: { entity: (typeof editorialEnt
             )}
             {claimSuccess && <p role="status">{claimSuccess}</p>}
             {evidenceSuccess && <p role="status">{evidenceSuccess}</p>}
+          </div>
+        )}
+      </section>
+      <section>
+        <h2>Sources</h2>
+        {sourcesLoading && <p>Loading sources...</p>}
+        {sourcesError && <p role="alert">{sourcesError}</p>}
+        {!sourcesLoading && !sourcesError && (
+          <div className="sources-list">
+            {newSourceMode && (
+              <div className="source-item">
+                <div className="source-form">
+                  <label htmlFor="source-entity-id">Entity ID</label>
+                  <input id="source-entity-id" value={sourceForm.name} onChange={(event) => setSourceForm((form) => ({ ...form, name: event.target.value }))} required />
+                  <label htmlFor="source-name">Name</label>
+                  <input id="source-name" value={sourceForm.name} onChange={(event) => setSourceForm((form) => ({ ...form, name: event.target.value }))} required />
+                  <label htmlFor="source-type">Source type</label>
+                  <select id="source-type" value={sourceForm.sourceType} onChange={(event) => setSourceForm((form) => ({ ...form, sourceType: event.target.value as EditorialSourceRecord['sourceType'] }))}>
+                    {(['primary-text', 'government', 'academic', 'traditional-institution', 'digital-library', 'manuscript-archive', 'publisher', 'museum', 'archive', 'research-project', 'educational', 'community', 'other'] as EditorialSourceRecord['sourceType'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+                  </select>
+                  <label htmlFor="source-authority">Authority level</label>
+                  <select id="source-authority" value={sourceForm.authorityLevel} onChange={(event) => setSourceForm((form) => ({ ...form, authorityLevel: event.target.value as EditorialSourceRecord['authorityLevel'] }))}>
+                    {(['primary', 'institutional', 'academic', 'traditional', 'secondary', 'community'] as EditorialSourceRecord['authorityLevel'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+                  </select>
+                  <label htmlFor="source-url">URL</label>
+                  <input id="source-url" value={sourceForm.url} onChange={(event) => setSourceForm((form) => ({ ...form, url: event.target.value }))} required />
+                  <label htmlFor="source-description">Description</label>
+                  <textarea id="source-description" value={sourceForm.description} onChange={(event) => setSourceForm((form) => ({ ...form, description: event.target.value }))} required />
+                  <label htmlFor="source-notes">Notes</label>
+                  <textarea id="source-notes" value={sourceForm.notes} onChange={(event) => setSourceForm((form) => ({ ...form, notes: event.target.value }))} />
+                  <div className="filter-list">
+                    <button type="button" disabled={sourceSaving} onClick={handleSaveSource}>{sourceSaving ? 'Saving...' : 'Save'}</button>
+                    <button type="button" onClick={cancelSourceForm}>Cancel</button>
+                  </div>
+                  {sourceSuccess && <p role="status">{sourceSuccess}</p>}
+                </div>
+              </div>
+            )}
+            {sourcesData.length === 0 && !newSourceMode && <p>No sources found for this entity.</p>}
+            {sourcesData.map((source) => {
+              const isEditing = editingSourceId === source.id
+              return (
+                <div key={source.id} className="source-item">
+                  {isEditing ? (
+                    <div className="source-form">
+                      <label htmlFor={`source-name-${source.id}`}>Name</label>
+                      <input id={`source-name-${source.id}`} value={sourceForm.name} onChange={(event) => setSourceForm((form) => ({ ...form, name: event.target.value }))} required />
+                      <label htmlFor={`source-type-${source.id}`}>Source type</label>
+                      <select id={`source-type-${source.id}`} value={sourceForm.sourceType} onChange={(event) => setSourceForm((form) => ({ ...form, sourceType: event.target.value as EditorialSourceRecord['sourceType'] }))}>
+                        {(['primary-text', 'government', 'academic', 'traditional-institution', 'digital-library', 'manuscript-archive', 'publisher', 'museum', 'archive', 'research-project', 'educational', 'community', 'other'] as EditorialSourceRecord['sourceType'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+                      </select>
+                      <label htmlFor={`source-authority-${source.id}`}>Authority level</label>
+                      <select id={`source-authority-${source.id}`} value={sourceForm.authorityLevel} onChange={(event) => setSourceForm((form) => ({ ...form, authorityLevel: event.target.value as EditorialSourceRecord['authorityLevel'] }))}>
+                        {(['primary', 'institutional', 'academic', 'traditional', 'secondary', 'community'] as EditorialSourceRecord['authorityLevel'][]).map((option) => <option key={option} value={option}>{option}</option>)}
+                      </select>
+                      <label htmlFor={`source-url-${source.id}`}>URL</label>
+                      <input id={`source-url-${source.id}`} value={sourceForm.url} onChange={(event) => setSourceForm((form) => ({ ...form, url: event.target.value }))} required />
+                      <label htmlFor={`source-description-${source.id}`}>Description</label>
+                      <textarea id={`source-description-${source.id}`} value={sourceForm.description} onChange={(event) => setSourceForm((form) => ({ ...form, description: event.target.value }))} required />
+                      <label htmlFor={`source-notes-${source.id}`}>Notes</label>
+                      <textarea id={`source-notes-${source.id}`} value={sourceForm.notes} onChange={(event) => setSourceForm((form) => ({ ...form, notes: event.target.value }))} />
+                      <div className="filter-list">
+                        <button type="button" disabled={sourceSaving} onClick={handleSaveSource}>{sourceSaving ? 'Saving...' : 'Save'}</button>
+                        <button type="button" onClick={cancelSourceForm}>Cancel</button>
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="source-display">
+                      <div className="source-header">
+                        <span className="source-name">{source.name}</span>
+                        <span className="source-type">{source.sourceType}</span>
+                        <span className="source-authority">{source.authorityLevel}</span>
+                        <button type="button" onClick={() => startEditSource(source)}>Edit</button>
+                      </div>
+                      <a className="source-url" href={source.url} target="_blank" rel="noopener noreferrer">{source.url}</a>
+                      <p className="source-description">{source.description}</p>
+                      {source.notes && <p className="source-notes">{source.notes}</p>}
+                    </div>
+                  )}
+                </div>
+              )
+            })}
+            {!editingSourceId && !newSourceMode && (
+              <div className="filter-list">
+                <button type="button" onClick={startNewSource}>Add source</button>
+              </div>
+            )}
           </div>
         )}
       </section>
