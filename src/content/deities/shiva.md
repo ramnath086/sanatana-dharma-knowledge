@@ -5,9 +5,8 @@ type: deity
 language: [sa, en]
 aliases: [Shiva, शिव]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
 classifications: [DEITY, TRADITION]
 ---
-
-A deity represented through multiple textual, ritual and living traditions without imposing theological equivalence or hierarchy.
+A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.

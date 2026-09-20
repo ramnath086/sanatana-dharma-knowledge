@@ -24,6 +24,66 @@
     "sourceFile": "src\\content\\relationships\\advaita-vedanta-parent.md"
   },
   {
+    "id": "advaita-vedanta-subtype-vedanta",
+    "from": "advaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "ef13361a81996640e6748a57b4851fa52e47adf74208dbc28614c3d8ea8e6c24",
+    "sourceFile": "src\\content\\relationships\\advaita-vedanta-subtype-vedanta.md"
+  },
+  {
+    "id": "aitareya-upanishad-subtype-shruti",
+    "from": "aitareya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "be66272987ed38c820861060b7fc6327c683b867ec571081d908b3f9218479ca",
+    "sourceFile": "src\\content\\relationships\\aitareya-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "antyeshti-ritual-samskara",
+    "from": "antyeshti",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "91a090cf1155fc93af451a0e05a37a58531a7a4af2ff913c4b862fbcb947bea3",
+    "sourceFile": "src\\content\\relationships\\antyeshti-ritual-samskara.md"
+  },
+  {
+    "id": "ashrama-related-varna",
+    "from": "ashrama",
+    "relationship": "related-to",
+    "to": "varna",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "8ff0f3d118bbed398dda7d483b2311673711ec37dea4e77e17d202ca9c8e33a9",
+    "sourceFile": "src\\content\\relationships\\ashrama-related-varna.md"
+  },
+  {
+    "id": "atman-related-brahman",
+    "from": "atman",
+    "relationship": "related-to",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "92b641fdf39539a641f79ec10dc20e0ef090aa5efed31752b3498804bf38de19",
+    "sourceFile": "src\\content\\relationships\\atman-related-brahman.md"
+  },
+  {
     "id": "bhakti-practice",
     "from": "bhakti",
     "relationship": "related-to",
@@ -34,6 +94,54 @@
     "editorialNote": "A broad connection between devotional orientation and practice, without reducing diverse traditions to one form.",
     "contentHash": "d5284478cd1fcf0b4402623c26583dcfb3a94b593b80b4171b155799c36ccc01",
     "sourceFile": "src\\content\\relationships\\bhakti-practice.md"
+  },
+  {
+    "id": "bhakti-related-moksha",
+    "from": "bhakti",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "0fa7b7608b7667148627524fab44a929a8feff18333de24814aa3a7573c2253e",
+    "sourceFile": "src\\content\\relationships\\bhakti-related-moksha.md"
+  },
+  {
+    "id": "brihadaranyaka-upanishad-subtype-shruti",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "d13da9dfea8c424952e59794718b1b2b897b152720870303861ce254266d4940",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "chandas-subtype-vedanga",
+    "from": "chandas",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "b6f7f92e384da20aeb3b14eda1010c2845bf691d8b6504fb91ab99fbd71eb163",
+    "sourceFile": "src\\content\\relationships\\chandas-subtype-vedanga.md"
+  },
+  {
+    "id": "chandogya-upanishad-subtype-shruti",
+    "from": "chandogya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "fc8e96e7179cd84a5bd381e11983f33eb9915a168e3e30d60c6207e77b6fe069",
+    "sourceFile": "src\\content\\relationships\\chandogya-upanishad-subtype-shruti.md"
   },
   {
     "id": "darshana-nyaya",
@@ -48,6 +156,18 @@
     "sourceFile": "src\\content\\relationships\\darshana-nyaya.md"
   },
   {
+    "id": "devi-deity-shakta-tradition",
+    "from": "devi",
+    "relationship": "associated-with",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "05587921e968d67db51a4ec5309b2add179d3807554b2133b7b8970c08303bbe",
+    "sourceFile": "src\\content\\relationships\\devi-deity-shakta-tradition.md"
+  },
+  {
     "id": "dharma-related-karma",
     "from": "dharma",
     "relationship": "related-to",
@@ -55,9 +175,21 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Broad conceptual relationship; not a claim of identical meaning.",
-    "contentHash": "5a621e517df502bcdd3dbdc9cc3e91e5c56589a8aa1a1848f50cef8c8eddfb4b",
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "8396ad2971d9d34ffe974c9e29826a12572a8e2d08eba45f2bf5238396ba0edb",
     "sourceFile": "src\\content\\relationships\\dharma-related-karma.md"
+  },
+  {
+    "id": "dhyana-practice-yoga",
+    "from": "dhyana",
+    "relationship": "related-to",
+    "to": "yoga-darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "12fecc3e4027b8bfb830e1aec581e8461750ab5a6d31647e80f035ef8daeee02",
+    "sourceFile": "src\\content\\relationships\\dhyana-practice-yoga.md"
   },
   {
     "id": "dhyana-yoga-domain",
@@ -70,6 +202,18 @@
     "editorialNote": "A controlled taxonomy relationship.",
     "contentHash": "067a465a20c95b3170514084f11bc5877c3718b7d88e8cb01a63f81352f0406c",
     "sourceFile": "src\\content\\relationships\\dhyana-yoga-domain.md"
+  },
+  {
+    "id": "dipavali-festival-deity",
+    "from": "dipavali",
+    "relationship": "associated-with",
+    "to": "lakshmi",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "9ee6826edef0a7bf5e0c9739d41450ba19c5c02a33986d65d5cfc1998c1ac9f1",
+    "sourceFile": "src\\content\\relationships\\dipavali-festival-deity.md"
   },
   {
     "id": "dipavali-festival-domain",
@@ -96,6 +240,54 @@
     "sourceFile": "src\\content\\relationships\\dvaita-associated-madhva.md"
   },
   {
+    "id": "dvaita-vedanta-subtype-vedanta",
+    "from": "dvaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "7e327d789d2bc0f7a8e3d20971480b9cf96993012983f3d4bbcf02b46fa57e80",
+    "sourceFile": "src\\content\\relationships\\dvaita-vedanta-subtype-vedanta.md"
+  },
+  {
+    "id": "ganesha-caturthi-festival-deity",
+    "from": "ganesha-caturthi",
+    "relationship": "associated-with",
+    "to": "ganesha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "5ce0535ab66b2271f7018f967a34c6ebadd3440bf7ad504fc6780a3252bb0224",
+    "sourceFile": "src\\content\\relationships\\ganesha-caturthi-festival-deity.md"
+  },
+  {
+    "id": "ganesha-deity-shaiva-tradition",
+    "from": "ganesha",
+    "relationship": "associated-with",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "5b26e7b0589f43dcc5c645011e87a27d1e6b63ead053c0cf91c227ce4fe88e8b",
+    "sourceFile": "src\\content\\relationships\\ganesha-deity-shaiva-tradition.md"
+  },
+  {
+    "id": "gaudiya-vaishnava-tradition-vaishnava",
+    "from": "gaudiya-vaishnava",
+    "relationship": "subtype-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "571a8fc42defdd6222b9f55c91c8508a0acaa5e7b3f0e61b89b7005888666e55",
+    "sourceFile": "src\\content\\relationships\\gaudiya-vaishnava-tradition-vaishnava.md"
+  },
+  {
     "id": "gita-part-of-mahabharata",
     "from": "bhagavad-gita",
     "relationship": "part-of",
@@ -104,7 +296,7 @@
       "gretil"
     ],
     "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
-    "contentHash": "a9e3c01e237a161de63b6b59a38aa6c82486f6b6e202ae22cfde8fbdaba49326",
+    "contentHash": "ba1b6a148ef1818e3b4b647e219ee98b57b0c1078977e15c00fb0845b8e644e2",
     "sourceFile": "src\\content\\relationships\\gita-part-of-mahabharata.md"
   },
   {
@@ -132,6 +324,42 @@
     "sourceFile": "src\\content\\relationships\\isha-subtype-upanishad.md"
   },
   {
+    "id": "isha-upanishad-subtype-shruti",
+    "from": "isha-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "1185c4cc20552d3e0a5a0354f796a7ef91cf8130deb46bbfbc1617e45ea64b27",
+    "sourceFile": "src\\content\\relationships\\isha-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "janmashtami-festival-deity",
+    "from": "janmashtami",
+    "relationship": "associated-with",
+    "to": "krishna",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "a7594e7841208f01eb55d471fd5fef51387b44271a888d87aa7a9917683a0544",
+    "sourceFile": "src\\content\\relationships\\janmashtami-festival-deity.md"
+  },
+  {
+    "id": "japa-practice-mantra",
+    "from": "japa",
+    "relationship": "related-to",
+    "to": "mantra",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "bec1f33e80b077b506cda42c72c8c16b3577b69d2836e7185f71d0be9eddfb68",
+    "sourceFile": "src\\content\\relationships\\japa-practice-mantra.md"
+  },
+  {
     "id": "japa-practice",
     "from": "japa",
     "relationship": "belongs-to-domain",
@@ -142,6 +370,18 @@
     "editorialNote": "A controlled practice-domain relationship.",
     "contentHash": "4a1b16b18f6fb57ad8554741ff3c44b802614462b247a448e7bf084e6ed80ead",
     "sourceFile": "src\\content\\relationships\\japa-practice.md"
+  },
+  {
+    "id": "jnana-related-moksha",
+    "from": "jnana",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "07224d1673c37363f4c2dd05f113ebfa7a69255573dc81d4567031b3de4c3810",
+    "sourceFile": "src\\content\\relationships\\jnana-related-moksha.md"
   },
   {
     "id": "jnana-vedanta",
@@ -156,6 +396,30 @@
     "sourceFile": "src\\content\\relationships\\jnana-vedanta.md"
   },
   {
+    "id": "jyotisha-subtype-vedanga",
+    "from": "jyotisha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "ed37c48a07294b4e759cf17220301a6e1122b72ade059ed8a5fdd326a292982e",
+    "sourceFile": "src\\content\\relationships\\jyotisha-subtype-vedanga.md"
+  },
+  {
+    "id": "kalpa-subtype-vedanga",
+    "from": "kalpa",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "fad68423359f14715d5fee59a70564ea83dbd57dac019e66444b8d0524662788",
+    "sourceFile": "src\\content\\relationships\\kalpa-subtype-vedanga.md"
+  },
+  {
     "id": "karma-related-moksha",
     "from": "karma",
     "relationship": "related-to",
@@ -163,8 +427,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Broad conceptual relationship; school-specific interpretations may differ.",
-    "contentHash": "606db7cb45d3f4d8153e167f5166a9e4ae01925718d8f4e38f20bb15c539e0ce",
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "97965b347aed50631b758cd08ef25774743710bb1727cca83cca506382cc94fc",
     "sourceFile": "src\\content\\relationships\\karma-related-moksha.md"
   },
   {
@@ -175,9 +439,57 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "A broad conceptual relationship requiring school-specific interpretation.",
-    "contentHash": "448924d663871fac8c8efdc79443557cf6d497487db2419fbf390548fa49dee6",
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "6505e489c54ce6af14c6e4a02c97a098573fd3aaaaa646c30c7ad60826cc14b2",
     "sourceFile": "src\\content\\relationships\\karma-related-samsara.md"
+  },
+  {
+    "id": "katha-upanishad-subtype-shruti",
+    "from": "katha-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "af8346b97f07a7e426c34a16c237c80fcb7b523040ef2ebba21f2dd94752cd07",
+    "sourceFile": "src\\content\\relationships\\katha-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "kena-upanishad-subtype-shruti",
+    "from": "kena-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "c0f51fa73b9dc30d4f39cd079e0a2310e3eb31d03d2a0cb502f53bd56fb26067",
+    "sourceFile": "src\\content\\relationships\\kena-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "lingayat-tradition-shaiva",
+    "from": "lingayat",
+    "relationship": "subtype-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "e16f59190cb050ebdb98db2842884975493c16943c58597c0a7474fac0c49577",
+    "sourceFile": "src\\content\\relationships\\lingayat-tradition-shaiva.md"
+  },
+  {
+    "id": "madhva-associated-dvaita",
+    "from": "madhva",
+    "relationship": "associated-with",
+    "to": "dvaita-vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "279ebba84a9f192a085627cf62864fe3fee7df4a88f6a604333005b614ff9fb3",
+    "sourceFile": "src\\content\\relationships\\madhva-associated-dvaita.md"
   },
   {
     "id": "mahabharata-attributed-vyasa",
@@ -192,6 +504,30 @@
     "sourceFile": "src\\content\\relationships\\mahabharata-attributed-vyasa.md"
   },
   {
+    "id": "mahashivaratri-festival-deity",
+    "from": "mahashivaratri",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "d05862323e327adc3520079d71e3bb35cf4ebe15e17fdd1578f2e3ef76157101",
+    "sourceFile": "src\\content\\relationships\\mahashivaratri-festival-deity.md"
+  },
+  {
+    "id": "mandukya-upanishad-subtype-shruti",
+    "from": "mandukya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "67d61ba274702370826b6b54fd780d1352ae3967c09a0921693b75f6c67f2b0d",
+    "sourceFile": "src\\content\\relationships\\mandukya-upanishad-subtype-shruti.md"
+  },
+  {
     "id": "moksha-related-samsara",
     "from": "moksha",
     "relationship": "related-to",
@@ -199,9 +535,57 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "A broad conceptual relationship represented without a universal doctrinal claim.",
-    "contentHash": "d9cc1f087926bfe828ed0ac120d017e12e51235a3f5625d6352873186b0198fa",
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "f62b3d92c7dd5879d50369b8917e3b72e42c9975defcb0a8bcd27b1f65275736",
     "sourceFile": "src\\content\\relationships\\moksha-related-samsara.md"
+  },
+  {
+    "id": "mundaka-upanishad-subtype-shruti",
+    "from": "mundaka-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "53f9a2b99f169a119a6d10da440ad5e65df667346228ee569b9d17a03a145c9f",
+    "sourceFile": "src\\content\\relationships\\mundaka-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "navaratri-festival-deity",
+    "from": "navaratri",
+    "relationship": "associated-with",
+    "to": "durga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "c7bfc93a9c7d510f86ecae39762b7e43ee2bec93aa3dc8a24746cf23b9f60346",
+    "sourceFile": "src\\content\\relationships\\navaratri-festival-deity.md"
+  },
+  {
+    "id": "nirukta-subtype-vedanga",
+    "from": "nirukta",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "c883d938bd857b4280fc2a269678c871b265d742a7866efca31d08b92b469cec",
+    "sourceFile": "src\\content\\relationships\\nirukta-subtype-vedanga.md"
+  },
+  {
+    "id": "nyaya-subtype-darshana",
+    "from": "nyaya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "38796d2938f385ce686c3a313187ef93ab995c4c3f58d65449ac396272bd10d9",
+    "sourceFile": "src\\content\\relationships\\nyaya-subtype-darshana.md"
   },
   {
     "id": "onam-festival-domain",
@@ -216,6 +600,30 @@
     "sourceFile": "src\\content\\relationships\\onam-festival-domain.md"
   },
   {
+    "id": "prashna-upanishad-subtype-shruti",
+    "from": "prashna-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "1bb5356606f2490d25db692d5adf499dab1a361c063bb7b1871add8f89f95054",
+    "sourceFile": "src\\content\\relationships\\prashna-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "puja-practice-deity",
+    "from": "puja",
+    "relationship": "related-to",
+    "to": "deity",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "5e92a760cafbd169813bf9f2c4d98fdaf24221d5ce1334d196ce7461008efc4a",
+    "sourceFile": "src\\content\\relationships\\puja-practice-deity.md"
+  },
+  {
     "id": "puja-practice-domain",
     "from": "puja",
     "relationship": "belongs-to-domain",
@@ -226,6 +634,90 @@
     "editorialNote": "A controlled taxonomy relationship.",
     "contentHash": "ffc94ed46e6e92f2649814e1e2ced8c898c65188ea6f57cb5899042a150ac374",
     "sourceFile": "src\\content\\relationships\\puja-practice-domain.md"
+  },
+  {
+    "id": "purushartha-contains-artha",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "artha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "d9bf64c92c1b3bb5c6e2815b2f74c97d8c2fc26c74d057482a7adf3f43c9257b",
+    "sourceFile": "src\\content\\relationships\\purushartha-contains-artha.md"
+  },
+  {
+    "id": "purushartha-contains-dharma",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "dharma",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "8b2fd6ea43ebd10767d5d078d2e02abbdf2d274c1cc607bbf9ef55672a915457",
+    "sourceFile": "src\\content\\relationships\\purushartha-contains-dharma.md"
+  },
+  {
+    "id": "purushartha-contains-kama",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "kama",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "aa567586f7735b22043626e593f637a9a0193768a3ab5494cfdd62bb6b9bd699",
+    "sourceFile": "src\\content\\relationships\\purushartha-contains-kama.md"
+  },
+  {
+    "id": "purushartha-contains-moksha",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "6f914d3418ac7839ad1d819192ec9c758b06ed0768b6982c8ec1003d68b32477",
+    "sourceFile": "src\\content\\relationships\\purushartha-contains-moksha.md"
+  },
+  {
+    "id": "purva-mimamsa-subtype-darshana",
+    "from": "purva-mimamsa",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "b325f3bf8447067626d131478ecee460df3ad9d30de4308024bbcb30360e3370",
+    "sourceFile": "src\\content\\relationships\\purva-mimamsa-subtype-darshana.md"
+  },
+  {
+    "id": "ramanavami-festival-deity",
+    "from": "ramanavami",
+    "relationship": "associated-with",
+    "to": "rama",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "cebf5e1446536fce07f401bb78981c29e177c678d15d2af0846e9b0d868af519",
+    "sourceFile": "src\\content\\relationships\\ramanavami-festival-deity.md"
+  },
+  {
+    "id": "ramanuja-associated-vishishtadvaita",
+    "from": "ramanuja",
+    "relationship": "associated-with",
+    "to": "vishishtadvaita-vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "0ca0b23b059816ef6efedda00f2599b1951775d2415b78acc7fb589a558c2378",
+    "sourceFile": "src\\content\\relationships\\ramanuja-associated-vishishtadvaita.md"
   },
   {
     "id": "rigveda-belongs-shruti",
@@ -240,6 +732,18 @@
     "sourceFile": "src\\content\\relationships\\rigveda-belongs-shruti.md"
   },
   {
+    "id": "sandhyavandana-practice-vedanga",
+    "from": "sandhyavandana",
+    "relationship": "related-to",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "c2db9c087947c3d4579e0bbed2d638f0ce2764f69e051f745fc4b9e4dc8757bc",
+    "sourceFile": "src\\content\\relationships\\sandhyavandana-practice-vedanga.md"
+  },
+  {
     "id": "sankhya-darshana",
     "from": "sankhya",
     "relationship": "subtype-of",
@@ -250,6 +754,18 @@
     "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
     "contentHash": "32b92a05ab85e4f96984b8b0af5918fb7e21e1f15b988a7c21937058b6cd3434",
     "sourceFile": "src\\content\\relationships\\sankhya-darshana.md"
+  },
+  {
+    "id": "sankhya-subtype-darshana",
+    "from": "sankhya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "0e38ef814bc626fbe1dd986de662f5871ec11d347d378758456a84f6084808ba",
+    "sourceFile": "src\\content\\relationships\\sankhya-subtype-darshana.md"
   },
   {
     "id": "sanskrit-vyakarana",
@@ -264,6 +780,30 @@
     "sourceFile": "src\\content\\relationships\\sanskrit-vyakarana.md"
   },
   {
+    "id": "shankara-associated-advaita",
+    "from": "shankara",
+    "relationship": "associated-with",
+    "to": "advaita-vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "6f29bbd3ee0c99ebe9e5c5be16456a34c0fe6736f2dbddb51ab64c39126a3dca",
+    "sourceFile": "src\\content\\relationships\\shankara-associated-advaita.md"
+  },
+  {
+    "id": "shiksha-subtype-vedanga",
+    "from": "shiksha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "aeba5e8494f3c2f19a8c3f53e380c8ce2736e19c09faee408a304977520aa555",
+    "sourceFile": "src\\content\\relationships\\shiksha-subtype-vedanga.md"
+  },
+  {
     "id": "shiva-deity-domain",
     "from": "shiva",
     "relationship": "belongs-to-domain",
@@ -274,6 +814,102 @@
     "editorialNote": "A controlled taxonomy relationship.",
     "contentHash": "b3c9172127f7b4e91e91ff0bbc20095a1983866724b2df97152b361a72af6dc7",
     "sourceFile": "src\\content\\relationships\\shiva-deity-domain.md"
+  },
+  {
+    "id": "shiva-deity-shaiva-tradition",
+    "from": "shiva",
+    "relationship": "associated-with",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "24208174d2dd9dd30d770745c780f22b7eb18fc94765dd85808184000fca7048",
+    "sourceFile": "src\\content\\relationships\\shiva-deity-shaiva-tradition.md"
+  },
+  {
+    "id": "shraddha-ritual-samskara",
+    "from": "shraddha",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "c9fc55e391ba9e1b7e3c9dae7e66a184fc8ef6ae2c89cf7160f6794570c71fd2",
+    "sourceFile": "src\\content\\relationships\\shraddha-ritual-samskara.md"
+  },
+  {
+    "id": "sri-vaishnava-tradition-vaishnava",
+    "from": "sri-vaishnava",
+    "relationship": "subtype-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "625a43b9182ab0eb65406baae3a9dced1aac66db8107e03bf904667e3eb291c7",
+    "sourceFile": "src\\content\\relationships\\sri-vaishnava-tradition-vaishnava.md"
+  },
+  {
+    "id": "taittiriya-upanishad-subtype-shruti",
+    "from": "taittiriya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "e61ff307ecf05837b500a6f257d145945fac750d3f477a64b4aca34858371039",
+    "sourceFile": "src\\content\\relationships\\taittiriya-upanishad-subtype-shruti.md"
+  },
+  {
+    "id": "upanayana-ritual-samskara",
+    "from": "upanayana",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "4c6fd3e8b6f68c9d66094fd105379b12260b0501aaa783f30a12e508fa6a73ad",
+    "sourceFile": "src\\content\\relationships\\upanayana-ritual-samskara.md"
+  },
+  {
+    "id": "vairagya-related-jnana",
+    "from": "vairagya",
+    "relationship": "related-to",
+    "to": "jnana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "2e86840fa8025af39b2d7574eaf6bc836647c73a110262331af8407941ee1a84",
+    "sourceFile": "src\\content\\relationships\\vairagya-related-jnana.md"
+  },
+  {
+    "id": "vaisheshika-subtype-darshana",
+    "from": "vaisheshika",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "6601dc90fc252e38091769a44420fafe21d2a4291ac73d9c2172b7b8bd08dd59",
+    "sourceFile": "src\\content\\relationships\\vaisheshika-subtype-darshana.md"
+  },
+  {
+    "id": "valmiki-associated-ramayana",
+    "from": "valmiki",
+    "relationship": "associated-with",
+    "to": "ramayana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "fb20e895ba53aeaa8a154df7b525c180a94fcf8e8f9573bcad03d15485e88425",
+    "sourceFile": "src\\content\\relationships\\valmiki-associated-ramayana.md"
   },
   {
     "id": "vedanga-chandas",
@@ -360,6 +996,18 @@
     "sourceFile": "src\\content\\relationships\\vedanta-darshana.md"
   },
   {
+    "id": "vedanta-subtype-darshana",
+    "from": "vedanta",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "d071d03cf061a1df2c78c80a29bcfac14cd953f053074b5f12f3fb0f7de17ef6",
+    "sourceFile": "src\\content\\relationships\\vedanta-subtype-darshana.md"
+  },
+  {
     "id": "vishishtadvaita-associated-ramanuja",
     "from": "vishishtadvaita-vedanta",
     "relationship": "associated-with",
@@ -372,6 +1020,42 @@
     "sourceFile": "src\\content\\relationships\\vishishtadvaita-associated-ramanuja.md"
   },
   {
+    "id": "vishishtadvaita-vedanta-subtype-vedanta",
+    "from": "vishishtadvaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "4cfd89bb413e60c413789bdc5361674c3aa0a65aec60b2f58d9232d528418302",
+    "sourceFile": "src\\content\\relationships\\vishishtadvaita-vedanta-subtype-vedanta.md"
+  },
+  {
+    "id": "vishnu-deity-vaishnava-tradition",
+    "from": "vishnu",
+    "relationship": "associated-with",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "5634b45b2a503e6376811354f472bd37cd143bceb5720011e5bd10bc45ab553f",
+    "sourceFile": "src\\content\\relationships\\vishnu-deity-vaishnava-tradition.md"
+  },
+  {
+    "id": "vivaha-ritual-samskara",
+    "from": "vivaha",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "b599a64a053a4cfaa9c1ee2a09e75c850dcc2b4cf7992d64977c184a2e0c7e22",
+    "sourceFile": "src\\content\\relationships\\vivaha-ritual-samskara.md"
+  },
+  {
     "id": "vrata-practice-domain",
     "from": "vrata",
     "relationship": "belongs-to-domain",
@@ -382,6 +1066,42 @@
     "editorialNote": "A taxonomy relationship connecting Vrata to the practice domain.",
     "contentHash": "e4ce3cc4af38cfe71c86f755a888bc8c0abb3792dc9e6452492a6f211bd22785",
     "sourceFile": "src\\content\\relationships\\vrata-practice-domain.md"
+  },
+  {
+    "id": "vrata-practice-festival",
+    "from": "vrata",
+    "relationship": "related-to",
+    "to": "festival",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "ea156d22a5581201e0b0c87c2f9e895140103ac86ade4199b9abaf60e9d4e6bc",
+    "sourceFile": "src\\content\\relationships\\vrata-practice-festival.md"
+  },
+  {
+    "id": "vyakarana-subtype-vedanga",
+    "from": "vyakarana",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "111a80129bdf62a14120b58061d81970b89cbd815ac2d10e2796cccecda7868e",
+    "sourceFile": "src\\content\\relationships\\vyakarana-subtype-vedanga.md"
+  },
+  {
+    "id": "vyasa-associated-mahabharata",
+    "from": "vyasa",
+    "relationship": "associated-with",
+    "to": "mahabharata",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "b80a021353ebc8aadffc97e3b32ad6fe80e032494eb44eb890f4eca21f64651f",
+    "sourceFile": "src\\content\\relationships\\vyasa-associated-mahabharata.md"
   },
   {
     "id": "yajna-practice",
@@ -418,5 +1138,17 @@
     "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
     "contentHash": "6c1915b782ff212ffdea718a41d052aab174e67f337710c9dccdaafe9c5455db",
     "sourceFile": "src\\content\\relationships\\yoga-darshana-parent.md"
+  },
+  {
+    "id": "yoga-darshana-subtype-darshana",
+    "from": "yoga-darshana",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "Editorial relationship record. Verify against the selected edition before publication.",
+    "contentHash": "0f71f0032dfbd5e8739f66bb65bb64094c5fd01ef5fa1393109adb7286a9b787",
+    "sourceFile": "src\\content\\relationships\\yoga-darshana-subtype-darshana.md"
   }
 ]

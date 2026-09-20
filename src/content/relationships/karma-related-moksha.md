@@ -5,5 +5,4 @@ relationship: related-to
 to: moksha
 sources: [gretil]
 ---
-
-Broad conceptual relationship; school-specific interpretations may differ.
+Editorial relationship record. Verify against the selected edition before publication.

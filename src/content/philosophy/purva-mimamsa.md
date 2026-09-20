@@ -1,13 +1,12 @@
 ---
 id: purva-mimamsa
-title: Pūrva Mīmāṃsā
+title: Pūrvamīmāṃsā
 type: philosophical-school
 language: [sa, en]
 aliases: [पूर्वमीमांसा]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [DARSHANA, DHARMASHASTRA]
+classifications: [DARSHANA, DHARMASHASTRA, PHILOSOPHY]
 ---
-
-A philosophical tradition concerned with interpretation, ritual action and Vedic authority in its own textual contexts.
+A tradition focused on Vedic hermeneutics, ritual action, and the authority of the Veda as an instrument of valid knowledge.

@@ -5,9 +5,8 @@ type: acharya
 language: [sa, en]
 aliases: [Ramanujacharya, रामानुज]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [ACHARYA, VEDANTA, BIOGRAPHY]
+classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]
 ---
-
-An ācārya associated with Viśiṣṭādvaita Vedānta, represented here without ranking philosophical traditions.
+An 11th–12th-century ācārya associated with Viśiṣṭādvaita Vedānta; this record represents his tradition without ranking it against other schools.

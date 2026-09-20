@@ -5,5 +5,4 @@ relationship: related-to
 to: karma
 sources: [gretil]
 ---
-
-Broad conceptual relationship; not a claim of identical meaning.
+Editorial relationship record. Verify against the selected edition before publication.

@@ -3,15 +3,14 @@
     "entityId": "ashrama",
     "title": "Āśrama",
     "type": "concept",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -20,7 +19,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -34,13 +33,12 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -49,7 +47,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 3,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -60,7 +58,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -80,12 +78,26 @@
     "needsWork": []
   },
   {
-    "entityId": "moksha",
-    "title": "Moksha",
+    "entityId": "krishna",
+    "title": "Kṛṣṇa",
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "moksha",
+    "title": "Mokṣa",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 5,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -99,13 +111,12 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -128,82 +139,63 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "varna",
     "title": "Varṇa",
     "type": "concept",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "devi",
     "title": "Devī",
     "type": "deity",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "ganesha",
     "title": "Gaṇeśa",
     "type": "deity",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
-    ]
-  },
-  {
-    "entityId": "krishna",
-    "title": "Kṛṣṇa",
-    "type": "deity",
-    "status": "draft",
-    "sourceCount": 1,
-    "relationshipCount": 0,
-    "claimCount": 0,
-    "evidenceCount": 0,
-    "needsWork": [
-      "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "shiva",
     "title": "Śiva",
     "type": "deity",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -215,7 +207,7 @@
     "entityId": "surya",
     "title": "Sūrya",
     "type": "deity",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
     "relationshipCount": 0,
     "claimCount": 0,
@@ -230,24 +222,23 @@
     "entityId": "vishnu",
     "title": "Viṣṇu",
     "type": "deity",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "dipavali",
     "title": "Dīpāvalī",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -256,22 +247,21 @@
     "entityId": "ganesha-caturthi",
     "title": "Gaṇeśa Caturthī",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "holi",
     "title": "Holī",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
     "relationshipCount": 0,
     "claimCount": 0,
@@ -286,52 +276,49 @@
     "entityId": "janmashtami",
     "title": "Janmāṣṭamī",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "mahashivaratri",
     "title": "Mahāśivarātri",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "navaratri",
     "title": "Navarātri",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "onam",
     "title": "Onam",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
     "relationshipCount": 1,
     "claimCount": 0,
@@ -345,24 +332,23 @@
     "entityId": "ramanavami",
     "title": "Rāmanavamī",
     "type": "festival",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "madhva",
     "title": "Madhva",
     "type": "acharya",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -374,9 +360,9 @@
     "entityId": "ramanuja",
     "title": "Rāmānuja",
     "type": "acharya",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -388,9 +374,9 @@
     "entityId": "shankara",
     "title": "Śaṅkara",
     "type": "acharya",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -402,24 +388,23 @@
     "entityId": "valmiki",
     "title": "Vālmīki",
     "type": "teacher",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "vyasa",
     "title": "Vyāsa",
     "type": "teacher",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -433,7 +418,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -447,7 +432,7 @@
     "type": "philosophical-school",
     "status": "draft",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -461,29 +446,14 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
   },
   {
     "entityId": "purva-mimamsa",
-    "title": "Pūrva Mīmāṃsā",
-    "type": "philosophical-school",
-    "status": "draft",
-    "sourceCount": 1,
-    "relationshipCount": 0,
-    "claimCount": 0,
-    "evidenceCount": 0,
-    "needsWork": [
-      "claim",
-      "evidence",
-      "relationship"
-    ]
-  },
-  {
-    "entityId": "sankhya",
-    "title": "Sāṃkhya",
+    "title": "Pūrvamīmāṃsā",
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
@@ -496,18 +466,31 @@
     ]
   },
   {
-    "entityId": "vaisheshika",
-    "title": "Vaiśeṣika",
+    "entityId": "sankhya",
+    "title": "Sāṃkhya",
     "type": "philosophical-school",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
+    ]
+  },
+  {
+    "entityId": "vaisheshika",
+    "title": "Vaiśeṣika",
+    "type": "philosophical-school",
+    "status": "published",
+    "sourceCount": 1,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
     ]
   },
   {
@@ -516,7 +499,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 7,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -527,7 +510,7 @@
     "type": "philosophical-school",
     "status": "draft",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -541,7 +524,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -555,7 +538,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -566,7 +549,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -580,7 +563,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -589,30 +572,28 @@
     "entityId": "samskara",
     "title": "Saṃskāra",
     "type": "ritual",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "sandhyavandana",
     "title": "Sandhyāvandana",
     "type": "practice",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -636,7 +617,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -690,7 +671,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -704,7 +685,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 3,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -715,13 +696,12 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -768,45 +748,42 @@
     "entityId": "shaiva",
     "title": "Śaiva traditions",
     "type": "tradition",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "shakta",
     "title": "Śākta traditions",
     "type": "tradition",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
     "entityId": "vaishnava",
     "title": "Vaiṣṇava traditions",
     "type": "tradition",
-    "status": "draft",
+    "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   }
 ]

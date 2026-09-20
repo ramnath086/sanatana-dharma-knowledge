@@ -5,9 +5,8 @@ type: philosophical-school
 language: [sa, en]
 aliases: [वैशेषिक]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
 classifications: [DARSHANA, PHILOSOPHY]
 ---
-
-A philosophical tradition represented through a concise, source-aware catalogue entry.
+A school of atomistic metaphysics and category theory, closely associated with Nyāya in later synthetic developments.

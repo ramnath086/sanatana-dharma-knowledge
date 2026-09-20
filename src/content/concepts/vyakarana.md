@@ -7,7 +7,6 @@ aliases: [व्याकरण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANGA, SANSKRIT, SCHOLARSHIP]
+classifications: [VEDANGA, SHRUTI, SANSKRIT]
 ---
-
-The grammatical study of Sanskrit and related linguistic analysis, represented here as a Vedāṅga domain.
+The Vedāṅga of grammar, epitomized by Pāṇini's Aṣṭādhyāyī, which systematized Sanskrit morphology and syntax.

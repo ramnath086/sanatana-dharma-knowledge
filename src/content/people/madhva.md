@@ -1,13 +1,12 @@
 ---
 id: madhva
 title: Madhva
- type: acharya
+type: acharya
 language: [sa, en]
 aliases: [Madhvacharya, मध्व]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [ACHARYA, VEDANTA, BIOGRAPHY]
+classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]
 ---
-
-An ācārya associated with Dvaita Vedānta, represented through distinct tradition-aware metadata.
+A 13th-century ācārya associated with Dvaita Vedānta; this record represents his tradition without ranking it against other schools.

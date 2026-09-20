@@ -7,7 +7,6 @@ aliases: [ज्योतिष]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANGA, SCHOLARSHIP]
+classifications: [VEDANGA, SHRUTI, SANSKRIT, CONCEPT]
 ---
-
-A Vedāṅga category associated with calendrical and astral knowledge in historical textual contexts.
+The Vedāṅga of astronomy and calendrical science, used for determining ritual times and celestial observations.

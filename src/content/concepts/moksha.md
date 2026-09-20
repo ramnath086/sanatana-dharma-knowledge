@@ -1,13 +1,12 @@
 ---
 id: moksha
-title: Moksha
+title: Mokṣa
 type: concept
-language: [en, sa]
+language: [sa, en]
+aliases: [Moksha, मोक्ष]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PHILOSOPHY]
-aliases: [Mokṣa, मोक्ष]
+classifications: [CONCEPT, PHILOSOPHY, VEDANTA, CONCEPT]
 ---
-
-A sample concept record for a future treatment of liberation across philosophical contexts.
+A concept of liberation or release whose nature, means, and attainment are described in varied ways across traditions and texts.

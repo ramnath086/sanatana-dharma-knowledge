@@ -5,9 +5,8 @@ type: festival
 language: [sa, en]
 aliases: [Navratri, नवरात्रि]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [FESTIVAL, DEITY, REGIONAL_TRADITION]
+classifications: [FESTIVAL, DEITY, REGIONAL_TRADITION, CULTURE]
 ---
-
-A festival period whose forms, narratives and observances vary significantly by region and tradition.
+A nine-night festival period whose forms, narratives, and observances vary significantly by region, tradition, and Devī-centered lineage.

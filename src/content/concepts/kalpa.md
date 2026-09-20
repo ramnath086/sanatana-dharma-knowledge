@@ -7,7 +7,6 @@ aliases: [कल्प]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANGA, RITUAL, SHRUTI]
+classifications: [VEDANGA, SHRUTI, DHARMASHASTRA, RITUAL]
 ---
-
-A domain associated with procedural and ritual textual traditions, including different sūtra contexts.
+The Vedāṅga of ritual procedure, comprising Śrauta, Gṛhya, and Dharma sūtras that prescribe sacrificial and domestic rites.

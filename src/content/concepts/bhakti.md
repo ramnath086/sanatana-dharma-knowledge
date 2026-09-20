@@ -7,7 +7,6 @@ aliases: [भक्ति]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PRACTICE, TRADITION]
+classifications: [CONCEPT, PRACTICE, PHILOSOPHY, TRADITION]
 ---
-
-A term associated with devotion and devotional orientation across multiple textual and living traditions.
+Devotional orientation or practice whose objects, methods, and theological frameworks vary widely across texts, traditions, and historical periods.

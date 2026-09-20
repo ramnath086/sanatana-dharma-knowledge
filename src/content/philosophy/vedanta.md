@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, VEDANTA, PHILOSOPHY]
 ---
-
-A family of philosophical traditions whose internal schools should be represented separately rather than as one homogeneous position.
+A family of traditions interpreting the Upaniṣads, Brahma-sūtras, and Bhagavad Gītā; its internal schools are represented separately.

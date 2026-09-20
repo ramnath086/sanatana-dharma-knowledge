@@ -5,5 +5,4 @@ relationship: related-to
 to: samsara
 sources: [gretil]
 ---
-
-A broad conceptual relationship represented without a universal doctrinal claim.
+Editorial relationship record. Verify against the selected edition before publication.

@@ -3,11 +3,10 @@ id: samsara
 title: Saṃsāra
 type: concept
 language: [sa, en]
-aliases: [संसार]
+aliases: [Samsara, संसार]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PHILOSOPHY]
+classifications: [CONCEPT, PHILOSOPHY, VEDANTA, CONCEPT]
 ---
-
-A concept whose uses and interpretations vary across texts and philosophical traditions.
+The cyclic process of birth, death, and rebirth that provides the soteriological background for the pursuit of liberation in Indian traditions.

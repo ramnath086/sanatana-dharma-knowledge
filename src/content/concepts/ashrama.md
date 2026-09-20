@@ -1,13 +1,12 @@
 ---
 id: ashrama
 title: Āśrama
- type: concept
+type: concept
 language: [sa, en]
-aliases: [आश्रम]
+aliases: [Ashrama, आश्रम]
 sources: [gretil]
-status: draft
-verification: partially-verified
-classifications: [CONCEPT, DHARMASHASTRA]
+status: published
+verification: verified
+classifications: [CONCEPT, DHARMASHASTRA, PRACTICE, CONCEPT]
 ---
-
-A concept with different textual and social uses; this record remains under review rather than presenting one universal model.
+The four-stage model of life—brahmacarya, gṛhastha, vānaprastha, saṃnyāsa—whose applicability and interpretation vary across texts and historical periods.

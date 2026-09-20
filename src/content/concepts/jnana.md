@@ -1,13 +1,12 @@
 ---
 id: jnana
 title: Jñāna
- type: concept
+type: concept
 language: [sa, en]
-aliases: [ज्ञान]
+aliases: [Jnana, ज्ञान]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PHILOSOPHY, YOGA]
+classifications: [CONCEPT, PHILOSOPHY, VEDANTA, PRACTICE]
 ---
-
-A term for knowledge or insight whose meaning differs across philosophical and devotional contexts.
+A term for knowledge, particularly liberating knowledge, whose content and means of attainment differ across philosophical schools and practice traditions.

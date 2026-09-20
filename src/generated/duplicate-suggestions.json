@@ -7,5 +7,50 @@
     ],
     "reason": "Canonical titles normalize to dharma.",
     "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "yoga",
+      "yoga-glossary"
+    ],
+    "reason": "Canonical titles normalize to yoga.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "yoga",
+      "yoga-glossary"
+    ],
+    "reason": "Alias collision: योग.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "samkhya",
+      "sankhya"
+    ],
+    "reason": "Canonical titles normalize to samkhya.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "samkhya",
+      "sankhya"
+    ],
+    "reason": "Alias collision: सांख्य.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirtha-glossary",
+      "tirtha"
+    ],
+    "reason": "Alias collision: तीर्थ.",
+    "recommendation": "Review aliases and canonical identity."
   }
 ]

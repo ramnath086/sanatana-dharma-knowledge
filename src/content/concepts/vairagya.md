@@ -7,7 +7,6 @@ aliases: [वैराग्य]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, YOGA, PHILOSOPHY]
+classifications: [CONCEPT, PRACTICE, YOGA, VEDANTA]
 ---
-
-A term associated with detachment or dispassion, interpreted differently across philosophical contexts.
+Dispassion or non-attachment, presented in texts as a prerequisite for contemplative progress, with degrees and nuances described differently across traditions.

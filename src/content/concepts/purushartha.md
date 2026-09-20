@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, DHARMASHASTRA, PHILOSOPHY]
 ---
-
-A framework commonly discussed through aims of human life; details vary by textual and interpretive context.
+The four recognized aims of human life—dharma, artha, kāma, mokṣa—whose relative priority and interpretation vary by textual tradition and stage of life.

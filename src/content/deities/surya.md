@@ -5,9 +5,8 @@ type: deity
 language: [sa, en]
 aliases: [Surya, सूर्य]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [DEITY, SHRUTI, TRADITION]
+classifications: [DEITY, VEDIC, PRACTICE]
 ---
-
-A deity associated with solar imagery and worship in varied textual and living contexts.
+The solar deity represented in Vedic, Puranic, and living traditions; this record distinguishes textual portrayals from later syncretic developments.

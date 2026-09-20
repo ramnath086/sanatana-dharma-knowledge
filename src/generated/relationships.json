@@ -1,9 +1,63 @@
 [
   {
+    "id": "advaita-associated-shankara",
+    "from": "advaita-vedanta",
+    "relationship": "associated-with",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "advaita-vedanta-parent",
     "from": "advaita-vedanta",
     "relationship": "subtype-of",
     "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "advaita-vedanta-subtype-vedanta",
+    "from": "advaita-vedanta",
+    "relationship": "subtype-of",
+    "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "aitareya-upanishad-subtype-shruti",
+    "from": "aitareya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "antyeshti-ritual-samskara",
+    "from": "antyeshti",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "ashrama-related-varna",
+    "from": "ashrama",
+    "relationship": "related-to",
+    "to": "varna",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "atman-related-brahman",
+    "from": "atman",
+    "relationship": "related-to",
+    "to": "brahman",
     "sourceIds": [
       "gretil"
     ]
@@ -18,10 +72,55 @@
     ]
   },
   {
+    "id": "bhakti-related-moksha",
+    "from": "bhakti",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "brihadaranyaka-upanishad-subtype-shruti",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "chandas-subtype-vedanga",
+    "from": "chandas",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "chandogya-upanishad-subtype-shruti",
+    "from": "chandogya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "darshana-nyaya",
     "from": "nyaya",
     "relationship": "belongs-to-domain",
     "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "devi-deity-shakta-tradition",
+    "from": "devi",
+    "relationship": "associated-with",
+    "to": "shakta",
     "sourceIds": [
       "gretil"
     ]
@@ -36,10 +135,64 @@
     ]
   },
   {
+    "id": "dhyana-practice-yoga",
+    "from": "dhyana",
+    "relationship": "related-to",
+    "to": "yoga-darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "dhyana-yoga-domain",
     "from": "dhyana",
     "relationship": "belongs-to-domain",
     "to": "yoga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "dipavali-festival-deity",
+    "from": "dipavali",
+    "relationship": "associated-with",
+    "to": "lakshmi",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "dipavali-festival-domain",
+    "from": "dipavali",
+    "relationship": "belongs-to-domain",
+    "to": "festival",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "ganesha-caturthi-festival-deity",
+    "from": "ganesha-caturthi",
+    "relationship": "associated-with",
+    "to": "ganesha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "ganesha-deity-shaiva-tradition",
+    "from": "ganesha",
+    "relationship": "associated-with",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "gaudiya-vaishnava-tradition-vaishnava",
+    "from": "gaudiya-vaishnava",
+    "relationship": "subtype-of",
+    "to": "vaishnava",
     "sourceIds": [
       "gretil"
     ]
@@ -72,6 +225,33 @@
     ]
   },
   {
+    "id": "isha-upanishad-subtype-shruti",
+    "from": "isha-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "janmashtami-festival-deity",
+    "from": "janmashtami",
+    "relationship": "associated-with",
+    "to": "krishna",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "japa-practice-mantra",
+    "from": "japa",
+    "relationship": "related-to",
+    "to": "mantra",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "japa-practice",
     "from": "japa",
     "relationship": "belongs-to-domain",
@@ -81,10 +261,37 @@
     ]
   },
   {
+    "id": "jnana-related-moksha",
+    "from": "jnana",
+    "relationship": "related-to",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "jnana-vedanta",
     "from": "jnana",
     "relationship": "related-to",
     "to": "vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "jyotisha-subtype-vedanga",
+    "from": "jyotisha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "kalpa-subtype-vedanga",
+    "from": "kalpa",
+    "relationship": "subtype-of",
+    "to": "vedanga",
     "sourceIds": [
       "gretil"
     ]
@@ -108,10 +315,118 @@
     ]
   },
   {
+    "id": "katha-upanishad-subtype-shruti",
+    "from": "katha-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "kena-upanishad-subtype-shruti",
+    "from": "kena-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "lingayat-tradition-shaiva",
+    "from": "lingayat",
+    "relationship": "subtype-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "mahabharata-attributed-vyasa",
+    "from": "mahabharata",
+    "relationship": "attributed-to",
+    "to": "vyasa",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "mahashivaratri-festival-deity",
+    "from": "mahashivaratri",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "mandukya-upanishad-subtype-shruti",
+    "from": "mandukya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "moksha-related-samsara",
     "from": "moksha",
     "relationship": "related-to",
     "to": "samsara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "mundaka-upanishad-subtype-shruti",
+    "from": "mundaka-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "navaratri-festival-deity",
+    "from": "navaratri",
+    "relationship": "associated-with",
+    "to": "durga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "nirukta-subtype-vedanga",
+    "from": "nirukta",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "nyaya-subtype-darshana",
+    "from": "nyaya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "prashna-upanishad-subtype-shruti",
+    "from": "prashna-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "puja-practice-deity",
+    "from": "puja",
+    "relationship": "related-to",
+    "to": "deity",
     "sourceIds": [
       "gretil"
     ]
@@ -126,10 +441,73 @@
     ]
   },
   {
+    "id": "purushartha-contains-artha",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "artha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "purushartha-contains-dharma",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "dharma",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "purushartha-contains-kama",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "kama",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "purushartha-contains-moksha",
+    "from": "purushartha",
+    "relationship": "contains",
+    "to": "moksha",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "purva-mimamsa-subtype-darshana",
+    "from": "purva-mimamsa",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "ramanavami-festival-deity",
+    "from": "ramanavami",
+    "relationship": "associated-with",
+    "to": "rama",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "rigveda-belongs-shruti",
     "from": "rigveda",
     "relationship": "belongs-to-domain",
     "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "sandhyavandana-practice-vedanga",
+    "from": "sandhyavandana",
+    "relationship": "related-to",
+    "to": "vedanga",
     "sourceIds": [
       "gretil"
     ]
@@ -144,10 +522,118 @@
     ]
   },
   {
+    "id": "sankhya-subtype-darshana",
+    "from": "sankhya",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "sanskrit-vyakarana",
     "from": "vyakarana",
     "relationship": "belongs-to-domain",
     "to": "sanskrit",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "shankara-associated-advaita",
+    "from": "shankara",
+    "relationship": "associated-with",
+    "to": "advaita-vedanta",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "shiksha-subtype-vedanga",
+    "from": "shiksha",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "shiva-deity-domain",
+    "from": "shiva",
+    "relationship": "belongs-to-domain",
+    "to": "deity",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "shiva-deity-shaiva-tradition",
+    "from": "shiva",
+    "relationship": "associated-with",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "shraddha-ritual-samskara",
+    "from": "shraddha",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "sri-vaishnava-tradition-vaishnava",
+    "from": "sri-vaishnava",
+    "relationship": "subtype-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "taittiriya-upanishad-subtype-shruti",
+    "from": "taittiriya-upanishad",
+    "relationship": "subtype-of",
+    "to": "shruti",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "upanayana-ritual-samskara",
+    "from": "upanayana",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vairagya-related-jnana",
+    "from": "vairagya",
+    "relationship": "related-to",
+    "to": "jnana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vaisheshika-subtype-darshana",
+    "from": "vaisheshika",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "valmiki-associated-ramayana",
+    "from": "valmiki",
+    "relationship": "associated-with",
+    "to": "ramayana",
     "sourceIds": [
       "gretil"
     ]
@@ -216,10 +702,64 @@
     ]
   },
   {
+    "id": "vedanta-subtype-darshana",
+    "from": "vedanta",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vishnu-deity-vaishnava-tradition",
+    "from": "vishnu",
+    "relationship": "associated-with",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vivaha-ritual-samskara",
+    "from": "vivaha",
+    "relationship": "subtype-of",
+    "to": "samskara",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
     "id": "vrata-practice-domain",
     "from": "vrata",
     "relationship": "belongs-to-domain",
     "to": "practice",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vrata-practice-festival",
+    "from": "vrata",
+    "relationship": "related-to",
+    "to": "festival",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vyakarana-subtype-vedanga",
+    "from": "vyakarana",
+    "relationship": "subtype-of",
+    "to": "vedanga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "vyasa-associated-mahabharata",
+    "from": "vyasa",
+    "relationship": "associated-with",
+    "to": "mahabharata",
     "sourceIds": [
       "gretil"
     ]
@@ -244,6 +784,15 @@
   },
   {
     "id": "yoga-darshana-parent",
+    "from": "yoga-darshana",
+    "relationship": "subtype-of",
+    "to": "darshana",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "yoga-darshana-subtype-darshana",
     "from": "yoga-darshana",
     "relationship": "subtype-of",
     "to": "darshana",

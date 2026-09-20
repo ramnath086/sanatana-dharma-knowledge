@@ -3,11 +3,10 @@ id: sandhyavandana
 title: Sandhyāvandana
 type: practice
 language: [sa, en]
-aliases: [सन्ध्यावन्दन]
+aliases: [संध्यावन्दन]
 sources: [gretil]
-status: draft
-verification: partially-verified
-classifications: [PRACTICE, RITUAL, SHRUTI]
+status: published
+verification: verified
+classifications: [PRACTICE, RITUAL, SHRUTI, VEDANGA]
 ---
-
-A practice category associated with daily observance in some Vedic and family traditions; it is not universal or identical across communities.
+A daily observance associated with the junctures of the day, whose specific mantras and procedures differ by Vedic school and family tradition.

@@ -7,7 +7,6 @@ aliases: [योगदर्शन]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [DARSHANA, YOGA]
+classifications: [DARSHANA, YOGA, PHILOSOPHY]
 ---
-
-A philosophical school represented distinctly from the many modern and traditional uses of the word yoga.
+The philosophical school systematized in the Yogasūtras, distinct from the many modern and traditional uses of the term yoga.

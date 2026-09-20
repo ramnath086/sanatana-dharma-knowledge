@@ -3,11 +3,10 @@ id: vyasa
 title: Vyāsa
 type: teacher
 language: [sa, en]
-aliases: [Veda Vyasa, व्यास]
+aliases: [Veda Vyasa, वेद व्यास]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [RISHI, ITIHASA, BIOGRAPHY]
+classifications: [RISHI, ITIHASA, CONCEPT]
 ---
-
-A figure associated with the Mahābhārata and wider textual traditions. Traditional attribution is not presented as modern historical certainty.
+The traditional compiler of the Vedas and author of the Mahābhārata; traditional attribution is not presented as modern historical certainty.

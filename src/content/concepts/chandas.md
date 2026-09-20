@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANGA, SHRUTI, SANSKRIT]
 ---
-
-The study of meter in Sanskrit textual traditions, with applications and interpretations that depend on the text being studied.
+The Vedāṅga of metre and prosody, governing the rhythmic structure of Vedic and classical Sanskrit verse.

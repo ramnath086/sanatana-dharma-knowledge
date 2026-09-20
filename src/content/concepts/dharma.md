@@ -2,12 +2,11 @@
 id: dharma
 title: Dharma
 type: concept
-language: [en, sa]
+language: [sa, en]
+aliases: [धर्म]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PHILOSOPHY, DHARMASHASTRA]
-aliases: [धर्म]
+classifications: [CONCEPT, PHILOSOPHY, DHARMASHASTRA, CONCEPT]
 ---
-
-A sample concept record whose meanings and contexts require careful distinction between traditional accounts, historical scholarship and modern interpretation.
+A foundational concept whose meanings include duty, law, virtue, and the inherent nature of things; its specific sense depends on textual and situational context.

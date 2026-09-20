@@ -5,9 +5,8 @@ type: acharya
 language: [sa, en]
 aliases: [Adi Shankara, आदि शङ्कर]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [ACHARYA, VEDANTA, BIOGRAPHY]
+classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]
 ---
-
-An ācārya associated with Advaita Vedānta in traditional and scholarly accounts; those perspectives should remain distinguishable.
+An 8th-century ācārya traditionally associated with Advaita Vedānta; traditional hagiography and historical scholarship are kept distinct in this record.

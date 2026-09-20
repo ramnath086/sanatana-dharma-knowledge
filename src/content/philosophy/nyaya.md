@@ -3,11 +3,10 @@ id: nyaya
 title: Nyāya
 type: philosophical-school
 language: [sa, en]
+aliases: [न्याय]
 sources: [gretil]
 status: published
 verification: verified
 classifications: [DARSHANA, PHILOSOPHY]
-aliases: [न्याय]
 ---
-
-A philosophical tradition associated with methods of reasoning, inference and debate. Detailed representation requires school-specific sources.
+A philosophical tradition focused on logic, epistemology, and the means of valid knowledge (pramāṇa), with a distinct technical vocabulary.

@@ -5,9 +5,8 @@ type: deity
 language: [sa, en]
 aliases: [Ganesha, गणेश]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
-classifications: [DEITY, TRADITION]
+classifications: [DEITY, TRADITION, PRACTICE]
 ---
-
-A deity represented through varied regional, textual and devotional contexts.
+A widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.

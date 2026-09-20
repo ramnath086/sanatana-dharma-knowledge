@@ -5,9 +5,8 @@ type: festival
 language: [sa, en]
 aliases: [Holi, होली]
 sources: [gretil]
-status: draft
+status: published
 verification: verified
 classifications: [FESTIVAL, CULTURE, REGIONAL_TRADITION]
 ---
-
-A spring festival represented through varied regional practice, story and community contexts.
+A spring festival represented through varied regional practice, story, and community contexts.

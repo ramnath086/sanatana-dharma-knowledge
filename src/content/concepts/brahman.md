@@ -7,7 +7,6 @@ aliases: [ब्रह्मन्]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [CONCEPT, PHILOSOPHY, VEDANTA]
+classifications: [CONCEPT, PHILOSOPHY, VEDANTA, SHRUTI]
 ---
-
-A central philosophical term with differing interpretations across traditions; this record is intentionally introductory.
+The ultimate reality or ground of being in Vedāntic traditions, described through both negation (neti neti) and positive affirmation depending on the school.

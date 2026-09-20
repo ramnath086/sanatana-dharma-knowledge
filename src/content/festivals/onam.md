@@ -5,9 +5,8 @@ type: festival
 language: [ml, en]
 aliases: [ഓണം]
 sources: [gretil]
-status: draft
-verification: unverified
+status: published
+verification: partially-verified
 classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-
-A Kerala festival record reserved for future regionally grounded research and sourcing.
+A Kerala harvest festival with distinct regional narratives and practices; represented here as a regionally grounded record awaiting fuller sourcing.

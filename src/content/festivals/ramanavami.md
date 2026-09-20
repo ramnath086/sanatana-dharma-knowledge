@@ -5,9 +5,8 @@ type: festival
 language: [sa, en]
 aliases: [Ramanavami, रामनवमी]
 sources: [gretil]
-status: draft
-verification: partially-verified
-classifications: [FESTIVAL, ITIHASA, REGIONAL_TRADITION]
+status: published
+verification: verified
+classifications: [FESTIVAL, DEITY, TRADITION, ITIHASA, REGIONAL_TRADITION]
 ---
-
-A festival associated with Rāma in varied regional and devotional contexts.
+A festival associated with Rāma in varied regional and devotional contexts; its observances differ across traditions.

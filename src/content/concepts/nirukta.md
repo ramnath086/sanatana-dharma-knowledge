@@ -7,7 +7,6 @@ aliases: [निरुक्त]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANGA, SANSKRIT, SCHOLARSHIP]
+classifications: [VEDANGA, SHRUTI, SANSKRIT]
 ---
-
-A domain of etymological and semantic explanation associated with Vedic study.
+The Vedāṅga of etymology and semantic interpretation, exemplified by Yāska's Nirukta, which explains obscure Vedic terms.

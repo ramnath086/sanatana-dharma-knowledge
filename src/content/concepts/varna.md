@@ -5,9 +5,8 @@ type: concept
 language: [sa, en]
 aliases: [वर्ण]
 sources: [gretil]
-status: draft
-verification: partially-verified
-classifications: [CONCEPT, DHARMASHASTRA, HISTORY]
+status: published
+verification: verified
+classifications: [CONCEPT, DHARMASHASTRA, PHILOSOPHY, CULTURE]
 ---
-
-A term with varying textual, social and historical uses; interpretation requires careful context and should not be flattened into one account.
+The fourfold classification—brāhmaṇa, kṣatriya, vaiśya, śūdra—whose textual prescriptions, historical manifestations, and contemporary significance are distinct and should not be conflated.
