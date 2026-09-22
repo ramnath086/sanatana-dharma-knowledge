@@ -4,7 +4,7 @@ title: Folio
 type: concept
 language: [sa, en]
 aliases: [Folio, फोलियो]
-sources: [gretil]
+sources: [gretil, soas-university-london]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

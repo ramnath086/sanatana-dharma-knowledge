@@ -7,6 +7,7 @@ aliases: [Apastamba Dharmasutra, आपस्तम्ब धर्मसूत�
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra, DHARMASHASTRA]
+classifications: [SHRUTI, VEDANGA, DHARMASHASTRA]
 ---
-An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, noted for its systematic treatment of ritual and law; represented here as a catalogue entry.
+The Āpastamba Dharmasūtra, associated with the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, is one of the earliest Dharma Sūtras prescribing social, legal, and ritual norms; its textual content is represented here as a catalogue entry.
+---

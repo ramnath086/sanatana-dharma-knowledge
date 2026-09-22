@@ -4,7 +4,7 @@ title: Numismatics
 type: concept
 language: [sa, en]
 aliases: [Numismatics, न्यूमिज्मैटिक्स]
-sources: [gretil]
+sources: [gretil, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, Scholarship]

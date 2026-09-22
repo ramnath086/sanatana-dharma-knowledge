@@ -4,7 +4,7 @@ title: Paleography
 type: concept
 language: [sa, en]
 aliases: [Palaeography, पालियोग्राफी]
-sources: [gretil]
+sources: [gretil, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

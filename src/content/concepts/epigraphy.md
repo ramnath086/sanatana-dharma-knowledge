@@ -4,7 +4,7 @@ title: Epigraphy
 type: concept
 language: [sa, en]
 aliases: [Epigraphy, एपिग्राफी]
-sources: [gretil]
+sources: [gretil, archaeological-survey-of-india, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, MANUSCRIPT, SCHOLARSHIP, HISTORY]

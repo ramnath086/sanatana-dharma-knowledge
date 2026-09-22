@@ -4,7 +4,7 @@ title: Śaṅkara
 type: acharya
 language: [sa, en]
 aliases: [Adi Shankara, आदि शङ्कर]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, cambridge-university-press, soas-university-london]
 status: published
 verification: verified
 classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]

@@ -7,6 +7,7 @@ aliases: [Baudhayana Dharmasutra, बौधायन धर्मसूत्र
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra, DHARMASHASTRA]
+classifications: [SHRUTI, VEDANGA, DHARMASHASTRA]
 ---
-An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, covering ritual, law, and domestic rites; represented here as a catalogue entry.
+The Baudhāyana Dharmasūtra, associated with the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, is one of the earliest Dharma Sūtras and includes the Baudhāyana Śrauta and Gṛhya Sūtras; its textual content is represented here as a catalogue entry.
+---

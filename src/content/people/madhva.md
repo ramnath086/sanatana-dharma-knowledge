@@ -4,7 +4,7 @@ title: Madhva
 type: acharya
 language: [sa, en]
 aliases: [Madhvacharya, मध्व]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, cambridge-university-press, soas-university-london]
 status: published
 verification: verified
 classifications: [ACHARYA, VEDANTA, TRADITION, CONCEPT]

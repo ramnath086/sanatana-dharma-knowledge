@@ -3,8 +3,8 @@ id: textual-criticism
 title: Textual Criticism
 type: concept
 language: [sa, en]
-aliases: [Textual Criticism, Lower Criticism, आलोचनात्मक समीक्षा]
-sources: [gretil]
+aliases: [Lower Criticism, आलोचनात्मक समीक्षा]
+sources: [gretil, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

@@ -7,6 +7,7 @@ aliases: [Gautama Dharmasutra, गौतम धर्मसूत्र]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra, DHARMASHASTRA]
+classifications: [SHRUTI, VEDANGA, DHARMASHASTRA]
 ---
-One of the earliest Dharmasūtras, associated with the Sāmaveda, prescribing student, householder, and ascetic duties; represented here as a catalogue entry.
+The Gautama Dharmasūtra, associated with the Sāmaveda, is an early Dharma Sūtra presenting legal, social, and ritual norms; its textual content is represented here as a catalogue entry.
+---

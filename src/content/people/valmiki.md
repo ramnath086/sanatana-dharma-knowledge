@@ -4,7 +4,7 @@ title: Vālmīki
 type: teacher
 language: [sa, en]
 aliases: [Valmiki, वाल्मीकि]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy]
 status: published
 verification: verified
 classifications: [RISHI, ITIHASA, CONCEPT]

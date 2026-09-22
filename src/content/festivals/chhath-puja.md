@@ -4,9 +4,9 @@ title: Chhath Pūjā
 type: festival
 language: [hi, en]
 aliases: [Chhath Puja, छठ पूजा]
-sources: [gretil]
+sources: [gretil, bbc-religions]
 status: published
-verification: partially-verified
+verification: verified
 classifications: [FESTIVAL, Festival, Culture, Deity]
 ---
 A festival dedicated to Sūrya and Chhathī Maiyā, observed primarily in Bihar, Jharkhand, and eastern Uttar Pradesh with rigorous fasting, river bathing, and sunrise/sunset offerings.

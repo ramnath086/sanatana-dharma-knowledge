@@ -4,7 +4,7 @@ title: Manuscript Catalogue
 type: concept
 language: [sa, en]
 aliases: [Manuscript Catalogue, Catalogue, पाण्डुलिपि सूची]
-sources: [gretil]
+sources: [gretil, soas-university-london, digital-india-library]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

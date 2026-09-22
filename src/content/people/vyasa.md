@@ -4,7 +4,7 @@ title: Vyāsa
 type: teacher
 language: [sa, en]
 aliases: [Veda Vyasa, वेद व्यास]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy]
 status: published
 verification: verified
 classifications: [RISHI, ITIHASA, CONCEPT]

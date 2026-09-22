@@ -3,7 +3,7 @@ id: havana
 title: Havana
 type: practice
 language: [sa, en]
-aliases: [Havan, हवन]
+aliases: [हवन]
 sources: [gretil]
 status: published
 verification: verified

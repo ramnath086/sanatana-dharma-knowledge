@@ -4,7 +4,7 @@ title: Collation
 type: concept
 language: [sa, en]
 aliases: [Collation, कोलेशन]
-sources: [gretil]
+sources: [gretil, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

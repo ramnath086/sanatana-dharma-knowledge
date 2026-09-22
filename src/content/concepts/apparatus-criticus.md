@@ -4,7 +4,7 @@ title: Apparatus Criticus
 type: concept
 language: [sa, en]
 aliases: [Apparatus Criticus, Critical Apparatus, क्रिटिकल अपैरेटस]
-sources: [gretil]
+sources: [gretil, soas-university-london, cambridge-university-press]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]

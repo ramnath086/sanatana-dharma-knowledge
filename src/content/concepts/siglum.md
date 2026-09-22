@@ -4,7 +4,7 @@ title: Siglum
 type: concept
 language: [sa, en]
 aliases: [Siglum, Sigla, सिग्लम]
-sources: [gretil]
+sources: [gretil, soas-university-london]
 status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]
