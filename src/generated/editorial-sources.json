@@ -1012,7 +1012,7 @@
       "sa"
     ],
     "license": "Not stated on registry record",
-    "copyrightStatus": "unknown",
+    "copyrightStatus": "link-only",
     "description": "A digital library resource associated with Śaiva and Tantric manuscript traditions.",
     "topics": [
       "manuscripts",
@@ -1041,7 +1041,7 @@
     "accessDate": "2026-09-06",
     "lastVerified": "2026-09-06",
     "notes": "Source seed only. The portal does not mirror manuscript images or texts.",
-    "contentHash": "8054887914224ee4286d1b27fef426228349116e30b90a47284c1387b26480a0",
+    "contentHash": "7b4c766230ea646b0ae1b22e4bbbe530cb0120164ec59a4eb6f9f2ce1a8018f1",
     "sourceFile": "src\\content\\sources\\muktabodha.md"
   },
   {

@@ -88,6 +88,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "agamic-tradition",
+    "title": "Āgamic Tradition",
+    "aliases": [
+      "Agama Tradition",
+      "Agamic Tradition",
+      "आगम परम्परा"
+    ],
+    "sanskritTitle": "",
+    "description": "The Āgamic (Tantric) tradition: the Śaiva Āgamas (28 principal texts), Vaiṣṇava Pāñcarātras and Vaikhānasas, Śākta Tantras; their structure (jñāna, yoga, kriyā, caryā), their role in temple ritual, iconography, and initiation (dīkṣā); their distinction from Vedic orthopraxy and their integration into Smārta tradition are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "AGAMA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "agni-purana-content",
     "title": "Agni Purāṇa Content",
     "aliases": [
@@ -704,6 +726,28 @@
       "DHARMASHASTRA",
       "PRACTICE",
       "RITUAL"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "darshan",
+    "title": "Darśana",
+    "aliases": [
+      "Darshan",
+      "Divine Vision",
+      "दर्शन"
+    ],
+    "sanskritTitle": "",
+    "description": "Darśana (auspicious sight): the act of beholding a deity, guru, or sacred object in Hindu practice; its theological significance as a two-way exchange of grace (the deity sees the devotee, the devotee sees the deity); its role in temple worship, pilgrimage (tīrtha-yātrā), and guru-seva are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PRACTICE",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -2409,6 +2453,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "prasad",
+    "title": "Prasāda",
+    "aliases": [
+      "Prasad",
+      "Prasadam",
+      "प्रसाद"
+    ],
+    "sanskritTitle": "",
+    "description": "Prasāda (grace/offering): food or items offered to a deity during worship (pūjā) and then distributed to devotees as divine grace; its theological significance as transformed matter bearing the deity's blessing; its role in pūjā, festivals, and daily practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "prasthana-traya",
     "title": "Prasthānatraya",
     "aliases": [
@@ -2926,6 +2993,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "sakta-tantras",
+    "title": "Śākta Tantras",
+    "aliases": [
+      "Shakta Tantras",
+      "Shakta Agamas",
+      "शाक्त तन्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śākta Tantras: the Mahānirvāṇa Tantra, Kulārṇava Tantra, Rudrayāmala, Brahmayāmala, and the Śrīvidyā tradition (Tripurā Rahasya, Nityāṣoḍaśikārṇava); their doctrine of the Goddess as supreme (Śakti/Devī), the śrīcakra, the ten Mahāvidyās, and the kuṇḍalinī yoga; their role in Śrīvidyā upāsanā and temple ritual are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "AGAMA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "samaveda-sakha",
     "title": "Sāmaveda Śākhās",
     "aliases": [
@@ -3118,6 +3207,28 @@
       "DEITY",
       "VEDIC",
       "SANSKRIT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "shaiva-agamas",
+    "title": "Śaiva Āgamas",
+    "aliases": [
+      "Shaiva Agamas",
+      "Shiva Agamas",
+      "शैव आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The twenty-eight principal Śaiva Āgamas (e.g., Kāmika, Kāraṇa, Suprabheda, Raurava, Mṛgendra, Sarvokta, Pārameśvara, Kiraṇa, Vātula, Parameśvara) and their upāgamas; their fourfold structure (jñāna, yoga, kriyā, caryā), their doctrine of Śiva-Śakti, the pāśa (bondage) and mokṣa; their role in temple construction, daily worship, and initiation are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "AGAMA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -3584,6 +3695,29 @@
     "type": "concept",
     "classification": [
       "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vaishnava-agamas",
+    "title": "Vaiṣṇava Āgamas",
+    "aliases": [
+      "Vaishnava Agamas",
+      "Pancharatra",
+      "Vaikhanasa",
+      "वैष्णव आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vaiṣṇava Āgamas: the Pāñcarātra corpus (e.g., Jayākhya, Ahirbudhnya, Paushkara, Sāttvata) and the Vaikhānasa texts; their doctrine of Viṣṇu's five forms (para, vyūha, vibhava, antaryāmin, arcā), the fivefold daily worship (pañcakāla), and their influence on temple ritual in Śrīvaiṣṇava and other traditions are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "AGAMA",
       "CONCEPT"
     ],
     "language": [
@@ -4269,6 +4403,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "bidriware",
+    "title": "Bidriware",
+    "aliases": [
+      "Bidri",
+      "Bidriware",
+      "बिदरी"
+    ],
+    "sanskritTitle": "",
+    "description": "Bidriware, the metal handicraft of Bidar (Karnataka), characterized by silver inlay on a blackened zinc-copper alloy; its Persian origins (14th century), motifs (floral, geometric, calligraphic), and products (vases, boxes, jewelry); its GI tag and contemporary revival are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "carnatic-music",
     "title": "Karnāṭaka Saṅgīta",
     "aliases": [
@@ -4337,6 +4494,31 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dhokra-art",
+    "title": "Dokra Art",
+    "aliases": [
+      "Dokra",
+      "Dhokra",
+      "Dokra Art",
+      "ढोकरा कला"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dokra (Dhokra) non-ferrous metal casting tradition of the tribal communities of Chhattisgarh, Jharkhand, West Bengal, and Odisha; the lost-wax casting technique (cire perdue) creating brass/bronze figurines of deities, animals, and daily life; its ancient origins (Harappan), ritual use, and contemporary market adaptation are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -4497,6 +4679,29 @@
       "CONCEPT",
       "CULTURE",
       "ART"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "meenakari",
+    "title": "Meenakari",
+    "aliases": [
+      "Meenakari",
+      "Minakari",
+      "मीनाकारी"
+    ],
+    "sanskritTitle": "",
+    "description": "Meenakari (enamelling), the art of decorating metal surfaces (gold, silver, copper) with colored enamel; its Persian origins, centers in Jaipur, Udaipur, Delhi, and Varanasi; its application on jewelry, weapons, and decorative objects; the champlevé and cloisonné techniques are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -5066,7 +5271,7 @@
       "गणेश चतुर्थी"
     ],
     "sanskritTitle": "",
-    "description": "The ten-day festival of Gaṇeśa's birth, observed with clay idol installation, daily worship, and immersion (visarjan); its regional prominence in Maharashtra, Gujarat, and Goa is represented here as a catalogue entry. ---",
+    "description": "Gaṇeśa Caturthī, the ten-day festival celebrating Gaṇeśa's birth, observed in Bhādrapada (Aug–Sep); clay idol installation, daily pūjā, modak offerings, and immersion (visarjan) on Ananta Caturdaśī; its community celebrations (Sarvajanik Gaṇeśotsav) in Maharashtra, Goa, and Karnataka are represented here as a catalogue entry. ---",
     "type": "festival",
     "classification": [
       "FESTIVAL",
@@ -5199,24 +5404,26 @@
   },
   {
     "id": "janmashtami",
-    "title": "Janmāṣṭamī",
+    "title": "Kṛṣṇa Janmāṣṭamī",
     "aliases": [
       "Janmashtami",
-      "जन्माष्टमी"
+      "Krishna Janmashtami",
+      "Gokulashtami",
+      "कृष्ण जन्माष्टमी"
     ],
     "sanskritTitle": "",
-    "description": "A festival associated with Kṛṣṇa in varied regional and devotional contexts; its observances and narratives differ across traditions.",
+    "description": "Kṛṣṇa Janmāṣṭamī, the festival of Kṛṣṇa's birth, observed on the eighth day (aṣṭamī) of the dark fortnight of Bhādrapada (Aug–Sep); midnight celebration of Kṛṣṇa's birth, fasting, bhajans, dahi handi (pot-breaking) in Maharashtra, Rāsa Līlā enactments in Vṛndāvana; its regional variations are represented here as a catalogue entry. ---",
     "type": "festival",
     "classification": [
       "FESTIVAL",
-      "Deity",
-      "TRADITION",
-      "ITIHASA",
-      "REGIONAL_TRADITION"
+      "REGIONAL_TRADITION",
+      "CULTURE"
     ],
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi",
+      "gu"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -5457,43 +5664,45 @@
     "aliases": [
       "Raksha Bandhan",
       "Rakhi",
-      "रक्षाबन्धन"
+      "रक्षाबंधन"
     ],
     "sanskritTitle": "",
-    "description": "A festival celebrating the sibling bond, where sisters tie a protective thread (rakhi) on brothers' wrists; its rituals and regional variations are diverse.",
+    "description": "Rakṣābandhana (Rakhi), the festival of the protective bond between siblings, observed on the full moon of Śrāvaṇa (Aug); the sister ties a rakhi (sacred thread) on the brother's wrist, and the brother vows protection; its regional variations, historical narratives (Roxana-Poross, Draupadī-Kṛṣṇa), and contemporary practice are represented here as a catalogue entry. ---",
     "type": "festival",
     "classification": [
       "FESTIVAL",
-      "Festival",
+      "REGIONAL_TRADITION",
       "CULTURE"
     ],
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi",
+      "gu"
     ],
     "tags": [],
     "relatedEntityIds": []
   },
   {
     "id": "ramanavami",
-    "title": "Rāmanavamī",
+    "title": "Rāma Navamī",
     "aliases": [
-      "Ramanavami",
-      "रामनवमी"
+      "Rama Navami",
+      "Ram Navami",
+      "राम नवमी"
     ],
     "sanskritTitle": "",
-    "description": "A festival associated with Rāma in varied regional and devotional contexts; its observances differ across traditions.",
+    "description": "Rāma Navamī, the festival of Rāma's birth, observed on the ninth day (navamī) of the bright fortnight of Caitra (Mar–Apr); Rāma-pūjā, Rāmāyaṇa recitation, Rāmalīlā enactments, and the ceremonial wedding (Sītā-Rāma kalyāṇam) in South India; its observance in Ayodhyā, Rāmeśvaram, and Bhadrachalam are represented here as a catalogue entry. ---",
     "type": "festival",
     "classification": [
       "FESTIVAL",
-      "Deity",
-      "TRADITION",
-      "ITIHASA",
-      "REGIONAL_TRADITION"
+      "REGIONAL_TRADITION",
+      "CULTURE"
     ],
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -5702,6 +5911,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "appayya-dikshita",
+    "title": "Appayya Dīkṣita",
+    "aliases": [
+      "Appayya Dikshita",
+      "Appayya Deekshitar",
+      "अप्पय दीक्षित"
+    ],
+    "sanskritTitle": "",
+    "description": "Appayya Dīkṣita (1520–1593), the Advaita Vedānta scholar and Śaiva devotee, author of over 100 works including the Siddhānta-leśa-saṅgraha, Śivārkamaṇi-dīpikā, and Khaṇḍana-khaṇḍa-khādya; his synthesis of Advaita and Śaiva Siddhānta, his debate with Vijayeन्द्र Tīrtha, and his role in the Śrīvidyā tradition are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "caitanya",
     "title": "Caitanya Mahāprabhu",
     "aliases": [
@@ -5795,6 +6027,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "neelakanta-dikshita",
+    "title": "Nīlakaṇṭha Dīkṣita",
+    "aliases": [
+      "Nilakantha Dikshita",
+      "Neelakanta Deekshitar",
+      "नीलकण्ठ दीक्षित"
+    ],
+    "sanskritTitle": "",
+    "description": "Nīlakaṇṭha Dīkṣita (1613–1697), the Advaita Vedānta scholar and poet, grandson of Appayya Dīkṣita; author of the Śiva-leśa, Śivalīlārṇava, and the satirical Kaliviḍambana; his role in the Śrīvidyā and Advaita traditions in South India is represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "nimbarka",
     "title": "Nimbārka",
     "aliases": [
@@ -5813,6 +6068,29 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "raghavendra-swami",
+    "title": "Rāghavendra Svāmī",
+    "aliases": [
+      "Raghavendra Swami",
+      "Raghavendra Tirtha",
+      "राघवेन्द्र स्वामी"
+    ],
+    "sanskritTitle": "",
+    "description": "Rāghavendra Svāmī (1595–1671), the Dvaita Vedānta pontiff (Rāghavendra Maṭha, Mantralayam), known for his commentaries on Madhva's works and his reputation as a miracle-worker; his role in the Dvaita tradition, the Brindavan at Mantralayam, and his continued popular veneration are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "kn"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -9357,7 +9635,29 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE",
-      "TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "uv-lingaraj",
+    "title": "Lingaraj Temple Bhubaneswar",
+    "aliases": [
+      "Lingaraj Temple",
+      "Lingaraja Temple",
+      "लिङ्गराज मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Lingarāja Temple at Bhubaneswar, Odisha, the largest temple in the city, dedicated to Harihara (Śiva-Viṣṇu composite); its Kalinga architecture (deul, jagamohana, natamandira, bhogamandapa), the Bindu Sarovara tank, and its status as a major Śaiva pilgrimage site are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
       "CULTURE"
     ],
     "language": [
@@ -9387,6 +9687,29 @@
       "sa",
       "en",
       "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mukteshwar-bhubaneswar",
+    "title": "Mukteshwar Temple Bhubaneswar",
+    "aliases": [
+      "Mukteshwar Temple",
+      "Mukteswar Temple",
+      "मुक्तेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mukteśvara Temple at Bhubaneswar, Odisha, a 10th-century gem of Kalinga architecture, dedicated to Śiva as Mukteśvara (Lord of Liberation); its ornate torana (arched gateway), diamond-shaped latticed windows, and the Marichi Kunda tank are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
     ],
     "tags": [],
     "relatedEntityIds": []

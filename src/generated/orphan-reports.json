@@ -45,6 +45,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "agamic-tradition",
+    "title": "Āgamic Tradition",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "agni-purana-content",
     "title": "Agni Purāṇa Content",
     "status": "published",
@@ -260,6 +269,15 @@
   {
     "entityId": "dana",
     "title": "Dāna",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "darshan",
+    "title": "Darśana",
     "status": "published",
     "issues": [
       "No relationships"
@@ -889,6 +907,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "prasad",
+    "title": "Prasāda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "prasthana-traya",
     "title": "Prasthānatraya",
     "status": "published",
@@ -1084,6 +1111,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "sakta-tantras",
+    "title": "Śākta Tantras",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "samaveda-sakha",
     "title": "Sāmaveda Śākhās",
     "status": "published",
@@ -1156,6 +1192,15 @@
   {
     "entityId": "saraswati",
     "title": "Sarasvatī",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shaiva-agamas",
+    "title": "Śaiva Āgamas",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1331,6 +1376,15 @@
   {
     "entityId": "vaiseshika-paramanu",
     "title": "Vaiśeṣika Paramāṇu",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaishnava-agamas",
+    "title": "Vaiṣṇava Āgamas",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1594,6 +1648,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bidriware",
+    "title": "Bidriware",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "carnatic-music",
     "title": "Karnāṭaka Saṅgīta",
     "status": "published",
@@ -1614,6 +1677,15 @@
   {
     "entityId": "dhanurveda",
     "title": "Dhanurveda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dhokra-art",
+    "title": "Dokra Art",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1677,6 +1749,15 @@
   {
     "entityId": "manipuri",
     "title": "Manipuri",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "meenakari",
+    "title": "Meenakari",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1931,7 +2012,7 @@
   },
   {
     "entityId": "janmashtami",
-    "title": "Janmāṣṭamī",
+    "title": "Kṛṣṇa Janmāṣṭamī",
     "status": "published",
     "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
@@ -2031,7 +2112,7 @@
   },
   {
     "entityId": "ramanavami",
-    "title": "Rāmanavamī",
+    "title": "Rāma Navamī",
     "status": "published",
     "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
@@ -2114,6 +2195,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "appayya-dikshita",
+    "title": "Appayya Dīkṣita",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "caitanya",
     "title": "Caitanya Mahāprabhu",
     "status": "published",
@@ -2144,10 +2234,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "neelakanta-dikshita",
+    "title": "Nīlakaṇṭha Dīkṣita",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "nimbarka",
     "title": "Nimbārka",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "raghavendra-swami",
+    "title": "Rāghavendra Svāmī",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3493,10 +3601,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "uv-lingaraj",
+    "title": "Lingaraj Temple Bhubaneswar",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "meenakshi-amman",
     "title": "Mīnākṣī Amman Temple",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mukteshwar-bhubaneswar",
+    "title": "Mukteshwar Temple Bhubaneswar",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

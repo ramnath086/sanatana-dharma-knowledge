@@ -14,6 +14,7 @@
   <url><loc>/about</loc></url>
   <url><loc>/knowledge/vedanta</loc></url>
   <url><loc>/knowledge/concept</loc></url>
+  <url><loc>/knowledge/agama</loc></url>
   <url><loc>/knowledge/purana</loc></url>
   <url><loc>/knowledge/tradition</loc></url>
   <url><loc>/knowledge/culture</loc></url>
@@ -41,8 +42,8 @@
   <url><loc>/knowledge/music</loc></url>
   <url><loc>/knowledge/regional_tradition</loc></url>
   <url><loc>/knowledge/glossary</loc></url>
-  <url><loc>/knowledge/acharya</loc></url>
   <url><loc>/knowledge/teacher</loc></url>
+  <url><loc>/knowledge/acharya</loc></url>
   <url><loc>/knowledge/rishi</loc></url>
   <url><loc>/knowledge/temple</loc></url>
   <url><loc>/knowledge/sampradaya</loc></url>
@@ -51,6 +52,7 @@
   <url><loc>/concept/advaita-adhyasa</loc></url>
   <url><loc>/concept/advaita-ajativada</loc></url>
   <url><loc>/concept/advaita-avidya</loc></url>
+  <url><loc>/concept/agamic-tradition</loc></url>
   <url><loc>/concept/agni-purana-content</loc></url>
   <url><loc>/concept/alankara-shastra</loc></url>
   <url><loc>/concept/anubandha-chatushtaya</loc></url>
@@ -79,6 +81,7 @@
   <url><loc>/concept/critical-edition</loc></url>
   <url><loc>/concept/dana-types</loc></url>
   <url><loc>/concept/dana</loc></url>
+  <url><loc>/concept/darshan</loc></url>
   <url><loc>/concept/devi-bhagavata-content</loc></url>
   <url><loc>/concept/dharma</loc></url>
   <url><loc>/concept/dharmasutra</loc></url>
@@ -155,6 +158,7 @@
   <url><loc>/concept/paleography</loc></url>
   <url><loc>/concept/parinamavada</loc></url>
   <url><loc>/concept/prakriti</loc></url>
+  <url><loc>/concept/prasad</loc></url>
   <url><loc>/concept/prasthana-traya</loc></url>
   <url><loc>/concept/prayascitta-types</loc></url>
   <url><loc>/concept/prayascitta</loc></url>
@@ -178,6 +182,7 @@
   <url><loc>/concept/rna-trivarga</loc></url>
   <url><loc>/concept/rna</loc></url>
   <url><loc>/concept/rudram</loc></url>
+  <url><loc>/concept/sakta-tantras</loc></url>
   <url><loc>/concept/samaveda-sakha</loc></url>
   <url><loc>/concept/samsara</loc></url>
   <url><loc>/concept/samskara-types</loc></url>
@@ -187,6 +192,7 @@
   <url><loc>/concept/sankhya-tattvas</loc></url>
   <url><loc>/concept/saraswati-forms</loc></url>
   <url><loc>/concept/saraswati</loc></url>
+  <url><loc>/concept/shaiva-agamas</loc></url>
   <url><loc>/concept/shiksha</loc></url>
   <url><loc>/concept/shilpa-shastra</loc></url>
   <url><loc>/concept/shiva-purana-content</loc></url>
@@ -208,6 +214,7 @@
   <url><loc>/concept/vaiseshika-creation</loc></url>
   <url><loc>/concept/vaiseshika-padarthas</loc></url>
   <url><loc>/concept/vaiseshika-paramanu</loc></url>
+  <url><loc>/concept/vaishnava-agamas</loc></url>
   <url><loc>/concept/varna-ashrama-dharma</loc></url>
   <url><loc>/concept/varna</loc></url>
   <url><loc>/concept/vastushastra</loc></url>
@@ -238,9 +245,11 @@
   <url><loc>/concept/yudhishthira</loc></url>
   <url><loc>/concept/ayurveda</loc></url>
   <url><loc>/concept/bharatanatyam</loc></url>
+  <url><loc>/concept/bidriware</loc></url>
   <url><loc>/concept/carnatic-music</loc></url>
   <url><loc>/concept/chitra-kala</loc></url>
   <url><loc>/concept/dhanurveda</loc></url>
+  <url><loc>/concept/dhokra-art</loc></url>
   <url><loc>/concept/gandharva-veda</loc></url>
   <url><loc>/concept/hindustani-music</loc></url>
   <url><loc>/concept/kalamkari-painting</loc></url>
@@ -248,6 +257,7 @@
   <url><loc>/concept/kuchipudi</loc></url>
   <url><loc>/concept/madhubani-painting</loc></url>
   <url><loc>/concept/manipuri</loc></url>
+  <url><loc>/concept/meenakari</loc></url>
   <url><loc>/concept/mohiniyattam</loc></url>
   <url><loc>/concept/odissi</loc></url>
   <url><loc>/concept/pattachitra-painting</loc></url>
@@ -300,11 +310,14 @@
   <url><loc>/glossary-term/guru</loc></url>
   <url><loc>/glossary-term/mantra</loc></url>
   <url><loc>/glossary-term/prasada</loc></url>
+  <url><loc>/teacher/appayya-dikshita</loc></url>
   <url><loc>/acharya/caitanya</loc></url>
   <url><loc>/acharya/jiva-gosvami</loc></url>
   <url><loc>/teacher/kabir</loc></url>
   <url><loc>/acharya/madhva</loc></url>
+  <url><loc>/teacher/neelakanta-dikshita</loc></url>
   <url><loc>/acharya/nimbarka</loc></url>
+  <url><loc>/teacher/raghavendra-swami</loc></url>
   <url><loc>/teacher/ramananda</loc></url>
   <url><loc>/acharya/ramanuja</loc></url>
   <url><loc>/acharya/shankara</loc></url>
@@ -469,7 +482,9 @@
   <url><loc>/temple/kedarnath</loc></url>
   <url><loc>/temple/khajuraho-temples</loc></url>
   <url><loc>/temple/konark-sun-temple</loc></url>
+  <url><loc>/temple/uv-lingaraj</loc></url>
   <url><loc>/temple/meenakshi-amman</loc></url>
+  <url><loc>/temple/mukteshwar-bhubaneswar</loc></url>
   <url><loc>/temple/pandharpur</loc></url>
   <url><loc>/temple/rameshwaram</loc></url>
   <url><loc>/temple/sabarimala</loc></url>

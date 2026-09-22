@@ -9,5 +9,5 @@ status: published
 verification: verified
 classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-The ten-day festival of Gaṇeśa's birth, observed with clay idol installation, daily worship, and immersion (visarjan); its regional prominence in Maharashtra, Gujarat, and Goa is represented here as a catalogue entry.
+Gaṇeśa Caturthī, the ten-day festival celebrating Gaṇeśa's birth, observed in Bhādrapada (Aug–Sep); clay idol installation, daily pūjā, modak offerings, and immersion (visarjan) on Ananta Caturdaśī; its community celebrations (Sarvajanik Gaṇeśotsav) in Maharashtra, Goa, and Karnataka are represented here as a catalogue entry.
 ---

@@ -7,7 +7,7 @@ sourceType: digital-library
 authorityLevel: traditional
 languages: [en, sa]
 license: Not stated on registry record
-copyrightStatus: unknown
+copyrightStatus: link-only
 accessDate: 2026-09-06
 lastVerified: 2026-09-06
 description: A digital library resource associated with Śaiva and Tantric manuscript traditions.

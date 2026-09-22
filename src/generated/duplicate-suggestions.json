@@ -81,6 +81,33 @@
     "recommendation": "Review aliases and canonical identity."
   },
   {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "prasad",
+      "prasada"
+    ],
+    "reason": "Canonical titles normalize to prasada.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "prasad",
+      "prasada"
+    ],
+    "reason": "Alias collision: Prasad.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "prasad",
+      "prasada"
+    ],
+    "reason": "Alias collision: प्रसाद.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
       "devi-bhagavata-content",
@@ -96,6 +123,24 @@
       "yajnavalkya-smriti"
     ],
     "reason": "Alias collision: Yajnavalkya Smriti.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "darshan",
+      "darshana"
+    ],
+    "reason": "Canonical titles normalize to darsana.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "darshan",
+      "darshana"
+    ],
+    "reason": "Alias collision: दर्शन.",
     "recommendation": "Review aliases and canonical identity."
   }
 ]

@@ -1,14 +1,13 @@
 ---
 id: janmashtami
-title: Janmāṣṭamī
+title: Kṛṣṇa Janmāṣṭamī
 type: festival
-language: [sa, en]
-aliases: [Janmashtami, जन्माष्टमी]
-sources: [gretil]
+language: [sa, en, hi, gu]
+aliases: [Janmashtami, Krishna Janmashtami, Gokulashtami, कृष्ण जन्माष्टमी]
+sources: [gretil, bbc-religions]
 status: published
 verification: verified
-classifications: [FESTIVAL, Deity, TRADITION, ITIHASA, REGIONAL_TRADITION]
+classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-A festival associated with Kṛṣṇa in varied regional and devotional contexts; its observances and narratives differ across traditions.
-
-
+Kṛṣṇa Janmāṣṭamī, the festival of Kṛṣṇa's birth, observed on the eighth day (aṣṭamī) of the dark fortnight of Bhādrapada (Aug–Sep); midnight celebration of Kṛṣṇa's birth, fasting, bhajans, dahi handi (pot-breaking) in Maharashtra, Rāsa Līlā enactments in Vṛndāvana; its regional variations are represented here as a catalogue entry.
+---
