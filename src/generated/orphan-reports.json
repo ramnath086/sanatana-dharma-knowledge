@@ -139,6 +139,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bhavishya-purana",
+    "title": "Bhaviṣya Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "bhedabheda-avibhaga",
     "title": "Bhedābheda Avibhāga-bheda",
     "status": "published",

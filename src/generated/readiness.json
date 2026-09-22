@@ -1200,6 +1200,76 @@
       }
     ]
   },
+  "bhavishya-purana": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "bhedabheda-avibhaga": {
     "publishable": true,
     "blockers": [],

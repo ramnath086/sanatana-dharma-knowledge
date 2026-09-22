@@ -1,6 +1,6 @@
 {
-  "entities": 421,
-  "published": 418,
+  "entities": 422,
+  "published": 419,
   "draft": 3,
   "entitiesByType": {
     "article": [
@@ -540,6 +540,36 @@
         "body": "Devotional orientation or practice whose objects, methods, and theological frameworks vary widely across texts, traditions, and historical periods.",
         "contentHash": "0836e2e451cbae03904e930749a06d36e86d8b1786cdbc8623e210ebdc9d5c88",
         "sourceFile": "src\\content\\concepts\\bhakti.md"
+      },
+      {
+        "id": "bhavishya-purana",
+        "title": "Bhaviṣya Purāṇa",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhavishya Purana",
+          "भविष्य पुराण"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "PURANA",
+          "CONCEPT"
+        ],
+        "description": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry.\n---",
+        "contentHash": "616d141df8347872bc808a5d1553da928f63046439a835e22ed89f170bff4673",
+        "sourceFile": "src\\content\\concepts\\bhavishya-purana.md"
       },
       {
         "id": "bhedabheda-avibhaga",
@@ -13490,5 +13520,5 @@
     "ta",
     "te"
   ],
-  "compiledAt": "2026-09-22T17:39:20.649Z"
+  "compiledAt": "2026-09-22T17:46:19.612Z"
 }

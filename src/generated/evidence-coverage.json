@@ -255,6 +255,21 @@
     "warnings": []
   },
   {
+    "entityId": "bhavishya-purana",
+    "title": "Bhaviṣya Purāṇa",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
     "entityId": "bhedabheda-avibhaga",
     "title": "Bhedābheda Avibhāga-bheda",
     "type": "concept",

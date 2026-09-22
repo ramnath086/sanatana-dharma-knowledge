@@ -488,6 +488,35 @@
     "contentHash": "0836e2e451cbae03904e930749a06d36e86d8b1786cdbc8623e210ebdc9d5c88"
   },
   {
+    "id": "bhavishya-purana",
+    "title": "Bhaviṣya Purāṇa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Bhavishya Purana",
+      "भविष्य पुराण"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "description": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry.\n---",
+    "contentHash": "616d141df8347872bc808a5d1553da928f63046439a835e22ed89f170bff4673"
+  },
+  {
     "id": "bhedabheda-avibhaga",
     "title": "Bhedābheda Avibhāga-bheda",
     "type": "concept",

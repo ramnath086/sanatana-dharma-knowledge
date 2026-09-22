@@ -356,6 +356,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "bhavishya-purana",
+    "title": "Bhaviṣya Purāṇa",
+    "aliases": [
+      "Bhavishya Purana",
+      "भविष्य पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "bhedabheda-avibhaga",
     "title": "Bhedābheda Avibhāga-bheda",
     "aliases": [
