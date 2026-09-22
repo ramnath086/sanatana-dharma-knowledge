@@ -1,6 +1,6 @@
 {
-  "entities": 497,
-  "published": 494,
+  "entities": 503,
+  "published": 500,
   "draft": 3,
   "entitiesByType": {
     "article": [
@@ -637,6 +637,40 @@
         "body": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), its twelve skandhas, focus on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry.\n---",
         "contentHash": "c4c08b57e069391180f9d85469951a9af97f37a0db32d595fe4d7ba097804dfb",
         "sourceFile": "src\\content\\concepts\\bhagavata-purana-content.md"
+      },
+      {
+        "id": "bhakti-movement",
+        "title": "Bhakti Movement",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Bhakti Movement",
+          "Bhakti Andolan",
+          "भक्ति आन्दोलन"
+        ],
+        "sources": [
+          "gretil",
+          "chowkhamba-sanskrit-academy"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TRADITION",
+          "CONCEPT"
+        ],
+        "description": "The Bhakti movement (7th–17th centuries): the devotional renaissance across India emphasizing personal devotion (bhakti) to a chosen deity (iṣṭa-devatā) over ritual orthodoxy; its poet-saints (Āḻvārs, Nāyanārs, Vārkarīs, Haridāsas, Rāmānanda, Kabīr, Tulsīdās, Mīrābāī, Sūrdās, Caitanya); its vernacular literature, social egalitarianism, and lasting impact on Hindu practice are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "chowkhamba-sanskrit-academy"
+        ],
+        "relationshipIds": [],
+        "body": "The Bhakti movement (7th–17th centuries): the devotional renaissance across India emphasizing personal devotion (bhakti) to a chosen deity (iṣṭa-devatā) over ritual orthodoxy; its poet-saints (Āḻvārs, Nāyanārs, Vārkarīs, Haridāsas, Rāmānanda, Kabīr, Tulsīdās, Mīrābāī, Sūrdās, Caitanya); its vernacular literature, social egalitarianism, and lasting impact on Hindu practice are represented here as a catalogue entry.\n---",
+        "contentHash": "496026deec5f050236951b6b89fa343fbbaa71d177adcc7fa941ab0a15c1eda7",
+        "sourceFile": "src\\content\\concepts\\bhakti-movement.md"
       },
       {
         "id": "bhakti",
@@ -4824,6 +4858,38 @@
         "sourceFile": "src\\content\\concepts\\sankhya-tattvas.md"
       },
       {
+        "id": "sannyasa",
+        "title": "Saṃnyāsa",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Sannyasa",
+          "Renunciation",
+          "संन्यास"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TRADITION",
+          "PRACTICE",
+          "CONCEPT"
+        ],
+        "description": "Saṃnyāsa (renunciation): the fourth āśrama (stage of life) in Dharmaśāstra, characterized by the renunciation of worldly duties, the adoption of the ochre robe (kāṣāya), the begging bowl (bhikṣāpātra), and the pursuit of mokṣa through jñāna and vairāgya; the types of saṃnyāsa (kuṭīcaka, bahūdaka, haṃsa, paramahaṃsa), the saṃnyāsa dīkṣā, and the saṃnyāsī's daily routine are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Saṃnyāsa (renunciation): the fourth āśrama (stage of life) in Dharmaśāstra, characterized by the renunciation of worldly duties, the adoption of the ochre robe (kāṣāya), the begging bowl (bhikṣāpātra), and the pursuit of mokṣa through jñāna and vairāgya; the types of saṃnyāsa (kuṭīcaka, bahūdaka, haṃsa, paramahaṃsa), the saṃnyāsa dīkṣā, and the saṃnyāsī's daily routine are represented here as a catalogue entry.\n---",
+        "contentHash": "1406bba2b18d5aaf63e0119d6406315da84bc16fe8439924fd78c20ab398e88a",
+        "sourceFile": "src\\content\\concepts\\sannyasa.md"
+      },
+      {
         "id": "sapta-rishi",
         "title": "Saptarṣi",
         "type": "concept",
@@ -5081,6 +5147,37 @@
         "sourceFile": "src\\content\\concepts\\shraddha-types.md"
       },
       {
+        "id": "shruti",
+        "title": "Śruti",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Shruti",
+          "Sruti",
+          "श्रुति"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "CONCEPT"
+        ],
+        "description": "Śruti (that which is heard): the authoritative revealed texts of Hinduism, comprising the four Vedas (Ṛg, Yajur, Sāma, Atharva) and their associated Brāhmaṇas, Āraṇyakas, and Upaniṣads; distinguished from Smṛti (remembered tradition); its apauruṣeya (non-human authorship) status, its role as the ultimate pramāṇa in orthodox schools, and its oral transmission (paramparā) are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Śruti (that which is heard): the authoritative revealed texts of Hinduism, comprising the four Vedas (Ṛg, Yajur, Sāma, Atharva) and their associated Brāhmaṇas, Āraṇyakas, and Upaniṣads; distinguished from Smṛti (remembered tradition); its apauruṣeya (non-human authorship) status, its role as the ultimate pramāṇa in orthodox schools, and its oral transmission (paramparā) are represented here as a catalogue entry.\n---",
+        "contentHash": "4bd1831cede16c581710c7132169feeafcd526acbfc8081a558ab4cecd567c44",
+        "sourceFile": "src\\content\\concepts\\shruti.md"
+      },
+      {
         "id": "shuddhadvaita-pusti",
         "title": "Śuddhādvaita Puṣṭi",
         "type": "concept",
@@ -5218,6 +5315,7 @@
         ],
         "aliases": [
           "Smriti",
+          "Smrti",
           "स्मृति"
         ],
         "sources": [
@@ -5226,17 +5324,16 @@
         "status": "published",
         "verification": "verified",
         "classifications": [
-          "CONCEPT",
-          "DHARMASHASTRA",
-          "PHILOSOPHY"
+          "SMRITI",
+          "CONCEPT"
         ],
-        "description": "The class of \"remembered\" texts — including Dharmaśāstras, Purāṇas, and epics — distinguished from Śruti by human authorship and transmission.",
+        "description": "Smṛti (that which is remembered): the body of post-Vedic authoritative texts including the Dharmaśāstras (Manusmṛti, Yājñavalkyasmṛti), the Itihāsas (Mahābhārata, Rāmāyaṇa), the Purāṇas, the Āgamas, and the Vedāṅgas; distinguished from Śruti (revealed) as being of human authorship but traditionally authoritative; its role in prescribing dharma, ritual, and social order is represented here as a catalogue entry. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The class of \"remembered\" texts — including Dharmaśāstras, Purāṇas, and epics — distinguished from Śruti by human authorship and transmission.",
-        "contentHash": "4a6f7693ca756c0cfb2c64a7c7349afd268ef53e42223860ffc4801a5a6df298",
+        "body": "Smṛti (that which is remembered): the body of post-Vedic authoritative texts including the Dharmaśāstras (Manusmṛti, Yājñavalkyasmṛti), the Itihāsas (Mahābhārata, Rāmāyaṇa), the Purāṇas, the Āgamas, and the Vedāṅgas; distinguished from Śruti (revealed) as being of human authorship but traditionally authoritative; its role in prescribing dharma, ritual, and social order is represented here as a catalogue entry.\n---",
+        "contentHash": "31e775245d65fc6a482aaf4536d3af44811f1a07ba19b02caa5a84289e2dce48",
         "sourceFile": "src\\content\\concepts\\smriti.md"
       },
       {
@@ -5369,6 +5466,72 @@
         "body": "Sūrya as the chief of the Navagraha (nine planets), his iconography (seven-horse chariot, Aruṇa as charioteer), the Sūrya mantras, and his role in Vedic and Jyotiṣa traditions are represented here as a catalogue entry.\n---",
         "contentHash": "308f6c188b8873a03371aef1a10f7882c732b10e157a6be98a34697cb56ab021",
         "sourceFile": "src\\content\\concepts\\surya-navagraha.md"
+      },
+      {
+        "id": "tantra-sastra",
+        "title": "Tantra Śāstra",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Tantra Shastra",
+          "Tantra Sastras",
+          "तन्त्र शास्त्र"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA",
+          "TANTRA",
+          "CONCEPT"
+        ],
+        "description": "The Tantra Śāstra corpus: the textual tradition of Tantra (Śākta, Śaiva, Vaiṣṇava, Buddhist), characterized by ritual (kriyā), meditation (yoga), mantra, yantra, maṇḍala, and the guru-śiṣya transmission; its distinction from Vedic orthopraxy (smārta), its esoteric (guhya) nature, and its influence on temple ritual, iconography, and popular practice are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Tantra Śāstra corpus: the textual tradition of Tantra (Śākta, Śaiva, Vaiṣṇava, Buddhist), characterized by ritual (kriyā), meditation (yoga), mantra, yantra, maṇḍala, and the guru-śiṣya transmission; its distinction from Vedic orthopraxy (smārta), its esoteric (guhya) nature, and its influence on temple ritual, iconography, and popular practice are represented here as a catalogue entry.\n---",
+        "contentHash": "1f046ccd75c20d3898e93b5e86f0f10e9860bce50dd43197f1be7b30b33fde06",
+        "sourceFile": "src\\content\\concepts\\tantra-sastra.md"
+      },
+      {
+        "id": "tantra",
+        "title": "Tantra",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Tantra",
+          "तन्त्र"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TANTRA",
+          "CONCEPT"
+        ],
+        "description": "Tantra: the esoteric ritual and yogic tradition transmitted through guru-śiṣya lineages, characterized by the use of mantra, yantra, maṇḍala, dīkṣā (initiation), and the worship of deities in their fierce and benign forms; its textual corpus (Tantras, Āgamas, Saṃhitās), its distinction from Vedic smārta practice, and its influence on temple ritual, iconography, and popular practice are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "Tantra: the esoteric ritual and yogic tradition transmitted through guru-śiṣya lineages, characterized by the use of mantra, yantra, maṇḍala, dīkṣā (initiation), and the worship of deities in their fierce and benign forms; its textual corpus (Tantras, Āgamas, Saṃhitās), its distinction from Vedic smārta practice, and its influence on temple ritual, iconography, and popular practice are represented here as a catalogue entry.\n---",
+        "contentHash": "155e843cd9b8fe43e29017ab1c139d7dbeadd042b9bc6e9fdbaaf13179774344",
+        "sourceFile": "src\\content\\concepts\\tantra.md"
       },
       {
         "id": "textual-criticism",
@@ -6549,6 +6712,38 @@
         "body": "The five kleśas (afflictions) in Patañjali's Yoga: avidyā (ignorance), asmitā (egoism), rāga (attachment), dveṣa (aversion), abhiniveśa (fear of death); their role in saṃsāra and their removal through yogic practice are represented here as a catalogue entry.\n---",
         "contentHash": "fbf329b480aa648c6260e3cf269ce70554e2808d8cdb4e334cb53857af1529d1",
         "sourceFile": "src\\content\\concepts\\yoga-kleshas.md"
+      },
+      {
+        "id": "yoga-nidra",
+        "title": "Yoga Nidrā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Yoga Nidra",
+          "Yogic Sleep",
+          "योग निद्रा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "YOGA",
+          "PRACTICE",
+          "CONCEPT"
+        ],
+        "description": "Yoga Nidrā (yogic sleep): a guided relaxation and meditation technique leading to a state of conscious deep sleep between waking and sleeping; its roots in the tantric tradition (nyāsa), its modern systematization (Satyananda Saraswati), and its therapeutic applications are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Yoga Nidrā (yogic sleep): a guided relaxation and meditation technique leading to a state of conscious deep sleep between waking and sleeping; its roots in the tantric tradition (nyāsa), its modern systematization (Satyananda Saraswati), and its therapeutic applications are represented here as a catalogue entry.\n---",
+        "contentHash": "56d02aa37bfaf8651069820ef0010da4a471c570eefc3e7a7e2b743ab3e6801d",
+        "sourceFile": "src\\content\\concepts\\yoga-nidra.md"
       },
       {
         "id": "yoga-samadhi",
@@ -11974,6 +12169,7 @@
         "aliases": [
           "Brahma Sutra",
           "Vedanta Sutra",
+          "Brahmasutra",
           "ब्रह्म सूत्र"
         ],
         "sources": [
@@ -11982,17 +12178,15 @@
         "status": "published",
         "verification": "verified",
         "classifications": [
-          "SHRUTI",
-          "VEDANTA",
-          "PHILOSOPHY"
+          "VEDANTA"
         ],
-        "description": "The foundational Vedānta text attributed to Bādarāyaṇa, systematizing Upaniṣadic teachings; represented here as a catalogue entry.",
+        "description": "The Brahma Sūtra (Vedānta Sūtra) of Bādarāyaṇa, the foundational text of Vedānta darśana, in four adhyāyas and 555 sūtras; its systematic inquiry into brahman, the reconciliation of Upaniṣadic statements, and its role as the prasthāna-traya (with Upaniṣads and Bhagavad Gītā) are represented here as a catalogue entry. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The foundational Vedānta text attributed to Bādarāyaṇa, systematizing Upaniṣadic teachings; represented here as a catalogue entry.",
-        "contentHash": "54fe35275dc239cb19cf5839816aaae7ad682f71bafe5cf2c17435bd2a5abf57",
+        "body": "The Brahma Sūtra (Vedānta Sūtra) of Bādarāyaṇa, the foundational text of Vedānta darśana, in four adhyāyas and 555 sūtras; its systematic inquiry into brahman, the reconciliation of Upaniṣadic statements, and its role as the prasthāna-traya (with Upaniṣads and Bhagavad Gītā) are represented here as a catalogue entry.\n---",
+        "contentHash": "8d1b47af8b042d9ef4b70a06dc4e15612c9f2492f301bd50dff14595cee27ed4",
         "sourceFile": "src\\content\\scriptures\\brahma-sutra.md"
       },
       {
@@ -12359,6 +12553,37 @@
         "sourceFile": "src\\content\\scriptures\\gopatha-brahmana.md"
       },
       {
+        "id": "grihya-sutra",
+        "title": "Gṛhya Sūtra",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Grihya Sutra",
+          "Grihya Sutras",
+          "गृह्य सूत्र"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDANGA"
+        ],
+        "description": "The Gṛhya Sūtras, the Vedāṅga texts of domestic rites (saṃskāras): marriage (vivāha), conception (garbhādhāna), birth (jātakarma), naming (nāmakaraṇa), first feeding (annaprāśana), tonsure (cūḍākaraṇa), initiation (upanayana), marriage, and funeral (antyeṣṭi); their relationship to Śrauta Sūtras and Dharma Sūtras is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Gṛhya Sūtras, the Vedāṅga texts of domestic rites (saṃskāras): marriage (vivāha), conception (garbhādhāna), birth (jātakarma), naming (nāmakaraṇa), first feeding (annaprāśana), tonsure (cūḍākaraṇa), initiation (upanayana), marriage, and funeral (antyeṣṭi); their relationship to Śrauta Sūtras and Dharma Sūtras is represented here as a catalogue entry.\n---",
+        "contentHash": "4836fbc5d31f8f0a5245549f0b56246e5ecac7325585608f5db413f62e7f583a",
+        "sourceFile": "src\\content\\scriptures\\grihya-sutra.md"
+      },
+      {
         "id": "hamsa-upanishad",
         "title": "Haṃsa Upaniṣad",
         "type": "scripture",
@@ -12538,36 +12763,6 @@
         "body": "The Kaivalya Upaniṣad, associated with the Atharvaveda, is a Śaiva-oriented Upaniṣad describing the attainment of kaivalya (liberation) through devotion to Śiva and knowledge of the ātman; its text is represented here as a catalogue entry.\n---",
         "contentHash": "0a5e4b6af297e5d132f50f91614ae2f85048aa896043dd9018e0da6546203adf",
         "sourceFile": "src\\content\\scriptures\\kaivalya-upanishad.md"
-      },
-      {
-        "id": "kalpa-sutra",
-        "title": "Kalpa Sūtra",
-        "type": "scripture",
-        "language": [
-          "sa",
-          "en"
-        ],
-        "aliases": [
-          "Kalpa Sutra",
-          "कल्प सूत्र"
-        ],
-        "sources": [
-          "gretil"
-        ],
-        "status": "published",
-        "verification": "verified",
-        "classifications": [
-          "SHRUTI",
-          "VEDANGA"
-        ],
-        "description": "The Kalpa Sūtras are the Vedāṅga texts of ritual procedure, comprising Śrauta Sūtras (Vedic sacrifices), Gṛhya Sūtras (domestic rites), and Dharma Sūtras (social/legal norms); their textual content is represented here as a catalogue entry. ---",
-        "sourceIds": [
-          "gretil"
-        ],
-        "relationshipIds": [],
-        "body": "The Kalpa Sūtras are the Vedāṅga texts of ritual procedure, comprising Śrauta Sūtras (Vedic sacrifices), Gṛhya Sūtras (domestic rites), and Dharma Sūtras (social/legal norms); their textual content is represented here as a catalogue entry.\n---",
-        "contentHash": "539ef3a167eec06f9c6376a82286c2b5ee9938a07d1af6e28d3cb7de2c8f44cd",
-        "sourceFile": "src\\content\\scriptures\\kalpa-sutra.md"
       },
       {
         "id": "katha-aranyaka",
@@ -14321,6 +14516,37 @@
         "sourceFile": "src\\content\\scriptures\\yaska-nirukta.md"
       },
       {
+        "id": "yoga-sutra",
+        "title": "Yoga Sūtra",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Yoga Sutra",
+          "Patanjali Yoga Sutra",
+          "योग सूत्र"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "DARSHANA",
+          "YOGA"
+        ],
+        "description": "The Yoga Sūtra of Patañjali (c. 2nd–4th century CE), the foundational text of classical Yoga darśana, in four pādas (samādhi, sādhana, vibhūti, kaivalya) and 195 sūtras; its eight-limbed path (aṣṭāṅga), the concept of cittavṛtti-nirodha, the kleśas, and the attainment of kaivalya are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Yoga Sūtra of Patañjali (c. 2nd–4th century CE), the foundational text of classical Yoga darśana, in four pādas (samādhi, sādhana, vibhūti, kaivalya) and 195 sūtras; its eight-limbed path (aṣṭāṅga), the concept of cittavṛtti-nirodha, the kleśas, and the attainment of kaivalya are represented here as a catalogue entry.\n---",
+        "contentHash": "bdd13d6b6dd55a168de7968f4f0850991bc1d1804b60a18365f8ce798e8909af",
+        "sourceFile": "src\\content\\scriptures\\yoga-sutra.md"
+      },
+      {
         "id": "yogachudamani-upanishad",
         "title": "Yogacūḍāmaṇi Upaniṣad",
         "type": "scripture",
@@ -15926,34 +16152,6 @@
         "sourceFile": "src\\content\\traditions\\shakta.md"
       },
       {
-        "id": "shruti",
-        "title": "Śruti",
-        "type": "tradition",
-        "language": [
-          "sa",
-          "en"
-        ],
-        "aliases": [
-          "श्रुति"
-        ],
-        "sources": [
-          "gretil"
-        ],
-        "status": "published",
-        "verification": "verified",
-        "classifications": [
-          "SHRUTI"
-        ],
-        "description": "A classification used for bodies of Vedic literature and related textual traditions; its use is contextual rather than a claim that all traditions structure texts identically.",
-        "sourceIds": [
-          "gretil"
-        ],
-        "relationshipIds": [],
-        "body": "A classification used for bodies of Vedic literature and related textual traditions; its use is contextual rather than a claim that all traditions structure texts identically.",
-        "contentHash": "5eae0f1055fb868377c22ebb2e96c43118f02b6d02a44101b727c921e4dbd802",
-        "sourceFile": "src\\content\\traditions\\shruti.md"
-      },
-      {
         "id": "smarta",
         "title": "Smārta traditions",
         "type": "tradition",
@@ -16124,5 +16322,5 @@
     "ta",
     "te"
   ],
-  "compiledAt": "2026-09-22T18:26:34.979Z"
+  "compiledAt": "2026-09-22T18:50:35.012Z"
 }

@@ -40,6 +40,7 @@
   <url><loc>/knowledge/yoga</loc></url>
   <url><loc>/knowledge/darshana</loc></url>
   <url><loc>/knowledge/pilgrimage</loc></url>
+  <url><loc>/knowledge/tantra</loc></url>
   <url><loc>/knowledge/regional_tradition</loc></url>
   <url><loc>/knowledge/glossary</loc></url>
   <url><loc>/knowledge/teacher</loc></url>
@@ -47,7 +48,6 @@
   <url><loc>/knowledge/rishi</loc></url>
   <url><loc>/knowledge/temple</loc></url>
   <url><loc>/knowledge/sampradaya</loc></url>
-  <url><loc>/knowledge/tantra</loc></url>
   <url><loc>/concept/acintyabhedabheda</loc></url>
   <url><loc>/concept/advaita-adhyasa</loc></url>
   <url><loc>/concept/advaita-ajativada</loc></url>
@@ -67,6 +67,7 @@
   <url><loc>/concept/bhagavad-gita-chapters</loc></url>
   <url><loc>/concept/bhagavad-gita-philosophy</loc></url>
   <url><loc>/concept/bhagavata-purana-content</loc></url>
+  <url><loc>/concept/bhakti-movement</loc></url>
   <url><loc>/concept/bhakti</loc></url>
   <url><loc>/concept/bharata-natyam</loc></url>
   <url><loc>/concept/bhavishya-purana</loc></url>
@@ -198,6 +199,7 @@
   <url><loc>/concept/sankhya-gunatraya</loc></url>
   <url><loc>/concept/sankhya-purusha-prakriti</loc></url>
   <url><loc>/concept/sankhya-tattvas</loc></url>
+  <url><loc>/concept/sannyasa</loc></url>
   <url><loc>/concept/sapta-rishi</loc></url>
   <url><loc>/concept/saraswati-forms</loc></url>
   <url><loc>/concept/saraswati</loc></url>
@@ -206,6 +208,7 @@
   <url><loc>/concept/shilpa-shastra</loc></url>
   <url><loc>/concept/shiva-purana-content</loc></url>
   <url><loc>/concept/shraddha-types</loc></url>
+  <url><loc>/concept/shruti</loc></url>
   <url><loc>/concept/shuddhadvaita-pusti</loc></url>
   <url><loc>/concept/siglum</loc></url>
   <url><loc>/concept/sita</loc></url>
@@ -215,6 +218,8 @@
   <url><loc>/concept/stemmatics</loc></url>
   <url><loc>/concept/stridharma</loc></url>
   <url><loc>/concept/surya-navagraha</loc></url>
+  <url><loc>/concept/tantra-sastra</loc></url>
+  <url><loc>/concept/tantra</loc></url>
   <url><loc>/concept/textual-criticism</loc></url>
   <url><loc>/concept/thumri-dadra</loc></url>
   <url><loc>/concept/tirtha-types</loc></url>
@@ -252,6 +257,7 @@
   <url><loc>/concept/yajurveda-sakha</loc></url>
   <url><loc>/concept/yoga-ashtanga</loc></url>
   <url><loc>/concept/yoga-kleshas</loc></url>
+  <url><loc>/concept/yoga-nidra</loc></url>
   <url><loc>/concept/yoga-samadhi</loc></url>
   <url><loc>/concept/yoga-samapatti</loc></url>
   <url><loc>/concept/yoga-viveka-khyati</loc></url>
@@ -427,13 +433,13 @@
   <url><loc>/scripture/garuda-purana</loc></url>
   <url><loc>/scripture/gautama-dharmasutra</loc></url>
   <url><loc>/scripture/gopatha-brahmana</loc></url>
+  <url><loc>/scripture/grihya-sutra</loc></url>
   <url><loc>/scripture/hamsa-upanishad</loc></url>
   <url><loc>/scripture/isha-upanishad</loc></url>
   <url><loc>/scripture/jabala-upanishad</loc></url>
   <url><loc>/scripture/jaiminiya-brahmana</loc></url>
   <url><loc>/scripture/jyotisha-vedanga-text</loc></url>
   <url><loc>/scripture/kaivalya-upanishad</loc></url>
-  <url><loc>/scripture/kalpa-sutra</loc></url>
   <url><loc>/scripture/katha-aranyaka</loc></url>
   <url><loc>/scripture/katha-upanishad</loc></url>
   <url><loc>/scripture/kaushitaki-brahmana</loc></url>
@@ -492,6 +498,7 @@
   <url><loc>/scripture/yajurveda-samhita</loc></url>
   <url><loc>/scripture/yajurveda</loc></url>
   <url><loc>/scripture/yaska-nirukta</loc></url>
+  <url><loc>/scripture/yoga-sutra</loc></url>
   <url><loc>/scripture/yogachudamani-upanishad</loc></url>
   <url><loc>/scripture/yogattva-upanishad</loc></url>
   <url><loc>/temple/ahobilam</loc></url>
@@ -536,7 +543,6 @@
   <url><loc>/tradition/sanskrit</loc></url>
   <url><loc>/tradition/shaiva</loc></url>
   <url><loc>/tradition/shakta</loc></url>
-  <url><loc>/tradition/shruti</loc></url>
   <url><loc>/tradition/smarta</loc></url>
   <url><loc>/tradition/sri-vaishnava</loc></url>
   <url><loc>/tradition/upanishads</loc></url>

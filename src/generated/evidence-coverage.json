@@ -300,6 +300,21 @@
     "warnings": []
   },
   {
+    "entityId": "bhakti-movement",
+    "title": "Bhakti Movement",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
     "entityId": "bhakti",
     "title": "Bhakti",
     "type": "concept",
@@ -2265,6 +2280,21 @@
     "warnings": []
   },
   {
+    "entityId": "sannyasa",
+    "title": "Saṃnyāsa",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
     "entityId": "sapta-rishi",
     "title": "Saptarṣi",
     "type": "concept",
@@ -2372,6 +2402,21 @@
   {
     "entityId": "shraddha-types",
     "title": "Śrāddha Types",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
+    "entityId": "shruti",
+    "title": "Śruti",
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
@@ -2516,6 +2561,36 @@
     "institutionalSource": false,
     "scholarlySource": true,
     "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
+    "entityId": "tantra-sastra",
+    "title": "Tantra Śāstra",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": true,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
+    "entityId": "tantra",
+    "title": "Tantra",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 2,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": true,
     "statusLabel": "NOT_APPLICABLE",
     "warnings": []
   },
@@ -3062,6 +3137,21 @@
   {
     "entityId": "yoga-kleshas",
     "title": "Yoga Kleśas",
+    "type": "concept",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
+    "entityId": "yoga-nidra",
+    "title": "Yoga Nidrā",
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
@@ -5730,6 +5820,21 @@
     "warnings": []
   },
   {
+    "entityId": "grihya-sutra",
+    "title": "Gṛhya Sūtra",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
     "entityId": "hamsa-upanishad",
     "title": "Haṃsa Upaniṣad",
     "type": "scripture",
@@ -5807,21 +5912,6 @@
   {
     "entityId": "kaivalya-upanishad",
     "title": "Kaivalya Upaniṣad",
-    "type": "scripture",
-    "status": "published",
-    "sourceCount": 1,
-    "claimCount": 0,
-    "evidenceCount": 0,
-    "primarySource": false,
-    "institutionalSource": false,
-    "scholarlySource": true,
-    "traditionalSource": false,
-    "statusLabel": "NOT_APPLICABLE",
-    "warnings": []
-  },
-  {
-    "entityId": "kalpa-sutra",
-    "title": "Kalpa Sūtra",
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
@@ -6705,6 +6795,21 @@
     "warnings": []
   },
   {
+    "entityId": "yoga-sutra",
+    "title": "Yoga Sūtra",
+    "type": "scripture",
+    "status": "published",
+    "sourceCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "primarySource": false,
+    "institutionalSource": false,
+    "scholarlySource": true,
+    "traditionalSource": false,
+    "statusLabel": "NOT_APPLICABLE",
+    "warnings": []
+  },
+  {
     "entityId": "yogachudamani-upanishad",
     "title": "Yogacūḍāmaṇi Upaniṣad",
     "type": "scripture",
@@ -7352,21 +7457,6 @@
   {
     "entityId": "shakta",
     "title": "Śākta traditions",
-    "type": "tradition",
-    "status": "published",
-    "sourceCount": 1,
-    "claimCount": 0,
-    "evidenceCount": 0,
-    "primarySource": false,
-    "institutionalSource": false,
-    "scholarlySource": true,
-    "traditionalSource": false,
-    "statusLabel": "NOT_APPLICABLE",
-    "warnings": []
-  },
-  {
-    "entityId": "shruti",
-    "title": "Śruti",
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,

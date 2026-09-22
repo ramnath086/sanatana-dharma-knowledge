@@ -168,6 +168,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bhakti-movement",
+    "title": "Bhakti Movement",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "bhakti",
     "title": "Bhakti",
     "status": "published",
@@ -1253,6 +1262,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "sannyasa",
+    "title": "Saṃnyāsa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "sapta-rishi",
     "title": "Saptarṣi",
     "status": "published",
@@ -1323,6 +1341,13 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "shruti",
+    "title": "Śruti",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "shuddhadvaita-pusti",
     "title": "Śuddhādvaita Puṣṭi",
     "status": "published",
@@ -1389,6 +1414,24 @@
   {
     "entityId": "surya-navagraha",
     "title": "Sūrya Navagraha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tantra-sastra",
+    "title": "Tantra Śāstra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tantra",
+    "title": "Tantra",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1708,6 +1751,15 @@
   {
     "entityId": "yoga-kleshas",
     "title": "Yoga Kleśas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yoga-nidra",
+    "title": "Yoga Nidrā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3148,6 +3200,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "grihya-sutra",
+    "title": "Gṛhya Sūtra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "hamsa-upanishad",
     "title": "Haṃsa Upaniṣad",
     "status": "published",
@@ -3193,15 +3254,6 @@
   {
     "entityId": "kaivalya-upanishad",
     "title": "Kaivalya Upaniṣad",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "kalpa-sutra",
-    "title": "Kalpa Sūtra",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3707,6 +3759,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "yoga-sutra",
+    "title": "Yoga Sūtra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "yogachudamani-upanishad",
     "title": "Yogacūḍāmaṇi Upaniṣad",
     "status": "published",
@@ -4050,13 +4111,6 @@
   {
     "entityId": "shakta",
     "title": "Śākta traditions",
-    "status": "published",
-    "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "shruti",
-    "title": "Śruti",
     "status": "published",
     "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
