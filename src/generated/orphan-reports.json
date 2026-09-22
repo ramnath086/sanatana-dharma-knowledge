@@ -663,8 +663,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "mimamsa-arthavada",
+    "title": "Mīmāṃsā Arthavāda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "mimamsa-dharma",
     "title": "Mīmāṃsā Dharma",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mimamsa-sphota",
+    "title": "Mīmāṃsā Sphoṭa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -704,8 +722,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "nyaya-ishvara",
+    "title": "Nyāya Īśvara",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "nyaya-pramanas",
     "title": "Nyāya Pramāṇas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nyaya-siddhanta",
+    "title": "Nyāya Siddhānta",
     "status": "published",
     "issues": [
       "No relationships"
@@ -965,8 +1001,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "sankhya-evolution",
+    "title": "Sāṃkhya Evolution (Parinama)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "sankhya-gunatraya",
     "title": "Sāṃkhya Guṇatraya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sankhya-purusha-prakriti",
+    "title": "Sāṃkhya Puruṣa-Prakṛti",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1137,6 +1191,24 @@
     "title": "Vairāgya",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaiseshika-atomism",
+    "title": "Vaiśeṣika Atomism",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaiseshika-creation",
+    "title": "Vaiśeṣika Creation Theory",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -1346,8 +1418,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "yoga-samadhi",
+    "title": "Yoga Samādhi",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "yoga-samapatti",
     "title": "Yoga Samāpatti",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yoga-viveka-khyati",
+    "title": "Yoga Viveka-khyāti",
     "status": "published",
     "issues": [
       "No relationships"

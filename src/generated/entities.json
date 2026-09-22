@@ -2531,6 +2531,35 @@
     "contentHash": "3c9cec80fdf16ed3c5a45acb56ec3a3d4977d54d0c1b7b01cbd949e1dc84210a"
   },
   {
+    "id": "mimamsa-arthavada",
+    "title": "Mīmāṃsā Arthavāda",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mimamsa Arthavada",
+      "मीमांसा अर्थवाद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Mīmāṃsā theory of arthavāda (explanatory passages in the Veda): the classification of Vedic sentences into vidhi (injunction), nṣedha (prohibition), and arthavāda (explanation); the three types of arthavāda — guṇavāda (eulogy), anuvāda (restatement), bhūtārthavāda (statement of fact) — and their hermeneutical role in ritual interpretation are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Mīmāṃsā theory of arthavāda (explanatory passages in the Veda): the classification of Vedic sentences into vidhi (injunction), nṣedha (prohibition), and arthavāda (explanation); the three types of arthavāda — guṇavāda (eulogy), anuvāda (restatement), bhūtārthavāda (statement of fact) — and their hermeneutical role in ritual interpretation are represented here as a catalogue entry.\n---",
+    "contentHash": "750e1295a9af82de6f9e06b5f04135fa00aa4fde7d4ce6f8fa0331524b358d90"
+  },
+  {
     "id": "mimamsa-dharma",
     "title": "Mīmāṃsā Dharma",
     "type": "concept",
@@ -2559,6 +2588,35 @@
     "relationshipIds": [],
     "body": "The Mīmāṃsā conception of dharma as ritual duty prescribed by the Veda, known through śabda pramāṇa (verbal testimony); its distinction from laukika (worldly) dharma and its epistemological basis are represented here as a catalogue entry.\n---",
     "contentHash": "e68e37373342f609cb2f7df4aa44bd7775fce89b5af0391e3d3831a0269dc0c8"
+  },
+  {
+    "id": "mimamsa-sphota",
+    "title": "Mīmāṃsā Sphoṭa",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mimamsa Sphota",
+      "मीमांसा स्फोट"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Mīmāṃsā theory of sphoṭa (the eternal, unchanging word-essence) as the bearer of meaning, distinct from the audible sound (dhvani); the debate between Kumārila Bhaṭṭa (who rejects sphoṭa) and the Grammarians (who affirm it); the epistemological status of Vedic words and their relation to meaning are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Mīmāṃsā theory of sphoṭa (the eternal, unchanging word-essence) as the bearer of meaning, distinct from the audible sound (dhvani); the debate between Kumārila Bhaṭṭa (who rejects sphoṭa) and the Grammarians (who affirm it); the epistemological status of Vedic words and their relation to meaning are represented here as a catalogue entry.\n---",
+    "contentHash": "c79d9795fb47d046f2bc4bf04d38a6692087e1c46700b6f0cd4a5404a634519f"
   },
   {
     "id": "moksha",
@@ -2683,6 +2741,36 @@
     "contentHash": "2303d8ff9b68dd023d4c8fa772c6ccc1d8f9f4bd774d90fb5772ba32cd4c4a5b"
   },
   {
+    "id": "nyaya-ishvara",
+    "title": "Nyāya Īśvara",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nyaya Ishvara",
+      "Nyaya God",
+      "न्याय ईश्वर"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Nyāya concept of Īśvara (God) as the efficient cause (nimitta-kāraṇa) of the universe, the creator, sustainer, and destroyer of the world, who is distinct from the material cause (prakṛti) and the individual selves (jīva); the arguments for God's existence (kārya-kāraṇa-anvaya, āyojanāt, dhṛtyādēḥ, padāt, pratyayataḥ, śrutēḥ) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Nyāya concept of Īśvara (God) as the efficient cause (nimitta-kāraṇa) of the universe, the creator, sustainer, and destroyer of the world, who is distinct from the material cause (prakṛti) and the individual selves (jīva); the arguments for God's existence (kārya-kāraṇa-anvaya, āyojanāt, dhṛtyādēḥ, padāt, pratyayataḥ, śrutēḥ) are represented here as a catalogue entry.\n---",
+    "contentHash": "6bd04d6e2ff815991c1c8b3dbbb3cfc4efa91a9b2b9db15613ca0f79d0eca34a"
+  },
+  {
     "id": "nyaya-pramanas",
     "title": "Nyāya Pramāṇas",
     "type": "concept",
@@ -2710,6 +2798,36 @@
     "relationshipIds": [],
     "body": "The Nyāya school recognizes four pramāṇas (means of valid knowledge): pratyakṣa (perception), anumāna (inference), upamāna (comparison), and śabda (verbal testimony); their definitions, scope, and interrelations are represented here as a catalogue entry.\n---",
     "contentHash": "176a0f665c098fc1a8acc4d5e49147eee69d25732f3d985a8cb872b06cc92999"
+  },
+  {
+    "id": "nyaya-siddhanta",
+    "title": "Nyāya Siddhānta",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Nyaya Siddhanta",
+      "Nyaya Philosophy",
+      "न्याय सिद्धान्त"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Nyāya school's core doctrines: the sixteen padārthas (categories) including pramāṇa (means of knowledge), prameya (objects of knowledge), saṃśaya (doubt), prayojana (purpose), dṛṣṭānta (example), siddhānta (tenet), avayava (members of inference), tarka (reasoning), nirṇaya (ascertainment), vāda (discussion), jalpa (wrangling), vitaṇḍā (cavil), hetvābhāsa (fallacies), chala (quibble), jāti (futile objection), and nigrahasthāna (point of defeat); their interrelations and epistemic significance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Nyāya school's core doctrines: the sixteen padārthas (categories) including pramāṇa (means of knowledge), prameya (objects of knowledge), saṃśaya (doubt), prayojana (purpose), dṛṣṭānta (example), siddhānta (tenet), avayava (members of inference), tarka (reasoning), nirṇaya (ascertainment), vāda (discussion), jalpa (wrangling), vitaṇḍā (cavil), hetvābhāsa (fallacies), chala (quibble), jāti (futile objection), and nigrahasthāna (point of defeat); their interrelations and epistemic significance are represented here as a catalogue entry.\n---",
+    "contentHash": "7732117a2495e18b002524cb8bcbfe11a3bec63528b00c9979f254158e3accc2"
   },
   {
     "id": "om-namah-shivaya",
@@ -3638,6 +3756,36 @@
     "contentHash": "a553100d4f65649df5a810fb88603b0ac6dd89c13f962376803ea599852e908b"
   },
   {
+    "id": "sankhya-evolution",
+    "title": "Sāṃkhya Evolution (Parinama)",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Sankhya Evolution",
+      "Sankhya Parinama",
+      "साङ्ख्य परिणाम"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Sāṃkhya theory of cosmic evolution (pariṇāma) from prakṛti: the sequential manifestation of mahat (buddhi), ahaṃkāra (ego), the five tanmātras (subtle elements), the five mahābhūtas (gross elements), the five jñānendriyas (sense organs), the five karmendriyas (action organs), and manas (mind); the teleological direction of evolution toward the liberation of puruṣa is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Sāṃkhya theory of cosmic evolution (pariṇāma) from prakṛti: the sequential manifestation of mahat (buddhi), ahaṃkāra (ego), the five tanmātras (subtle elements), the five mahābhūtas (gross elements), the five jñānendriyas (sense organs), the five karmendriyas (action organs), and manas (mind); the teleological direction of evolution toward the liberation of puruṣa is represented here as a catalogue entry.\n---",
+    "contentHash": "b7c766b4eba02e02b023a92df322ff45ebffc2cf24b76e0f060a9eac096ea076"
+  },
+  {
     "id": "sankhya-gunatraya",
     "title": "Sāṃkhya Guṇatraya",
     "type": "concept",
@@ -3666,6 +3814,35 @@
     "relationshipIds": [],
     "body": "The three guṇas (sattva, rajas, tamas) as the constituent strands of prakṛti in Sāṃkhya philosophy; their characteristics, interactions, and role in cosmic evolution and bondage are represented here as a catalogue entry.\n---",
     "contentHash": "81cb8fc56a1744542ae07b5b530b299f050a86df865143b7eb386a9150e4635e"
+  },
+  {
+    "id": "sankhya-purusha-prakriti",
+    "title": "Sāṃkhya Puruṣa-Prakṛti",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Sankhya Purusha Prakriti",
+      "साङ्ख्य पुरुष प्रकृति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Sāṃkhya dualism of puruṣa (pure consciousness, plural, passive witness) and prakṛti (primordial matter, singular, active, composed of three guṇas); their interaction (saṃyoga) as the cause of evolution, the distinction between knowledge (jñāna) and ignorance (ajñāna), and liberation (kaivalya) as the isolation of puruṣa from prakṛti are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Sāṃkhya dualism of puruṣa (pure consciousness, plural, passive witness) and prakṛti (primordial matter, singular, active, composed of three guṇas); their interaction (saṃyoga) as the cause of evolution, the distinction between knowledge (jñāna) and ignorance (ajñāna), and liberation (kaivalya) as the isolation of puruṣa from prakṛti are represented here as a catalogue entry.\n---",
+    "contentHash": "11ccd9c46a5fd8e6230adb410783cc390494ce1d13dd41a64bf3d8a5f4ef06e1"
   },
   {
     "id": "sankhya-tattvas",
@@ -4287,6 +4464,66 @@
     "relationshipIds": [],
     "body": "Dispassion or non-attachment, presented in texts as a prerequisite for contemplative progress, with degrees and nuances described differently across traditions.",
     "contentHash": "7370f5837739774caa8060b45c1770484101aacf5b5072e0d744e04155c0fe8a"
+  },
+  {
+    "id": "vaiseshika-atomism",
+    "title": "Vaiśeṣika Atomism",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vaisesika Atomism",
+      "Paramāṇu Vada",
+      "वैशेषिक परमाणुवाद"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Vaiśeṣika atomic theory positing four kinds of eternal, indivisible atoms (paramāṇu) — earth, water, fire, air — each with distinct qualities (guṇa); their binary combinations (dvyanuka) and ternary combinations (tryanuka) forming the gross physical world; the theory's differences from Greek atomism and its role in Vaiśeṣika physics are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Vaiśeṣika atomic theory positing four kinds of eternal, indivisible atoms (paramāṇu) — earth, water, fire, air — each with distinct qualities (guṇa); their binary combinations (dvyanuka) and ternary combinations (tryanuka) forming the gross physical world; the theory's differences from Greek atomism and its role in Vaiśeṣika physics are represented here as a catalogue entry.\n---",
+    "contentHash": "3c529220c892161c620b7e2a3b87395aa1169605374437db0018b27286c79491"
+  },
+  {
+    "id": "vaiseshika-creation",
+    "title": "Vaiśeṣika Creation Theory",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vaisesika Creation",
+      "Vaisesika Cosmology",
+      "वैशेषिक सृष्टि"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "description": "The Vaiśeṣika theory of creation (sṛṣṭi) and dissolution (pralaya) through the combination and separation of eternal atoms (paramāṇu) guided by the unseen force (adṛṣṭa) of individual selves; the atomic structure of the four physical elements (earth, water, fire, air) and the non-atomic substances (space, time, direction, mind, self) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Vaiśeṣika theory of creation (sṛṣṭi) and dissolution (pralaya) through the combination and separation of eternal atoms (paramāṇu) guided by the unseen force (adṛṣṭa) of individual selves; the atomic structure of the four physical elements (earth, water, fire, air) and the non-atomic substances (space, time, direction, mind, self) are represented here as a catalogue entry.\n---",
+    "contentHash": "0d4d0a0e8121b08d8e9658660f901f82eaa1fac32540fc5595461946fde2c1d9"
   },
   {
     "id": "vaiseshika-padarthas",
@@ -5021,6 +5258,36 @@
     "contentHash": "fbf329b480aa648c6260e3cf269ce70554e2808d8cdb4e334cb53857af1529d1"
   },
   {
+    "id": "yoga-samadhi",
+    "title": "Yoga Samādhi",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Yoga Samadhi",
+      "योग समाधि"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "YOGA",
+      "CONCEPT"
+    ],
+    "description": "The Yoga concept of samādhi (absorption): the stages of saṃprajñāta (with cognitive content — vitarka, vicāra, ānanda, asmitā) and asaṃprajñāta (without cognitive content, nirbīja); the distinction between sabīja (with seed) and nirbīja (seedless) samādhi, and the role of dispassion (vairāgya) and practice (abhyāsa) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Yoga concept of samādhi (absorption): the stages of saṃprajñāta (with cognitive content — vitarka, vicāra, ānanda, asmitā) and asaṃprajñāta (without cognitive content, nirbīja); the distinction between sabīja (with seed) and nirbīja (seedless) samādhi, and the role of dispassion (vairāgya) and practice (abhyāsa) are represented here as a catalogue entry.\n---",
+    "contentHash": "f46bd2bd4e2a011b8642708b042f57f86edefb4567455f1fbe319c0bf924923b"
+  },
+  {
     "id": "yoga-samapatti",
     "title": "Yoga Samāpatti",
     "type": "concept",
@@ -5050,6 +5317,37 @@
     "relationshipIds": [],
     "body": "The state of samāpatti (coalescence) in Patañjali's Yoga, where the mind becomes transparent like a crystal reflecting the object of meditation; its stages (vitarka, vicāra, ānanda, asmitā) and relation to samādhi are represented here as a catalogue entry.\n---",
     "contentHash": "093e263744bdad439c03569c543fca7113a331af6ee0d9059017b50569c4a898"
+  },
+  {
+    "id": "yoga-viveka-khyati",
+    "title": "Yoga Viveka-khyāti",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Yoga Viveka Khyati",
+      "Discriminative Knowledge",
+      "योग विवेक ख्याति"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DARSHANA",
+      "YOGA",
+      "CONCEPT"
+    ],
+    "description": "The Yoga concept of viveka-khyāti (discriminative knowledge) as the direct intuitive realization of the distinction between puruṣa (consciousness) and prakṛti (matter); its attainment through the practice of the eight limbs (aṣṭāṅga) leading to kaivalya (liberation); its distinction from mere intellectual understanding are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Yoga concept of viveka-khyāti (discriminative knowledge) as the direct intuitive realization of the distinction between puruṣa (consciousness) and prakṛti (matter); its attainment through the practice of the eight limbs (aṣṭāṅga) leading to kaivalya (liberation); its distinction from mere intellectual understanding are represented here as a catalogue entry.\n---",
+    "contentHash": "e6c5c11a6c96b82aa6ad7abb73ec73a232621202aa1b6d0a5d8f716209ebd69a"
   },
   {
     "id": "yoga",

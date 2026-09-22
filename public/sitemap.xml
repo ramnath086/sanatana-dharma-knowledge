@@ -128,12 +128,16 @@
   <url><loc>/concept/maya-vada</loc></url>
   <url><loc>/concept/maya</loc></url>
   <url><loc>/concept/mimamsa-apurva</loc></url>
+  <url><loc>/concept/mimamsa-arthavada</loc></url>
   <url><loc>/concept/mimamsa-dharma</loc></url>
+  <url><loc>/concept/mimamsa-sphota</loc></url>
   <url><loc>/concept/moksha</loc></url>
   <url><loc>/concept/nirukta</loc></url>
   <url><loc>/concept/numismatics</loc></url>
   <url><loc>/concept/nyaya-hetvabhasa</loc></url>
+  <url><loc>/concept/nyaya-ishvara</loc></url>
   <url><loc>/concept/nyaya-pramanas</loc></url>
+  <url><loc>/concept/nyaya-siddhanta</loc></url>
   <url><loc>/concept/om-namah-shivaya</loc></url>
   <url><loc>/concept/om-namo-narayanaya</loc></url>
   <url><loc>/concept/om</loc></url>
@@ -164,7 +168,9 @@
   <url><loc>/concept/rudram</loc></url>
   <url><loc>/concept/samaveda-sakha</loc></url>
   <url><loc>/concept/samsara</loc></url>
+  <url><loc>/concept/sankhya-evolution</loc></url>
   <url><loc>/concept/sankhya-gunatraya</loc></url>
+  <url><loc>/concept/sankhya-purusha-prakriti</loc></url>
   <url><loc>/concept/sankhya-tattvas</loc></url>
   <url><loc>/concept/saraswati-forms</loc></url>
   <url><loc>/concept/saraswati</loc></url>
@@ -185,6 +191,8 @@
   <url><loc>/concept/tirtha-types</loc></url>
   <url><loc>/concept/upapurana</loc></url>
   <url><loc>/concept/vairagya</loc></url>
+  <url><loc>/concept/vaiseshika-atomism</loc></url>
+  <url><loc>/concept/vaiseshika-creation</loc></url>
   <url><loc>/concept/vaiseshika-padarthas</loc></url>
   <url><loc>/concept/vaiseshika-paramanu</loc></url>
   <url><loc>/concept/varna-ashrama-dharma</loc></url>
@@ -209,7 +217,9 @@
   <url><loc>/concept/yajurveda-sakha</loc></url>
   <url><loc>/concept/yoga-ashtanga</loc></url>
   <url><loc>/concept/yoga-kleshas</loc></url>
+  <url><loc>/concept/yoga-samadhi</loc></url>
   <url><loc>/concept/yoga-samapatti</loc></url>
+  <url><loc>/concept/yoga-viveka-khyati</loc></url>
   <url><loc>/concept/yoga</loc></url>
   <url><loc>/concept/yudhishthira</loc></url>
   <url><loc>/concept/ayurveda</loc></url>

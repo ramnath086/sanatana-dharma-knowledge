@@ -18,6 +18,15 @@
     "recommendation": "Review aliases and canonical identity."
   },
   {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "vaiseshika-atomism",
+      "vaiseshika-paramanu"
+    ],
+    "reason": "Alias collision: Paramāṇu Vada.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
     "kind": "DUPLICATE_TITLE",
     "entityIds": [
       "ganesh-chaturthi",
