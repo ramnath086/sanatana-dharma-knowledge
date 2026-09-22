@@ -1417,8 +1417,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "vedic-cosmology",
+    "title": "Vedic Cosmology",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "vedic-deity",
     "title": "Vedic Deities",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedic-mantra",
+    "title": "Vedic Mantra Classification",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1446,6 +1464,15 @@
   {
     "entityId": "vedic-ritual",
     "title": "Vedic Ritual (Yajña)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedic-time",
+    "title": "Vedic Time Cycles",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1987,6 +2014,15 @@
   },
   {
     "entityId": "guru-purnima",
+    "title": "Guru Pūrṇimā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "gurupurnima",
     "title": "Guru Pūrṇimā",
     "status": "published",
     "issues": [
@@ -3473,6 +3509,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ahobilam",
+    "title": "Ahobilam Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "akshardham-delhi",
     "title": "Akshardham Delhi",
     "status": "published",
@@ -3521,6 +3566,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "dwarka-matha",
+    "title": "Dvārakā Maṭha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "ekambareswarar-kanchipuram",
     "title": "Ekambareswarar Temple Kanchipuram",
     "status": "published",
@@ -3555,6 +3609,24 @@
   {
     "entityId": "jambukeswarar-tiruvanaikaval",
     "title": "Jambukeswarar Temple Tiruvanaikaval",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "jyotirmath",
+    "title": "Jyotir Maṭha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kanchi-kamakoti",
+    "title": "Kāñcī Kāmakōṭi Pīṭham",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3633,6 +3705,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "puri-govardhana-matha",
+    "title": "Purī Govardhana Maṭha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rameshwaram",
     "title": "Rāmeśvaram Temple",
     "status": "published",
@@ -3644,6 +3725,24 @@
     "title": "Sabarimala Temple (Ayyappa)",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "shrngeri-matha",
+    "title": "Śṛṅgerī Maṭha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "simhachalam",
+    "title": "Simhachalam Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3665,6 +3764,15 @@
     "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tirupati-tirumala",
+    "title": "Tirumala Venkateswara Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

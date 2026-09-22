@@ -5235,6 +5235,37 @@
     "contentHash": "2d82f502ad5c03445b63e2785310b9bfbebce338547a6076eb4b3f97add5a0fb"
   },
   {
+    "id": "vedic-cosmology",
+    "title": "Vedic Cosmology",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Cosmology",
+      "Vedic Universe",
+      "वैदिक ब्रह्माण्ड"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "Vedic cosmology: the Ṛgvedic vision of the universe (brahmāṇḍa) emerging from the cosmic sacrifice (puruṣa-sūkta, RV 10.90), the three worlds (bhūr, bhuvaḥ, svaḥ), the cosmic mountain (Meru), the seven dvīpas and oceans; the Upaniṣadic evolution to brahman as the substrate of all; represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Vedic cosmology: the Ṛgvedic vision of the universe (brahmāṇḍa) emerging from the cosmic sacrifice (puruṣa-sūkta, RV 10.90), the three worlds (bhūr, bhuvaḥ, svaḥ), the cosmic mountain (Meru), the seven dvīpas and oceans; the Upaniṣadic evolution to brahman as the substrate of all; represented here as a catalogue entry.\n---",
+    "contentHash": "3f991bcf3e9b66ceec16a778d204f9ab87f4bcde0342570a9d68f71f13a8a867"
+  },
+  {
     "id": "vedic-deity",
     "title": "Vedic Deities",
     "type": "concept",
@@ -5265,6 +5296,38 @@
     "relationshipIds": [],
     "body": "The principal Vedic deities: Agni (fire), Indra (rain/warrior), Varuṇa (cosmic order), Mitra (contracts), the Aśvins (healing), Sūrya/Savitṛ (sun), Uṣas (dawn), Vāyu (wind), Rudra (storm), Viṣṇu (strides), Pūṣan (paths), Bṛhaspati (priesthood); their hymns, functions, and evolution into later Hindu deities are represented here as a catalogue entry.\n---",
     "contentHash": "8f57453fe3f498fc9ca0b126ab04c801aa1fc686c8342be310aabc769edaafe7"
+  },
+  {
+    "id": "vedic-mantra",
+    "title": "Vedic Mantra Classification",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Mantras",
+      "Mantra Types",
+      "वैदिक मंत्र"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "MANTRA",
+      "CONCEPT"
+    ],
+    "description": "The classification of Vedic mantras: ṛc (Ṛgveda verses), yajus (Yajurveda prose), sāman (Sāmaveda chants), nigada (loud recitation); the division into mantra and brāhmaṇa portions; the gāyatrī, uṣṇik, anuṣṭubh, bṛhatī, paṅkti, triṣṭubh, jagatī metres; the distinction between mantra and bhāṣya are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The classification of Vedic mantras: ṛc (Ṛgveda verses), yajus (Yajurveda prose), sāman (Sāmaveda chants), nigada (loud recitation); the division into mantra and brāhmaṇa portions; the gāyatrī, uṣṇik, anuṣṭubh, bṛhatī, paṅkti, triṣṭubh, jagatī metres; the distinction between mantra and bhāṣya are represented here as a catalogue entry.\n---",
+    "contentHash": "9b98afe6356eb8416b10faa912c6629faf8c9630da940815cad7e0fccb232da6"
   },
   {
     "id": "vedic-metre",
@@ -5359,6 +5422,37 @@
     "relationshipIds": [],
     "body": "The Vedic sacrificial system (yajña): the seven havir-yajñas (Agnihotra, Darśa-pūrṇamāsa, Āgrayaṇa, Cāturmāsya, Nirūḍhapaśubandha, Sautrāmaṇi, Agniṣṭoma) and the seven soma-yajñas (Agnistoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Vājapeya, Atirātra, Aptoryāma); their structure, priests (ṛtvij), and cosmological significance are represented here as a catalogue entry.\n---",
     "contentHash": "cba32f264a420196b55c4d24ebc06510c39afb90ada2e17d08b782d022f1663b"
+  },
+  {
+    "id": "vedic-time",
+    "title": "Vedic Time Cycles",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Time",
+      "Yuga Cycles",
+      "वैदिक काल"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "Vedic and post-Vedic time cycles: the four yugas (Kṛta, Tretā, Dvāpara, Kali) and their durations (4:3:2:1), the mahāyuga (4.32 million years), the manvantara (71 mahāyugas), the kalpa (1000 mahāyugas = 4.32 billion years), Brahmā's day and night; their Puranic elaboration and traditional cosmological significance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "Vedic and post-Vedic time cycles: the four yugas (Kṛta, Tretā, Dvāpara, Kali) and their durations (4:3:2:1), the mahāyuga (4.32 million years), the manvantara (71 mahāyugas), the kalpa (1000 mahāyugas = 4.32 billion years), Brahmā's day and night; their Puranic elaboration and traditional cosmological significance are represented here as a catalogue entry.\n---",
+    "contentHash": "0043e42b0c966f2acacfd509cb24f95c74591f11e8398453276ed597279ed12a"
   },
   {
     "id": "videhamukti",
@@ -7435,6 +7529,41 @@
     "contentHash": "d40a00194fc8a7d6965647e6ce8aa21844499b95a46f2d67badff327e87cb3ab"
   },
   {
+    "id": "gurupurnima",
+    "title": "Guru Pūrṇimā",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en",
+      "hi",
+      "gu"
+    ],
+    "aliases": [
+      "Guru Purnima",
+      "Vyasa Purnima",
+      "गुरु पूर्णिमा"
+    ],
+    "sources": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "description": "Guru Pūrṇimā, the full moon day of Āṣāḍha (Jun–Jul), dedicated to the guru (spiritual teacher); traditionally associated with Vyāsa (the compiler of the Vedas), observed by disciples offering pūjā, dakṣiṇā, and seeking blessings; its observance in Ādi Śaṅkara maṭhas, Gauḍīya Vaiṣṇava, and other traditions is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "relationshipIds": [],
+    "body": "Guru Pūrṇimā, the full moon day of Āṣāḍha (Jun–Jul), dedicated to the guru (spiritual teacher); traditionally associated with Vyāsa (the compiler of the Vedas), observed by disciples offering pūjā, dakṣiṇā, and seeking blessings; its observance in Ādi Śaṅkara maṭhas, Gauḍīya Vaiṣṇava, and other traditions is represented here as a catalogue entry.\n---",
+    "contentHash": "58b9b01bdf98db9d4d03a525fad007a4acec3bf0a5b7816f154b53f41ec438eb"
+  },
+  {
     "id": "hartalika-teej",
     "title": "Hartālika Tīja",
     "type": "festival",
@@ -7677,30 +7806,36 @@
     "type": "festival",
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi",
+      "ta",
+      "te",
+      "kn"
     ],
     "aliases": [
       "Maha Shivaratri",
+      "Shivaratri",
       "महाशिवरात्रि"
     ],
     "sources": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "status": "published",
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "Deity",
-      "TRADITION",
-      "REGIONAL_TRADITION"
+      "REGIONAL_TRADITION",
+      "CULTURE"
     ],
-    "description": "A festival associated with Śiva observed through varied devotional and regional practices; its specific narratives and rituals differ across traditions.",
+    "description": "Mahāśivarātri, the 'Great Night of Śiva', observed on the 14th night of the dark fortnight of Phālguna/Māgha (Feb–Mar); all-night vigil (jāgaraṇa), fasting, Rudrābhiṣeka, bilva leaf offerings, and the chanting of 'Oṃ Namaḥ Śivāya'; its association with Śiva's cosmic dance (Tāṇḍava) and the marriage of Śiva-Pārvatī are represented here as a catalogue entry. ---",
     "sourceIds": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "relationshipIds": [],
-    "body": "A festival associated with Śiva observed through varied devotional and regional practices; its specific narratives and rituals differ across traditions.",
-    "contentHash": "953899155bb39d31e1d14030209cb08029df0cc2ef2ee7aee9081441665aa8bf"
+    "body": "Mahāśivarātri, the 'Great Night of Śiva', observed on the 14th night of the dark fortnight of Phālguna/Māgha (Feb–Mar); all-night vigil (jāgaraṇa), fasting, Rudrābhiṣeka, bilva leaf offerings, and the chanting of 'Oṃ Namaḥ Śivāya'; its association with Śiva's cosmic dance (Tāṇḍava) and the marriage of Śiva-Pārvatī are represented here as a catalogue entry.\n---",
+    "contentHash": "2d9e4e7d9ba9594dbccf1f51bd245f936125df1d598841390168a7469b4ed0e0"
   },
   {
     "id": "makar-sankranti",
@@ -12917,6 +13052,42 @@
     "contentHash": "e5af6b720786d9be537cc5cd16044e9d20b185c75cd8e2918273aa6c3de718dd"
   },
   {
+    "id": "ahobilam",
+    "title": "Ahobilam Temple",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Ahobilam Temple",
+      "Ahobalam",
+      "अहोबिलम्"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Ahobilam Temple complex in Andhra Pradesh, the principal shrine of Narasiṃha (Viṣṇu's man-lion avatar), with nine temples (Nava-Narasiṃha) on the Nallamala hills; its association with the Prahlāda narrative, the Śrīvaiṣṇava tradition, and the Ahobila Maṭha are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Ahobilam Temple complex in Andhra Pradesh, the principal shrine of Narasiṃha (Viṣṇu's man-lion avatar), with nine temples (Nava-Narasiṃha) on the Nallamala hills; its association with the Prahlāda narrative, the Śrīvaiṣṇava tradition, and the Ahobila Maṭha are represented here as a catalogue entry.\n---",
+    "contentHash": "3a40456209ff120a0640459eeb6ad95023fecbb0ac840cc2137cab1cdfd05cea"
+  },
+  {
     "id": "akshardham-delhi",
     "title": "Akshardham Delhi",
     "type": "temple",
@@ -13136,6 +13307,43 @@
     "contentHash": "d265044633557e155e90ccf7226e8e50879cd97bc058697a64851e204fa4c608"
   },
   {
+    "id": "dwarka-matha",
+    "title": "Dvārakā Maṭha",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "gu"
+    ],
+    "aliases": [
+      "Dwarka Matha",
+      "Dwaraka Sharada Peetham",
+      "द्वारका मठ"
+    ],
+    "sources": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "description": "The Dvārakā Śāradā Pīṭham (Dvārakā Maṭha) in Gujarat, the second of the four Ādi Śaṅkara maṭhas, dedicated to Śāradā; its location near the Dvārakādhīśa Temple, its guru-paramparā, and its role in preserving Advaita Vedānta in Western India are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Dvārakā Śāradā Pīṭham (Dvārakā Maṭha) in Gujarat, the second of the four Ādi Śaṅkara maṭhas, dedicated to Śāradā; its location near the Dvārakādhīśa Temple, its guru-paramparā, and its role in preserving Advaita Vedānta in Western India are represented here as a catalogue entry.\n---",
+    "contentHash": "9f341a98521ac92a99a10711bf975e43e594d13a6f824e2d3e0b9e21c703083a"
+  },
+  {
     "id": "ekambareswarar-kanchipuram",
     "title": "Ekambareswarar Temple Kanchipuram",
     "type": "temple",
@@ -13314,6 +13522,80 @@
     "relationshipIds": [],
     "body": "The Jambukeśvarar Temple at Tiruvanaikaval (near Tiruchirappalli), Tamil Nadu, one of the Pañcabhūta-sthalas representing water (āpas/jala); its subterranean water stream in the sanctum, the Appu Liṅga, and its association with the goddess Akhilāṇḍeśvarī are represented here as a catalogue entry.\n---",
     "contentHash": "95067020c0d54f023eb16f21a7bdf41b35723cca13a796f8ece24b87ea5594b4"
+  },
+  {
+    "id": "jyotirmath",
+    "title": "Jyotir Maṭha",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Jyotir Math",
+      "Joshimath",
+      "ज्योतिर्मठ"
+    ],
+    "sources": [
+      "gretil",
+      "uttarakhand-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "description": "The Jyotir Maṭha (Jyotirmath/Joshimath) in Uttarakhand, the third of the four Ādi Śaṅkara maṭhas, located near Badrinath; its association with the Nṛsiṃha Temple, the cave of Totakācārya, its role in the Himalayan Advaita tradition, and the recent land subsidence concerns are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Jyotir Maṭha (Jyotirmath/Joshimath) in Uttarakhand, the third of the four Ādi Śaṅkara maṭhas, located near Badrinath; its association with the Nṛsiṃha Temple, the cave of Totakācārya, its role in the Himalayan Advaita tradition, and the recent land subsidence concerns are represented here as a catalogue entry.\n---",
+    "contentHash": "06afff990713424b7c3d7d13111c199b624abd03a1c60aebe4febbe8b00ed288"
+  },
+  {
+    "id": "kanchi-kamakoti",
+    "title": "Kāñcī Kāmakōṭi Pīṭham",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Kanchi Kamakoti Peetham",
+      "Kanchi Mutt",
+      "काञ्ची कामकोटि पीठम्"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "description": "The Kāñcī Kāmakōṭi Pīṭham at Kāñcīpuram, Tamil Nadu, a prominent Śaṅkara maṭha (though its direct Śaṅkara lineage is debated), dedicated to Kāmākṣī; its influential guru-paramparā (including Chandrasekharendra Sarasvati), its role in Advaita Vedānta, and its social service activities are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Kāñcī Kāmakōṭi Pīṭham at Kāñcīpuram, Tamil Nadu, a prominent Śaṅkara maṭha (though its direct Śaṅkara lineage is debated), dedicated to Kāmākṣī; its influential guru-paramparā (including Chandrasekharendra Sarasvati), its role in Advaita Vedānta, and its social service activities are represented here as a catalogue entry.\n---",
+    "contentHash": "2c8b058d8af62d0b2c862f4d2e3a0f4648352ef92f3f8965f163f3222af2be06"
   },
   {
     "id": "kanchipuram",
@@ -13643,6 +13925,42 @@
     "contentHash": "dc862fe31413a7e76e83dcc519452f4e6cc6f2c3579296b4eb399a947b2148c5"
   },
   {
+    "id": "puri-govardhana-matha",
+    "title": "Purī Govardhana Maṭha",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Puri Matha",
+      "Govardhana Matha",
+      "पुरी गोवर्धन मठ"
+    ],
+    "sources": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "description": "The Purī Govardhana Maṭha in Odisha, the fourth of the four Ādi Śaṅkara maṭhas, dedicated to Jagannātha; its location near the Jagannātha Temple, its guru-paramparā, and its role in preserving Advaita Vedānta in Eastern India are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Purī Govardhana Maṭha in Odisha, the fourth of the four Ādi Śaṅkara maṭhas, dedicated to Jagannātha; its location near the Jagannātha Temple, its guru-paramparā, and its role in preserving Advaita Vedānta in Eastern India are represented here as a catalogue entry.\n---",
+    "contentHash": "88752255f4f20f058b73bfbd3d81eb8917b5df652abc0b5ac0e0c6331d10ed38"
+  },
+  {
     "id": "rameshwaram",
     "title": "Rāmeśvaram Temple",
     "type": "temple",
@@ -13713,6 +14031,79 @@
     "relationshipIds": [],
     "body": "The Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
     "contentHash": "b32693f28460632e67893104e764554dc1c12016afc09a32d5374185e7c547db"
+  },
+  {
+    "id": "shrngeri-matha",
+    "title": "Śṛṅgerī Maṭha",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "aliases": [
+      "Sringeri Matha",
+      "Sringeri Sharada Peetham",
+      "श्रृंगेरी मठ"
+    ],
+    "sources": [
+      "gretil",
+      "karnataka-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "description": "The Śṛṅgerī Śāradā Pīṭham (Śṛṅgerī Maṭha) in Karnataka, the first of the four Ādi Śaṅkara maṭhas, dedicated to Śāradā (Sarasvatī); its unbroken guru-paramparā, the Vidyāśaṅkara Temple, the Śāradā Temple, and its role in Advaita Vedānta preservation are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "karnataka-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Śṛṅgerī Śāradā Pīṭham (Śṛṅgerī Maṭha) in Karnataka, the first of the four Ādi Śaṅkara maṭhas, dedicated to Śāradā (Sarasvatī); its unbroken guru-paramparā, the Vidyāśaṅkara Temple, the Śāradā Temple, and its role in Advaita Vedānta preservation are represented here as a catalogue entry.\n---",
+    "contentHash": "85cbbb2c65534a9274ee8f25881e64ca296d90ba763d776acfd4df6400c56f90"
+  },
+  {
+    "id": "simhachalam",
+    "title": "Simhachalam Temple",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Simhachalam Temple",
+      "Simhadri",
+      "सिंहाचलम्"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam (Simhādri), Andhra Pradesh, dedicated to Narasiṃha as the 'lion-hill' deity; its Kalinga-Chola architecture, the sandalwood paste covering (candana), the annual Candanotsava festival, and its importance in the Śrīvaiṣṇava tradition are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam (Simhādri), Andhra Pradesh, dedicated to Narasiṃha as the 'lion-hill' deity; its Kalinga-Chola architecture, the sandalwood paste covering (candana), the annual Candanotsava festival, and its importance in the Śrīvaiṣṇava tradition are represented here as a catalogue entry.\n---",
+    "contentHash": "f7c1014f118eb7c9ecf80456f32868285513db0bc101f964fb8550bf2b0c0715"
   },
   {
     "id": "somnath",
@@ -13825,6 +14216,43 @@
     "relationshipIds": [],
     "body": "The Venkaṭeśvara Temple at Tirumala, Andhra Pradesh, one of the most visited pilgrimage sites in India; its history, architecture, and administration are complex and represented here as a catalogue entry.",
     "contentHash": "f46e497c82326afa2c80adefee6bdcdd756a4a54c11393f02a13eefbc88f253d"
+  },
+  {
+    "id": "tirupati-tirumala",
+    "title": "Tirumala Venkateswara Temple",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Tirupati Temple",
+      "Tirumala Temple",
+      "Venkateswara Temple",
+      "तिरुमला वेंकटेश्वर मंदिर"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Tirumala Venkateswara Temple at Tirupati, Andhra Pradesh, one of the most visited pilgrimage sites in the world, dedicated to Veṅkaṭeśvara (Viṣṇu); its Dravidian architecture, the Ananda Nilayam vimana, the Tirumala Tirupati Devasthanams (TTD) administration, the laddu prasadam, and the annual Brahmotsavam are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirumala Venkateswara Temple at Tirupati, Andhra Pradesh, one of the most visited pilgrimage sites in the world, dedicated to Veṅkaṭeśvara (Viṣṇu); its Dravidian architecture, the Ananda Nilayam vimana, the Tirumala Tirupati Devasthanams (TTD) administration, the laddu prasadam, and the annual Brahmotsavam are represented here as a catalogue entry.\n---",
+    "contentHash": "94d1818f913abd7ca170ababca59e976954fb76783359336d0d62346b091946f"
   },
   {
     "id": "darshana",

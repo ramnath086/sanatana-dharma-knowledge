@@ -83,6 +83,33 @@
   {
     "kind": "DUPLICATE_TITLE",
     "entityIds": [
+      "guru-purnima",
+      "gurupurnima"
+    ],
+    "reason": "Canonical titles normalize to gurupurnima.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "guru-purnima",
+      "gurupurnima"
+    ],
+    "reason": "Alias collision: Guru Purnima.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "guru-purnima",
+      "gurupurnima"
+    ],
+    "reason": "Alias collision: गुरु पूर्णिमा.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
       "prasad",
       "prasada"
     ],
@@ -123,6 +150,15 @@
       "yajnavalkya-smriti"
     ],
     "reason": "Alias collision: Yajnavalkya Smriti.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirupati-balaji",
+      "tirupati-tirumala"
+    ],
+    "reason": "Alias collision: Venkateswara Temple.",
     "recommendation": "Review aliases and canonical identity."
   },
   {

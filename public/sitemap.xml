@@ -218,10 +218,13 @@
   <url><loc>/concept/varna-ashrama-dharma</loc></url>
   <url><loc>/concept/varna</loc></url>
   <url><loc>/concept/vastushastra</loc></url>
+  <url><loc>/concept/vedic-cosmology</loc></url>
   <url><loc>/concept/vedic-deity</loc></url>
+  <url><loc>/concept/vedic-mantra</loc></url>
   <url><loc>/concept/vedic-metre</loc></url>
   <url><loc>/concept/vedic-priesthood</loc></url>
   <url><loc>/concept/vedic-ritual</loc></url>
+  <url><loc>/concept/vedic-time</loc></url>
   <url><loc>/concept/videhamukti</loc></url>
   <url><loc>/concept/vidura</loc></url>
   <url><loc>/concept/vishishtadvaita-nitya-vibhuti</loc></url>
@@ -286,6 +289,7 @@
   <url><loc>/festival/ganesha-caturthi</loc></url>
   <url><loc>/festival/gita-jayanti</loc></url>
   <url><loc>/festival/guru-purnima</loc></url>
+  <url><loc>/festival/gurupurnima</loc></url>
   <url><loc>/festival/hartalika-teej</loc></url>
   <url><loc>/festival/holi</loc></url>
   <url><loc>/festival/janmashtami</loc></url>
@@ -466,17 +470,21 @@
   <url><loc>/scripture/yaska-nirukta</loc></url>
   <url><loc>/scripture/yogachudamani-upanishad</loc></url>
   <url><loc>/scripture/yogattva-upanishad</loc></url>
+  <url><loc>/temple/ahobilam</loc></url>
   <url><loc>/temple/akshardham-delhi</loc></url>
   <url><loc>/temple/badrinath</loc></url>
   <url><loc>/temple/belur-chennakesava</loc></url>
   <url><loc>/temple/brihadeeswara</loc></url>
   <url><loc>/temple/chidambaram-nataraja</loc></url>
   <url><loc>/temple/dwaraka</loc></url>
+  <url><loc>/temple/dwarka-matha</loc></url>
   <url><loc>/temple/ekambareswarar-kanchipuram</loc></url>
   <url><loc>/temple/guruvayur</loc></url>
   <url><loc>/temple/halebidu-hoysaleswara</loc></url>
   <url><loc>/temple/jagannath-puri</loc></url>
   <url><loc>/temple/jambukeswarar-tiruvanaikaval</loc></url>
+  <url><loc>/temple/jyotirmath</loc></url>
+  <url><loc>/temple/kanchi-kamakoti</loc></url>
   <url><loc>/temple/kanchipuram</loc></url>
   <url><loc>/temple/kashi-vishwanath</loc></url>
   <url><loc>/temple/kedarnath</loc></url>
@@ -486,11 +494,15 @@
   <url><loc>/temple/meenakshi-amman</loc></url>
   <url><loc>/temple/mukteshwar-bhubaneswar</loc></url>
   <url><loc>/temple/pandharpur</loc></url>
+  <url><loc>/temple/puri-govardhana-matha</loc></url>
   <url><loc>/temple/rameshwaram</loc></url>
   <url><loc>/temple/sabarimala</loc></url>
+  <url><loc>/temple/shrngeri-matha</loc></url>
+  <url><loc>/temple/simhachalam</loc></url>
   <url><loc>/temple/somnath</loc></url>
   <url><loc>/temple/srirangam</loc></url>
   <url><loc>/temple/tirupati-balaji</loc></url>
+  <url><loc>/temple/tirupati-tirumala</loc></url>
   <url><loc>/tradition/darshana</loc></url>
   <url><loc>/tradition/deity</loc></url>
   <url><loc>/tradition/festival</loc></url>
