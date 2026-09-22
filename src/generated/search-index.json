@@ -1346,6 +1346,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "guru-shishya-parampara",
+    "title": "Guru-Śiṣya Paramparā",
+    "aliases": [
+      "Guru Shishya Parampara",
+      "Guru Disciple Tradition",
+      "गुरुशिष्य परम्परा"
+    ],
+    "sanskritTitle": "",
+    "description": "The guru-śiṣya paramparā (teacher-disciple lineage): the oral transmission of knowledge (vidyā) from guru to śiṣya across generations; its role in Vedic, Vedānta, Yoga, Tantra, and artistic traditions; the concepts of dīkṣā (initiation), śraddhā (faith), and the guru as the embodiment of the teaching; its continuity in contemporary traditions are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "hanuman-forms",
     "title": "Hanumān Forms",
     "aliases": [
@@ -2263,6 +2285,54 @@
     "relatedEntityIds": []
   },
   {
+    "id": "murugan-forms",
+    "title": "Murugaṇ Forms",
+    "aliases": [
+      "Murugan Forms",
+      "Kartikeya Forms",
+      "Subrahmanya Forms",
+      "முருகன் உருவங்கள்"
+    ],
+    "sanskritTitle": "",
+    "description": "The forms of Murugaṇ (Kārttikeya, Subrahmaṇya, Skanda): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, the Tamil deity of the Kurinji landscape; the six abodes (Arupadai Veedu: Tiruttani, Swamimalai, Palani, Tirupparankunram, Pazhamudircholai, Tiruchendur); his iconography (vel, peacock, rooster) and the Kanda Shasti festival are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "navagraha",
+    "title": "Navagraha",
+    "aliases": [
+      "Navagraha",
+      "Nine Planets",
+      "नवग्रह"
+    ],
+    "sanskritTitle": "",
+    "description": "The Navagraha (nine celestial influencers): Sūrya (Sun), Candra (Moon), Maṅgala (Mars), Budha (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śani (Saturn), Rāhu (ascending node), Ketu (descending node); their role in Jyotiṣa (Vedic astrology), their temples (Navagraha sthalas), and their ritual propitiation (graha-śānti) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "nirukta",
     "title": "Nirukta",
     "aliases": [
@@ -2497,6 +2567,29 @@
       "CONCEPT",
       "Manuscript",
       "Scholarship"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "pancha-mahabhuta",
+    "title": "Pañcamahābhūta",
+    "aliases": [
+      "Pancha Mahabhuta",
+      "Five Elements",
+      "पञ्चमहाभूत"
+    ],
+    "sanskritTitle": "",
+    "description": "The five great elements (pañcamahābhūta) in Vedic and Sāṃkhya cosmology: ākāśa (space/ether), vāyu (air), agni (fire), jala/ap (water), pṛthvī (earth); their subtle essences (tanmātras: śabda, sparśa, rūpa, rasa, gandha), their sequence of manifestation, and their correspondence to sense organs are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -3267,6 +3360,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "sapta-rishi",
+    "title": "Saptarṣi",
+    "aliases": [
+      "Saptarishi",
+      "Seven Sages",
+      "सप्तर्षि"
+    ],
+    "sanskritTitle": "",
+    "description": "The Saptarṣi (seven sages): the seven primordial sages (Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, Vasiṣṭha) who are the mind-born sons of Brahmā, the authors of Vedic hymns, and the progenitors of gotras; their astronomical identification with the Ursa Major constellation (Saptarṣi Maṇḍala) and their role in Vedic tradition are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "saraswati-forms",
     "title": "Sarasvatī Forms",
     "aliases": [
@@ -3685,6 +3801,30 @@
     "type": "concept",
     "classification": [
       "PILGRIMAGE",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "trisandhya",
+    "title": "Trisandhyā",
+    "aliases": [
+      "Trisandhya",
+      "Three Sandhyas",
+      "त्रिसन्ध्या"
+    ],
+    "sanskritTitle": "",
+    "description": "The trisandhyā (three daily junctions): the Vedic prescription for worship at dawn (prātaḥ-sandhyā), noon (mādhyāhnika), and dusk (sāyaṃ-sandhyā); the Gāyatrī mantra recitation, prāṇāyāma, arghya offering, and upasthāna; its role in the daily routine of the twice-born (dvija) and its continuation in modern practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "SHRUTI",
+      "VEDIC",
       "PRACTICE",
       "CONCEPT"
     ],
@@ -5115,6 +5255,31 @@
     "relatedEntityIds": []
   },
   {
+    "id": "ayyappan",
+    "title": "Ayyappan",
+    "aliases": [
+      "Ayyappan",
+      "Ayyappa",
+      "Sastha",
+      "अय्यप्पन"
+    ],
+    "sanskritTitle": "",
+    "description": "Ayyappan (Śāstā, Hariharaputra), the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī); his celibacy (naiṣṭhika brahmacarya), the 18 holy steps (patinettampadi), the 41-day vrata (maṇḍala kālam), the pilgrimage to Sabarimala; his syncretic Śaiva-Vaiṣṇava nature and pan-South Indian popularity are represented here as a catalogue entry. ---",
+    "type": "deity",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "devi",
     "title": "Devī",
     "aliases": [
@@ -5284,6 +5449,31 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vitthal",
+    "title": "Viṭṭhala",
+    "aliases": [
+      "Vithoba",
+      "Vitthal",
+      "Panduranga",
+      "विठ्ठल"
+    ],
+    "sanskritTitle": "",
+    "description": "Viṭṭhala (Vithoba, Paṇḍurāṅga), the deity of Pandharpur, Maharashtra, a form of Viṣṇu/Kṛṣṇa standing on a brick (viṭ); the Vārkarī tradition, the annual Palkhi pilgrimage from Alandi and Dehu, the abhangas of Jñāneśvar and Tukārām; his dark complexion, hands on hips posture, and the Chandrabhaga river are represented here as a catalogue entry. ---",
+    "type": "deity",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "mr"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -6457,6 +6647,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "ramakrishna",
+    "title": "Rāmakṛṣṇa Paramahaṃsa",
+    "aliases": [
+      "Ramakrishna",
+      "Ramakrishna Paramahamsa",
+      "रामकृष्ण परमहंस"
+    ],
+    "sanskritTitle": "",
+    "description": "Rāmakṛṣṇa Paramahaṃsa (1836–1886), the 19th-century mystic of Dakṣiṇeśvar, devotee of Kālī, who experienced diverse religious paths (Śākta, Vaiṣṇava, Advaita, Islam, Christianity) and declared 'yato mat tato patha' (as many paths, so many ways); his disciple Vivekananda, the Ramakrishna Mission, and his universalist message are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "bn"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "ramananda",
     "title": "Rāmānanda",
     "aliases": [
@@ -6544,6 +6757,28 @@
       "sa",
       "en",
       "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sri-aurobindo",
+    "title": "Śrī Aurobindo",
+    "aliases": [
+      "Sri Aurobindo",
+      "Aurobindo Ghose",
+      "श्री अरविन्द"
+    ],
+    "sanskritTitle": "",
+    "description": "Śrī Aurobindo (1872–1950), the nationalist, philosopher, and yogi who developed Integral Yoga (Pūrṇa Yoga); his works (The Life Divine, Synthesis of Yoga, Savitri), his concept of the Supermind, the descent of consciousness, the Ashram at Pondicherry, and the Auroville township are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -6658,6 +6893,29 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vivekananda",
+    "title": "Swami Vivekananda",
+    "aliases": [
+      "Vivekananda",
+      "Swami Vivekananda",
+      "विवेकानन्द"
+    ],
+    "sanskritTitle": "",
+    "description": "Swami Vivekananda (1863–1902), the chief disciple of Rāmakṛṣṇa, the founder of the Ramakrishna Mission, the exponent of practical Vedānta at the 1893 World's Parliament of Religions (Chicago); his synthesis of Advaita with social service, his call for 'man-making education', and his role in modern Hindu renaissance are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "bn"
     ],
     "tags": [],
     "relatedEntityIds": []

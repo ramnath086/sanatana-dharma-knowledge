@@ -20,6 +20,24 @@
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
+      "murugan-forms",
+      "skanda-forms"
+    ],
+    "reason": "Alias collision: Kartikeya Forms.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "murugan-forms",
+      "skanda-forms"
+    ],
+    "reason": "Alias collision: Murugan Forms.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
       "vaiseshika-atomism",
       "vaiseshika-paramanu"
     ],
@@ -150,6 +168,15 @@
       "yajnavalkya-smriti"
     ],
     "reason": "Alias collision: Yajnavalkya Smriti.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "vitthal",
+      "pandharpur"
+    ],
+    "reason": "Alias collision: Vithoba.",
     "recommendation": "Review aliases and canonical identity."
   },
   {

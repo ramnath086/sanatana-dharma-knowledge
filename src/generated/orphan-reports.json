@@ -495,6 +495,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "guru-shishya-parampara",
+    "title": "Guru-Śiṣya Paramparā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "hanuman-forms",
     "title": "Hanumān Forms",
     "status": "published",
@@ -832,6 +841,24 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "murugan-forms",
+    "title": "Murugaṇ Forms",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "navagraha",
+    "title": "Navagraha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "nirukta",
     "title": "Nirukta",
     "status": "published",
@@ -924,6 +951,15 @@
     "title": "Paleography",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "pancha-mahabhuta",
+    "title": "Pañcamahābhūta",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -1217,6 +1253,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "sapta-rishi",
+    "title": "Saptarṣi",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "saraswati-forms",
     "title": "Sarasvatī Forms",
     "status": "published",
@@ -1369,6 +1414,15 @@
   {
     "entityId": "tirtha-types",
     "title": "Tīrtha Types",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "trisandhya",
+    "title": "Trisandhyā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1918,6 +1972,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ayyappan",
+    "title": "Ayyappan",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "devi",
     "title": "Devī",
     "status": "published",
@@ -1977,6 +2040,15 @@
     "title": "Viṣṇu",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vitthal",
+    "title": "Viṭṭhala",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2394,6 +2466,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ramakrishna",
+    "title": "Rāmakṛṣṇa Paramahaṃsa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "ramananda",
     "title": "Rāmānanda",
     "status": "published",
@@ -2419,6 +2500,15 @@
   {
     "entityId": "shyama-shastri",
     "title": "Śyāma Śāstri",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sri-aurobindo",
+    "title": "Śrī Aurobindo",
     "status": "published",
     "issues": [
       "No relationships"
@@ -2464,6 +2554,15 @@
     "title": "Vālmīki",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vivekananda",
+    "title": "Swami Vivekananda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

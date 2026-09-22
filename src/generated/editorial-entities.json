@@ -6242,6 +6242,107 @@
     }
   },
   {
+    "id": "guru-shishya-parampara",
+    "title": "Guru-Śiṣya Paramparā",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Guru Shishya Parampara",
+      "Guru Disciple Tradition",
+      "गुरुशिष्य परम्परा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The guru-śiṣya paramparā (teacher-disciple lineage): the oral transmission of knowledge (vidyā) from guru to śiṣya across generations; its role in Vedic, Vedānta, Yoga, Tantra, and artistic traditions; the concepts of dīkṣā (initiation), śraddhā (faith), and the guru as the embodiment of the teaching; its continuity in contemporary traditions are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The guru-śiṣya paramparā (teacher-disciple lineage): the oral transmission of knowledge (vidyā) from guru to śiṣya across generations; its role in Vedic, Vedānta, Yoga, Tantra, and artistic traditions; the concepts of dīkṣā (initiation), śraddhā (faith), and the guru as the embodiment of the teaching; its continuity in contemporary traditions are represented here as a catalogue entry.\n---",
+    "contentHash": "b43904133ee94fd9d37d08f47668671e7470615a3337e170a4da24c0ce729df6",
+    "sourceFile": "src\\content\\concepts\\guru-shishya-parampara.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "hanuman-forms",
     "title": "Hanumān Forms",
     "type": "concept",
@@ -10412,6 +10513,216 @@
     }
   },
   {
+    "id": "murugan-forms",
+    "title": "Murugaṇ Forms",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Murugan Forms",
+      "Kartikeya Forms",
+      "Subrahmanya Forms",
+      "முருகன் உருவங்கள்"
+    ],
+    "sources": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The forms of Murugaṇ (Kārttikeya, Subrahmaṇya, Skanda): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, the Tamil deity of the Kurinji landscape; the six abodes (Arupadai Veedu: Tiruttani, Swamimalai, Palani, Tirupparankunram, Pazhamudircholai, Tiruchendur); his iconography (vel, peacock, rooster) and the Kanda Shasti festival are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "relationshipIds": [],
+    "body": "The forms of Murugaṇ (Kārttikeya, Subrahmaṇya, Skanda): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, the Tamil deity of the Kurinji landscape; the six abodes (Arupadai Veedu: Tiruttani, Swamimalai, Palani, Tirupparankunram, Pazhamudircholai, Tiruchendur); his iconography (vel, peacock, rooster) and the Kanda Shasti festival are represented here as a catalogue entry.\n---",
+    "contentHash": "1714cb3e8d2dfb920745cf8eed15bab1afc84d9ad4e7e2ddb332d0767a556499",
+    "sourceFile": "src\\content\\concepts\\murugan-forms.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "navagraha",
+    "title": "Navagraha",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Navagraha",
+      "Nine Planets",
+      "नवग्रह"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The Navagraha (nine celestial influencers): Sūrya (Sun), Candra (Moon), Maṅgala (Mars), Budha (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śani (Saturn), Rāhu (ascending node), Ketu (descending node); their role in Jyotiṣa (Vedic astrology), their temples (Navagraha sthalas), and their ritual propitiation (graha-śānti) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Navagraha (nine celestial influencers): Sūrya (Sun), Candra (Moon), Maṅgala (Mars), Budha (Mercury), Bṛhaspati (Jupiter), Śukra (Venus), Śani (Saturn), Rāhu (ascending node), Ketu (descending node); their role in Jyotiṣa (Vedic astrology), their temples (Navagraha sthalas), and their ritual propitiation (graha-śānti) are represented here as a catalogue entry.\n---",
+    "contentHash": "2b53fd6a1dad2b209cdcdce142845b11bc597e0c2826a8c9a07dd18e88bca5f2",
+    "sourceFile": "src\\content\\concepts\\navagraha.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "nirukta",
     "title": "Nirukta",
     "type": "concept",
@@ -11460,6 +11771,108 @@
     "body": "The study of historical handwriting and scripts for dating, localizing, and reading manuscripts; its Indian script traditions (Brāhmī, Gupta, Śāradā, etc.) are represented here as a catalogue entry.",
     "contentHash": "ecd4e6c452b1585a7faec55b9613760c7dc01fd3c3e52759fe55e54d3d718120",
     "sourceFile": "src\\content\\concepts\\paleography.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pancha-mahabhuta",
+    "title": "Pañcamahābhūta",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Pancha Mahabhuta",
+      "Five Elements",
+      "पञ्चमहाभूत"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The five great elements (pañcamahābhūta) in Vedic and Sāṃkhya cosmology: ākāśa (space/ether), vāyu (air), agni (fire), jala/ap (water), pṛthvī (earth); their subtle essences (tanmātras: śabda, sparśa, rūpa, rasa, gandha), their sequence of manifestation, and their correspondence to sense organs are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The five great elements (pañcamahābhūta) in Vedic and Sāṃkhya cosmology: ākāśa (space/ether), vāyu (air), agni (fire), jala/ap (water), pṛthvī (earth); their subtle essences (tanmātras: śabda, sparśa, rūpa, rasa, gandha), their sequence of manifestation, and their correspondence to sense organs are represented here as a catalogue entry.\n---",
+    "contentHash": "96c24a9fcec7795f7946fcd8cec17b3c3d05ab15091c9f50ed2f779f1f2e0a5d",
+    "sourceFile": "src\\content\\concepts\\pancha-mahabhuta.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -14985,6 +15398,108 @@
     }
   },
   {
+    "id": "sapta-rishi",
+    "title": "Saptarṣi",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Saptarishi",
+      "Seven Sages",
+      "सप्तर्षि"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The Saptarṣi (seven sages): the seven primordial sages (Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, Vasiṣṭha) who are the mind-born sons of Brahmā, the authors of Vedic hymns, and the progenitors of gotras; their astronomical identification with the Ursa Major constellation (Saptarṣi Maṇḍala) and their role in Vedic tradition are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Saptarṣi (seven sages): the seven primordial sages (Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, Vasiṣṭha) who are the mind-born sons of Brahmā, the authors of Vedic hymns, and the progenitors of gotras; their astronomical identification with the Ursa Major constellation (Saptarṣi Maṇḍala) and their role in Vedic tradition are represented here as a catalogue entry.\n---",
+    "contentHash": "e54d94e0c1073fc643d498c38aafed611f99c91199b8a10a8d7c37408ab9abb4",
+    "sourceFile": "src\\content\\concepts\\saptarishi.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "saraswati-forms",
     "title": "Sarasvatī Forms",
     "type": "concept",
@@ -16861,6 +17376,109 @@
     "body": "The classification of tīrtha (pilgrimage sites) in Purāṇic and Dharmaśāstra tradition: deva-tīrtha (deity-associated), ṛṣi-tīrtha (sage-associated), mṛtyu-tīrtha (death-related), and the distinction between mukti-tīrtha (liberation-granting) and bhukti-tīrtha (enjoyment-granting); their ritual protocols are represented here as a catalogue entry.\n---",
     "contentHash": "d7f2b57d9b3bd847e614ebc811cc77c5de494bd16e84ea34da10874e13264ee3",
     "sourceFile": "src\\content\\concepts\\tirtha-types.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "trisandhya",
+    "title": "Trisandhyā",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Trisandhya",
+      "Three Sandhyas",
+      "त्रिसन्ध्या"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "description": "The trisandhyā (three daily junctions): the Vedic prescription for worship at dawn (prātaḥ-sandhyā), noon (mādhyāhnika), and dusk (sāyaṃ-sandhyā); the Gāyatrī mantra recitation, prāṇāyāma, arghya offering, and upasthāna; its role in the daily routine of the twice-born (dvija) and its continuation in modern practice are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The trisandhyā (three daily junctions): the Vedic prescription for worship at dawn (prātaḥ-sandhyā), noon (mādhyāhnika), and dusk (sāyaṃ-sandhyā); the Gāyatrī mantra recitation, prāṇāyāma, arghya offering, and upasthāna; its role in the daily routine of the twice-born (dvija) and its continuation in modern practice are represented here as a catalogue entry.\n---",
+    "contentHash": "03a969e37b30cbbefec22fd7a44ad819d19c8c7706317eadf0e44bafc4ba4e73",
+    "sourceFile": "src\\content\\concepts\\trisandhya.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -23340,6 +23958,112 @@
     }
   },
   {
+    "id": "ayyappan",
+    "title": "Ayyappan",
+    "type": "deity",
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "aliases": [
+      "Ayyappan",
+      "Ayyappa",
+      "Sastha",
+      "अय्यप्पन"
+    ],
+    "sources": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "Ayyappan (Śāstā, Hariharaputra), the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī); his celibacy (naiṣṭhika brahmacarya), the 18 holy steps (patinettampadi), the 41-day vrata (maṇḍala kālam), the pilgrimage to Sabarimala; his syncretic Śaiva-Vaiṣṇava nature and pan-South Indian popularity are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "relationshipIds": [],
+    "body": "Ayyappan (Śāstā, Hariharaputra), the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī); his celibacy (naiṣṭhika brahmacarya), the 18 holy steps (patinettampadi), the 41-day vrata (maṇḍala kālam), the pilgrimage to Sabarimala; his syncretic Śaiva-Vaiṣṇava nature and pan-South Indian popularity are represented here as a catalogue entry.\n---",
+    "contentHash": "d010320e12aa0b7e59a1b83c89d943940e2416068490301fff4409bca86c2b43",
+    "sourceFile": "src\\content\\deities\\ayyappan.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "devi",
     "title": "Devī",
     "type": "deity",
@@ -24074,6 +24798,112 @@
     "body": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
     "contentHash": "013289ea7445d324df8421639c17a8e42c759e5961f0266295c1283652b20685",
     "sourceFile": "src\\content\\deities\\vishnu.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vitthal",
+    "title": "Viṭṭhala",
+    "type": "deity",
+    "language": [
+      "sa",
+      "en",
+      "mr"
+    ],
+    "aliases": [
+      "Vithoba",
+      "Vitthal",
+      "Panduranga",
+      "विठ्ठल"
+    ],
+    "sources": [
+      "gretil",
+      "maharashtra-tourism"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "Viṭṭhala (Vithoba, Paṇḍurāṅga), the deity of Pandharpur, Maharashtra, a form of Viṣṇu/Kṛṣṇa standing on a brick (viṭ); the Vārkarī tradition, the annual Palkhi pilgrimage from Alandi and Dehu, the abhangas of Jñāneśvar and Tukārām; his dark complexion, hands on hips posture, and the Chandrabhaga river are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "maharashtra-tourism"
+    ],
+    "relationshipIds": [],
+    "body": "Viṭṭhala (Vithoba, Paṇḍurāṅga), the deity of Pandharpur, Maharashtra, a form of Viṣṇu/Kṛṣṇa standing on a brick (viṭ); the Vārkarī tradition, the annual Palkhi pilgrimage from Alandi and Dehu, the abhangas of Jñāneśvar and Tukārām; his dark complexion, hands on hips posture, and the Chandrabhaga river are represented here as a catalogue entry.\n---",
+    "contentHash": "93cca1b93197f97fbc9fca75ea30e8e2042e3595f825e2cef2ce6933dada25d5",
+    "sourceFile": "src\\content\\deities\\vitthal.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -29396,6 +30226,110 @@
     }
   },
   {
+    "id": "ramakrishna",
+    "title": "Rāmakṛṣṇa Paramahaṃsa",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "bn"
+    ],
+    "aliases": [
+      "Ramakrishna",
+      "Ramakrishna Paramahamsa",
+      "रामकृष्ण परमहंस"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Rāmakṛṣṇa Paramahaṃsa (1836–1886), the 19th-century mystic of Dakṣiṇeśvar, devotee of Kālī, who experienced diverse religious paths (Śākta, Vaiṣṇava, Advaita, Islam, Christianity) and declared 'yato mat tato patha' (as many paths, so many ways); his disciple Vivekananda, the Ramakrishna Mission, and his universalist message are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Rāmakṛṣṇa Paramahaṃsa (1836–1886), the 19th-century mystic of Dakṣiṇeśvar, devotee of Kālī, who experienced diverse religious paths (Śākta, Vaiṣṇava, Advaita, Islam, Christianity) and declared 'yato mat tato patha' (as many paths, so many ways); his disciple Vivekananda, the Ramakrishna Mission, and his universalist message are represented here as a catalogue entry.\n---",
+    "contentHash": "9e07868396af1a3a1dc278fad9c1f486005fa43edcb4b1b24cf5200111f819a8",
+    "sourceFile": "src\\content\\people\\ramakrishna.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "ramananda",
     "title": "Rāmānanda",
     "type": "teacher",
@@ -29748,6 +30682,109 @@
     "body": "Śyāma Śāstri (1762–1827), one of the Carnatic trinity, composer of ~300 kṛtis in Telugu and Sanskrit, known for his swarajatis, his kamakshi navaratna mālikā, his ananda bhairavi compositions, and his distinctive rhythmic structures (tāḷa); his influence on Carnatic music is represented here as a catalogue entry.\n---",
     "contentHash": "bbf34b0e7d14acc682389a091fc40fef4126e03bbb0041d0d85ec9cb941557f0",
     "sourceFile": "src\\content\\people\\shyama-shastri.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sri-aurobindo",
+    "title": "Śrī Aurobindo",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Sri Aurobindo",
+      "Aurobindo Ghose",
+      "श्री अरविन्द"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Śrī Aurobindo (1872–1950), the nationalist, philosopher, and yogi who developed Integral Yoga (Pūrṇa Yoga); his works (The Life Divine, Synthesis of Yoga, Savitri), his concept of the Supermind, the descent of consciousness, the Ashram at Pondicherry, and the Auroville township are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Śrī Aurobindo (1872–1950), the nationalist, philosopher, and yogi who developed Integral Yoga (Pūrṇa Yoga); his works (The Life Divine, Synthesis of Yoga, Savitri), his concept of the Supermind, the descent of consciousness, the Ashram at Pondicherry, and the Auroville township are represented here as a catalogue entry.\n---",
+    "contentHash": "8f5631be18f4ef758cb50a0fff178e1847585396a0b9f7f157bfbb0dbb218222",
+    "sourceFile": "src\\content\\people\\sri-aurobindo.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -30269,6 +31306,110 @@
     "body": "Traditional attribution identifies Vālmīki as the author of the Rāmāyaṇa; traditional attribution and historical biography are kept distinct in this record.",
     "contentHash": "d2f149a420e9c61fec43dd2b5468b07612859ca78592631c508bf60c4c52e91d",
     "sourceFile": "src\\content\\people\\valmiki.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vivekananda",
+    "title": "Swami Vivekananda",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "bn"
+    ],
+    "aliases": [
+      "Vivekananda",
+      "Swami Vivekananda",
+      "विवेकानन्द"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Swami Vivekananda (1863–1902), the chief disciple of Rāmakṛṣṇa, the founder of the Ramakrishna Mission, the exponent of practical Vedānta at the 1893 World's Parliament of Religions (Chicago); his synthesis of Advaita with social service, his call for 'man-making education', and his role in modern Hindu renaissance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Swami Vivekananda (1863–1902), the chief disciple of Rāmakṛṣṇa, the founder of the Ramakrishna Mission, the exponent of practical Vedānta at the 1893 World's Parliament of Religions (Chicago); his synthesis of Advaita with social service, his call for 'man-making education', and his role in modern Hindu renaissance are represented here as a catalogue entry.\n---",
+    "contentHash": "55f9fec9856b87ff15c4ec5b955158f67165f9bf1782b339f223ea1bc78a34d7",
+    "sourceFile": "src\\content\\people\\vivekananda.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],

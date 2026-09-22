@@ -108,6 +108,7 @@
   <url><loc>/concept/gita-jnana-yoga</loc></url>
   <url><loc>/concept/gita-karma-yoga</loc></url>
   <url><loc>/concept/gita-mahatmya</loc></url>
+  <url><loc>/concept/guru-shishya-parampara</loc></url>
   <url><loc>/concept/hanuman-forms</loc></url>
   <url><loc>/concept/hanuman</loc></url>
   <url><loc>/concept/hare-krishna-mahamantra</loc></url>
@@ -149,6 +150,8 @@
   <url><loc>/concept/mimamsa-dharma</loc></url>
   <url><loc>/concept/mimamsa-sphota</loc></url>
   <url><loc>/concept/moksha</loc></url>
+  <url><loc>/concept/murugan-forms</loc></url>
+  <url><loc>/concept/navagraha</loc></url>
   <url><loc>/concept/nirukta</loc></url>
   <url><loc>/concept/numismatics</loc></url>
   <url><loc>/concept/nyaya-hetvabhasa</loc></url>
@@ -160,6 +163,7 @@
   <url><loc>/concept/om</loc></url>
   <url><loc>/concept/padma-tirtha</loc></url>
   <url><loc>/concept/paleography</loc></url>
+  <url><loc>/concept/pancha-mahabhuta</loc></url>
   <url><loc>/concept/parinamavada</loc></url>
   <url><loc>/concept/prakriti</loc></url>
   <url><loc>/concept/prasad</loc></url>
@@ -194,6 +198,7 @@
   <url><loc>/concept/sankhya-gunatraya</loc></url>
   <url><loc>/concept/sankhya-purusha-prakriti</loc></url>
   <url><loc>/concept/sankhya-tattvas</loc></url>
+  <url><loc>/concept/sapta-rishi</loc></url>
   <url><loc>/concept/saraswati-forms</loc></url>
   <url><loc>/concept/saraswati</loc></url>
   <url><loc>/concept/shaiva-agamas</loc></url>
@@ -213,6 +218,7 @@
   <url><loc>/concept/textual-criticism</loc></url>
   <url><loc>/concept/thumri-dadra</loc></url>
   <url><loc>/concept/tirtha-types</loc></url>
+  <url><loc>/concept/trisandhya</loc></url>
   <url><loc>/concept/upapurana</loc></url>
   <url><loc>/concept/vairagya</loc></url>
   <url><loc>/concept/vaiseshika-atomism</loc></url>
@@ -275,6 +281,7 @@
   <url><loc>/concept/sanskrit-drama</loc></url>
   <url><loc>/concept/tanjore-painting</loc></url>
   <url><loc>/concept/warli-painting</loc></url>
+  <url><loc>/deity/ayyappan</loc></url>
   <url><loc>/deity/devi</loc></url>
   <url><loc>/deity/ganesha</loc></url>
   <url><loc>/deity/narasimha</loc></url>
@@ -283,6 +290,7 @@
   <url><loc>/deity/skanda</loc></url>
   <url><loc>/deity/surya</loc></url>
   <url><loc>/deity/vishnu</loc></url>
+  <url><loc>/deity/vitthal</loc></url>
   <url><loc>/festival/adhika-masa</loc></url>
   <url><loc>/festival/akshaya-tritiya</loc></url>
   <url><loc>/festival/bihu</loc></url>
@@ -333,15 +341,18 @@
   <url><loc>/acharya/nimbarka</loc></url>
   <url><loc>/teacher/purandaradasa</loc></url>
   <url><loc>/teacher/raghavendra-swami</loc></url>
+  <url><loc>/teacher/ramakrishna</loc></url>
   <url><loc>/teacher/ramananda</loc></url>
   <url><loc>/acharya/ramanuja</loc></url>
   <url><loc>/acharya/shankara</loc></url>
   <url><loc>/teacher/shyama-shastri</loc></url>
+  <url><loc>/teacher/sri-aurobindo</loc></url>
   <url><loc>/teacher/surdas</loc></url>
   <url><loc>/teacher/tulsidas</loc></url>
   <url><loc>/teacher/tyagaraja</loc></url>
   <url><loc>/acharya/vallabha</loc></url>
   <url><loc>/teacher/valmiki</loc></url>
+  <url><loc>/teacher/vivekananda</loc></url>
   <url><loc>/teacher/vyasa</loc></url>
   <url><loc>/philosophical-school/advaita-vedanta</loc></url>
   <url><loc>/philosophical-school/nyaya</loc></url>
