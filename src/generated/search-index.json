@@ -1,5 +1,115 @@
 [
   {
+    "id": "acintyabhedabheda",
+    "title": "Acintyabhedābheda",
+    "aliases": [
+      "Acintya Bhedabheda",
+      "Inconceivable Oneness-and-Difference",
+      "अचिन्त्यभेदाभेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The Gauḍīya Vaiṣṇava doctrine of acintyabhedābheda (inconceivable simultaneous oneness and difference), associated with Jīva Gosvāmī, stating that the relationship between Kṛṣṇa and his potencies is beyond logical categorization; its epistemological and theological implications are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "advaita-adhyasa",
+    "title": "Advaita Adhyāsa",
+    "aliases": [
+      "Advaita Adhyasa",
+      "Superimposition",
+      "अद्वैत अध्यास"
+    ],
+    "sanskritTitle": "",
+    "description": "In Advaita Vedānta, adhyāsa (superimposition) is the erroneous attribution of the qualities of the non-self (anatman) to the self (ātman); its definition, types (svarūpa and samsarga), and role in bondage are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "advaita-ajativada",
+    "title": "Advaita Ajāti-vāda",
+    "aliases": [
+      "Advaita Ajativada",
+      "Ajati Vada",
+      "अद्वैत अजातिवाद"
+    ],
+    "sanskritTitle": "",
+    "description": "The Advaita doctrine of ajāti-vāda (non-origination), associated with Gauḍapāda, asserting that the world of birth and death never truly originates and that Brahman alone is real; its arguments and relation to Māṇḍūkya Kārikā are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "advaita-avidya",
+    "title": "Advaita Avidyā",
+    "aliases": [
+      "Advaita Avidya",
+      "Adhyasa",
+      "अद्वैत अविद्या"
+    ],
+    "sanskritTitle": "",
+    "description": "In Advaita Vedānta, avidyā (nescience) is the beginningless ignorance that veils Brahman and projects the world of multiplicity; its nature as neither real nor unreal (anirvacanīya), its locus, and its removal through brahma-jñāna are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "agni-purana-content",
+    "title": "Agni Purāṇa Content",
+    "aliases": [
+      "Agni Purana Content",
+      "अग्नि पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Agni Purāṇa, its encyclopedic scope covering cosmology, geography, iconography, medicine, polity, and Dharmaśāstra; its role as a compendium of traditional knowledge is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "alankara-shastra",
     "title": "Alaṅkāra Śāstra",
     "aliases": [
@@ -155,6 +265,52 @@
     "relatedEntityIds": []
   },
   {
+    "id": "bhagavad-gita-chapters",
+    "title": "Bhagavad Gītā Chapters",
+    "aliases": [
+      "Bhagavad Gita Chapters",
+      "Gita Adhyayas",
+      "भगवद्गीता अध्याय"
+    ],
+    "sanskritTitle": "",
+    "description": "The eighteen adhyāyas (chapters) of the Bhagavad Gītā, their thematic progression from viṣāda-yoga to mokṣa-sannyāsa-yoga, and their philosophical themes (karma-yoga, jñāna-yoga, bhakti-yoga) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "SMRITI",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavata-purana-content",
+    "title": "Bhāgavata Purāṇa Content",
+    "aliases": [
+      "Bhagavata Purana Content",
+      "Srimad Bhagavatam Content",
+      "भागवत पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), its twelve skandhas, focus on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "bhakti",
     "title": "Bhakti",
     "aliases": [
@@ -168,6 +324,28 @@
       "PRACTICE",
       "PHILOSOPHY",
       "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhedabheda-avibhaga",
+    "title": "Bhedābheda Avibhāga-bheda",
+    "aliases": [
+      "Bhedabheda Avibhaga Bheda",
+      "Difference-in-Non-Difference",
+      "भेदाभेद अविभाग भेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhedābheda doctrine of avibhāga-bheda (difference-in-non-difference), asserting that the whole and its parts are simultaneously different and non-different (like fire and its sparks); its variants in Bhāskara, Yādavaprakāśa, and Nimbārka are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -233,6 +411,30 @@
       "PHILOSOPHY",
       "VEDANTA",
       "SHRUTI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "chamakam",
+    "title": "Camakam",
+    "aliases": [
+      "Chamakam",
+      "Chamakam",
+      "चमकम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Camakam, the second part of the Śrī Rudram (Taittirīya Saṃhitā 4.7), listing the desired boons for the yajamāna; its repetitive structure (ca me) and ritual use alongside the Namakam are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "STOTRA",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -352,6 +554,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "dana-types",
+    "title": "Dāna Types",
+    "aliases": [
+      "Dana Types",
+      "Types of Gift",
+      "दान प्रकार"
+    ],
+    "sanskritTitle": "",
+    "description": "The classification of dāna (gift) in Dharmaśāstra: nitya (daily), naimittika (occasional), kāmya (desire-motivated), and vimukti (liberation-oriented); the qualified recipients (supātra), objects, and occasions for giving are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "dana",
     "title": "Dāna",
     "aliases": [
@@ -366,6 +592,29 @@
       "DHARMASHASTRA",
       "PRACTICE",
       "RITUAL"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "devi-bhagavata-content",
+    "title": "Devī Bhāgavata Content",
+    "aliases": [
+      "Devi Bhagavata Content",
+      "Devi Bhagavatam",
+      "देवी भागवत"
+    ],
+    "sanskritTitle": "",
+    "description": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), its twelve skandhas, focus on the Goddess as supreme reality, the Devī Gītā, and Śākta theology; its role in Goddess worship traditions is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -410,6 +659,51 @@
       "CONCEPT",
       "DHARMASHASTRA",
       "PHILOSOPHY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "digital-humanities",
+    "title": "Digital Humanities",
+    "aliases": [
+      "Digital Humanities",
+      "DH",
+      "डिजिटल ह्यूमैनिटीज"
+    ],
+    "sanskritTitle": "",
+    "description": "The interdisciplinary field applying computational methods to humanities research; its Indian studies projects, text analysis, and infrastructure are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Scholarship"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "digitization",
+    "title": "Digitization",
+    "aliases": [
+      "Digitization",
+      "Digital Imaging",
+      "डिजिटाइजेशन"
+    ],
+    "sanskritTitle": "",
+    "description": "The process of creating digital surrogates of manuscripts (imaging, metadata, OCR/HTR); its standards (FADGI, Metamorfoze), workflows, and access models are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
     ],
     "language": [
       "sa",
@@ -474,6 +768,50 @@
     "classification": [
       "CONCEPT",
       "Itihasa"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dvaita-pancabheda",
+    "title": "Dvaita Pañca-bheda",
+    "aliases": [
+      "Dvaita Pancabheda",
+      "Five-fold Difference",
+      "द्वैत पञ्चभेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dvaita Vedānta doctrine of five eternal differences (pañca-bheda): between Brahman (Viṣṇu) and jīva, between Brahman and jagat, between jīva and jīva, between jīva and jagat, and between jagat and jagat; their epistemic and ontological status are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dvaita-saksi-bhava",
+    "title": "Dvaita Sākṣi-bhāva",
+    "aliases": [
+      "Dvaita Saksi Bhava",
+      "Witnesshood",
+      "द्वैत साक्षीभाव"
+    ],
+    "sanskritTitle": "",
+    "description": "In Dvaita Vedānta, the sākṣi-bhāva (witness-consciousness) of the jīva is its capacity to witness its own mental states while remaining distinct from them; its role in self-knowledge and liberation is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -572,6 +910,75 @@
     "relatedEntityIds": []
   },
   {
+    "id": "ganesha-forms",
+    "title": "Gaṇeśa Forms",
+    "aliases": [
+      "Ganesha Forms",
+      "Vinayaka Forms",
+      "गणेश रूप"
+    ],
+    "sanskritTitle": "",
+    "description": "The forms of Gaṇeśa: Bāl Gaṇeśa, Taruṇa Gaṇeśa, Bhakti Gaṇeśa, Vīra Gaṇeśa, Śakti Gaṇeśa, Dvija Gaṇeśa, Siddhi Gaṇeśa, Ucchiṣṭa Gaṇeśa, Vighna Gaṇeśa, Kṣipra Gaṇeśa, Heramba Gaṇeśa, and Lakṣmī Gaṇeśa; their iconographic variations and the thirty-two forms tradition are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "garuda-purana-content",
+    "title": "Garuḍa Purāṇa Content",
+    "aliases": [
+      "Garuda Purana Content",
+      "गरुड पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Garuḍa Purāṇa, its focus on Viṣṇu worship, funeral rites (antyeṣṭi), gemology, and the afterlife journey (pretakalpā); its role in death rituals is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "gayatri-mantra",
+    "title": "Gāyatrī Mantra",
+    "aliases": [
+      "Gayatri Mantra",
+      "Savitri Mantra",
+      "गायत्री मंत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Gāyatrī Mantra (Ṛgveda 3.62.10), addressed to Savitṛ, is the most revered Vedic mantra; its metre (gāyatrī), traditional initiation (upadeśa), and role in sandhyāvandana are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "gayatri",
     "title": "Gāyatrī",
     "aliases": [
@@ -595,6 +1002,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "gita-bhakti-yoga",
+    "title": "Gītā Bhakti-yoga",
+    "aliases": [
+      "Gita Bhakti Yoga",
+      "Bhagavad Gita Bhakti Yoga",
+      "गीता भक्ति योग"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhagavad Gītā's teaching of bhakti-yoga (the yoga of devotion): the qualities of the devotee (bhakta), the nature of divine love, and the supremacy of bhakti as the path to liberation; its exposition across chapters 7–12 and 18 is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "SMRITI",
+      "PHILOSOPHY",
+      "PRACTICE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "gita-dhyana",
     "title": "Gītā Dhyāna",
     "aliases": [
@@ -608,6 +1039,54 @@
       "CONCEPT",
       "Itihasa",
       "Practice"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "gita-jnana-yoga",
+    "title": "Gītā Jñāna-yoga",
+    "aliases": [
+      "Gita Jnana Yoga",
+      "Bhagavad Gita Jnana Yoga",
+      "गीता ज्ञान योग"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhagavad Gītā's teaching of jñāna-yoga (the yoga of knowledge): the distinction between kṣetra (field) and kṣetrajña (knower of the field), the nature of the self (ātman), and the realization of brahman; its exposition across chapters 13–18 is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "SMRITI",
+      "PHILOSOPHY",
+      "PRACTICE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "gita-karma-yoga",
+    "title": "Gītā Karma-yoga",
+    "aliases": [
+      "Gita Karma Yoga",
+      "Bhagavad Gita Karma Yoga",
+      "गीता कर्म योग"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhagavad Gītā's teaching of karma-yoga (the yoga of selfless action): niṣkāma-karma (action without attachment to fruits), svadharma (one's own duty), and the synthesis of action and knowledge; its exposition across chapters 2–5 is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "SMRITI",
+      "PHILOSOPHY",
+      "PRACTICE"
     ],
     "language": [
       "sa",
@@ -663,6 +1142,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "hare-krishna-mahamantra",
+    "title": "Hare Kṛṣṇa Mahāmantra",
+    "aliases": [
+      "Hare Krishna Mahamantra",
+      "Hare Krishna Maha Mantra",
+      "हरे कृष्ण महामंत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The sixteen-word Vaiṣṇava mahāmantra (Hare Kṛṣṇa Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma, Rāma Rāma Hare Hare), its centrality in Gauḍīya Vaiṣṇava practice, and its source in the Kali-santaraṇa Upaniṣad are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "ishvara",
     "title": "Īśvara",
     "aliases": [
@@ -677,6 +1179,29 @@
       "VEDANTA",
       "YOGA",
       "DEITY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "japa-mala",
+    "title": "Japa Mālā",
+    "aliases": [
+      "Japa Mala",
+      "Prayer Beads",
+      "जप माला"
+    ],
+    "sanskritTitle": "",
+    "description": "The japa-mālā (prayer beads) used for counting mantra repetitions: the standard 108 beads, the meru (guru bead), materials (rudrākṣa, tulasī, sphatika, etc.), and the rules for its use in japa practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PRACTICE",
+      "MANTRA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -905,6 +1430,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "lakshmi-forms",
+    "title": "Lakṣmī Forms",
+    "aliases": [
+      "Lakshmi Forms",
+      "Ashta Lakshmi",
+      "लक्ष्मी रूप"
+    ],
+    "sanskritTitle": "",
+    "description": "The eight principal forms of Lakṣmī (Aṣṭalakṣmī): Ādi, Dhana, Dhānya, Gaja, Santāna, Vīra, Vijaya, and Vidyā; their individual attributes, iconography, and the Aṣṭalakṣmī Stotram are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "lakshmi",
     "title": "Lakṣmī",
     "aliases": [
@@ -919,6 +1467,143 @@
       "DEITY",
       "TRADITION",
       "FESTIVAL"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "lalita-sahasranama",
+    "title": "Lalitā Sahasranāma",
+    "aliases": [
+      "Lalita Sahasranama",
+      "Lalita Sahasranamam",
+      "ललिता सहस्रनाम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Lalitā Sahasranāma (thousand names of Lalitā Tripurasundarī) from the Brahmanḍa Purāṇa, its dialogue between Hayagrīva and Agastya, and its centrality in Śrīvidyā and Śākta practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "STOTRA",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "maha-mrityunjaya-mantra",
+    "title": "Mahā Mrityunjaya Mantra",
+    "aliases": [
+      "Maha Mrityunjaya Mantra",
+      "Mahamrityunjaya",
+      "महा मृत्युंजय मंत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-characters",
+    "title": "Mahābhārata Principal Characters",
+    "aliases": [
+      "Mahabharata Characters",
+      "Mahabharata Personages",
+      "महाभारत पात्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The principal characters of the Mahābhārata: the Pāṇḍavas (Yudhiṣṭhira, Bhīma, Arjuna, Nakula, Sahadeva), the Kauravas (Duryodhana and his brothers), Kṛṣṇa, Bhīṣma, Droṇa, Karṇa, Draupadī, and others; their roles and relationships are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-parvas",
+    "title": "Mahābhārata Parvas",
+    "aliases": [
+      "Mahabharata Parvas",
+      "Mahabharata Books",
+      "महाभारत पर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The eighteen parvas (books) of the Mahābhārata: Ādi, Sabhā, Araṇya, Virāṭa, Udyoga, Bhīṣma, Droṇa, Karṇa, Śalya, Sauptika, Strī, Śānti, Anuśāsana, Āśramavāsika, Mausala, Mahāprasthānika, Svargārohaṇa; their narrative scope and key episodes are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-upanishad",
+    "title": "Mahābhārata Upaniṣads",
+    "aliases": [
+      "Mahabharata Upanishads",
+      "महाभारत उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "A group of Upaniṣads embedded in the Mahābhārata, including the Mokṣa-dharma-parvan and the Bhagavad Gītā context; their philosophical themes of dharma, mokṣa, and yoga are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahamrityunjaya-mantra",
+    "title": "Mahāmṛtyuñjaya Mantra",
+    "aliases": [
+      "Mahamrityunjaya Mantra",
+      "Tryambakam Mantra",
+      "महामृत्युंजय मंत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -971,6 +1656,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "manu-smriti-content",
+    "title": "Manu Smṛti Content",
+    "aliases": [
+      "Manu Smriti Content",
+      "Manusmriti Content",
+      "मनुस्मृति विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Manusmṛti (Mānava Dharmaśāstra), its twelve chapters covering varṇa, āśrama, rājadharma, vyavahāra (legal procedure), prāyaścitta (expiation), and the rules of daily conduct; its textual structure and influence on later Dharmaśāstra are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "manuscript-catalogue",
     "title": "Manuscript Catalogue",
     "aliases": [
@@ -994,6 +1701,51 @@
     "relatedEntityIds": []
   },
   {
+    "id": "manuscript-preservation",
+    "title": "Manuscript Preservation",
+    "aliases": [
+      "Manuscript Preservation",
+      "Conservation",
+      "पाण्डुलिपि संरक्षण"
+    ],
+    "sanskritTitle": "",
+    "description": "The preventive and remedial conservation of manuscripts: environmental control, housing, handling, and treatment; its ethical principles and institutional practices are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Manuscript",
+      "Scholarship"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "matsya-purana-content",
+    "title": "Matsya Purāṇa Content",
+    "aliases": [
+      "Matsya Purana Content",
+      "मत्स्य पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Matsya Purāṇa, its focus on the Matsya avatāra, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "maya-vada",
     "title": "Māyāvāda",
     "aliases": [
@@ -1005,7 +1757,7 @@
     "type": "concept",
     "classification": [
       "CONCEPT",
-      "Vedanta"
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -1028,6 +1780,49 @@
       "PHILOSOPHY",
       "VEDANTA",
       "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mimamsa-apurva",
+    "title": "Mīmāṃsā Apūrva",
+    "aliases": [
+      "Mimamsa Apurva",
+      "मीमांसा अपूर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mīmāṃsā concept of apūrva (the unseen potency generated by ritual action that produces future fruits); its role in explaining the efficacy of Vedic rituals and the theory of karma are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mimamsa-dharma",
+    "title": "Mīmāṃsā Dharma",
+    "aliases": [
+      "Mimamsa Dharma",
+      "मीमांसा धर्म"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mīmāṃsā conception of dharma as ritual duty prescribed by the Veda, known through śabda pramāṇa (verbal testimony); its distinction from laukika (worldly) dharma and its epistemological basis are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "DHARMASHASTRA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1093,6 +1888,94 @@
     "classification": [
       "CONCEPT",
       "Scholarship"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nyaya-hetvabhasa",
+    "title": "Nyāya Hetvābhāsa",
+    "aliases": [
+      "Nyaya Hetvabhasa",
+      "न्याय हेत्वाभास"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nyāya classification of fallacies of inference (hetvābhāsas) including savyabhicāra, viruddha, satpratipakṣa, asiddha, and bādhita; their definitions and examples are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nyaya-pramanas",
+    "title": "Nyāya Pramāṇas",
+    "aliases": [
+      "Nyaya Pramanas",
+      "न्याय प्रमाण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nyāya school recognizes four pramāṇas (means of valid knowledge): pratyakṣa (perception), anumāna (inference), upamāna (comparison), and śabda (verbal testimony); their definitions, scope, and interrelations are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "om-namah-shivaya",
+    "title": "Oṃ Namaḥ Śivāya",
+    "aliases": [
+      "Om Namah Shivaya",
+      "Panchakshara Mantra",
+      "ॐ नमः शिवाय"
+    ],
+    "sanskritTitle": "",
+    "description": "The five-syllable Śaiva mantra (pañcākṣara) Oṃ Namaḥ Śivāya, its centrality in Śaiva initiation and japa, and its occurrence in the Yajurveda (Śrī Rudram) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "om-namo-narayanaya",
+    "title": "Oṃ Namo Nārāyaṇāya",
+    "aliases": [
+      "Om Namo Narayanaya",
+      "Ashtakshara Mantra",
+      "ॐ नमो नारायणाय"
+    ],
+    "sanskritTitle": "",
+    "description": "The eight-syllable Vaiṣṇava mantra (aṣṭākṣara) Oṃ Namo Nārāyaṇāya, its role in Śrīvaiṣṇava initiation, and its connection to the Nārāyaṇa Upaniṣad are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "MANTRA",
+      "PRACTICE",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1237,6 +2120,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "prayascitta-types",
+    "title": "Prāyaścitta Types",
+    "aliases": [
+      "Prayascitta Types",
+      "Expiation Types",
+      "प्रायश्चित्त प्रकार"
+    ],
+    "sanskritTitle": "",
+    "description": "The classification of prāyaścitta (expiation) in Dharmaśātra: prāṇāyāma, tīrtha-yātrā, dāna, vrata, homa, japa, and fasting; their application to specific offenses (pātaka, upapātaka) and the gradation of penances are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "prayascitta",
     "title": "Prāyaścitta",
     "aliases": [
@@ -1260,6 +2167,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "puja-shodashopachara",
+    "title": "Pūjā Ṣoḍaśopacāra",
+    "aliases": [
+      "Puja Shodashopachara",
+      "Sixteen Offerings",
+      "पूजा षोडशोपचार"
+    ],
+    "sanskritTitle": "",
+    "description": "The sixteen upacāras (offerings) in formal Pūjā: āvāhana (invocation), āsana (seat), pādyā (water for feet), arghya (water for hands), ācamana (sipping water), snāna (bath), vastra (clothing), yajñopavīta (sacred thread), gandha (sandalwood), puṣpa (flowers), dhūpa (incense), dīpa (lamp), naivedya (food), tāmbūla (betel), nīrājana (waving lights), and mantra-puṣpāñjali; their sequence and significance are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "purana-panchalaksana",
     "title": "Purāṇa Pañcalakṣaṇa",
     "aliases": [
@@ -1273,6 +2203,72 @@
       "CONCEPT",
       "PURANA",
       "PHILOSOPHY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-sectarian",
+    "title": "Purāṇa Sectarian Classification",
+    "aliases": [
+      "Purana Sectarian",
+      "Puranic Classification",
+      "पुराण संप्रदाय वर्गीकरण"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Krishna), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-structure",
+    "title": "Purāṇa Structure",
+    "aliases": [
+      "Purana Structure",
+      "Puranic Structure",
+      "पुराण संरचना"
+    ],
+    "sanskritTitle": "",
+    "description": "The five characteristic topics (pañcalakṣaṇa) of the Purāṇas: sarga (creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-traditional-attribution",
+    "title": "Purāṇa Traditional Attribution",
+    "aliases": [
+      "Purana Attribution",
+      "Puranic Attribution",
+      "पुराण अभिधान"
+    ],
+    "sanskritTitle": "",
+    "description": "Traditional attribution assigns the major Purāṇas to Vyāsa as compiler; this attribution is represented here as a traditional claim distinct from modern textual scholarship on Purāṇa composition and stratification. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1326,6 +2322,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "rajadharma",
+    "title": "Rājadharma",
+    "aliases": [
+      "Rajadharma",
+      "King Dharma",
+      "राजधर्म"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dharmaśāstra conception of rājadharma (kingly duties): the king's role as protector of varṇāśrama-dharma, the principles of just rule (daṇḍanīti), taxation, justice, and the ideal of the cakravartin; its textual exposition in Smṛti and Arthaśāstra traditions is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "rama",
     "title": "Rāma",
     "aliases": [
@@ -1340,6 +2358,50 @@
       "DEITY",
       "ITIHASA",
       "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-characters",
+    "title": "Rāmāyaṇa Principal Characters",
+    "aliases": [
+      "Ramayana Characters",
+      "Ramayana Personages",
+      "रामायण पात्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The principal characters of the Rāmāyaṇa: Rāma, Sītā, Lakṣmaṇa, Bharata, Śatrughna, Hanumān, Sugrīva, Vibhīṣaṇa, Rāvaṇa, and others; their roles and relationships are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-kandas",
+    "title": "Rāmāyaṇa Kāṇḍas",
+    "aliases": [
+      "Ramayana Kandas",
+      "Ramayana Books",
+      "रामायण काण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The seven kāṇḍas (books) of the Vālmīki Rāmāyaṇa: Bāla, Ayodhyā, Araṇya, Kiṣkindhā, Sundara, Yuddha, Uttara; their narrative structure and key episodes are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "ITIHASA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1416,6 +2478,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "rna-trivarga",
+    "title": "Ṛṇa-trayā",
+    "aliases": [
+      "Rna Traya",
+      "Three Debts",
+      "ऋण त्रय"
+    ],
+    "sanskritTitle": "",
+    "description": "The three debts (ṛṇa-traya) in Dharmaśāstra: ṛṣi-ṛṇa (debt to sages, repaid by study), deva-ṛṇa (debt to gods, repaid by sacrifice), pitṛ-ṛṇa (debt to ancestors, repaid by progeny); their textual basis and role in householder life are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "rna",
     "title": "Ṛṇa",
     "aliases": [
@@ -1439,6 +2523,31 @@
     "relatedEntityIds": []
   },
   {
+    "id": "rudram",
+    "title": "Śrī Rudram",
+    "aliases": [
+      "Sri Rudram",
+      "Rudram",
+      "Rudra Prashna",
+      "श्री रुद्रम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śrī Rudram (Śatarudrīya) from the Taittirīya Saṃhitā (Kṛṣṇa Yajurveda), its eleven anuvākas, the Namakam and Chamakam sections, and its use in Śiva worship and abhiṣeka are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "STOTRA",
+      "VEDIC",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "samsara",
     "title": "Saṃsāra",
     "aliases": [
@@ -1452,6 +2561,72 @@
       "CONCEPT",
       "PHILOSOPHY",
       "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sankhya-gunatraya",
+    "title": "Sāṃkhya Guṇatraya",
+    "aliases": [
+      "Sankhya Gunatraya",
+      "Triguna",
+      "साङ्ख्य गुणत्रय"
+    ],
+    "sanskritTitle": "",
+    "description": "The three guṇas (sattva, rajas, tamas) as the constituent strands of prakṛti in Sāṃkhya philosophy; their characteristics, interactions, and role in cosmic evolution and bondage are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sankhya-tattvas",
+    "title": "Sāṃkhya Tattvas",
+    "aliases": [
+      "Sankhya Tattvas",
+      "साङ्ख्य तत्त्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sāṃkhya enumeration of twenty-five tattvas (principles): prakṛti (primordial matter), mahat (buddhi), ahaṃkāra, five tanmātras, five mahābhūtas, five jñānendriyas, five karmendriyas, manas, and puruṣa (consciousness); their evolutionary sequence and interrelations are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "saraswati-forms",
+    "title": "Sarasvatī Forms",
+    "aliases": [
+      "Saraswati Forms",
+      "Vak Devi",
+      "सरस्वती रूप"
+    ],
+    "sanskritTitle": "",
+    "description": "The forms of Sarasvatī: Vāc (speech), Bhāratī (eloquence), Śāradā (autumn goddess), and Vāṇī (voice); her iconography with vīṇā, pustaka, and haṃsa, and her role as goddess of knowledge, arts, and learning are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "TRADITION",
       "CONCEPT"
     ],
     "language": [
@@ -1506,6 +2681,95 @@
     "relatedEntityIds": []
   },
   {
+    "id": "shilpa-shastra",
+    "title": "Śilpa Śāstra",
+    "aliases": [
+      "Shilpa Shastra",
+      "शिल्प शास्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Indian system of iconography and sculpture, prescribing proportions, gestures, attributes, and materials for deity images; its texts and regional schools are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "ART"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "shiva-purana-content",
+    "title": "Śiva Purāṇa Content",
+    "aliases": [
+      "Shiva Purana Content",
+      "शिव पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śiva Purāṇa, its saṃhitās, focus on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "shraddha-types",
+    "title": "Śrāddha Types",
+    "aliases": [
+      "Shraddha Types",
+      "Shraddha Rites",
+      "श्राद्ध प्रकार"
+    ],
+    "sanskritTitle": "",
+    "description": "The types of śrāddha (ancestral rites) in Dharmaśāstra: nitya (daily), naimittika (occasional), kāmya (desire-motivated), and the specific rites like sapiṇḍīkaraṇa, saparvaṇa, ekodiṣṭa; their performers, timing, and offerings are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "shuddhadvaita-pusti",
+    "title": "Śuddhādvaita Puṣṭi",
+    "aliases": [
+      "Shuddhadvaita Pusti",
+      "Pushti Marga",
+      "शुद्धाद्वैत पुष्टि"
+    ],
+    "sanskritTitle": "",
+    "description": "In Śuddhādvaita Vedānta (Vallabha), puṣṭi (grace) is the unmerited divine favor that enables the soul's participation in Kṛṣṇa's līlā; the puṣṭi-mārga (path of grace) and its distinction from the maryādā-mārga (path of law) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "siglum",
     "title": "Siglum",
     "aliases": [
@@ -1550,6 +2814,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "skanda-forms",
+    "title": "Skanda Forms",
+    "aliases": [
+      "Skanda Forms",
+      "Kartikeya Forms",
+      "Murugan Forms",
+      "स्कन्द रूप"
+    ],
+    "sanskritTitle": "",
+    "description": "The forms of Skanda (Kārttikeya, Murugaṇ, Subrahmaṇya): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, and the Tamil Murugaṇ; their iconography (vel, peacock, rooster) and regional worship (especially Tamil Nadu) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "smriti",
     "title": "Smṛti",
     "aliases": [
@@ -1583,7 +2871,7 @@
     "type": "concept",
     "classification": [
       "CONCEPT",
-      "Vedanta",
+      "VEDANTA",
       "Tradition",
       "Practice"
     ],
@@ -1640,10 +2928,32 @@
     "relatedEntityIds": []
   },
   {
+    "id": "surya-navagraha",
+    "title": "Sūrya Navagraha",
+    "aliases": [
+      "Surya Navagraha",
+      "Navagraha Surya",
+      "सूर्य नवग्रह"
+    ],
+    "sanskritTitle": "",
+    "description": "Sūrya as the chief of the Navagraha (nine planets), his iconography (seven-horse chariot, Aruṇa as charioteer), the Sūrya mantras, and his role in Vedic and Jyotiṣa traditions are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DEITY",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "textual-criticism",
     "title": "Textual Criticism",
     "aliases": [
-      "Textual Criticism",
       "Lower Criticism",
       "आलोचनात्मक समीक्षा"
     ],
@@ -1654,6 +2964,29 @@
       "CONCEPT",
       "Manuscript",
       "Scholarship"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tirtha-types",
+    "title": "Tīrtha Types",
+    "aliases": [
+      "Tirtha Types",
+      "Types of Pilgrimage",
+      "तीर्थ प्रकार"
+    ],
+    "sanskritTitle": "",
+    "description": "The classification of tīrtha (pilgrimage sites) in Purāṇic and Dharmaśāstra tradition: deva-tīrtha (deity-associated), ṛṣi-tīrtha (sage-associated), mṛtyu-tīrtha (death-related), and the distinction between mukti-tīrtha (liberation-granting) and bhukti-tīrtha (enjoyment-granting); their ritual protocols are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PILGRIMAGE",
+      "PRACTICE",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1707,6 +3040,71 @@
     "relatedEntityIds": []
   },
   {
+    "id": "vaiseshika-padarthas",
+    "title": "Vaiśeṣika Padārthas",
+    "aliases": [
+      "Vaisesika Padarthas",
+      "वैशेषिक पदार्थ"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vaiśeṣika school enumerates seven padārthas (categories of existence): dravya (substance), guṇa (quality), karma (action), sāmānya (generality), viśeṣa (particularity), samavāya (inherence), and abhāva (absence); their definitions and interrelations are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vaiseshika-paramanu",
+    "title": "Vaiśeṣika Paramāṇu",
+    "aliases": [
+      "Vaisesika Paramāṇu",
+      "Paramāṇu Vada",
+      "वैशेषिक परमाणु"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vaiśeṣika atomic theory (paramāṇu-vāda) positing eternal, indivisible atoms as the ultimate constituents of physical substances; its metaphysical implications and differences from other atomic theories are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "varna-ashrama-dharma",
+    "title": "Varṇa-āśrama Dharma",
+    "aliases": [
+      "Varna Ashrama Dharma",
+      "Varnashrama Dharma",
+      "वर्णाश्रम धर्म"
+    ],
+    "sanskritTitle": "",
+    "description": "The integrated system of varṇa (four social classes) and āśrama (four life stages) duties in Dharmaśāstra; the interdependence of social and life-stage obligations, their textual basis in Smṛti texts, and their role in traditional society are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "varna",
     "title": "Varṇa",
     "aliases": [
@@ -1720,6 +3118,29 @@
       "DHARMASHASTRA",
       "PHILOSOPHY",
       "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vastushastra",
+    "title": "Vāstu Śāstra",
+    "aliases": [
+      "Vastu Shastra",
+      "Vastushastra",
+      "वास्तु शास्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Indian system of architecture and spatial design, governing temple, palace, and domestic construction; its texts, principles, and regional variations are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "TRADITION"
     ],
     "language": [
       "sa",
@@ -1771,6 +3192,94 @@
     "relatedEntityIds": []
   },
   {
+    "id": "vishishtadvaita-nitya-vibhuti",
+    "title": "Viśiṣṭādvaita Nitya-vibhūti",
+    "aliases": [
+      "Vishishtadvaita Nitya Vibhuti",
+      "विशिष्टाद्वैत नित्य विभूति"
+    ],
+    "sanskritTitle": "",
+    "description": "In Viśiṣṭādvaita Vedānta, nitya-vibhūti (eternal manifestation) is the spiritual realm of Vaikuṇṭha, distinct from the material world (līlā-vibhūti); its nature as the abode of the released souls and the eternal sport of Viṣṇu is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vishishtadvaita-prapatti",
+    "title": "Viśiṣṭādvaita Prapatti",
+    "aliases": [
+      "Vishishtadvaita Prapatti",
+      "Saranagati",
+      "विशिष्टाद्वैत प्रपत्ति"
+    ],
+    "sanskritTitle": "",
+    "description": "In Viśiṣṭādvaita Vedānta, prapatti (śaraṇāgati) is the act of complete self-surrender to Viṣṇu as the sole means to liberation; its six limbs (ānikūlya-varjana, ānukūlya-saṅkalpa, rakṣiṣyatīti-viśvāsa, goptṛtva-varaṇa, ātma-nikṣepa, kārpaṇya) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "VEDANTA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vishnu-purana-content",
+    "title": "Viṣṇu Purāṇa Content",
+    "aliases": [
+      "Vishnu Purana Content",
+      "विष्णु पुराण विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Viṣṇu Purāṇa, its six aṃśas, focus on Viṣṇu's avatāras, cosmology, and the genealogy of the solar and lunar dynasties; its influence on later Vaiṣṇava theology is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vishnu-sahasranama",
+    "title": "Viṣṇu Sahasranāma",
+    "aliases": [
+      "Vishnu Sahasranama",
+      "Vishnu Sahasranamam",
+      "विष्णु सहस्रनाम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Viṣṇu Sahasranāma (thousand names of Viṣṇu) from the Mahābhārata (Anuśāsana Parva), recited by Bhīṣma to Yudhiṣṭhira; its structure, key names (Viśveśvara, Viṣṇu, Vāṣṭakāra), and role in daily recitation are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "STOTRA",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vivarta-vada",
     "title": "Vivartavāda",
     "aliases": [
@@ -1782,7 +3291,30 @@
     "type": "concept",
     "classification": [
       "CONCEPT",
-      "Vedanta"
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vrata-categories",
+    "title": "Vrata Categories",
+    "aliases": [
+      "Vrata Categories",
+      "Types of Vow",
+      "व्रत वर्गीकरण"
+    ],
+    "sanskritTitle": "",
+    "description": "The classification of vrata (vows/observances) in Smṛti and Purāṇic tradition: nitya (daily), naimittika (occasion-specific), kāmya (desire-motivated), the upavāsa (fasting) types, the kāla-vratas (time-based), and the kāyika-vācika-mānasa distinction; their role in purification and merit are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1804,6 +3336,143 @@
       "VEDANGA",
       "SHRUTI",
       "SANSKRIT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vyavahara",
+    "title": "Vyavahāra",
+    "aliases": [
+      "Vyavahara",
+      "Legal Procedure",
+      "व्यवहार"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dharmaśāstra category of vyavahāra (legal procedure): the courts, evidence (pramāṇa), types of disputes (vivāda), punishments (daṇḍa), and the procedural rules for litigation; its exposition in Manusmṛti, Yājñavalkya Smṛti, and later digests is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yajna-types",
+    "title": "Yajña Types",
+    "aliases": [
+      "Yajna Types",
+      "Types of Sacrifice",
+      "यज्ञ प्रकार"
+    ],
+    "sanskritTitle": "",
+    "description": "The classification of yajña in Vedic and Smṛta tradition: nitya (daily, like agnihotra), naimittika (occasional), kāmya (desire-motivated), the seven havir-yajñas, the seven soma-yajñas, and the mahāyajñas (panca-mahāyajña); their performers, materials, and purposes are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "RITUAL",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yajnavalkya-smriti-content",
+    "title": "Yājñavalkya Smṛti Content",
+    "aliases": [
+      "Yajnavalkya Smriti Content",
+      "Yajnavalkya Smriti",
+      "याज्ञवल्क्य स्मृति विषय"
+    ],
+    "sanskritTitle": "",
+    "description": "The Yājñavalkya Smṛti, its three books (ācāra, vyavahāra, prāyaścitta), its more systematic organization compared to Manusmṛti, and its influence on medieval Dharmaśāstra digests are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yoga-ashtanga",
+    "title": "Yoga Aṣṭāṅga",
+    "aliases": [
+      "Yoga Ashtanga",
+      "Eight Limbs of Yoga",
+      "योग अष्टाङ्ग"
+    ],
+    "sanskritTitle": "",
+    "description": "The eight limbs (aṣṭāṅga) of Patañjali's Yoga: yama (restraints), niyama (observances), āsana (posture), prāṇāyāma (breath control), pratyāhāra (sense withdrawal), dhāraṇā (concentration), dhyāna (meditation), samādhi (absorption); their sequential practice and interdependence are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "YOGA",
+      "PRACTICE",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yoga-kleshas",
+    "title": "Yoga Kleśas",
+    "aliases": [
+      "Yoga Kleshas",
+      "Yoga Kleśas",
+      "योग क्लेश"
+    ],
+    "sanskritTitle": "",
+    "description": "The five kleśas (afflictions) in Patañjali's Yoga: avidyā (ignorance), asmitā (egoism), rāga (attachment), dveṣa (aversion), abhiniveśa (fear of death); their role in saṃsāra and their removal through yogic practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "YOGA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yoga-samapatti",
+    "title": "Yoga Samāpatti",
+    "aliases": [
+      "Yoga Samapatti",
+      "Samapatti",
+      "योग समापत्ति"
+    ],
+    "sanskritTitle": "",
+    "description": "The state of samāpatti (coalescence) in Patañjali's Yoga, where the mind becomes transparent like a crystal reflecting the object of meditation; its stages (vitarka, vicāra, ānanda, asmitā) and relation to samādhi are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "DARSHANA",
+      "YOGA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -1856,6 +3525,382 @@
     "relatedEntityIds": []
   },
   {
+    "id": "ayurveda",
+    "title": "Āyurveda",
+    "aliases": [
+      "Ayurveda",
+      "आयुर्वेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Indian system of medicine, with its textual foundations (Caraka, Suśruta, Vāgbhaṭa), tridoṣa theory, and therapeutic modalities; represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "TRADITION",
+      "PRACTICE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bharatanatyam",
+    "title": "Bhārata Nāṭyam",
+    "aliases": [
+      "Bharatanatyam",
+      "Bharata Natyam",
+      "भरतनाट्यम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical dance form of Tamil Nadu, reconstructed in the 20th century from sadir traditions; its repertoire (alarippu, jatisvaram, varṇam, padam, tillāṇa) and theoretical basis are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "carnatic-music",
+    "title": "Karnāṭaka Saṅgīta",
+    "aliases": [
+      "Carnatic Music",
+      "Carnatic",
+      "कर्नाटक संगीत"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical music tradition of South India, with its rāga, tāḷa, and compositional forms (kṛti, varṇam, tillāṇa); its history, composers (Tyāgarāja, Muttusvāmi Dīkṣitar, Śyāma Śāstri), and pedagogy are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Music"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta",
+      "te",
+      "kn",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "chitra-kala",
+    "title": "Citrakalā",
+    "aliases": [
+      "Chitrakala",
+      "Indian Painting",
+      "चित्रकला"
+    ],
+    "sanskritTitle": "",
+    "description": "The diverse painting traditions of India: mural (Ajanta, Ellora), miniature (Mughal, Rajput, Pahari, Deccani), folk (Madhubani, Warli, Pattachitra); represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dhanurveda",
+    "title": "Dhanurveda",
+    "aliases": [
+      "Dhanur Veda",
+      "धनुर्वेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Indian science of archery and warfare, counted as an Upaveda; its texts, techniques, and historical practice are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "TRADITION",
+      "SANSKRIT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "gandharva-veda",
+    "title": "Gāndharva Veda",
+    "aliases": [
+      "Gandharva Veda",
+      "गान्धर्व वेद"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Indian science of music and performing arts, counted as an Upaveda; its theoretical foundations and relationship to the Nāṭyaśāstra are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "MUSIC",
+      "TRADITION",
+      "SANSKRIT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "hindustani-music",
+    "title": "Hindustānī Saṅgīta",
+    "aliases": [
+      "Hindustani Music",
+      "Hindustani",
+      "हिन्दुस्तानी संगीत"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical music tradition of North India, with its rāga, tāḷa, and forms (dhrupad, khayāl, ṭhumrī); its gharanās, composers, and historical development are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "MUSIC"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kathakali",
+    "title": "Kathakali",
+    "aliases": [
+      "Kathakali",
+      "कथकली"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical dance-drama tradition of Kerala, with elaborate costume, makeup, and facial expressions; its repertoire (āṭṭakathās), music, and training system are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kuchipudi",
+    "title": "Kucipuḍi",
+    "aliases": [
+      "Kuchipudi",
+      "कुचिपुड़ि"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical dance-drama tradition of Andhra Pradesh, with solo and group forms; its history, repertoire, and theoretical basis are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "madhubani-painting",
+    "title": "Madhubani Painting",
+    "aliases": [
+      "Madhubani Painting",
+      "Mithila Painting",
+      "मधुबनी चित्रकला"
+    ],
+    "sanskritTitle": "",
+    "description": "The Madhubani (Mithila) painting tradition of Bihar, characterized by geometric patterns, natural dyes, and ritual themes; its wall-painting origins, women's practice, and contemporary paper/canvas adaptation are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "manipuri",
+    "title": "Manipuri",
+    "aliases": [
+      "Manipuri Dance",
+      "মণিপুরী"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical dance tradition of Manipur, with its devotional themes (Rāsa Līlā), subtle movements, and distinctive costume; its repertoire and ritual context are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "CULTURE",
+      "ART"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mohiniyattam",
+    "title": "Mohiniyāṭṭam",
+    "aliases": [
+      "Mohiniyattam",
+      "मोहिनीयट्टम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical solo dance tradition of Kerala, characterized by graceful circular movements and feminine expression; its repertoire and historical reconstruction are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "odissi",
+    "title": "Oḍissī",
+    "aliases": [
+      "Odissi",
+      "ओडिसी"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical dance tradition of Odisha, reconstructed from mahārī and gotipuā traditions; its repertoire, sculpturesque poses, and theoretical basis are represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "pattachitra-painting",
+    "title": "Pattachitra Painting",
+    "aliases": [
+      "Pattachitra",
+      "Patta Chitra",
+      "पटचित्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Pattachitra cloth painting tradition of Odisha and West Bengal, characterized by bold lines, natural colors, and themes from Jagannātha cult, Rāmāyaṇa, and Mahābhārata; its ritual use in temple worship is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sanskrit-drama",
+    "title": "Saṃskṛta Nāṭya",
+    "aliases": [
+      "Sanskrit Drama",
+      "Sanskrit Theatre",
+      "संस्कृत नाट्य"
+    ],
+    "sanskritTitle": "",
+    "description": "The classical Sanskrit theatre tradition, with its nāṭyaśāstra foundation, dramatic types (nāṭaka, prakaraṇa), and playwrights (Kālidāsa, Bhāsa, Śūdraka, Bhavabhūti); represented here as a catalogue entry.",
+    "type": "concept",
+    "classification": [
+      "CONCEPT",
+      "Culture",
+      "Art",
+      "Sanskrit"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tanjore-painting",
+    "title": "Thanjavur Painting",
+    "aliases": [
+      "Tanjore Painting",
+      "Thanjavur Oviyam",
+      "तंजावुर चित्रकला"
+    ],
+    "sanskritTitle": "",
+    "description": "The Thanjavur (Tanjore) painting tradition of Tamil Nadu, characterized by gold leaf, vibrant colors, and gesso work; its themes (Śrī Viṣṇu, Śiva, Gaṇeśa, Rāma), technique, and patronage by Maratha rulers are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "devi",
     "title": "Devī",
     "aliases": [
@@ -1890,6 +3935,51 @@
       "DEITY",
       "TRADITION",
       "PRACTICE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "narasimha",
+    "title": "Narasiṃha",
+    "aliases": [
+      "Narasimha",
+      "Nṛsiṃha",
+      "नृसिंह"
+    ],
+    "sanskritTitle": "",
+    "description": "Narasiṃha, the man-lion avatar of Viṣṇu, whose emergence from the pillar to protect Prahlāda and slay Hiraṇyakaśipu is a central Vaiṣṇava narrative; his iconography, temples, and worship traditions are represented here as a catalogue entry. ---",
+    "type": "deity",
+    "classification": [
+      "DEITY",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "parvati",
+    "title": "Pārvatī",
+    "aliases": [
+      "Parvati",
+      "Parvathi",
+      "Uma",
+      "पार्वती"
+    ],
+    "sanskritTitle": "",
+    "description": "Pārvatī (Umā), the consort of Śiva and the embodiment of Śakti, her forms as Durgā, Kālī, Annapūrṇā, and Gaurī; her role as mother of Gaṇeśa and Skanda, and her worship across Śākta and Śaiva traditions are represented here as a catalogue entry. ---",
+    "type": "deity",
+    "classification": [
+      "DEITY",
+      "TRADITION"
     ],
     "language": [
       "sa",
@@ -2030,6 +4120,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "bihu",
+    "title": "Bihu",
+    "aliases": [
+      "Rongali Bihu",
+      "Bohag Bihu",
+      "বিহু"
+    ],
+    "sanskritTitle": "",
+    "description": "The Assamese festival cycle of three Bihus (Rongali, Kongali, Bhogali) aligned with agricultural seasons; Rongali Bihu in April is the most prominent.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "chaturmasya",
     "title": "Cāturmāsya",
     "aliases": [
@@ -2048,6 +4161,29 @@
     ],
     "language": [
       "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "chhath-puja",
+    "title": "Chhath Pūjā",
+    "aliases": [
+      "Chhath Puja",
+      "छठ पूजा"
+    ],
+    "sanskritTitle": "",
+    "description": "A festival dedicated to Sūrya and Chhathī Maiyā, observed primarily in Bihar, Jharkhand, and eastern Uttar Pradesh with rigorous fasting, river bathing, and sunrise/sunset offerings.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture",
+      "Deity"
+    ],
+    "language": [
+      "hi",
       "en"
     ],
     "tags": [],
@@ -2094,6 +4230,31 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ganesh-chaturthi",
+    "title": "Gaṇeśa Caturthī",
+    "aliases": [
+      "Ganesh Chaturthi",
+      "Vinayaka Chaturthi",
+      "गणेश चतुर्थी"
+    ],
+    "sanskritTitle": "",
+    "description": "The ten-day festival of Gaṇeśa's birth, observed with clay idol installation, daily worship, and immersion (visarjan); its regional prominence in Maharashtra, Gujarat, and Goa is represented here as a catalogue entry. ---",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi",
+      "mr"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -2236,6 +4397,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "karthigai-deepam",
+    "title": "Kārttikai Deepam",
+    "aliases": [
+      "Karthigai Deepam",
+      "Karthikai Deepam",
+      "कार्त्तिकै दीपम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tamil festival of lights on the full moon of Kārttikai (Nov–Dec), dedicated to Śiva as the infinite light; its observance with rows of oil lamps (agal vilakku) and the Arunachalesvara temple beacon are represented here as a catalogue entry. ---",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "kumbha-mela",
     "title": "Kumbha Melā",
     "aliases": [
@@ -2254,6 +4439,52 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "lohri",
+    "title": "Lohrī",
+    "aliases": [
+      "Lohri",
+      "लोहड़ी"
+    ],
+    "sanskritTitle": "",
+    "description": "A Punjabi winter festival marking the passing of the winter solstice, celebrated with bonfires, folk songs, and distribution of sweets; its observances are regionally specific.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture"
+    ],
+    "language": [
+      "hi",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "magh-mela",
+    "title": "Māgha Mela",
+    "aliases": [
+      "Magh Mela",
+      "Maghi Mela",
+      "माघ मेला"
+    ],
+    "sanskritTitle": "",
+    "description": "The annual Māgha Mela at Prayāgraja (Allahabad), Uttar Pradesh, during the month of Māgha (Jan–Feb), a smaller precursor to the Kumbha Mela; its ritual bathing, kalpavās, and regional significance are represented here as a catalogue entry. ---",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -2350,6 +4581,49 @@
     "relatedEntityIds": []
   },
   {
+    "id": "onam",
+    "title": "Onam",
+    "aliases": [
+      "ഓണം"
+    ],
+    "sanskritTitle": "",
+    "description": "A Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "ml",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "pongal",
+    "title": "Pongal",
+    "aliases": [
+      "Thai Pongal",
+      "பொங்கல்"
+    ],
+    "sanskritTitle": "",
+    "description": "A Tamil harvest festival marking the sun's northward journey (uttarāyaṇa); its four days (Bhogi, Surya, Mattu, Kaanum) feature distinct regional practices and foods.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture"
+    ],
+    "language": [
+      "ta",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "raksha-bandhan",
     "title": "Rakṣābandhana",
     "aliases": [
@@ -2422,6 +4696,76 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thai-pusam",
+    "title": "Thai Pusam",
+    "aliases": [
+      "Thaipusam",
+      "Thai Poosam",
+      "तैपुसम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tamil festival dedicated to Skanda/Murugaṇ on the full moon of Thai (Jan–Feb), observed with kavadi (burden-bearing), piercings, and processions; its regional prominence in Tamil Nadu, Malaysia, and Singapore is represented here as a catalogue entry. ---",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ugadi",
+    "title": "Ugādi",
+    "aliases": [
+      "Yugadi",
+      "ఉగాది",
+      "ಯುಗಾದಿ"
+    ],
+    "sanskritTitle": "",
+    "description": "The New Year festival in Andhra Pradesh, Telangana, and Karnataka, marking the first day of Chaitra; observed with ritual baths, new clothes, and the Ugadi pachadi (six tastes).",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vaisakhi",
+    "title": "Baisākhī",
+    "aliases": [
+      "Vaisakhi",
+      "Baisakhi",
+      "बैसाखी"
+    ],
+    "sanskritTitle": "",
+    "description": "The Punjabi harvest festival and Sikh New Year, commemorating the Khalsa's founding in 1699; observed with processions, kirtan, and community meals (langar). ---",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "hi",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vat-savitri",
     "title": "Vaṭa Sāvitrī",
     "aliases": [
@@ -2438,6 +4782,28 @@
     ],
     "language": [
       "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vishu",
+    "title": "Viṣu",
+    "aliases": [
+      "Vishu",
+      "വിഷു"
+    ],
+    "sanskritTitle": "",
+    "description": "The Malayalam New Year in Kerala, marking the sun's transit into Meda Rāśi; observed with the Vishukkani (auspicious first sight), money gifts (kaineettam), and feasting.",
+    "type": "festival",
+    "classification": [
+      "FESTIVAL",
+      "Festival",
+      "Culture"
+    ],
+    "language": [
+      "ml",
       "en"
     ],
     "tags": [],
@@ -2520,7 +4886,7 @@
     "type": "acharya",
     "classification": [
       "ACHARYA",
-      "Vedanta",
+      "VEDANTA",
       "Practice",
       "Tradition"
     ],
@@ -2543,7 +4909,7 @@
     "type": "acharya",
     "classification": [
       "ACHARYA",
-      "Vedanta",
+      "VEDANTA",
       "Practice",
       "Tradition"
     ],
@@ -2589,7 +4955,7 @@
     "type": "acharya",
     "classification": [
       "ACHARYA",
-      "Vedanta",
+      "VEDANTA",
       "Tradition",
       "Practice"
     ],
@@ -2658,7 +5024,7 @@
     "type": "acharya",
     "classification": [
       "ACHARYA",
-      "Vedanta",
+      "VEDANTA",
       "Tradition",
       "Practice"
     ],
@@ -3059,7 +5425,6 @@
     "id": "havana",
     "title": "Havana",
     "aliases": [
-      "Havan",
       "हवन"
     ],
     "sanskritTitle": "",
@@ -3706,6 +6071,48 @@
     "relatedEntityIds": []
   },
   {
+    "id": "aitareya-aranyaka",
+    "title": "Aitareya Āraṇyaka",
+    "aliases": [
+      "Aitareya Aranyaka",
+      "ऐतरेय आरण्यक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Aitareya Āraṇyaka, associated with the Ṛgveda, contains the Aitareya Upaniṣad and discusses the inner meaning of ritual; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "aitareya-brahmana",
+    "title": "Aitareya Brāhmaṇa",
+    "aliases": [
+      "Aitareya Brahmana",
+      "ऐतरेय ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Aitareya Brāhmaṇa, associated with the Śākalya Śākhā of the Ṛgveda, provides ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "aitareya-upanishad",
     "title": "Aitareya Upaniṣad",
     "aliases": [
@@ -3727,6 +6134,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "akshi-upanishad",
+    "title": "Akṣi Upaniṣad",
+    "aliases": [
+      "Akshi Upanishad",
+      "अक्षि उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Akṣi Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of the eye (akṣi) as a symbol of knowledge and the means to realize the inner self through vidyā; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "apastamba-dharmasutra",
     "title": "Āpastamba Dharmasūtra",
     "aliases": [
@@ -3734,10 +6162,11 @@
       "आपस्तम्ब धर्मसूत्र"
     ],
     "sanskritTitle": "",
-    "description": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, noted for its systematic treatment of ritual and law; represented here as a catalogue entry.",
+    "description": "The Āpastamba Dharmasūtra, associated with the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, is one of the earliest Dharma Sūtras prescribing social, legal, and ritual norms; its textual content is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra",
+      "SHRUTI",
+      "VEDANGA",
       "DHARMASHASTRA"
     ],
     "language": [
@@ -3770,6 +6199,48 @@
     "relatedEntityIds": []
   },
   {
+    "id": "aruni-upanishad",
+    "title": "Āruṇi Upaniṣad",
+    "aliases": [
+      "Aruni Upanishad",
+      "आरुणि उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Āruṇi Upaniṣad, associated with the Sāmaveda, is a saṃnyāsa Upaniṣad discussing the renunciant's life, the praṇava (oṃ), and the nature of Brahman; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "atharvaveda-samhita",
+    "title": "Atharvaveda Saṃhitā",
+    "aliases": [
+      "Atharvaveda Samhita",
+      "अथर्ववेद संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Atharvaveda Saṃhitā, the fourth Veda, containing hymns and prose for healing, protection, and domestic rituals, transmitted in Śaunaka and Paippalāda recensions; its textual structure is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "atharvaveda",
     "title": "Atharvaveda",
     "aliases": [
@@ -3790,6 +6261,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "avadhuta-upanishad",
+    "title": "Avadhūta Upaniṣad",
+    "aliases": [
+      "Avadhuta Upanishad",
+      "अवधूत उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Avadhūta Upaniṣad, a saṃnyāsa Upaniṣad, presents the teachings of Dattātreya on the liberated state (avadhūta) beyond all social and ritual conventions; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "baudhayana-dharmasutra",
     "title": "Baudhāyana Dharmasūtra",
     "aliases": [
@@ -3797,10 +6289,11 @@
       "बौधायन धर्मसूत्र"
     ],
     "sanskritTitle": "",
-    "description": "An early Dharmasūtra associated with the Kṛṣṇa Yajurveda, covering ritual, law, and domestic rites; represented here as a catalogue entry.",
+    "description": "The Baudhāyana Dharmasūtra, associated with the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, is one of the earliest Dharma Sūtras and includes the Baudhāyana Śrauta and Gṛhya Sūtras; its textual content is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra",
+      "SHRUTI",
+      "VEDANGA",
       "DHARMASHASTRA"
     ],
     "language": [
@@ -3898,6 +6391,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "brahma-upanishad",
+    "title": "Brahma Upaniṣad",
+    "aliases": [
+      "Brahma Upanishad",
+      "ब्रह्म उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the ātman, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "brahmana",
     "title": "Brāhmaṇa texts",
     "aliases": [
@@ -3962,6 +6476,49 @@
     "relatedEntityIds": []
   },
   {
+    "id": "chandas-sutra",
+    "title": "Chandaḥsūtra",
+    "aliases": [
+      "Chandah Sutra",
+      "Pingala Chandas Sutra",
+      "छन्दःसूत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Chandaḥsūtra of Piṅgala is the foundational text of the Vedāṅga of metre (chandas), presenting the combinatorial analysis of Vedic and classical metres; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "chandogya-brahmana",
+    "title": "Chāndogya Brāhmaṇa",
+    "aliases": [
+      "Chandogya Brahmana",
+      "छान्दोग्य ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Chāndogya Brāhmaṇa (the first part of the Chāndogya Upaniṣad's textual complex), associated with the Kauthuma Śākhā of the Sāmaveda, contains the Chāndogya Upaniṣad; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "chandogya-upanishad",
     "title": "Chāndogya Upaniṣad",
     "aliases": [
@@ -4004,6 +6561,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "garbha-upanishad",
+    "title": "Garbha Upaniṣad",
+    "aliases": [
+      "Garbha Upanishad",
+      "गर्भ उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Garbha Upaniṣad, associated with the Kṛṣṇa Yajurveda, describes the development of the embryo, the constitution of the body, and the relationship between the physical body and the subtle self; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "garuda-purana",
     "title": "Garuḍa Purāṇa",
     "aliases": [
@@ -4032,11 +6610,54 @@
       "गौतम धर्मसूत्र"
     ],
     "sanskritTitle": "",
-    "description": "One of the earliest Dharmasūtras, associated with the Sāmaveda, prescribing student, householder, and ascetic duties; represented here as a catalogue entry.",
+    "description": "The Gautama Dharmasūtra, associated with the Sāmaveda, is an early Dharma Sūtra presenting legal, social, and ritual norms; its textual content is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra",
+      "SHRUTI",
+      "VEDANGA",
       "DHARMASHASTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "gopatha-brahmana",
+    "title": "Gopatha Brāhmaṇa",
+    "aliases": [
+      "Gopatha Brahmana",
+      "गोपथ ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Gopatha Brāhmaṇa, the only Brāhmaṇa of the Atharvaveda (associated with the Śaunaka and Paippalāda Śākhās), provides ritual instructions and explanations specific to Atharvan practice; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "hamsa-upanishad",
+    "title": "Haṃsa Upaniṣad",
+    "aliases": [
+      "Hamsa Upanishad",
+      "हंस उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Haṃsa Upaniṣad, associated with the Śukla Yajurveda, teaches the Haṃsa-vidyā (the knowledge of the inner swan/breath) and the identity of the individual self with the supreme; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -4067,6 +6688,133 @@
     "relatedEntityIds": []
   },
   {
+    "id": "jabala-upanishad",
+    "title": "Jabāla Upaniṣad",
+    "aliases": [
+      "Jabala Upanishad",
+      "जबाल उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jabāla Upaniṣad, associated with the Śukla Yajurveda, discusses the renounced life (saṃnyāsa), the four āśramas, and the sacred thread (yajñopavīta); its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "jaiminiya-brahmana",
+    "title": "Jaiminīya Brāhmaṇa",
+    "aliases": [
+      "Jaiminiya Brahmana",
+      "जैमिनीय ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jaiminīya Brāhmaṇa (also Talavakāra Brāhmaṇa), associated with the Jaiminīya/Talavakāra Śākhā of the Sāmaveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "jyotisha-vedanga-text",
+    "title": "Jyotiṣa Vedāṅga",
+    "aliases": [
+      "Jyotisha Vedanga",
+      "Vedanga Jyotisha",
+      "ज्योतिष वेदाङ्ग"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jyotiṣa Vedāṅga (Vedāṅga Jyotiṣa) attributed to Lagadha is the foundational text of the Vedāṅga of astronomy and calendrical science, used for determining ritual times; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kaivalya-upanishad",
+    "title": "Kaivalya Upaniṣad",
+    "aliases": [
+      "Kaivalya Upanishad",
+      "कैवल्य उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kaivalya Upaniṣad, associated with the Atharvaveda, is a Śaiva-oriented Upaniṣad describing the attainment of kaivalya (liberation) through devotion to Śiva and knowledge of the ātman; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kalpa-sutra",
+    "title": "Kalpa Sūtra",
+    "aliases": [
+      "Kalpa Sutra",
+      "कल्प सूत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kalpa Sūtras are the Vedāṅga texts of ritual procedure, comprising Śrauta Sūtras (Vedic sacrifices), Gṛhya Sūtras (domestic rites), and Dharma Sūtras (social/legal norms); their textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "katha-aranyaka",
+    "title": "Kaṭha Āraṇyaka",
+    "aliases": [
+      "Katha Aranyaka",
+      "कठ आरण्यक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kaṭha Āraṇyaka, associated with the Kaṭha Śākhā of the Kṛṣṇa Yajurveda, contains the Kaṭha Upaniṣad and related ritual and philosophical material; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "katha-upanishad",
     "title": "Kaṭha Upaniṣad",
     "aliases": [
@@ -4075,6 +6823,49 @@
     ],
     "sanskritTitle": "",
     "description": "An Upaniṣad structured as a dialogue between Naciketas and Yama, represented here through an original catalogue description without reproducing translations.",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kaushitaki-brahmana",
+    "title": "Kauṣītaki Brāhmaṇa",
+    "aliases": [
+      "Kaushitaki Brahmana",
+      "कौषीतकि ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kauṣītaki Brāhmaṇa (also Śāṅkhāyana Brāhmaṇa), associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kaushitaki-upanishad",
+    "title": "Kauṣītaki Upaniṣad",
+    "aliases": [
+      "Kaushitaki Upanishad",
+      "Kauṣītaki Brāhmaṇa Upaniṣad",
+      "कौषीतकि उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kauṣītaki Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
       "SHRUTI",
@@ -4164,6 +6955,49 @@
       "SMRITI",
       "ITIHASA",
       "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "maitrayaniya-aranyaka",
+    "title": "Maitrāyaṇīya Āraṇyaka",
+    "aliases": [
+      "Maitrayaniya Aranyaka",
+      "मैत्रायणीय आरण्यक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Maitrāyaṇīya Āraṇyaka, associated with the Maitrāyaṇīya Śākhā of the Kṛṣṇa Yajurveda, contains the Maitrī Upaniṣad and related forest-text material; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "maitri-upanishad",
+    "title": "Maitrī Upaniṣad",
+    "aliases": [
+      "Maitri Upanishad",
+      "Maitrayaniya Upanishad",
+      "मैत्री उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Maitrī Upaniṣad, associated with the Kṛṣṇa Yajurveda (Maitrāyaṇīya Śākhā), presents a dialogue between King Bṛhadratha and Sage Śākāyanya on the nature of the self and the means to liberation; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -4319,6 +7153,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "narayana-upanishad",
+    "title": "Nārāyaṇa Upaniṣad",
+    "aliases": [
+      "Narayana Upanishad",
+      "नारायण उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme reality and teaches the aṣṭākṣara mantra (Oṃ Namo Nārāyaṇāya); its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "natya-shastra",
     "title": "Nāṭyaśāstra",
     "aliases": [
@@ -4342,6 +7197,49 @@
     "relatedEntityIds": []
   },
   {
+    "id": "nighantu",
+    "title": "Nighaṇṭu",
+    "aliases": [
+      "Nighantu",
+      "निघण्टु"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nighaṇṭu is a collection of Vedic words arranged in thematic categories, serving as the lexical basis for Yāska's Nirukta; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nrisimha-upanishad",
+    "title": "Nṛsiṃha Upaniṣad",
+    "aliases": [
+      "Nrisimha Upanishad",
+      "Narasimha Upanishad",
+      "नृसिंह उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nṛsiṃha Upaniṣad, a Vaiṣṇava Upaniṣad associated with the Atharvaveda, focuses on the Nṛsiṃha avatar of Viṣṇu and the Nṛsiṃha mantra; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "padma-purana",
     "title": "Padma Purāṇa",
     "aliases": [
@@ -4354,6 +7252,71 @@
     "classification": [
       "PURANA",
       "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "panchavimsha-brahmana",
+    "title": "Pañcaviṃśa Brāhmaṇa",
+    "aliases": [
+      "Panchavimsha Brahmana",
+      "Tandya Brahmana",
+      "पञ्चविंश ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Pañcaviṃśa Brāhmaṇa (also Tāṇḍya Mahābrāhmaṇa), associated with the Kauthuma Śākhā of the Sāmaveda, contains twenty-five books of ritual instructions for soma sacrifices; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "panini-ashtadhyayi",
+    "title": "Aṣṭādhyāyī",
+    "aliases": [
+      "Ashtadhyayi",
+      "Panini Ashtadhyayi",
+      "अष्टाध्यायी"
+    ],
+    "sanskritTitle": "",
+    "description": "The Aṣṭādhyāyī of Pāṇini is the foundational Sanskrit grammar text in sūtra form, systematizing Sanskrit morphology, syntax, and phonology; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "paramahamsa-upanishad",
+    "title": "Paramahaṃsa Upaniṣad",
+    "aliases": [
+      "Paramahamsa Upanishad",
+      "परमहंस उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Paramahaṃsa Upaniṣad, a saṃnyāsa Upaniṣad, describes the characteristics of the highest renouncer (paramahaṃsa) and the path of knowledge (jñāna); its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -4426,6 +7389,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "rigveda-samhita",
+    "title": "Ṛgveda Saṃhitā",
+    "aliases": [
+      "Rigveda Samhita",
+      "ऋग्वेद संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ṛgveda Saṃhitā, the oldest Vedic collection of 1028 hymns (sūktas) in ten maṇḍalas, dedicated to various deities; its textual structure, metres, and recensions are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "rigveda",
     "title": "Rigveda",
     "aliases": [
@@ -4434,6 +7418,90 @@
     ],
     "sanskritTitle": "",
     "description": "A concise source-aware catalogue overview. This record contains no reproduced scripture or translation.",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "rudrahridaya-upanishad",
+    "title": "Rudrahṛdaya Upaniṣad",
+    "aliases": [
+      "Rudrahridaya Upanishad",
+      "रुद्रहृदय उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Rudrahṛdaya Upaniṣad, a Śaiva Upaniṣad, identifies Rudra as the supreme reality and the heart (hṛdaya) of all beings; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sadvimsha-brahmana",
+    "title": "Ṣaḍviṃśa Brāhmaṇa",
+    "aliases": [
+      "Sadvimsha Brahmana",
+      "षड्विंश ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ṣaḍviṃśa Brāhmaṇa, the twenty-sixth book supplementing the Pañcaviṃśa Brāhmaṇa, contains additional ritual material for Sāma Vedic sacrifices; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "samaveda-aranyaka",
+    "title": "Sāmaveda Āraṇyaka",
+    "aliases": [
+      "Samaveda Aranyaka",
+      "सामवेद आरण्यक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sāmaveda Āraṇyakas, associated with the Kauthuma and Jaiminīya Śākhās, contain the Chāndogya Upaniṣad and related forest texts; their content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "samaveda-samhita",
+    "title": "Sāmaveda Saṃhitā",
+    "aliases": [
+      "Samaveda Samhita",
+      "सामवेद संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sāmaveda Saṃhitā is the collection of melodic verses (sāmans) drawn primarily from the Ṛgveda for liturgical chanting; its textual structure and musical notation are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
       "SHRUTI",
@@ -4468,6 +7536,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "shatapatha-brahmana",
+    "title": "Śatapatha Brāhmaṇa",
+    "aliases": [
+      "Shatapatha Brahmana",
+      "शतपथ ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śatapatha Brāhmaṇa, associated with the Mādhyandina and Kāṇva Śākhās of the Śukla Yajurveda, is one of the most extensive Brāhmaṇas, containing detailed ritual instructions and theological discussions including the Bṛhadāraṇyaka Upaniṣad; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "shiva-purana",
     "title": "Śiva Purāṇa",
     "aliases": [
@@ -4480,6 +7569,28 @@
     "classification": [
       "PURANA",
       "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "shvetashvatara-upanishad",
+    "title": "Śvetāśvatara Upaniṣad",
+    "aliases": [
+      "Svetasvatara Upanishad",
+      "Shvetashvatara Upanishad",
+      "श्वेताश्वतर उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śvetāśvatara Upaniṣad, associated with the Kṛṣṇa Yajurveda, is a theistic Upaniṣad focusing on Rudra/Śiva as the supreme deity; its theistic terminology and bhakti orientation are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -4510,6 +7621,90 @@
     "relatedEntityIds": []
   },
   {
+    "id": "subala-upanishad",
+    "title": "Subāla Upaniṣad",
+    "aliases": [
+      "Subala Upanishad",
+      "सुबाल उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Subāla Upaniṣad, associated with the Śukla Yajurveda, is a dialogue between Sage Subāla and Prajāpati on the nature of Brahman, the self, and the universe; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "taittiriya-aranyaka",
+    "title": "Taittirīya Āraṇyaka",
+    "aliases": [
+      "Taittiriya Aranyaka",
+      "तैत्तिरीय आरण्यक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Taittirīya Āraṇyaka, associated with the Taittirīya Śākhā, contains the Taittirīya Upaniṣad and the Mahānārāyaṇa Upaniṣad; its forest-text character and philosophical content are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "taittiriya-brahmana",
+    "title": "Taittirīya Brāhmaṇa",
+    "aliases": [
+      "Taittiriya Brahmana",
+      "तैत्तिरीय ब्राह्मण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Taittirīya Brāhmaṇa, associated with the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, provides ritual explanations and theological interpretations of the Saṃhitā mantras; its content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "taittiriya-samhita",
+    "title": "Taittirīya Saṃhitā",
+    "aliases": [
+      "Taittiriya Samhita",
+      "तैत्तिरीय संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Taittirīya Saṃhitā is the Saṃhitā of the Taittirīya Śākhā of the Kṛṣṇa Yajurveda, containing mantras for Vedic rituals; its textual structure and content are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "taittiriya-upanishad",
     "title": "Taittirīya Upaniṣad",
     "aliases": [
@@ -4518,6 +7713,27 @@
     ],
     "sanskritTitle": "",
     "description": "An Upaniṣad associated with the Kṛṣṇa Yajurveda, represented here through an original catalogue description.",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tarasara-upanishad",
+    "title": "Tārasāra Upaniṣad",
+    "aliases": [
+      "Tarasara Upanishad",
+      "तारसार उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tārasāra Upaniṣad, a Śaiva Upaniṣad, teaches the tāraka-mantra (Oṃ Namaḥ Śivāya) as the means to cross the ocean of saṃsāra; its text is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
       "SHRUTI",
@@ -4573,6 +7789,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "varttika",
+    "title": "Vārttika",
+    "aliases": [
+      "Varttika",
+      "वार्त्तिक"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vārttikas of Kātyāyana are critical supplements to Pāṇini's Aṣṭādhyāyī, identifying omissions, redundancies, and errors; their textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vashistha-dharmasutra",
     "title": "Vasiṣṭha Dharmasūtra",
     "aliases": [
@@ -4585,6 +7822,27 @@
     "classification": [
       "Dharmashastra",
       "DHARMASHASTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vasudeva-upanishad",
+    "title": "Vāsudeva Upaniṣad",
+    "aliases": [
+      "Vasudeva Upanishad",
+      "वासुदेव उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vāsudeva Upaniṣad, a Vaiṣṇava Upaniṣad associated with the Saṃhitā of the Kṛṣṇa Yajurveda, focuses on Vāsudeva (Kṛṣṇa) as the supreme deity and the dvādaśākṣara mantra; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA"
     ],
     "language": [
       "sa",
@@ -4636,6 +7894,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "vyakarana-mahabhashya",
+    "title": "Mahābhāṣya",
+    "aliases": [
+      "Mahabhashya",
+      "महाभाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mahābhāṣya of Patañjali is the major commentary on Pāṇini's Aṣṭādhyāyī, providing extensive grammatical analysis and philosophical discussion; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vyasa-smriti",
     "title": "Vyāsasmṛti",
     "aliases": [
@@ -4676,6 +7955,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "yajurveda-samhita",
+    "title": "Yajurveda Saṃhitā",
+    "aliases": [
+      "Yajurveda Samhita",
+      "यजुर्वेद संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Yajurveda Saṃhitā, the collection of prose mantras (yajus) for ritual use, transmitted in Kṛṣṇa (Taittirīya, Maitrāyaṇīya, Kaṭha, Kāpiṣṭhala) and Śukla (Mādhyandina, Kāṇva) recensions; its textual structure is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDIC"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "yajurveda",
     "title": "Yajurveda",
     "aliases": [
@@ -4691,6 +7991,534 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yaska-nirukta",
+    "title": "Yāska's Nirukta",
+    "aliases": [
+      "Yaska Nirukta",
+      "यास्क निरुक्त"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nirukta, attributed to Yāska, is the Vedāṅga of etymology and semantic interpretation, providing explanations of obscure Vedic terms through derivations and glosses; its textual content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yogachudamani-upanishad",
+    "title": "Yogacūḍāmaṇi Upaniṣad",
+    "aliases": [
+      "Yogachudamani Upanishad",
+      "योगचूडामणि उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Yogacūḍāmaṇi Upaniṣad, a Yoga Upaniṣad, describes the chakras, nāḍīs, kuṇḍalinī, and the practice of rāja-yoga leading to samādhi; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "YOGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "yogattva-upanishad",
+    "title": "Yogatattva Upaniṣad",
+    "aliases": [
+      "Yogatattva Upanishad",
+      "योगतत्त्व उपनिषद्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Yogatattva Upaniṣad, a Yoga Upaniṣad, classifies yoga into mantra, laya, haṭha, and rāja yoga, and describes the four stages of yoga practice; its text is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "YOGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "badrinath",
+    "title": "Badrinātha Temple",
+    "aliases": [
+      "Badrinath",
+      "Badrinath Temple",
+      "बद्रीनाथ"
+    ],
+    "sanskritTitle": "",
+    "description": "The Badrinātha Temple at Badrinath, Uttarakhand, one of the four Dhāmas and a major Viṣṇu pilgrimage site; its seasonal opening, architecture, and Ādi Śaṅkara association are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "belur-chennakesava",
+    "title": "Belur Chennakesava Temple",
+    "aliases": [
+      "Belur Temple",
+      "Chennakesava Temple",
+      "बेलूर चेन्नाकेशव"
+    ],
+    "sanskritTitle": "",
+    "description": "The Chennakesava Temple at Belur, Karnataka, a Hoysala masterpiece with intricate soapstone sculptures, built by Viṣṇuvardhana; its architecture, iconography, and UNESCO World Heritage nomination are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "brihadeeswara",
+    "title": "Bṛhadīśvara Temple (Tanjore)",
+    "aliases": [
+      "Brihadeeswara",
+      "Brihadeeswarar Temple",
+      "Peruvudaiyar Kovil",
+      "बृहदीश्वर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bṛhadīśvara Temple at Thanjavur, Tamil Nadu, a UNESCO World Heritage site built by Rājarāja I; its architecture, inscriptions, and bronze sculptures are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition",
+      "Culture"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dwaraka",
+    "title": "Dvārakā Temple (Dvārakādhīśa)",
+    "aliases": [
+      "Dwarka",
+      "Dwarkadhish Temple",
+      "द्वारका"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dvārakādhīśa Temple at Dvārakā, Gujarat, one of the four Dhāmas and a major Kṛṣṇa pilgrimage site; its history and submerged city traditions are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "gu"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "guruvayur",
+    "title": "Guruvāyūr Temple (Kṛṣṇa)",
+    "aliases": [
+      "Guruvayur",
+      "Guruvayoor",
+      "गुरुवायुर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Guruvāyūr Temple in Kerala, a major Kṛṣṇa pilgrimage site with distinctive Kerala architecture and elephant traditions; its daily rituals and festival calendar are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "halebidu-hoysaleswara",
+    "title": "Halebidu Hoysaleswara Temple",
+    "aliases": [
+      "Halebidu Temple",
+      "Hoysaleswara Temple",
+      "हलेबिदु होयसलेश्वर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Hoysaleswara Temple at Halebidu, Karnataka, a twin Hoysala temple dedicated to Śiva, renowned for its extensive sculptural program; its architecture, iconography, and UNESCO World Heritage nomination are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "jagannath-puri",
+    "title": "Jagannātha Temple, Purī",
+    "aliases": [
+      "Jagannath Temple",
+      "Puri",
+      "जगन्नाथ पुरी"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jagannātha Temple at Purī, Odisha, one of the four Dhāmas; its distinctive deities, Ratha Yātrā, and temple administration are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kanchipuram",
+    "title": "Kāñcīpuram Temples",
+    "aliases": [
+      "Kanchipuram",
+      "Kanchi",
+      "कांचीपुरम"
+    ],
+    "sanskritTitle": "",
+    "description": "The temple city of Kāñcīpuram, Tamil Nadu, with major Śaiva (Ekāmranātha, Kāmākṣī) and Vaiṣṇava (Varadarāja) temples; its history as a Śaṅkara maṭha center is represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kashi-vishwanath",
+    "title": "Kāśī Viśvanātha Temple",
+    "aliases": [
+      "Kashi Vishwanath",
+      "Varanasi Temple",
+      "काशी विश्वनाथ"
+    ],
+    "sanskritTitle": "",
+    "description": "The Viśvanātha Temple at Kāśī (Vārāṇasī), Uttar Pradesh, one of the twelve Jyotirliṅgas and a major Śiva pilgrimage center; its history of destruction/rebuilding and Ghats are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kedarnath",
+    "title": "Kedārnātha Temple",
+    "aliases": [
+      "Kedarnath",
+      "Kedarnath Temple",
+      "केदारनाथ"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kedārnātha Temple at Kedarnath, Uttarakhand, one of the twelve Jyotirliṅgas; its high-altitude location, seasonal access, and Śaṅkara association are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "khajuraho-temples",
+    "title": "Khajuraho Temples",
+    "aliases": [
+      "Khajuraho Temple",
+      "खजुराहो मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Khajuraho group of temples, Madhya Pradesh, built by the Chandela dynasty (9th–12th centuries), famous for their erotic sculptures and Nagara architecture; a UNESCO World Heritage site represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "konark-sun-temple",
+    "title": "Konark Sun Temple",
+    "aliases": [
+      "Konark Temple",
+      "Sun Temple Konark",
+      "कोणार्क सूर्य मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sun Temple at Konark, Odisha, a 13th-century chariot-shaped temple dedicated to Sūrya, a UNESCO World Heritage site; its architecture, erotic sculptures, and astronomical alignment are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION",
+      "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "meenakshi-amman",
+    "title": "Mīnākṣī Amman Temple",
+    "aliases": [
+      "Meenakshi Temple",
+      "Madurai Temple",
+      "मीनाक्षी अम्मन"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mīnākṣī Amman Temple at Madurai, Tamil Nadu, a major Śaiva-Śākta pilgrimage site with towering gopurams and tank; its history, architecture, and festival traditions are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "pandharpur",
+    "title": "Pāṇḍharpur Temple (Viṭṭhala)",
+    "aliases": [
+      "Pandharpur",
+      "Vitthal Temple",
+      "Vithoba",
+      "पंढरपुर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Viṭṭhala Temple at Pāṇḍharpur, Maharashtra, the center of the Vārkarī tradition; its annual Palkhi pilgrimage and Nāmadeva/Tukārām associations are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition",
+      "Practice"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "mr"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "rameshwaram",
+    "title": "Rāmeśvaram Temple",
+    "aliases": [
+      "Rameshwaram",
+      "Ramanathaswamy Temple",
+      "रामेश्वरम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Rāmanāthasvāmi Temple at Rāmeśvaram, Tamil Nadu, one of the twelve Jyotirliṅgas and a Dhāma; its corridors, tīrthas, and Rāma association are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "sabarimala",
+    "title": "Sabarimala Temple (Ayyappa)",
+    "aliases": [
+      "Sabarimala",
+      "Ayyappa Temple",
+      "शबरीमला"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "somnath",
+    "title": "Somnāth Temple",
+    "aliases": [
+      "Somnath",
+      "Somnath Temple",
+      "सोमनाथ"
+    ],
+    "sanskritTitle": "",
+    "description": "The Somnāth Temple at Prabhas Patan, Gujarat, the first of the twelve Jyotirliṅgas; its history of repeated destruction and reconstruction is represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "gu"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "srirangam",
+    "title": "Śrīraṅgam Temple (Ranganathaswamy)",
+    "aliases": [
+      "Srirangam",
+      "Ranganathaswamy Temple",
+      "श्रीरंगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ranganātha Temple at Śrīraṅgam, Tamil Nadu, the largest functioning temple complex in India and a major Vaiṣṇava pilgrimage site; its seven enclosures and Āḻvār associations are represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tirupati-balaji",
+    "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
+    "aliases": [
+      "Tirupati",
+      "Venkateswara Temple",
+      "Tirumala",
+      "तिरुपति बालाजी"
+    ],
+    "sanskritTitle": "",
+    "description": "The Venkaṭeśvara Temple at Tirumala, Andhra Pradesh, one of the most visited pilgrimage sites in India; its history, architecture, and administration are complex and represented here as a catalogue entry.",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "Pilgrimage",
+      "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te",
+      "ta"
     ],
     "tags": [],
     "relatedEntityIds": []

@@ -1,5 +1,369 @@
 [
   {
+    "id": "andhra-pradesh-tourism",
+    "name": "Andhra Pradesh Tourism",
+    "organization": "Government of Andhra Pradesh",
+    "url": "https://www.andhrapradeshtourism.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "te"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Andhra Pradesh Tourism portal, providing authoritative information on temples, festivals, and cultural sites in Andhra Pradesh. Includes location, architectural details, and pilgrimage information for temple sites like Tirupati.",
+    "topics": [
+      "temple-tourism",
+      "andhra-pradesh-temples",
+      "tirupati",
+      "festivals",
+      "pilgrimage"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "PILGRIMAGE",
+      "ANDHRA PRADESH",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Andhra Pradesh content. Use as authoritative source for temple details in Andhra Pradesh.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "a5cb0b716ef125e6597a59a509579a1cc8ad69be62569761ff6d7f1d23f407f5",
+    "sourceFile": "src\\content\\sources\\andhra-pradesh-tourism.md"
+  },
+  {
+    "id": "archaeological-survey-of-india",
+    "name": "Archaeological Survey of India",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://asi.nic.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government of India content - public domain with attribution",
+    "copyrightStatus": "public-domain",
+    "description": "The premier government agency responsible for archaeological research and the protection of cultural heritage monuments in India. Maintains the authoritative list of centrally protected monuments and provides archaeological, historical, and architectural data on temples.",
+    "topics": [
+      "monuments",
+      "temple-archaeology",
+      "epigraphy",
+      "heritage-sites",
+      "architectural-history"
+    ],
+    "categories": [
+      "INDIAN HERITAGE",
+      "ARCHAEOLOGY",
+      "TEMPLE STUDIES",
+      "ARCHITECTURE",
+      "EPIGRAPHY"
+    ],
+    "rightsNotes": "Government of India content. For monuments under ASI protection, use as authoritative source for location, heritage designation, architectural description, and archaeological dating.",
+    "reuseAllowed": true,
+    "redistributionAllowed": true,
+    "commercialUseAllowed": true,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "96b69ce08ede876862cc45fb837a2dd0599dc84569759a7f863080c887bc3b01",
+    "sourceFile": "src\\content\\sources\\archaeological-survey-of-india.md"
+  },
+  {
+    "id": "assam-tourism",
+    "name": "Assam Tourism",
+    "organization": "Government of Assam",
+    "url": "https://www.assamtourism.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Assam Tourism portal, providing authoritative information on Bihu festival, temples, and cultural sites in Assam. Includes location, historical context, and cultural details for Assam's regional festivals and temple sites.",
+    "topics": [
+      "bihu",
+      "temple-tourism",
+      "assam-festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "FESTIVALS",
+      "TEMPLES",
+      "ASSAM",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Assam content. Use as authoritative source for Bihu festival and Assam temple details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "e32ef66c27cd8c64c79155212d570dd6130f0e68f31b69d8959ea942dd58063d",
+    "sourceFile": "src\\content\\sources\\assam-tourism.md"
+  },
+  {
+    "id": "bbc-religions",
+    "name": "BBC Religions",
+    "organization": "British Broadcasting Corporation",
+    "url": "https://www.bbc.co.uk/religion",
+    "sourceType": "community",
+    "authorityLevel": "secondary",
+    "language": [
+      "en"
+    ],
+    "license": "BBC copyright",
+    "copyrightStatus": "cc-by-nc",
+    "description": "The BBC's religion section provides accessible, well-researched information on world religions, including Hinduism, Sikhism, and their various traditions, festivals, and practices. Used as a secondary reference for cultural and festival information.",
+    "topics": [
+      "religion",
+      "hinduism",
+      "sikhism",
+      "festivals",
+      "cultural-traditions",
+      "comparative-religion"
+    ],
+    "categories": [
+      "RELIGION",
+      "CULTURE",
+      "FESTIVALS",
+      "BBC",
+      "GENERAL REFERENCE"
+    ],
+    "rightsNotes": "BBC content. Use as secondary reference for festival and cultural descriptions.",
+    "reuseAllowed": false,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "7698eae3bb46a18254365ca3ff99bbd3e2309b9596b24a5e64d7b66363308176",
+    "sourceFile": "src\\content\\sources\\bbc-religions.md"
+  },
+  {
+    "id": "cambridge-university-press",
+    "name": "Cambridge University Press",
+    "organization": "Cambridge University Press",
+    "url": "https://www.cambridge.org",
+    "sourceType": "publisher",
+    "authorityLevel": "academic",
+    "language": [
+      "en"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "cc-by-nc",
+    "description": "A leading academic publisher with extensive catalogs in Indology, South Asian studies, and religious studies. Provides peer-reviewed scholarly works on textual criticism, manuscript studies, and Indian philosophical traditions.",
+    "topics": [
+      "indology",
+      "textual-criticism",
+      "manuscript-studies",
+      "south-asian-studies",
+      "philosophy"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "PUBLISHER",
+      "INDIA STUDIES",
+      "SCHOLARSHIP",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Academic use. Used as authoritative reference for scholarly publications.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "0bcf6897baaf80086c90470b541e9907fd7c23debb944b06cd3adf5607ad44da",
+    "sourceFile": "src\\content\\sources\\cambridge-university-press.md"
+  },
+  {
+    "id": "central-institute-higher-tibetan-studies",
+    "name": "Central Institute of Higher Tibetan Studies",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://cihts.ac.in",
+    "sourceType": "academic",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "link-only",
+    "description": "A deemed university specializing in Tibetan studies, Buddhist philosophy, and Indian cultural heritage. Provides scholarly resources on traditional Indian knowledge systems including music, dance, and performing arts.",
+    "topics": [
+      "indian-music",
+      "gandharva-veda",
+      "performing-arts",
+      "cultural-heritage",
+      "buddhist-studies"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "MUSIC",
+      "PERFORMING ARTS",
+      "CULTURAL HERITAGE"
+    ],
+    "rightsNotes": "Academic use with attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "43a2f3c87d4895ea03bc8679c3f9cdd6a1c94d1b45421de24c80294cb6121665",
+    "sourceFile": "src\\content\\sources\\central-institute-higher-tibetan-studies.md"
+  },
+  {
+    "id": "chowkhamba-sanskrit-academy",
+    "name": "Chowkhamba Sanskrit Academy",
+    "organization": "Chowkhamba Sanskrit Academy (Government of Uttar Pradesh)",
+    "url": "https://chowkhambasanskritacademy.org",
+    "sourceType": "educational",
+    "authorityLevel": "academic",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "license": "Educational use",
+    "copyrightStatus": "cc-by",
+    "description": "A government-established academy dedicated to Sanskrit learning and research. Provides scholarly resources on Sanskrit texts, traditions, and historical figures. Used as an authoritative source for ācārya biographical information and historical context.",
+    "topics": [
+      "sanskrit",
+      "acharya-biography",
+      "historical-dating",
+      "scholarly-traditions",
+      "vedanta"
+    ],
+    "categories": [
+      "ACADEMY",
+      "SANSKRIT",
+      "SCHOLARSHIP",
+      "HISTORICAL",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Educational use permitted with attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "185b9ed0be0667360488b7c7794a42d162ac106ac3a33da24733d6c4035b73f7",
+    "sourceFile": "src\\content\\sources\\chowkhamba-sanskrit-academy.md"
+  },
+  {
+    "id": "digital-india-library",
+    "name": "Digital India Library",
+    "organization": "Ministry of Electronics and Information Technology, Government of India",
+    "url": "https://www.digitallibrary.gov.in",
+    "sourceType": "digital-library",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "link-only",
+    "description": "India's national digital library initiative providing access to educational and research content. Contains digitized manuscripts, books, and archival materials from institutions across India. Used as a source for manuscript studies and cultural heritage documentation.",
+    "topics": [
+      "digital-library",
+      "manuscripts",
+      "books",
+      "archival",
+      "cultural-heritage"
+    ],
+    "categories": [
+      "DIGITAL LIBRARY",
+      "MANUSCRIPTS",
+      "CULTURE",
+      "GOVERNMENT",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Government of India content. Use as reference for manuscript and cultural heritage data.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "f8736ec7d116b0a5ed028fbe5bae6f232113c73ac6f3a2a2e906935c2e7f808a",
+    "sourceFile": "src\\content\\sources\\digital-india-library.md"
+  },
+  {
     "id": "gretil",
     "name": "Göttingen Register of Electronic Texts in Indian Languages",
     "organization": "University of Göttingen",
@@ -40,6 +404,144 @@
     "notes": "Source seed only. The portal links to this resource and does not reproduce its contents.",
     "contentHash": "1aec5a4629d5fb4ce4322751e749751607539f7707b311770eb7fa877d04353d",
     "sourceFile": "src\\content\\sources\\gretil.md"
+  },
+  {
+    "id": "gujarat-tourism",
+    "name": "Gujarat Tourism",
+    "organization": "Government of Gujarat",
+    "url": "https://www.gujarattourism.com",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "gu"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Gujarat Tourism portal, providing authoritative information on temples, festivals, and cultural sites in Gujarat. Includes location, historical context, and cultural details for Gujarat's temple sites and regional festivals, including Somnath.",
+    "topics": [
+      "temple-tourism",
+      "gujarat-temples",
+      "festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "GUJARAT",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Gujarat content. Use as authoritative source for Gujarat temple and festival details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "dba3108c79e42ed9268cc9fbe6a3663b25e9b80ecdc745ddded21411cc5f8a1a",
+    "sourceFile": "src\\content\\sources\\gujarat-tourism.md"
+  },
+  {
+    "id": "haryana-tourism",
+    "name": "Haryana Tourism",
+    "organization": "Government of Haryana",
+    "url": "https://www.haryanatourism.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Haryana Tourism portal, providing authoritative information on Vaisakhi festival and regional cultural sites in Haryana. Includes historical context and cultural details for Haryana's regional festivals.",
+    "topics": [
+      "vaisakhi",
+      "haryana-festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "FESTIVALS",
+      "HARYANA",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Haryana content. Use as authoritative source for Vaisakhi festival details in Haryana.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "ff22c942f483e91efb466fac2cc3f6b13e14306d6bf1c59e138c4bfc931523e4",
+    "sourceFile": "src\\content\\sources\\haryana-tourism.md"
+  },
+  {
+    "id": "himalayan-art-initiative",
+    "name": "Himalayan Art Resources",
+    "organization": "Himalayan Art Initiative",
+    "url": "https://www.himalayanart.org",
+    "sourceType": "educational",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Educational use permitted with attribution",
+    "copyrightStatus": "link-only",
+    "description": "An initiative dedicated to documenting and preserving Himalayan Buddhist and Hindu art, including temple architecture, sculpture, painting, and ritual objects. Provides scholarly documentation with provenance, iconography, and historical context.",
+    "topics": [
+      "himalayan-art",
+      "temple-architecture",
+      "iconography",
+      "sculpture",
+      "painting-traditions",
+      "cultural-heritage"
+    ],
+    "categories": [
+      "ART",
+      "ARCHITECTURE",
+      "ICONOGRAPHY",
+      "SCULPTURE",
+      "HIMALAYAN CULTURE",
+      "HERITAGE"
+    ],
+    "rightsNotes": "Educational use permitted with attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "188b3f098146c162ff8a0ed8facf630d12dc4ae8b77562479a575b9aca7722d2",
+    "sourceFile": "src\\content\\sources\\himalayan-art-initiative.md"
   },
   {
     "id": "ifp-digital-collections",
@@ -86,6 +588,419 @@
     "sourceFile": "src\\content\\sources\\ifp-digital-collections.md"
   },
   {
+    "id": "indian-council-historical-research",
+    "name": "Indian Council of Historical Research",
+    "organization": "Ministry of Education, Government of India",
+    "url": "https://ichr.gov.in",
+    "sourceType": "academic",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "Premier national body for historical research in India under the Ministry of Education. Funds and publishes peer-reviewed research on Indian history, including martial traditions, military history, and traditional knowledge systems.",
+    "topics": [
+      "indian-history",
+      "military-history",
+      "dhanurveda",
+      "traditional-knowledge",
+      "historical-research"
+    ],
+    "categories": [
+      "HISTORY",
+      "RESEARCH",
+      "GOVERNMENT",
+      "ACADEMIC"
+    ],
+    "rightsNotes": "Government of India content. Public domain for reference and educational use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "5b6a10af5fb0f4897cbf20b1933ffd3d52d305061fa9040c7b14f388cc0535f0",
+    "sourceFile": "src\\content\\sources\\indian-council-historical-research.md"
+  },
+  {
+    "id": "intach",
+    "name": "Indian National Trust for Art and Cultural Heritage (INTACH)",
+    "organization": "Indian National Trust for Art and Cultural Heritage",
+    "url": "https://intach.org",
+    "sourceType": "other",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Educational use",
+    "copyrightStatus": "link-only",
+    "description": "INTACH is a non-profit organization dedicated to the conservation and preservation of India's natural, cultural, and built heritage. Provides authoritative documentation on traditional architecture, sculpture, iconography, and cultural practices.",
+    "topics": [
+      "indian-architecture",
+      "sculpture",
+      "iconography",
+      "cultural-heritage",
+      "traditional-arts",
+      "shilpa-shastra",
+      "vastu-shastra"
+    ],
+    "categories": [
+      "CULTURE",
+      "HERITAGE",
+      "ARCHITECTURE",
+      "ART",
+      "CONSERVATION"
+    ],
+    "rightsNotes": "Educational use with attribution. Contact for commercial use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "bc28374674268d59683084b4de1b49fec34aeb34d0e8af2cf96ddc32f684b788",
+    "sourceFile": "src\\content\\sources\\intach.md"
+  },
+  {
+    "id": "kalakshetra-foundation",
+    "name": "Kalakshetra Foundation",
+    "organization": "Kalakshetra Foundation",
+    "url": "https://kalakshetra.org",
+    "sourceType": "educational",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "All rights reserved - educational use",
+    "copyrightStatus": "link-only",
+    "description": "An autonomous center for the revival and preservation of Indian arts, particularly dance (Bharatanatyam), music (Carnatic and Hindustani), and theater. Provides authoritative information on performance traditions, their historical development, and pedagogical methods.",
+    "topics": [
+      "bharatanatyam",
+      "carnatic-music",
+      "dance-history",
+      "music-pedagogy",
+      "cultural-performance",
+      "indian-theater"
+    ],
+    "categories": [
+      "DANCE",
+      "MUSIC",
+      "PERFORMANCE ARTS",
+      "EDUCATION",
+      "INDIAN CULTURE"
+    ],
+    "rightsNotes": "Educational use permitted with attribution. Contact for commercial use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "7de05a46361aff36ef2ef4c889515a924d9e2db718ba6948e3977318f4fd084a",
+    "sourceFile": "src\\content\\sources\\kalakshetra-foundation.md"
+  },
+  {
+    "id": "karnataka-tourism",
+    "name": "Karnataka Tourism",
+    "organization": "Government of Karnataka",
+    "url": "https://www.karnatakatourism.org",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "kn"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Karnataka Tourism portal, providing authoritative information on temples (including Srirangam, Belur, Hampi), festivals, and cultural sites in Karnataka and neighboring regions. Includes location, architectural details, and historical context.",
+    "topics": [
+      "temple-tourism",
+      "karnataka-temples",
+      "festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "KARNATAKA",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Karnataka content. Use as authoritative source for temple details in Karnataka region.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "2627e221cb53a2f432b41e29af5c39d4e69d9c06de1e6bfa7aea11b862160bb6",
+    "sourceFile": "src\\content\\sources\\karnataka-tourism.md"
+  },
+  {
+    "id": "kerala-tourism",
+    "name": "Kerala State Information Commission",
+    "organization": "Government of Kerala",
+    "url": "https://www.keralatourism.org",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "ml"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Kerala Tourism portal, providing authoritative information on temples, festivals (including Onam), and cultural sites in Kerala. Includes location, historical context, and cultural details for Kerala's temple sites and regional festivals.",
+    "topics": [
+      "temple-tourism",
+      "kerala-temples",
+      "onam",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "KERALA",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Kerala content. Use as authoritative source for temple locations and festival details in Kerala.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "d5550d51945c51a1d230a5bc3fbc77df6f03caff00c520fb350c14f9bbd6b8ab",
+    "sourceFile": "src\\content\\sources\\kerala-tourism.md"
+  },
+  {
+    "id": "madhya-pradesh-archaeology",
+    "name": "Madhya Pradesh Archaeological Survey",
+    "organization": "Government of Madhya Pradesh",
+    "url": "https://mpland.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The Madhya Pradesh Department of Archaeology and Museums provides authoritative information on temples and heritage sites in Madhya Pradesh. Includes historical context, architectural details, and archaeological data.",
+    "topics": [
+      "temple-archaeology",
+      "mp-temples",
+      "heritage-sites",
+      "architectural-history"
+    ],
+    "categories": [
+      "ARCHAEOLOGY",
+      "HERITAGE",
+      "TEMPLES",
+      "MADHYA PRADESH"
+    ],
+    "rightsNotes": "Government of Madhya Pradesh content. Use as authoritative source for MP temple details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "7b75841a8e0acda06ae0c8c33ce0cd591f11fcceac79619b37ccd835d6ecd131",
+    "sourceFile": "src\\content\\sources\\madhya-pradesh-archaeology.md"
+  },
+  {
+    "id": "maharashtra-tourism",
+    "name": "Maharashtra Tourism",
+    "organization": "Government of Maharashtra",
+    "url": "https://maharashtratourism.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "mr"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Maharashtra Tourism portal, providing authoritative information on temples (including Pandharpur), festivals, and cultural sites in Maharashtra. Includes location, historical context, and pilgrimage details.",
+    "topics": [
+      "temple-tourism",
+      "maharashtra-temples",
+      "pandharpur",
+      "festivals",
+      "pilgrimage"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "PILGRIMAGE",
+      "MAHARASHTRA",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Maharashtra content. Use as authoritative source for Maharashtra temple details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "a2e82816df53c8f559fc29a48fbee1ad8d81a066985893c2f4b483c7181878f1",
+    "sourceFile": "src\\content\\sources\\maharashtra-tourism.md"
+  },
+  {
+    "id": "manipur-university-culture",
+    "name": "Manipur University - Department of Culture",
+    "organization": "Manipur University",
+    "url": "https://manipuruniv.ac.in",
+    "sourceType": "academic",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "link-only",
+    "description": "The Department of Culture at Manipur University conducts research and documentation on Manipuri classical dance, Rāsa Līlā, and the cultural heritage of Manipur. Provides authoritative academic resources on Manipuri performing arts.",
+    "topics": [
+      "manipuri-dance",
+      "rasa-lila",
+      "manipuri-culture",
+      "classical-dance",
+      "regional-arts"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "DANCE",
+      "CULTURE",
+      "REGIONAL STUDIES",
+      "MANIPUR"
+    ],
+    "rightsNotes": "Academic use with attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "95990c8bf932d1f3321744a2cb0ff87d307af836f4fbfc540243c52aec59410f",
+    "sourceFile": "src\\content\\sources\\manipur-university-culture.md"
+  },
+  {
+    "id": "motilal-banarsidass",
+    "name": "Motilal Banarsidass Publishers",
+    "organization": "Motilal Banarsidass",
+    "url": "https://www.mlbd.com",
+    "sourceType": "publisher",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "sa",
+      "hi"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "permission-required",
+    "description": "India's premier academic publisher specializing in Indology, Sanskrit, and South Asian studies. Provides scholarly works on textual criticism, manuscript studies, and Indian philosophical traditions. Source for critical editions and academic translations.",
+    "topics": [
+      "indology",
+      "textual-criticism",
+      "manuscript-studies",
+      "sanskrit",
+      "philosophy"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "PUBLISHER",
+      "INDIA STUDIES",
+      "SCHOLARSHIP",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Academic use. Used as authoritative reference for scholarly publications.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "ac93a34031b5fa22b352b1d36309a9eb21ddac29ad48b2caa16cab3b861a38d8",
+    "sourceFile": "src\\content\\sources\\motilal-banarsidass.md"
+  },
+  {
     "id": "muktabodha",
     "name": "Muktabodha Digital Library",
     "organization": "Muktabodha Indological Research Institute",
@@ -130,6 +1045,332 @@
     "sourceFile": "src\\content\\sources\\muktabodha.md"
   },
   {
+    "id": "national-institute-ayurveda",
+    "name": "National Institute of Ayurveda",
+    "organization": "Ministry of AYUSH, Government of India",
+    "url": "https://nia.nic.in",
+    "sourceType": "academic",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi",
+      "sa"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "Premier institute for Ayurveda education and research under the Ministry of AYUSH. Provides authoritative information on Ayurvedic texts, traditional medical knowledge, and institutional research.",
+    "topics": [
+      "ayurveda",
+      "traditional-medicine",
+      "ayurvedic-texts",
+      "caraka-samhita",
+      "sushruta-samhita",
+      "tridosha-theory"
+    ],
+    "categories": [
+      "MEDICINE",
+      "AYURVEDA",
+      "GOVERNMENT",
+      "RESEARCH",
+      "TRADITIONAL KNOWLEDGE"
+    ],
+    "rightsNotes": "Government of India content. Public domain for reference and educational use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "8618bbffc7da955edf62401827fc43d257cffd24a0b7643c82ad32fa34f788c9",
+    "sourceFile": "src\\content\\sources\\national-institute-ayurveda.md"
+  },
+  {
+    "id": "national-museum-new-delhi",
+    "name": "National Museum, New Delhi",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://nationalmuseumindia.gov.in",
+    "sourceType": "museum",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The National Museum, New Delhi, under the Ministry of Culture, houses extensive collections of Indian art, archaeology, and anthropology. Provides authoritative information on traditional Indian arts, sculpture, iconography, and architecture.",
+    "topics": [
+      "indian-art",
+      "sculpture",
+      "iconography",
+      "architecture",
+      "archaeology",
+      "cultural-heritage"
+    ],
+    "categories": [
+      "MUSEUM",
+      "ART",
+      "ARCHITECTURE",
+      "HERITAGE",
+      "GOVERNMENT"
+    ],
+    "rightsNotes": "Government of India content. Public domain for reference and educational use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "99359e1258478058664d68f797969a3c154f4ab83a38df7287d6e1ebd1fa6c26",
+    "sourceFile": "src\\content\\sources\\national-museum-new-delhi.md"
+  },
+  {
+    "id": "odisha-tourism",
+    "name": "Odisha Tourism",
+    "organization": "Government of Odisha",
+    "url": "https://odishatourism.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "link-only",
+    "description": "The official Odisha Tourism portal, providing authoritative information on temples (including Konark Sun Temple), festivals, and cultural sites in Odisha. Includes location, architectural details, historical context, and cultural details for Odisha's temple sites and regional festivals.",
+    "topics": [
+      "temple-tourism",
+      "odisha-temples",
+      "konark",
+      "festivals",
+      "cultural-sites"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "ODISHA",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Odisha content. Use as authoritative source for Odisha temple and festival details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "9aad5b4ea5258817f44e9a6756879f74a855a1dd9e7ed9021a6f0bf6ebe35541",
+    "sourceFile": "src\\content\\sources\\odisha-tourism.md"
+  },
+  {
+    "id": "oxford-university-press",
+    "name": "Oxford University Press",
+    "organization": "Oxford University Press",
+    "url": "https://www.oxfordacademic.com",
+    "sourceType": "publisher",
+    "authorityLevel": "academic",
+    "language": [
+      "en"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "cc-by-nc",
+    "description": "A leading academic publisher with extensive catalogs in Indology, South Asian studies, and religious studies. Provides peer-reviewed scholarly works on textual criticism, manuscript studies, and Indian philosophical traditions.",
+    "topics": [
+      "indology",
+      "textual-criticism",
+      "manuscript-studies",
+      "south-asian-studies",
+      "philosophy"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "PUBLISHER",
+      "INDIA STUDIES",
+      "SCHOLARSHIP",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Academic use. Used as authoritative reference for scholarly publications.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "9ba5baad35bd4cc432b4454944edb7d3f4ecc3f6d6d662b49b4c80b1edd14346",
+    "sourceFile": "src\\content\\sources\\oxford-university-press.md"
+  },
+  {
+    "id": "punjab-tourism",
+    "name": "Punjab Tourism",
+    "organization": "Government of Punjab",
+    "url": "https://www.punjab.gov.in/tourism",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Punjab Tourism portal, providing authoritative information on Vaisakhi festival and Sikh temples (gurdwaras) in Punjab. Includes location, historical context, and cultural details for Punjab's regional festivals and Sikh heritage sites.",
+    "topics": [
+      "vaisakhi",
+      "kushwant-singh",
+      "temple-tourism",
+      "sikh-festivals",
+      "cultural-sites"
+    ],
+    "categories": [
+      "TOURISM",
+      "FESTIVALS",
+      "GURDWARAS",
+      "PUNJAB",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Punjab content. Use as authoritative source for Vaisakhi festival details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "4f51c9b9f9fa38639b2082b7ac4e25ac145e7a6ffdb1db97ffd0576667098a49",
+    "sourceFile": "src\\content\\sources\\punjab-tourism.md"
+  },
+  {
+    "id": "rajasthan-tourism",
+    "name": "Rajasthan Tourism",
+    "organization": "Government of Rajasthan",
+    "url": "https://www.tourism.rajasthan.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Rajasthan Tourism portal, providing authoritative information on temples, festivals, and cultural sites in Rajasthan. Includes location, historical context, and architectural details for Rajasthan's heritage sites.",
+    "topics": [
+      "temple-tourism",
+      "rajasthan-temples",
+      "festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "RAJASTHAN",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Rajasthan content. Use as authoritative source for Rajasthan temple details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "c80c0affa9e6b65158330f71c5f01a88c60493f314a0aa8438962d3883c8b467",
+    "sourceFile": "src\\content\\sources\\rajasthan-tourism.md"
+  },
+  {
+    "id": "sangeet-natak-akademi",
+    "name": "Sangeet Natak Akademi",
+    "organization": "Ministry of Culture, Government of India",
+    "url": "https://sangeetnatak.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "India's national academy for music, dance, and drama. The premier institution for the preservation and promotion of performing arts in India. Provides authoritative documentation on classical music (Hindustani and Carnatic), classical dances, and folk traditions.",
+    "topics": [
+      "hindustani-music",
+      "carnatic-music",
+      "classical-dance",
+      "manipuri",
+      "folk-arts",
+      "performing-arts"
+    ],
+    "categories": [
+      "MUSIC",
+      "DANCE",
+      "GOVERNMENT",
+      "CULTURE",
+      "PERFORMING ARTS"
+    ],
+    "rightsNotes": "Government of India content. Public domain for reference and educational use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "e1f01c6e9bdedc1891305afcee3c6b891b7218359779b62727cd4d186c840a77",
+    "sourceFile": "src\\content\\sources\\sangeet-natak-akademi.md"
+  },
+  {
     "id": "sanskrit-library",
     "name": "The Sanskrit Library",
     "organization": "The Sanskrit Library",
@@ -170,6 +1411,52 @@
     "sourceFile": "src\\content\\sources\\sanskrit-library.md"
   },
   {
+    "id": "sanskriti-heritage-foundation",
+    "name": "Sanskriti Heritage Foundation",
+    "organization": "Sanskriti Pratishthana",
+    "url": "https://sanskritiheritage.org",
+    "sourceType": "educational",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "All rights reserved - educational use",
+    "copyrightStatus": "link-only",
+    "description": "A foundation dedicated to the preservation and documentation of Indian cultural heritage, including traditional arts, music, dance, and temple architecture. Provides scholarly resources on cultural practices and their historical development.",
+    "topics": [
+      "indian-culture",
+      "traditional-arts",
+      "dance",
+      "music",
+      "temple-architecture",
+      "cultural-heritage"
+    ],
+    "categories": [
+      "CULTURE",
+      "ARTS",
+      "MUSIC",
+      "DANCE",
+      "HERITAGE",
+      "INDIAN TRADITIONS"
+    ],
+    "rightsNotes": "Educational use permitted with attribution. Contact for commercial use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "714427b34b91ea4c8616867e4c1bedf85830976e3a5dffe7db2931dae599d529",
+    "sourceFile": "src\\content\\sources\\sanskriti-heritage-foundation.md"
+  },
+  {
     "id": "sarit",
     "name": "SARIT: Search and Retrieval of Indic Texts",
     "organization": "GRETIL / Indological digital-text project",
@@ -208,6 +1495,377 @@
     "notes": "Source seed only. No third-party text is copied into this project.",
     "contentHash": "69d2f177dcb1cc3f496d164695861be90549f3459c379106d9d7f321b9bb1eca",
     "sourceFile": "src\\content\\sources\\sarit.md"
+  },
+  {
+    "id": "sikh-history-research",
+    "name": "Sikh History Research Department",
+    "organization": "Sikh History Research Department, Punjabi University",
+    "url": "https://punjabiuniversity.ac.in/department/sikh-history-research",
+    "sourceType": "academic",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Academic use",
+    "copyrightStatus": "link-only",
+    "description": "The Sikh History Research Department at Punjabi University is a premier institution for academic research on Sikh history, including the founding of the Khalsa in 1699. Provides peer-reviewed scholarly publications on Sikh historical events.",
+    "topics": [
+      "sikh-history",
+      "khalsa-founding",
+      "vaisakhi-1699",
+      "guru-gobind-singh",
+      "sikh-studies"
+    ],
+    "categories": [
+      "ACADEMIC",
+      "SIKH STUDIES",
+      "HISTORY",
+      "RESEARCH"
+    ],
+    "rightsNotes": "Academic use with attribution. Contact for commercial use.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-22",
+    "accessDate": "2026-09-22",
+    "lastVerified": "2026-09-22",
+    "notes": "",
+    "contentHash": "a69255524b1e2a81dc2c9cc20455f56d949a12e841e7fd35cffec9a47978eadb",
+    "sourceFile": "src\\content\\sources\\sikh-history-research.md"
+  },
+  {
+    "id": "soas-university-london",
+    "name": "SOAS University of London",
+    "organization": "SOAS University of London, University of London",
+    "url": "https://soas.ac.uk",
+    "sourceType": "academic",
+    "authorityLevel": "academic",
+    "language": [
+      "en"
+    ],
+    "license": "Educational and research use permitted",
+    "copyrightStatus": "cc-by",
+    "description": "A leading institution for the study of Asia, Africa, and the Middle East, with significant expertise in Sanskrit, manuscript studies, and South Asian languages. The SOAS Library holds extensive Sanskrit manuscript collections and provides scholarly resources on textual criticism, paleography, and codicology.",
+    "topics": [
+      "sanskrit-manuscripts",
+      "paleography",
+      "codicology",
+      "textual-criticism",
+      "manuscript-studies",
+      "digital-humanities",
+      "south-asian-studies"
+    ],
+    "categories": [
+      "UNIVERSITY",
+      "MANUSCRIPTS",
+      "TEXTUAL CRITICISM",
+      "PALEOGRAPHY",
+      "CODICOLOGY",
+      "ACADEMIC RESEARCH"
+    ],
+    "rightsNotes": "Educational and research use permitted with attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "methodological-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "8cffdb0f6cb2e0bbad6ff8b41fd567de3006d29a09a1dfef4cf59521350ab95d",
+    "sourceFile": "src\\content\\sources\\soas-university-london.md"
+  },
+  {
+    "id": "tamil-nadu-tourism-department",
+    "name": "Tamil Nadu Tourism Department",
+    "organization": "Government of Tamil Nadu",
+    "url": "https://www.tamilnadu.gov.in/tourism",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "ta"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Tamil Nadu Tourism Department portal, providing authoritative information on temples (including Meenakshi, Rameshwaram, Brihadeeswara), festivals, and cultural sites in Tamil Nadu. Includes location, architectural details, historical context, and pilgrimage information.",
+    "topics": [
+      "temple-tourism",
+      "tamil-nadu-temples",
+      "meenakshi",
+      "rameshwaram",
+      "festivals",
+      "pilgrimage"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "PILGRIMAGE",
+      "TAMIL NADU",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Tamil Nadu content. Use as authoritative source for Tamil Nadu temple details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "093b769c8fad4171733c81ec2ac4df1c88ffc5fe8932b1e1c9c22ae39ce09fc8",
+    "sourceFile": "src\\content\\sources\\tamil-nadu-tourism-department.md"
+  },
+  {
+    "id": "tamil-nadu-tourism",
+    "name": "Tamil Nadu Tourism Development Corporation",
+    "organization": "Government of Tamil Nadu",
+    "url": "https://www.tamilnadutourism.tn.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "ta"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official tourism portal of Tamil Nadu state, providing authoritative information on temples, festivals, and cultural sites in Tamil Nadu. Includes location, historical context, architectural details, and visiting information for temple sites.",
+    "topics": [
+      "temple-tourism",
+      "tamil-nadu-temples",
+      "festivals",
+      "cultural-sites",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "FESTIVALS",
+      "TAMIL NADU",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Tamil Nadu content. Use as authoritative source for temple locations and festival details in Tamil Nadu.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "34cd917720a43e25c1dea17d90257f5f48ef3f2a519a02800a65e6aed7d4ea02",
+    "sourceFile": "src\\content\\sources\\tamil-nadu-tourism.md"
+  },
+  {
+    "id": "unesco-world-heritage-centre",
+    "name": "UNESCO World Heritage Centre",
+    "organization": "United Nations Educational, Scientific and Cultural Organization",
+    "url": "https://whc.unesco.org",
+    "sourceType": "educational",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Creative Commons CC BY-SA 3.0",
+    "copyrightStatus": "cc-by-sa",
+    "description": "The official UNESCO World Heritage Centre database provides authoritative information on World Heritage Sites, including cultural properties such as temple complexes, their Outstanding Universal Value, historical significance, and conservation status.",
+    "topics": [
+      "world-heritage",
+      "cultural-sites",
+      "temple-complexes",
+      "heritage-conservation",
+      "outstanding-universal-value"
+    ],
+    "categories": [
+      "UNESCO",
+      "WORLD HERITAGE",
+      "CULTURAL SITES",
+      "CONSERVATION",
+      "GLOBAL HERITAGE"
+    ],
+    "rightsNotes": "Content available under Creative Commons Attribution-ShareAlike 3.0 license. Requires attribution.",
+    "reuseAllowed": true,
+    "redistributionAllowed": true,
+    "commercialUseAllowed": true,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "7999a8ec17ce49bacbef19997ab928adea7f7eecf639e413e37f1456a7912548",
+    "sourceFile": "src\\content\\sources\\unesco-world-heritage-centre.md"
+  },
+  {
+    "id": "us-embassy-india",
+    "name": "U.S. Embassy Bangalore - Religious Traditions",
+    "organization": "United States Embassy, New Delhi",
+    "url": "https://in.usembassy.gov",
+    "sourceType": "educational",
+    "authorityLevel": "institutional",
+    "language": [
+      "en"
+    ],
+    "license": "Public information",
+    "copyrightStatus": "link-only",
+    "description": "The U.S. Embassy in India provides informational resources on religious traditions in India, including Hinduism, Sikhism, and their festivals. Used as a neutral reference for festival and religious practice information.",
+    "topics": [
+      "religion",
+      "hinduism",
+      "sikhism",
+      "festivals",
+      "cultural-traditions"
+    ],
+    "categories": [
+      "RELIGION",
+      "CULTURE",
+      "FESTIVALS",
+      "REFERENCE"
+    ],
+    "rightsNotes": "U.S. Government public information. Use as secondary reference.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "61f46a60b880aac957bfaec26ed2eb8d514ee0b52d79b33d5a7241abba5da18a",
+    "sourceFile": "src\\content\\sources\\us-embassy-india.md"
+  },
+  {
+    "id": "uttar-pradesh-tourism",
+    "name": "Uttar Pradesh Tourism",
+    "organization": "Government of Uttar Pradesh",
+    "url": "https://tourism.up.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Uttar Pradesh Tourism portal, providing authoritative information on temples, pilgrimage sites, and cultural attractions in Uttar Pradesh. Includes location, historical context, and pilgrimage details for temple sites like Varanasi (Kashi).",
+    "topics": [
+      "temple-tourism",
+      "kashi",
+      "varanasi",
+      "pilgrimage",
+      "festivals",
+      "heritage-locations"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "PILGRIMAGE",
+      "UTTAR PRADESH",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Uttar Pradesh content. Use as authoritative source for Uttar Pradesh temple and pilgrimage details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "661dc8effca09807e5413192d7e8e70682f33d439cbe44bc49697115dd590754",
+    "sourceFile": "src\\content\\sources\\uttar-pradesh-tourism.md"
+  },
+  {
+    "id": "uttarakhand-tourism",
+    "name": "Uttarakhand Tourism",
+    "organization": "Government of Uttarakhand",
+    "url": "https://uttarakhandtourism.gov.in",
+    "sourceType": "government",
+    "authorityLevel": "institutional",
+    "language": [
+      "en",
+      "hi"
+    ],
+    "license": "Government content",
+    "copyrightStatus": "public-domain",
+    "description": "The official Uttarakhand Tourism portal, providing authoritative information on pilgrimage sites (including Badrinath, Kedarnath), temples, and festivals in Uttarakhand. Includes location, historical context, and pilgrimage details for Uttarakhand's Himalayan temple sites.",
+    "topics": [
+      "pilgrimage",
+      "badrinath",
+      "kedarnath",
+      "temple-tourism",
+      "festivals",
+      "himalayan-sites"
+    ],
+    "categories": [
+      "TOURISM",
+      "TEMPLES",
+      "PILGRIMAGE",
+      "UTTARAKHAND",
+      "HERITAGE",
+      "CULTURE"
+    ],
+    "rightsNotes": "Government of Uttarakhand content. Use as authoritative source for Uttarakhand temple and pilgrimage details.",
+    "reuseAllowed": true,
+    "redistributionAllowed": false,
+    "commercialUseAllowed": false,
+    "availability": "active",
+    "howWeUse": [
+      "reference",
+      "link",
+      "metadata",
+      "factual-claims"
+    ],
+    "dateAccessed": "2026-09-21",
+    "accessDate": "2026-09-21",
+    "lastVerified": "2026-09-21",
+    "notes": "",
+    "contentHash": "226503e262c0590062f3fbed02d28300942e0470bce22176fba12d892de0b879",
+    "sourceFile": "src\\content\\sources\\uttarakhand-tourism.md"
   },
   {
     "id": "vedic-heritage-portal",

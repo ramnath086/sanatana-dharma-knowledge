@@ -2,19 +2,64 @@
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
-      "critical-edition",
-      "textual-criticism"
+      "maha-mrityunjaya-mantra",
+      "mahamrityunjaya-mantra"
     ],
-    "reason": "Alias collision: Textual Criticism.",
+    "reason": "Alias collision: Mahamrityunjaya Mantra.",
     "recommendation": "Review aliases and canonical identity."
   },
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
-      "havana",
-      "homa"
+      "maha-mrityunjaya-mantra",
+      "mahamrityunjaya-mantra"
     ],
-    "reason": "Alias collision: Havan.",
+    "reason": "Alias collision: महामृत्युंजय मंत्र.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "ganesh-chaturthi",
+      "ganesha-caturthi"
+    ],
+    "reason": "Canonical titles normalize to ganesacaturthi.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "ganesh-chaturthi",
+      "ganesha-caturthi"
+    ],
+    "reason": "Alias collision: Ganesh Chaturthi.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "ganesh-chaturthi",
+      "ganesha-caturthi"
+    ],
+    "reason": "Alias collision: गणेश चतुर्थी.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "devi-bhagavata-content",
+      "devi-bhagavata-purana"
+    ],
+    "reason": "Alias collision: Devi Bhagavatam.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "yajnavalkya-smriti-content",
+      "yajnavalkya-smriti"
+    ],
+    "reason": "Alias collision: Yajnavalkya Smriti.",
     "recommendation": "Review aliases and canonical identity."
   }
 ]

@@ -24,18 +24,6 @@
     "sourceFile": "src\\content\\relationships\\advaita-associated-shankara.md"
   },
   {
-    "id": "advaita-vedanta-parent",
-    "from": "advaita-vedanta",
-    "relationship": "subtype-of",
-    "to": "vedanta",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship; it does not rank Vedānta schools.",
-    "contentHash": "d7b00e159da70bf6c139c9f6c91efcf966a995c55262f1f2acaba74e1afeb538",
-    "sourceFile": "src\\content\\relationships\\advaita-vedanta-parent.md"
-  },
-  {
     "id": "advaita-vedanta-subtype-vedanta",
     "from": "advaita-vedanta",
     "relationship": "subtype-of",
@@ -1704,18 +1692,6 @@
     "sourceFile": "src\\content\\relationships\\sandhyavandana-practice-vedanga.md"
   },
   {
-    "id": "samkhya-darshana",
-    "from": "samkhya",
-    "relationship": "subtype-of",
-    "to": "darshana",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
-    "contentHash": "3fc0eb205e8a7695d1d95baa885892139b8b014420327f88d61dc4fbf3a18038",
-    "sourceFile": "src\\content\\relationships\\sankhya-darshana.md"
-  },
-  {
     "id": "samkhya-subtype-darshana",
     "from": "samkhya",
     "relationship": "subtype-of",
@@ -2016,54 +1992,6 @@
     "sourceFile": "src\\content\\relationships\\vashistha-dharmasutra-subtype-dharmasutra.md"
   },
   {
-    "id": "vedanga-chandas",
-    "from": "chandas",
-    "relationship": "subtype-of",
-    "to": "vedanga",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
-    "contentHash": "f61778066fc8a7b726b96c9dc2c954968fe0bf83e7cea413144a9fa3f9779c0e",
-    "sourceFile": "src\\content\\relationships\\vedanga-chandas.md"
-  },
-  {
-    "id": "vedanga-jyotisha",
-    "from": "jyotisha",
-    "relationship": "subtype-of",
-    "to": "vedanga",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
-    "contentHash": "762ff29c83525a425f9efb971965ca938db1535b3308a77f2cd23126ac294fe3",
-    "sourceFile": "src\\content\\relationships\\vedanga-jyotisha.md"
-  },
-  {
-    "id": "vedanga-kalpa",
-    "from": "kalpa",
-    "relationship": "subtype-of",
-    "to": "vedanga",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
-    "contentHash": "edf42bdd0ff992caa1fb11ffa4e4ace9d0d0c0ff814aa7dc134aff8118e741d5",
-    "sourceFile": "src\\content\\relationships\\vedanga-kalpa.md"
-  },
-  {
-    "id": "vedanga-nirukta",
-    "from": "nirukta",
-    "relationship": "subtype-of",
-    "to": "vedanga",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Vedāṅga discovery cluster.",
-    "contentHash": "0be0b50f054df7ddef856bc89838307998137e54b86749e9c673c9869b6a1ea1",
-    "sourceFile": "src\\content\\relationships\\vedanga-nirukta.md"
-  },
-  {
     "id": "vedanga-shiksha",
     "from": "shiksha",
     "relationship": "belongs-to-domain",
@@ -2086,18 +2014,6 @@
     "editorialNote": "A taxonomy relationship connecting Vyākaraṇa to the Vedāṅga domain.",
     "contentHash": "40b5739fbe3af6164524bbe70573a3e5c80786d3b318ede5b0524259b2ec836d",
     "sourceFile": "src\\content\\relationships\\vedanga-vyakarana.md"
-  },
-  {
-    "id": "vedanta-darshana",
-    "from": "vedanta",
-    "relationship": "subtype-of",
-    "to": "darshana",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Darśana and Vedānta discovery clusters.",
-    "contentHash": "886937833d2d2c54f75b2d7d19fb1e0f77f44bfb60e44ca6ce9e5276f830fe36",
-    "sourceFile": "src\\content\\relationships\\vedanta-darshana.md"
   },
   {
     "id": "vedanta-subtype-darshana",
@@ -2278,18 +2194,6 @@
     "editorialNote": "A controlled taxonomy relationship.",
     "contentHash": "eda26fede0b457c228afff05156e946375310117ec34f1a837ab2c898a9da440",
     "sourceFile": "src\\content\\relationships\\yajurveda-belongs-shruti.md"
-  },
-  {
-    "id": "yoga-darshana-parent",
-    "from": "yoga-darshana",
-    "relationship": "subtype-of",
-    "to": "darshana",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "A controlled relationship for the Darśana discovery cluster.",
-    "contentHash": "6c1915b782ff212ffdea718a41d052aab174e67f337710c9dccdaafe9c5455db",
-    "sourceFile": "src\\content\\relationships\\yoga-darshana-parent.md"
   },
   {
     "id": "yoga-darshana-subtype-darshana",
