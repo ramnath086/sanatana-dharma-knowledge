@@ -24,9 +24,9 @@
   <url><loc>/knowledge/dharmashastra</loc></url>
   <url><loc>/knowledge/practice</loc></url>
   <url><loc>/knowledge/shruti</loc></url>
+  <url><loc>/knowledge/vedic</loc></url>
   <url><loc>/knowledge/smriti</loc></url>
   <url><loc>/knowledge/stotra</loc></url>
-  <url><loc>/knowledge/vedic</loc></url>
   <url><loc>/knowledge/vedanga</loc></url>
   <url><loc>/knowledge/sanskrit</loc></url>
   <url><loc>/knowledge/ritual</loc></url>
@@ -57,6 +57,7 @@
   <url><loc>/concept/arjuna</loc></url>
   <url><loc>/concept/artha</loc></url>
   <url><loc>/concept/ashrama</loc></url>
+  <url><loc>/concept/atharvaveda-sakha</loc></url>
   <url><loc>/concept/atman</loc></url>
   <url><loc>/concept/bhagavad-gita-chapters</loc></url>
   <url><loc>/concept/bhagavata-purana-content</loc></url>
@@ -157,9 +158,11 @@
   <url><loc>/concept/rasa-theory</loc></url>
   <url><loc>/concept/ravana</loc></url>
   <url><loc>/concept/recension</loc></url>
+  <url><loc>/concept/rigveda-sakha</loc></url>
   <url><loc>/concept/rna-trivarga</loc></url>
   <url><loc>/concept/rna</loc></url>
   <url><loc>/concept/rudram</loc></url>
+  <url><loc>/concept/samaveda-sakha</loc></url>
   <url><loc>/concept/samsara</loc></url>
   <url><loc>/concept/sankhya-gunatraya</loc></url>
   <url><loc>/concept/sankhya-tattvas</loc></url>
@@ -187,6 +190,10 @@
   <url><loc>/concept/varna-ashrama-dharma</loc></url>
   <url><loc>/concept/varna</loc></url>
   <url><loc>/concept/vastushastra</loc></url>
+  <url><loc>/concept/vedic-deity</loc></url>
+  <url><loc>/concept/vedic-metre</loc></url>
+  <url><loc>/concept/vedic-priesthood</loc></url>
+  <url><loc>/concept/vedic-ritual</loc></url>
   <url><loc>/concept/videhamukti</loc></url>
   <url><loc>/concept/vidura</loc></url>
   <url><loc>/concept/vishishtadvaita-nitya-vibhuti</loc></url>
@@ -199,6 +206,7 @@
   <url><loc>/concept/vyavahara</loc></url>
   <url><loc>/concept/yajna-types</loc></url>
   <url><loc>/concept/yajnavalkya-smriti-content</loc></url>
+  <url><loc>/concept/yajurveda-sakha</loc></url>
   <url><loc>/concept/yoga-ashtanga</loc></url>
   <url><loc>/concept/yoga-kleshas</loc></url>
   <url><loc>/concept/yoga-samapatti</loc></url>

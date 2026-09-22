@@ -98,6 +98,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "atharvaveda-sakha",
+    "title": "Atharvaveda Śākhās",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "atman",
     "title": "Ātman",
     "status": "published",
@@ -904,6 +913,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "rigveda-sakha",
+    "title": "Ṛgveda Śākhās",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rna-trivarga",
     "title": "Ṛṇa-trayā",
     "status": "published",
@@ -924,6 +942,15 @@
   {
     "entityId": "rudram",
     "title": "Śrī Rudram",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samaveda-sakha",
+    "title": "Sāmaveda Śākhās",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1156,6 +1183,42 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "vedic-deity",
+    "title": "Vedic Deities",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedic-metre",
+    "title": "Vedic Metre (Chandas)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedic-priesthood",
+    "title": "Vedic Priesthood (Ṛtvij)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vedic-ritual",
+    "title": "Vedic Ritual (Yajña)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "videhamukti",
     "title": "Videhamukti",
     "status": "published",
@@ -1249,6 +1312,15 @@
   {
     "entityId": "yajnavalkya-smriti-content",
     "title": "Yājñavalkya Smṛti Content",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "yajurveda-sakha",
+    "title": "Yajurveda Śākhās",
     "status": "published",
     "issues": [
       "No relationships"

@@ -1227,6 +1227,108 @@
     }
   },
   {
+    "id": "atharvaveda-sakha",
+    "title": "Atharvaveda Śākhās",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Atharvaveda Shakhas",
+      "Atharvavedic Recensions",
+      "अथर्ववेद शाखा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The recensions (śākhās) of the Atharvaveda: Śaunaka (the principal surviving recension) and Paippalāda (partially preserved in Kashmir and Orissa); their textual differences and the Atharvaveda's unique character among the four Vedas are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The recensions (śākhās) of the Atharvaveda: Śaunaka (the principal surviving recension) and Paippalāda (partially preserved in Kashmir and Orissa); their textual differences and the Atharvaveda's unique character among the four Vedas are represented here as a catalogue entry.\n---",
+    "contentHash": "52eabfebda79c69834f05382a1764e352cafc3034da93b827b0ea7a95f0dd608",
+    "sourceFile": "src\\content\\concepts\\atharvaveda-sakha.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "atman",
     "title": "Ātman",
     "type": "concept",
@@ -11413,6 +11515,108 @@
     }
   },
   {
+    "id": "rigveda-sakha",
+    "title": "Ṛgveda Śākhās",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Rigveda Shakhas",
+      "Rigvedic Recensions",
+      "ऋग्वेद शाखा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The recensions (śākhās) of the Ṛgveda: the Śākalya śākhā (the only complete surviving recension), and historically attested lost recensions such as Bāṣkala, Āśvalāyana, Śāṅkhāyana, and Māṇḍukeya; their textual differences and geographical distribution are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The recensions (śākhās) of the Ṛgveda: the Śākalya śākhā (the only complete surviving recension), and historically attested lost recensions such as Bāṣkala, Āśvalāyana, Śāṅkhāyana, and Māṇḍukeya; their textual differences and geographical distribution are represented here as a catalogue entry.\n---",
+    "contentHash": "c058a5d90e5c3366d9aa0f52e346119233f74a798f4cc7d929b7b7023e8d7a91",
+    "sourceFile": "src\\content\\concepts\\rigveda-sakha.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "rna-trivarga",
     "title": "Ṛṇa-trayā",
     "type": "concept",
@@ -11648,6 +11852,108 @@
     "body": "The Śrī Rudram (Śatarudrīya) from the Taittirīya Saṃhitā (Kṛṣṇa Yajurveda), its eleven anuvākas, the Namakam and Chamakam sections, and its use in Śiva worship and abhiṣeka are represented here as a catalogue entry.\n---",
     "contentHash": "531f4e201ff0c19d626461287c9fce7a1d45e010c06ead082ecc4ea94ae2fc28",
     "sourceFile": "src\\content\\concepts\\rudram.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "samaveda-sakha",
+    "title": "Sāmaveda Śākhās",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Samaveda Shakhas",
+      "Samavedic Recensions",
+      "सामवेद शाखा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The recensions (śākhās) of the Sāmaveda: Kauthuma (the principal surviving recension), Rāṇāyanīya, and Jaiminīya/Talavakāra; their melodic differences and geographical distribution are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The recensions (śākhās) of the Sāmaveda: Kauthuma (the principal surviving recension), Rāṇāyanīya, and Jaiminīya/Talavakāra; their melodic differences and geographical distribution are represented here as a catalogue entry.\n---",
+    "contentHash": "b1e4986320bce3977e2216dadb1554626b9b04ce15ff23cc01f9e7e6267e18ba",
+    "sourceFile": "src\\content\\concepts\\samaveda-sakha.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -14473,6 +14779,416 @@
     }
   },
   {
+    "id": "vedic-deity",
+    "title": "Vedic Deities",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Deities",
+      "Vedic Gods",
+      "वैदिक देवता"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "DEITY",
+      "CONCEPT"
+    ],
+    "description": "The principal Vedic deities: Agni (fire), Indra (rain/warrior), Varuṇa (cosmic order), Mitra (contracts), the Aśvins (healing), Sūrya/Savitṛ (sun), Uṣas (dawn), Vāyu (wind), Rudra (storm), Viṣṇu (strides), Pūṣan (paths), Bṛhaspati (priesthood); their hymns, functions, and evolution into later Hindu deities are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The principal Vedic deities: Agni (fire), Indra (rain/warrior), Varuṇa (cosmic order), Mitra (contracts), the Aśvins (healing), Sūrya/Savitṛ (sun), Uṣas (dawn), Vāyu (wind), Rudra (storm), Viṣṇu (strides), Pūṣan (paths), Bṛhaspati (priesthood); their hymns, functions, and evolution into later Hindu deities are represented here as a catalogue entry.\n---",
+    "contentHash": "8f57453fe3f498fc9ca0b126ab04c801aa1fc686c8342be310aabc769edaafe7",
+    "sourceFile": "src\\content\\concepts\\vedic-deity.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vedic-metre",
+    "title": "Vedic Metre (Chandas)",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Chandas",
+      "Vedic Metre",
+      "वैदिक छन्दस्"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The system of Vedic metres (chandas): gāyatrī (24 syllables), uṣṇik (28), anuṣṭubh (32), bṛhatī (36), paṅkti (40), triṣṭubh (44), jagatī (48), and their use in the Ṛgveda Saṃhitā; the transition to classical Sanskrit metres is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The system of Vedic metres (chandas): gāyatrī (24 syllables), uṣṇik (28), anuṣṭubh (32), bṛhatī (36), paṅkti (40), triṣṭubh (44), jagatī (48), and their use in the Ṛgveda Saṃhitā; the transition to classical Sanskrit metres is represented here as a catalogue entry.\n---",
+    "contentHash": "08ad28267471274674ece9f193d84f56d5d82fef2b44e850b0d4b6a30fe47973",
+    "sourceFile": "src\\content\\concepts\\vedic-metre.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vedic-priesthood",
+    "title": "Vedic Priesthood (Ṛtvij)",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Priests",
+      "Rtvij",
+      "वैदिक ऋत्विज्"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The four principal Vedic priests (ṛtvij) and their assistants: hotṛ (Ṛgveda recitation), adhvaryu (Yajurveda ritual action), udgātṛ (Sāmaveda chanting), brahman (Atharvaveda supervision); their roles, assistants, and the symbolic correspondence to the four Vedas are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The four principal Vedic priests (ṛtvij) and their assistants: hotṛ (Ṛgveda recitation), adhvaryu (Yajurveda ritual action), udgātṛ (Sāmaveda chanting), brahman (Atharvaveda supervision); their roles, assistants, and the symbolic correspondence to the four Vedas are represented here as a catalogue entry.\n---",
+    "contentHash": "5a5c6e5ffa8ee15648ab3c88c8809d6ccf020f0aa1c7978f89e61b1682c24408",
+    "sourceFile": "src\\content\\concepts\\vedic-priesthood.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vedic-ritual",
+    "title": "Vedic Ritual (Yajña)",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vedic Yajna",
+      "Vedic Ritual",
+      "वैदिक यज्ञ"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "description": "The Vedic sacrificial system (yajña): the seven havir-yajñas (Agnihotra, Darśa-pūrṇamāsa, Āgrayaṇa, Cāturmāsya, Nirūḍhapaśubandha, Sautrāmaṇi, Agniṣṭoma) and the seven soma-yajñas (Agnistoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Vājapeya, Atirātra, Aptoryāma); their structure, priests (ṛtvij), and cosmological significance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Vedic sacrificial system (yajña): the seven havir-yajñas (Agnihotra, Darśa-pūrṇamāsa, Āgrayaṇa, Cāturmāsya, Nirūḍhapaśubandha, Sautrāmaṇi, Agniṣṭoma) and the seven soma-yajñas (Agnistoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Vājapeya, Atirātra, Aptoryāma); their structure, priests (ṛtvij), and cosmological significance are represented here as a catalogue entry.\n---",
+    "contentHash": "cba32f264a420196b55c4d24ebc06510c39afb90ada2e17d08b782d022f1663b",
+    "sourceFile": "src\\content\\concepts\\vedic-ritual.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "videhamukti",
     "title": "Videhamukti",
     "type": "concept",
@@ -15611,6 +16327,108 @@
     "body": "The Yājñavalkya Smṛti, its three books (ācāra, vyavahāra, prāyaścitta), its more systematic organization compared to Manusmṛti, and its influence on medieval Dharmaśāstra digests are represented here as a catalogue entry.\n---",
     "contentHash": "2c31dc178170e36230740ad6e87632dc0ed52af63c776165d73128cb51bb9169",
     "sourceFile": "src\\content\\concepts\\yajnavalkya-smriti-content.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "yajurveda-sakha",
+    "title": "Yajurveda Śākhās",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Yajurveda Shakhas",
+      "Yajurvedic Recensions",
+      "यजुर्वेद शाखा"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "SHRUTI",
+      "VEDIC",
+      "CONCEPT"
+    ],
+    "description": "The recensions (śākhās) of the Yajurveda: Kṛṣṇa (Black) Yajurveda śākhās — Taittirīya, Maitrāyaṇīya, Kaṭha, Kāpiṣṭhala — and Śukla (White) Yajurveda śākhās — Mādhyandina and Kāṇva; their structural differences (Saṃhitā/Brāhmaṇa separation vs. intermingling) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The recensions (śākhās) of the Yajurveda: Kṛṣṇa (Black) Yajurveda śākhās — Taittirīya, Maitrāyaṇīya, Kaṭha, Kāpiṣṭhala — and Śukla (White) Yajurveda śākhās — Mādhyandina and Kāṇva; their structural differences (Saṃhitā/Brāhmaṇa separation vs. intermingling) are represented here as a catalogue entry.\n---",
+    "contentHash": "7e750176361cf1092f77938b470c6f1e18397138453f05f7e890ca17b2cfc279",
+    "sourceFile": "src\\content\\concepts\\yajurveda-sakha.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
