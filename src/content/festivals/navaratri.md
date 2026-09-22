@@ -2,13 +2,12 @@
 id: navaratri
 title: Navarātri
 type: festival
-language: [sa, en]
-aliases: [Navratri, नवरात्रि]
-sources: [gretil]
+language: [sa, en, hi, bn, gu]
+aliases: [Navaratri, Navratri, नवरात्रि]
+sources: [gretil, bbc-religions]
 status: published
 verification: verified
-classifications: [FESTIVAL, Deity, REGIONAL_TRADITION, CULTURE]
+classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-A nine-night festival period whose forms, narratives, and observances vary significantly by region, tradition, and Devī-centered lineage.
-
-
+The nine-night festival of Navarātri (Navarātri) dedicated to the Goddess (Devī/Durgā) in her various forms; observed in autumn (Śarad Navarātri) and spring (Vasanta Navarātri); regional variations include Durgā Pūjā (Bengal), Golu (Tamil Nadu), Garbā (Gujarat), and Rāmalīlā (North India); its culmination in Vijayadaśamī/Dussehra is represented here as a catalogue entry.
+---

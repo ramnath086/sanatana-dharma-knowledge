@@ -211,6 +211,36 @@
     "contentHash": "7ed603326bd5e91175096d244abda9feeb47eb2115e21f55cebb2b8bcd3c3813"
   },
   {
+    "id": "apaddharma",
+    "title": "Āpaddharma",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Apaddharma",
+      "Emergency Dharma",
+      "आपद्धर्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "description": "The Dharmaśāstra concept of āpaddharma (dharma in times of distress/emergency): the relaxation of normal rules for survival, the hierarchy of permissible actions, and the principle that normal dharma resumes when the emergency passes; its textual basis in Manusmṛti and other Smṛtis is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Dharmaśāstra concept of āpaddharma (dharma in times of distress/emergency): the relaxation of normal rules for survival, the hierarchy of permissible actions, and the principle that normal dharma resumes when the emergency passes; its textual basis in Manusmṛti and other Smṛtis is represented here as a catalogue entry.\n---",
+    "contentHash": "94c473413de7066222e5cc27e587b2eea16c50618739ca3884ece0597835dfbd"
+  },
+  {
     "id": "apparatus-criticus",
     "title": "Apparatus Criticus",
     "type": "concept",
@@ -301,6 +331,36 @@
     "relationshipIds": [],
     "body": "One of the four puruṣārthas, referring to material prosperity, power, and security; its pursuit is contextualized by dharma in textual traditions.",
     "contentHash": "a2d516cc0a33065985f4d2b491a9f7d2879a473e7efb9b390adb02f1de19e09e"
+  },
+  {
+    "id": "ashrama-dharma",
+    "title": "Āśrama Dharma",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Ashrama Dharma",
+      "Ashrama System",
+      "आश्रम धर्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DHARMASHASTRA",
+      "CONCEPT"
+    ],
+    "description": "The four āśramas (stages of life) in Dharmaśāstra: brahmacarya (student), gṛhastha (householder), vānaprastha (forest-dweller), and saṃnyāsa (renunciant); their duties (dharma), transitions (saṃskāras), and the ideal progression toward mokṣa are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The four āśramas (stages of life) in Dharmaśāstra: brahmacarya (student), gṛhastha (householder), vānaprastha (forest-dweller), and saṃnyāsa (renunciant); their duties (dharma), transitions (saṃskāras), and the ideal progression toward mokṣa are represented here as a catalogue entry.\n---",
+    "contentHash": "d22d1a94c4fc09e7045e2ce666fed432a5b2c09ce6f9889de811c8fb1443979f"
   },
   {
     "id": "ashrama",
@@ -425,6 +485,38 @@
     "relationshipIds": [],
     "body": "The eighteen adhyāyas (chapters) of the Bhagavad Gītā, their thematic progression from viṣāda-yoga to mokṣa-sannyāsa-yoga, and their philosophical themes (karma-yoga, jñāna-yoga, bhakti-yoga) are represented here as a catalogue entry.\n---",
     "contentHash": "5fbee4e10728b28c6b62d42ef065d20e01c249ae6291e1bf85916aa2d992c2f0"
+  },
+  {
+    "id": "bhagavad-gita-philosophy",
+    "title": "Bhagavad Gītā Philosophy",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Gita Philosophy",
+      "Bhagavad Gita Philosophy",
+      "भगवद्गीता दर्शन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ITIHASA",
+      "SMRITI",
+      "PHILOSOPHY",
+      "CONCEPT"
+    ],
+    "description": "The philosophical teachings of the Bhagavad Gītā: the synthesis of karma-yoga (selfless action), jñāna-yoga (knowledge), and bhakti-yoga (devotion); the nature of the self (ātman), the supreme (puruṣottama), the three guṇas, and the concept of svadharma; its influence on later Vedānta schools are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The philosophical teachings of the Bhagavad Gītā: the synthesis of karma-yoga (selfless action), jñāna-yoga (knowledge), and bhakti-yoga (devotion); the nature of the self (ātman), the supreme (puruṣottama), the three guṇas, and the concept of svadharma; its influence on later Vedānta schools are represented here as a catalogue entry.\n---",
+    "contentHash": "fc5dc667c3eba9c1be845df5b1a4b4bb7d1b278f87531bb786b17354a149c6e9"
   },
   {
     "id": "bhagavata-purana-content",
@@ -1080,6 +1172,37 @@
     "contentHash": "89736a12e7e3ded9cfab018b455c32cd8eb61e2bd681fcf14d6305e4a9166785"
   },
   {
+    "id": "durga-forms",
+    "title": "Durgā Forms",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Durga Forms",
+      "Navadurga",
+      "दुर्गा रूप"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The forms of Durgā: the nine Navadurgās (Śailaputrī, Brahmacāriṇī, Chandraghaṇṭā, Kūṣmāṇḍā, Skandamātā, Kātyāyanī, Kālarātrī, Mahāgaurī, Siddhidātrī); the ten Mahāvidyās; the warrior Caṇḍikā and the mother Ambikā; their iconography, the Devī Māhātmya narrative, and the Navarātri festival are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The forms of Durgā: the nine Navadurgās (Śailaputrī, Brahmacāriṇī, Chandraghaṇṭā, Kūṣmāṇḍā, Skandamātā, Kātyāyanī, Kālarātrī, Mahāgaurī, Siddhidātrī); the ten Mahāvidyās; the warrior Caṇḍikā and the mother Ambikā; their iconography, the Devī Māhātmya narrative, and the Navarātri festival are represented here as a catalogue entry.\n---",
+    "contentHash": "0426d5755e9a3ab13c1a2f10848bedc7c41a5c4b7cf8e1d57f5ee5ea1ddf3a60"
+  },
+  {
     "id": "durga",
     "title": "Durgā",
     "type": "concept",
@@ -1612,6 +1735,37 @@
     "contentHash": "9ef6c8e257e709c02b288a609829a1c3ea0578a761549b0785c2cf3e111f10e1"
   },
   {
+    "id": "hanuman-forms",
+    "title": "Hanumān Forms",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Hanuman Forms",
+      "Anjaneya Forms",
+      "हनुमान रूप"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The forms of Hanumān (Añjanīputra, Māruti, Vāyusuta): the five-faced (pañcamukha) Hanumān, the eleven Rudra manifestations, the vīra (heroic) and dāsya (servitude) aspects; his iconography ( gadā, mountain, saṅjīvanī), his role in Rāmāyaṇa and Mahābhārata, and his worship across India are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The forms of Hanumān (Añjanīputra, Māruti, Vāyusuta): the five-faced (pañcamukha) Hanumān, the eleven Rudra manifestations, the vīra (heroic) and dāsya (servitude) aspects; his iconography ( gadā, mountain, saṅjīvanī), his role in Rāmāyaṇa and Mahābhārata, and his worship across India are represented here as a catalogue entry.\n---",
+    "contentHash": "021ff0647a0f4cbf438ab61802e332782c3065e609612e17c20f7ed44b08127d"
+  },
+  {
     "id": "hanuman",
     "title": "Hanumān",
     "type": "concept",
@@ -1704,6 +1858,36 @@
     "relationshipIds": [],
     "body": "A term for the Supreme Lord or personal God, whose ontological status and attributes are interpreted differently across Vedānta schools and Yoga philosophy.",
     "contentHash": "35da6891292bef32ea3fcafe56dc1da1f91ea2b9276a266689f5122030cabf5d"
+  },
+  {
+    "id": "itihasa-samskara",
+    "title": "Itihāsa Saṃskāra",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Itihasa Samskara",
+      "Itihasa Culture",
+      "इतिहास संस्कार"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "description": "The cultural impact of the Itihāsas (Mahābhārata and Rāmāyaṇa) on Indian civilization: their role in shaping values, performing arts (Kathakali, Yakṣagāṇa, Rāmalīlā), temple iconography, regional languages, and the transmission of dharma across generations; their oral and textual transmission are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The cultural impact of the Itihāsas (Mahābhārata and Rāmāyaṇa) on Indian civilization: their role in shaping values, performing arts (Kathakali, Yakṣagāṇa, Rāmalīlā), temple iconography, regional languages, and the transmission of dharma across generations; their oral and textual transmission are represented here as a catalogue entry.\n---",
+    "contentHash": "ac542d4218d6d580a71fe8b0633a21b5f9c5966384dc4929eb60f47a14112f10"
   },
   {
     "id": "japa-mala",
@@ -1944,6 +2128,37 @@
     "relationshipIds": [],
     "body": "A central figure of the Mahābhārata, known for his generosity and tragic role; traditional narratives are represented without historical conflation.",
     "contentHash": "c3ce2aa41ef1d43c40d9b9063fe716a02a30f1f837c74b442b5cf50754c63f34"
+  },
+  {
+    "id": "krishna-forms",
+    "title": "Kṛṣṇa Forms",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Krishna Forms",
+      "Krishnavatara",
+      "कृष्ण रूप"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The forms of Kṛṣṇa: the infant Bāla Gopāla, the cowherd Gopīnātha, the flute-player Veṇugopāla, the cow-lifter Govardhana-dhārī, the charioteer Pārtha-sārathi, the universal form Viśvarūpa, and the supreme Parabrahman; their iconography, associated texts (Bhāgavata, Gītā, Harivaṃśa), and regional worship (Vṛndāvana, Dvārakā, Nāthadvāra) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The forms of Kṛṣṇa: the infant Bāla Gopāla, the cowherd Gopīnātha, the flute-player Veṇugopāla, the cow-lifter Govardhana-dhārī, the charioteer Pārtha-sārathi, the universal form Viśvarūpa, and the supreme Parabrahman; their iconography, associated texts (Bhāgavata, Gītā, Harivaṃśa), and regional worship (Vṛndāvana, Dvārakā, Nāthadvāra) are represented here as a catalogue entry.\n---",
+    "contentHash": "071f3f4becf10491922016f6495f1b270efdbd7c781938f1835f9b6edf328fd1"
   },
   {
     "id": "krishna",
@@ -2249,6 +2464,36 @@
     "relationshipIds": [],
     "body": "A group of Upaniṣads embedded in the Mahābhārata, including the Mokṣa-dharma-parvan and the Bhagavad Gītā context; their philosophical themes of dharma, mokṣa, and yoga are represented here as a catalogue entry.\n---",
     "contentHash": "eb46d37b76b3db30f579331fd1ffc2ff2a658f0467575d22d049e021b58f0732"
+  },
+  {
+    "id": "mahabharata-war",
+    "title": "Mahābhārata War",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Mahabharata War",
+      "Kurukshetra War",
+      "महाभारत युद्ध"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "description": "The Kurukṣetra War, the central conflict of the Mahābhārata, fought between the Pāṇḍavas and Kauravas over eighteen days; its key warriors (Bhīṣma, Droṇa, Karṇa, Arjuna), the Bhagavad Gītā discourse, and its traditional dating are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The Kurukṣetra War, the central conflict of the Mahābhārata, fought between the Pāṇḍavas and Kauravas over eighteen days; its key warriors (Bhīṣma, Droṇa, Karṇa, Arjuna), the Bhagavad Gītā discourse, and its traditional dating are represented here as a catalogue entry.\n---",
+    "contentHash": "b6122e7b0a4dd61344900fbb54764718af694ca94b464195885da2311bbaf8c6"
   },
   {
     "id": "mahamrityunjaya-mantra",
@@ -3412,6 +3657,37 @@
     "contentHash": "9a62c5b8c3afb0ed7461a0e003baf7a952c86fff1b2c73d797939ed506fa6e10"
   },
   {
+    "id": "rama-forms",
+    "title": "Rāma Forms",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Rama Forms",
+      "Ramavatara",
+      "राम रूप"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DEITY",
+      "TRADITION",
+      "CONCEPT"
+    ],
+    "description": "The forms of Rāma: the prince of Ayodhyā, the exiled forest-dweller, the victor over Rāvaṇa, the ideal king (Rāmarājya), and the supreme Parabrahman (in Adhyātma Rāmāyaṇa); his iconography (bow, arrow, accompanied by Sītā, Lakṣmaṇa, Hanumān), and his worship in the Rāmānandī and Rāmānuja traditions are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The forms of Rāma: the prince of Ayodhyā, the exiled forest-dweller, the victor over Rāvaṇa, the ideal king (Rāmarājya), and the supreme Parabrahman (in Adhyātma Rāmāyaṇa); his iconography (bow, arrow, accompanied by Sītā, Lakṣmaṇa, Hanumān), and his worship in the Rāmānandī and Rāmānuja traditions are represented here as a catalogue entry.\n---",
+    "contentHash": "bb0d752884407b5a8160520a18ac3b735babbbff8350f63d01640a7f86125707"
+  },
+  {
     "id": "rama",
     "title": "Rāma",
     "type": "concept",
@@ -3501,6 +3777,35 @@
     "relationshipIds": [],
     "body": "The seven kāṇḍas (books) of the Vālmīki Rāmāyaṇa: Bāla, Ayodhyā, Araṇya, Kiṣkindhā, Sundara, Yuddha, Uttara; their narrative structure and key episodes are represented here as a catalogue entry.\n---",
     "contentHash": "03dc5b9a1f024cd6ead5026bf7c333c09fd654d20361f96f2fd513caf93b21f5"
+  },
+  {
+    "id": "ramayana-philosophy",
+    "title": "Rāmāyaṇa Philosophy",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Ramayana Philosophy",
+      "रामायण दर्शन"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "ITIHASA",
+      "CONCEPT"
+    ],
+    "description": "The philosophical and ethical teachings of the Rāmāyaṇa: the ideals of dharma (righteousness), satya (truth), kṣamā (forgiveness), dayā (compassion), and the ideal ruler (Rāma-rājya); the roles of ideal son, brother, husband, and king as embodied by Rāma, Lakṣmaṇa, Bharata, and Śatrughna are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The philosophical and ethical teachings of the Rāmāyaṇa: the ideals of dharma (righteousness), satya (truth), kṣamā (forgiveness), dayā (compassion), and the ideal ruler (Rāma-rājya); the roles of ideal son, brother, husband, and king as embodied by Rāma, Lakṣmaṇa, Bharata, and Śatrughna are represented here as a catalogue entry.\n---",
+    "contentHash": "a3ef23c2e544c9cf8475e7c5fc8aeb04e157a97ce05d810c61d1c3c03505bf14"
   },
   {
     "id": "rasa-theory",
@@ -3783,6 +4088,37 @@
     "relationshipIds": [],
     "body": "The cyclic process of birth, death, and rebirth that provides the soteriological background for the pursuit of liberation in Indian traditions.",
     "contentHash": "a553100d4f65649df5a810fb88603b0ac6dd89c13f962376803ea599852e908b"
+  },
+  {
+    "id": "samskara-types",
+    "title": "Saṃskāra Types",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Samskara Types",
+      "Hindu Sacraments",
+      "संस्कार प्रकार"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DHARMASHASTRA",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "description": "The sixteen principal saṃskāras (sacraments) in Dharmaśāstra: garbhādhāna (conception), puṃsavana (ensuring male offspring), sīmantonnayana (parting hair), jātakarma (birth), nāmakaraṇa (naming), niṣkramaṇa (first outing), annaprāśana (first solid food), cūḍākaraṇa (tonsure), upanayana (sacred thread), vedārambha (Vedic study), keśānta (first shaving), samāvartana (completion of studies), vivāha (marriage), and antyeṣṭi (funeral); their timing, mantras, and social significance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The sixteen principal saṃskāras (sacraments) in Dharmaśāstra: garbhādhāna (conception), puṃsavana (ensuring male offspring), sīmantonnayana (parting hair), jātakarma (birth), nāmakaraṇa (naming), niṣkramaṇa (first outing), annaprāśana (first solid food), cūḍākaraṇa (tonsure), upanayana (sacred thread), vedārambha (Vedic study), keśānta (first shaving), samāvartana (completion of studies), vivāha (marriage), and antyeṣṭi (funeral); their timing, mantras, and social significance are represented here as a catalogue entry.\n---",
+    "contentHash": "8d2eaa06470537f5bba3728a4d99a296ec6cb8766706f348d4483e9387db2f1c"
   },
   {
     "id": "sankhya-evolution",
@@ -5073,6 +5409,38 @@
     "contentHash": "466bfdc976ec4a7e499fed7d1d2870d37bdaf85571f022c3b2ba7090c97cedc2"
   },
   {
+    "id": "vrata-dharma",
+    "title": "Vrata Dharma",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en"
+    ],
+    "aliases": [
+      "Vrata Dharma",
+      "Vow Observance",
+      "व्रत धर्म"
+    ],
+    "sources": [
+      "gretil"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "DHARMASHASTRA",
+      "PRACTICE",
+      "RITUAL",
+      "CONCEPT"
+    ],
+    "description": "The role of vrata (vowed observance) in Dharmaśāstra: the classification into nitya (daily), naimittika (occasion-specific), and kāmya (desire-motivated); the components of vrata (saṅkalpa, upavāsa, japa, dāna, pūjā); its role in purification, merit (puṇya), and the attainment of specific goals are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil"
+    ],
+    "relationshipIds": [],
+    "body": "The role of vrata (vowed observance) in Dharmaśāstra: the classification into nitya (daily), naimittika (occasion-specific), and kāmya (desire-motivated); the components of vrata (saṅkalpa, upavāsa, japa, dāna, pūjā); its role in purification, merit (puṇya), and the attainment of specific goals are represented here as a catalogue entry.\n---",
+    "contentHash": "3d6ab0b812b7e51764b1151d358cb80e50e1980ef473776520bc0b0ac3b870a2"
+  },
+  {
     "id": "vyakarana",
     "title": "Vyākaraṇa",
     "type": "concept",
@@ -5694,6 +6062,40 @@
     "contentHash": "0277279bf847f9f09cf0e718a763a049e41ca46eb126ec18f733baa219eca3f8"
   },
   {
+    "id": "kalamkari-painting",
+    "title": "Kalamkari Painting",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Kalamkari",
+      "Kalamkari Art",
+      "कलमकारी"
+    ],
+    "sources": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Kalamkari (pen-craft) painting tradition of Andhra Pradesh and Telangana (Srikalahasti and Machilipatnam styles); hand-painted or block-printed cotton textiles with natural dyes depicting Rāmāyaṇa, Mahābhārata, and Purāṇic themes; its Persian influence and contemporary revival are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "relationshipIds": [],
+    "body": "The Kalamkari (pen-craft) painting tradition of Andhra Pradesh and Telangana (Srikalahasti and Machilipatnam styles); hand-painted or block-printed cotton textiles with natural dyes depicting Rāmāyaṇa, Mahābhārata, and Purāṇic themes; its Persian influence and contemporary revival are represented here as a catalogue entry.\n---",
+    "contentHash": "2c3fd8207db330892a4d4775721255c6cde59fc4e26ba220eb3bd13e0dd7fd20"
+  },
+  {
     "id": "kathakali",
     "title": "Kathakali",
     "type": "concept",
@@ -5938,6 +6340,40 @@
     "contentHash": "430384b269123c855fb50f2825c3fa7077dbdd43f1aaf037c2ed983d4b916d31"
   },
   {
+    "id": "pichwai-painting",
+    "title": "Pichwai Painting",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Pichwai",
+      "Pichwai Art",
+      "पिचवई"
+    ],
+    "sources": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Pichwai painting tradition of Nathdwara (Rajasthan), large cloth paintings hung behind the Śrīnāthajī deity (Kṛṣṇa as seven-year-old); their seasonal themes (Śarad Pūrṇimā, Gopāṣṭamī, Annakūṭa), use of natural pigments, and ritual function in the Puṣṭimārga tradition are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "relationshipIds": [],
+    "body": "The Pichwai painting tradition of Nathdwara (Rajasthan), large cloth paintings hung behind the Śrīnāthajī deity (Kṛṣṇa as seven-year-old); their seasonal themes (Śarad Pūrṇimā, Gopāṣṭamī, Annakūṭa), use of natural pigments, and ritual function in the Puṣṭimārga tradition are represented here as a catalogue entry.\n---",
+    "contentHash": "08a46eb70866687a1b11b755611fc9204fd25387cb5068a9edf3f59b3655fbc5"
+  },
+  {
     "id": "sanskrit-drama",
     "title": "Saṃskṛta Nāṭya",
     "type": "concept",
@@ -6008,6 +6444,40 @@
     "relationshipIds": [],
     "body": "The Thanjavur (Tanjore) painting tradition of Tamil Nadu, characterized by gold leaf, vibrant colors, and gesso work; its themes (Śrī Viṣṇu, Śiva, Gaṇeśa, Rāma), technique, and patronage by Maratha rulers are represented here as a catalogue entry.\n---",
     "contentHash": "a39c6deb2f78d83135801a9200477c7b12e44d3322f335e370b3f53479020b88"
+  },
+  {
+    "id": "warli-painting",
+    "title": "Warli Painting",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Warli Art",
+      "Warli Painting",
+      "वार्ली चित्रकला"
+    ],
+    "sources": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Warli painting tradition of the Warli tribe (Maharashtra–Gujarat border), characterized by white geometric figures on mud walls depicting daily life, nature, and rituals; its ritual origins (marriage, harvest), the use of rice paste, and its contemporary adaptation to paper/canvas are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "relationshipIds": [],
+    "body": "The Warli painting tradition of the Warli tribe (Maharashtra–Gujarat border), characterized by white geometric figures on mud walls depicting daily life, nature, and rituals; its ritual origins (marriage, harvest), the use of rice paste, and its contemporary adaptation to paper/canvas are represented here as a catalogue entry.\n---",
+    "contentHash": "5dc6c8fe6e3d5ffd1da4ac1ce4b384fdc189602693b0b6d2bc883bf6eed40d02"
   },
   {
     "id": "devi",
@@ -6470,6 +6940,80 @@
     "contentHash": "c3cb3f2d8c3c5edf7a7ca79d316f1c6f125878b159b51b452537350222d809be"
   },
   {
+    "id": "diwali",
+    "title": "Dīpāvalī",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en",
+      "hi",
+      "gu",
+      "mr",
+      "bn"
+    ],
+    "aliases": [
+      "Diwali",
+      "Deepavali",
+      "Deepawali",
+      "दीपावली"
+    ],
+    "sources": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "description": "Dīpāvalī (Diwali), the festival of lights observed on the new moon of Kārttika (Oct–Nov); celebrating Rāma's return to Ayodhyā, Lakṣmī-pūjā, the victory of light over darkness; regional variations include Kālī Pūjā (Bengal), the worship of Yama (Dhanteras), and the Sikh Bandī Chhor Divas; its economic and cultural significance are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "relationshipIds": [],
+    "body": "Dīpāvalī (Diwali), the festival of lights observed on the new moon of Kārttika (Oct–Nov); celebrating Rāma's return to Ayodhyā, Lakṣmī-pūjā, the victory of light over darkness; regional variations include Kālī Pūjā (Bengal), the worship of Yama (Dhanteras), and the Sikh Bandī Chhor Divas; its economic and cultural significance are represented here as a catalogue entry.\n---",
+    "contentHash": "e34af0f14aa7562e551086b1806005f4e4261afbdaf2f79aefd5ef70c32cc104"
+  },
+  {
+    "id": "dussehra",
+    "title": "Vijayadaśamī / Dussehra",
+    "type": "festival",
+    "language": [
+      "sa",
+      "en",
+      "hi",
+      "mr"
+    ],
+    "aliases": [
+      "Vijayadashami",
+      "Dussehra",
+      "Dasara",
+      "विजयादशमी"
+    ],
+    "sources": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "FESTIVAL",
+      "REGIONAL_TRADITION",
+      "CULTURE"
+    ],
+    "description": "Vijayadaśamī (Dussehra), the tenth day after Navarātri, celebrating the victory of good over evil: Durgā's victory over Mahiṣāsura (East/West India) and Rāma's victory over Rāvaṇa (North India); observed with Rāmalīlā enactments, effigy burning (Rāvaṇa, Kumbhakarṇa, Meghanāda), and the worship of weapons (śastra-pūjā); its regional variations are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "relationshipIds": [],
+    "body": "Vijayadaśamī (Dussehra), the tenth day after Navarātri, celebrating the victory of good over evil: Durgā's victory over Mahiṣāsura (East/West India) and Rāma's victory over Rāvaṇa (North India); observed with Rāmalīlā enactments, effigy burning (Rāvaṇa, Kumbhakarṇa, Meghanāda), and the worship of weapons (śastra-pūjā); its regional variations are represented here as a catalogue entry.\n---",
+    "contentHash": "edf5ed5f66b6bf59aa0d7a417685cf428e467fb8a0e969d971e34f31ad65322b"
+  },
+  {
     "id": "ganesh-chaturthi",
     "title": "Gaṇeśa Caturthī",
     "type": "festival",
@@ -6635,29 +7179,33 @@
     "type": "festival",
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi"
     ],
     "aliases": [
       "Holi",
+      "Holika Dahan",
       "होली"
     ],
     "sources": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "status": "published",
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "CULTURE",
-      "REGIONAL_TRADITION"
+      "REGIONAL_TRADITION",
+      "CULTURE"
     ],
-    "description": "A spring festival represented through varied regional practice, story, and community contexts.",
+    "description": "Holī, the spring festival of colours observed on the full moon of Phālguna (Feb–Mar); the evening Holikā Dahan (bonfire) commemorating Prahlāda's survival, and the day of colour play (Raṅgavalī Holī) celebrating divine love (Rādhā-Kṛṣṇa); regional variations include Lathmār Holī (Barsana) and Hola Mohalla (Sikh, Punjab) are represented here as a catalogue entry. ---",
     "sourceIds": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "relationshipIds": [],
-    "body": "A spring festival represented through varied regional practice, story, and community contexts.",
-    "contentHash": "ff831b3be9eb372e1083fb4344b943b416b1658b9daa6e441dbfd5a3f5e3eb5d"
+    "body": "Holī, the spring festival of colours observed on the full moon of Phālguna (Feb–Mar); the evening Holikā Dahan (bonfire) commemorating Prahlāda's survival, and the day of colour play (Raṅgavalī Holī) celebrating divine love (Rādhā-Kṛṣṇa); regional variations include Lathmār Holī (Barsana) and Hola Mohalla (Sikh, Punjab) are represented here as a catalogue entry.\n---",
+    "contentHash": "5c3b7cc40ac232eabce510699478142a50cf87b9e33367cb869aed5fc05c35da"
   },
   {
     "id": "janmashtami",
@@ -6926,30 +7474,35 @@
     "type": "festival",
     "language": [
       "sa",
-      "en"
+      "en",
+      "hi",
+      "bn",
+      "gu"
     ],
     "aliases": [
+      "Navaratri",
       "Navratri",
       "नवरात्रि"
     ],
     "sources": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "status": "published",
     "verification": "verified",
     "classifications": [
       "FESTIVAL",
-      "Deity",
       "REGIONAL_TRADITION",
       "CULTURE"
     ],
-    "description": "A nine-night festival period whose forms, narratives, and observances vary significantly by region, tradition, and Devī-centered lineage.",
+    "description": "The nine-night festival of Navarātri (Navarātri) dedicated to the Goddess (Devī/Durgā) in her various forms; observed in autumn (Śarad Navarātri) and spring (Vasanta Navarātri); regional variations include Durgā Pūjā (Bengal), Golu (Tamil Nadu), Garbā (Gujarat), and Rāmalīlā (North India); its culmination in Vijayadaśamī/Dussehra is represented here as a catalogue entry. ---",
     "sourceIds": [
-      "gretil"
+      "gretil",
+      "bbc-religions"
     ],
     "relationshipIds": [],
-    "body": "A nine-night festival period whose forms, narratives, and observances vary significantly by region, tradition, and Devī-centered lineage.",
-    "contentHash": "616e1417bf71ffb61b512a608d92a9791362b447a2e5928231c89134a8000a9a"
+    "body": "The nine-night festival of Navarātri (Navarātri) dedicated to the Goddess (Devī/Durgā) in her various forms; observed in autumn (Śarad Navarātri) and spring (Vasanta Navarātri); regional variations include Durgā Pūjā (Bengal), Golu (Tamil Nadu), Garbā (Gujarat), and Rāmalīlā (North India); its culmination in Vijayadaśamī/Dussehra is represented here as a catalogue entry.\n---",
+    "contentHash": "ce951722dc627330516dd4fba24889d85ce39f4293ea4ae4529c8c10b860a6c2"
   },
   {
     "id": "onam",
@@ -7478,6 +8031,39 @@
     "contentHash": "0342a07c46d0d81f1bd0f1f7a1f5f0574d0b9e07232be0ffefafd8e91ef84845"
   },
   {
+    "id": "kabir",
+    "title": "Kabīr",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Kabir",
+      "Kabirdas",
+      "कबीर"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Kabīr (c. 1440–1518), the mystic poet-saint of the Bhakti movement, synthesizing Hindu and Islamic devotional traditions; his verses (bījak, sākhīs, śabdas) emphasizing nirguṇa-bhakti (devotion to the formless), the guru, and the critique of ritual orthodoxy; his influence on the Kabīr Panth and Sikh scripture (Gurū Granth Sāhib) is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Kabīr (c. 1440–1518), the mystic poet-saint of the Bhakti movement, synthesizing Hindu and Islamic devotional traditions; his verses (bījak, sākhīs, śabdas) emphasizing nirguṇa-bhakti (devotion to the formless), the guru, and the critique of ritual orthodoxy; his influence on the Kabīr Panth and Sikh scripture (Gurū Granth Sāhib) is represented here as a catalogue entry.\n---",
+    "contentHash": "4d211de03d8713677ae8e81780a0f6d6da464eb4175214df1122743120acd54f"
+  },
+  {
     "id": "madhva",
     "title": "Madhva",
     "type": "acharya",
@@ -7548,6 +8134,39 @@
     "relationshipIds": [],
     "body": "A Vedānta ācārya traditionally associated with Dvaitādvaita (Bhedābheda) Vedānta; traditional dating and biography are kept distinct from historical scholarship.",
     "contentHash": "4f8c65399dd236c978e70741f634d82458c5d6fcfdd92a6dbf4911dde5c79f61"
+  },
+  {
+    "id": "ramananda",
+    "title": "Rāmānanda",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Ramananda",
+      "Ramanand",
+      "रामानन्द"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Rāmānanda (c. 14th–15th century), the founder of the Rāmānandī sect, a North Indian Vaiṣṇava tradition emphasizing Rāma-bhakti and the accessibility of devotion regardless of caste; his disciples included Kabīr, Ravidās, and Sena; his role in the Bhakti movement in North India is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Rāmānanda (c. 14th–15th century), the founder of the Rāmānandī sect, a North Indian Vaiṣṇava tradition emphasizing Rāma-bhakti and the accessibility of devotion regardless of caste; his disciples included Kabīr, Ravidās, and Sena; his role in the Bhakti movement in North India is represented here as a catalogue entry.\n---",
+    "contentHash": "1caa1dfb629881db08cc05a4b309c6e3718106163ec0da4fe48fbaa3e26a8fce"
   },
   {
     "id": "ramanuja",
@@ -7622,6 +8241,72 @@
     "relationshipIds": [],
     "body": "Traditional attribution places Śaṅkara in the 8th century CE; scholarly dating varies and historical reconstruction remains distinct from hagiographical accounts. He is associated with Advaita Vedānta through traditional and textual lineages.",
     "contentHash": "745887e338af77b402a22bb425ba8013399c0240b10db74355387e4bf292d3bf"
+  },
+  {
+    "id": "surdas",
+    "title": "Sūrdās",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Surdas",
+      "Surdasji",
+      "सूरदास"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Sūrdās (c. 1478–1583), the blind poet-saint of the Puṣṭimārga (Vallabha sect), composer of the Sūrsāgar (thousands of Braj bhāṣā poems on Kṛṣṇa-līlā); his depiction of Kṛṣṇa's childhood (bāla-līlā), the gopīs' love, and the philosophy of puṣṭi (grace) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Sūrdās (c. 1478–1583), the blind poet-saint of the Puṣṭimārga (Vallabha sect), composer of the Sūrsāgar (thousands of Braj bhāṣā poems on Kṛṣṇa-līlā); his depiction of Kṛṣṇa's childhood (bāla-līlā), the gopīs' love, and the philosophy of puṣṭi (grace) are represented here as a catalogue entry.\n---",
+    "contentHash": "90cc2340df8806249407136d6744b416ee7bb0ddf16883e76869ad69deec681a"
+  },
+  {
+    "id": "tulsidas",
+    "title": "Tulsīdās",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Tulsidas",
+      "Goswami Tulsidas",
+      "तुलसीदास"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Tulsīdās (1532–1623), the composer of the Rāmacaritamānasa (Awadhi retelling of the Rāmāyaṇa), the Hanumān Cālīsā, and the Vinaya Patrikā; his role in popularizing Rāma-bhakti in North India, his founding of the Sankat Mochan Temple (Varanasi), and his influence on the Rāmānandī tradition are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Tulsīdās (1532–1623), the composer of the Rāmacaritamānasa (Awadhi retelling of the Rāmāyaṇa), the Hanumān Cālīsā, and the Vinaya Patrikā; his role in popularizing Rāma-bhakti in North India, his founding of the Sankat Mochan Temple (Varanasi), and his influence on the Rāmānandī tradition are represented here as a catalogue entry.\n---",
+    "contentHash": "5812bd84d177e50df67bf55b8239bdc8a2af26e5fc02d649919c32fb128e5965"
   },
   {
     "id": "vallabha",
@@ -11832,6 +12517,40 @@
     "contentHash": "e5af6b720786d9be537cc5cd16044e9d20b185c75cd8e2918273aa6c3de718dd"
   },
   {
+    "id": "akshardham-delhi",
+    "title": "Akshardham Delhi",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Akshardham Temple Delhi",
+      "Swaminarayan Akshardham",
+      "अक्षरधाम दिल्ली"
+    ],
+    "sources": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Swaminarayan Akshardham Temple in Delhi, a modern stone temple complex (completed 2005) built by BAPS, dedicated to Bhagavān Swaminarayan; its traditional architecture (pink sandstone, white marble), exhibition halls, and cultural exhibitions are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Swaminarayan Akshardham Temple in Delhi, a modern stone temple complex (completed 2005) built by BAPS, dedicated to Bhagavān Swaminarayan; its traditional architecture (pink sandstone, white marble), exhibition halls, and cultural exhibitions are represented here as a catalogue entry.\n---",
+    "contentHash": "f0742cf27bd26f3b0376bd6d91f12e5bf99d54a5d0e869adcf85cfa9ee960973"
+  },
+  {
     "id": "badrinath",
     "title": "Badrinātha Temple",
     "type": "temple",
@@ -11945,6 +12664,42 @@
     "contentHash": "aa981a8a56ed894ccd4a14ffd1cb3a7f54fc5bceec024cebfd37118d4a7e6306"
   },
   {
+    "id": "chidambaram-nataraja",
+    "title": "Chidambaram Nataraja Temple",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Chidambaram Temple",
+      "Nataraja Temple",
+      "चिदंबरम नटराज मंदिर"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Naṭarāja Temple at Chidambaram, Tamil Nadu, dedicated to Śiva as the cosmic dancer (Naṭarāja); its golden roof, the Chit Sabhā (hall of consciousness), the Ānanda Tāṇḍava depiction, and its association with the five elements (pañcabhūta) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Naṭarāja Temple at Chidambaram, Tamil Nadu, dedicated to Śiva as the cosmic dancer (Naṭarāja); its golden roof, the Chit Sabhā (hall of consciousness), the Ānanda Tāṇḍava depiction, and its association with the five elements (pañcabhūta) are represented here as a catalogue entry.\n---",
+    "contentHash": "cf8a8176d19c50e780298a3fe8fa7cce0dad47369683846684e1dd592527e9a6"
+  },
+  {
     "id": "dwaraka",
     "title": "Dvārakā Temple (Dvārakādhīśa)",
     "type": "temple",
@@ -11979,6 +12734,42 @@
     "relationshipIds": [],
     "body": "The Dvārakādhīśa Temple at Dvārakā, Gujarat, one of the four Dhāmas and a major Kṛṣṇa pilgrimage site; its history and submerged city traditions are represented here as a catalogue entry.",
     "contentHash": "d265044633557e155e90ccf7226e8e50879cd97bc058697a64851e204fa4c608"
+  },
+  {
+    "id": "ekambareswarar-kanchipuram",
+    "title": "Ekambareswarar Temple Kanchipuram",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Ekambareswarar Temple",
+      "Kanchipuram Shiva Temple",
+      "एकाम्बरेश्वर मंदिर"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Ekambareśvarar Temple at Kāñcīpuram, Tamil Nadu, one of the Pañcabhūta-sthalas representing earth (pṛthvī); its ancient mango tree (sthala-vṛkṣa), the 1000-pillared hall, and its association with the Ādi Śaṅkara tradition are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Ekambareśvarar Temple at Kāñcīpuram, Tamil Nadu, one of the Pañcabhūta-sthalas representing earth (pṛthvī); its ancient mango tree (sthala-vṛkṣa), the 1000-pillared hall, and its association with the Ādi Śaṅkara tradition are represented here as a catalogue entry.\n---",
+    "contentHash": "7ce77628be57137d1790db536762e2b482b44007a9db367f9e90b68100626e1f"
   },
   {
     "id": "guruvayur",
@@ -12087,6 +12878,42 @@
     "relationshipIds": [],
     "body": "The Jagannātha Temple at Purī, Odisha, one of the four Dhāmas; its distinctive deities, Ratha Yātrā, and temple administration are represented here as a catalogue entry.",
     "contentHash": "59b8f0bcab3ec531b52f0287a0cef3a4ba737b98b3e27aa920f4070491214046"
+  },
+  {
+    "id": "jambukeswarar-tiruvanaikaval",
+    "title": "Jambukeswarar Temple Tiruvanaikaval",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Jambukeswarar Temple",
+      "Tiruvanaikaval Temple",
+      "जम्बुकेश्वर मंदिर"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "CULTURE"
+    ],
+    "description": "The Jambukeśvarar Temple at Tiruvanaikaval (near Tiruchirappalli), Tamil Nadu, one of the Pañcabhūta-sthalas representing water (āpas/jala); its subterranean water stream in the sanctum, the Appu Liṅga, and its association with the goddess Akhilāṇḍeśvarī are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Jambukeśvarar Temple at Tiruvanaikaval (near Tiruchirappalli), Tamil Nadu, one of the Pañcabhūta-sthalas representing water (āpas/jala); its subterranean water stream in the sanctum, the Appu Liṅga, and its association with the goddess Akhilāṇḍeśvarī are represented here as a catalogue entry.\n---",
+    "contentHash": "95067020c0d54f023eb16f21a7bdf41b35723cca13a796f8ece24b87ea5594b4"
   },
   {
     "id": "kanchipuram",

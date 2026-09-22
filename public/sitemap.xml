@@ -18,10 +18,10 @@
   <url><loc>/knowledge/tradition</loc></url>
   <url><loc>/knowledge/culture</loc></url>
   <url><loc>/knowledge/philosophy</loc></url>
+  <url><loc>/knowledge/dharmashastra</loc></url>
   <url><loc>/knowledge/manuscript</loc></url>
   <url><loc>/knowledge/scholarship</loc></url>
   <url><loc>/knowledge/itihasa</loc></url>
-  <url><loc>/knowledge/dharmashastra</loc></url>
   <url><loc>/knowledge/practice</loc></url>
   <url><loc>/knowledge/shruti</loc></url>
   <url><loc>/knowledge/vedic</loc></url>
@@ -42,6 +42,7 @@
   <url><loc>/knowledge/regional_tradition</loc></url>
   <url><loc>/knowledge/glossary</loc></url>
   <url><loc>/knowledge/acharya</loc></url>
+  <url><loc>/knowledge/teacher</loc></url>
   <url><loc>/knowledge/rishi</loc></url>
   <url><loc>/knowledge/temple</loc></url>
   <url><loc>/knowledge/sampradaya</loc></url>
@@ -53,13 +54,16 @@
   <url><loc>/concept/agni-purana-content</loc></url>
   <url><loc>/concept/alankara-shastra</loc></url>
   <url><loc>/concept/anubandha-chatushtaya</loc></url>
+  <url><loc>/concept/apaddharma</loc></url>
   <url><loc>/concept/apparatus-criticus</loc></url>
   <url><loc>/concept/arjuna</loc></url>
   <url><loc>/concept/artha</loc></url>
+  <url><loc>/concept/ashrama-dharma</loc></url>
   <url><loc>/concept/ashrama</loc></url>
   <url><loc>/concept/atharvaveda-sakha</loc></url>
   <url><loc>/concept/atman</loc></url>
   <url><loc>/concept/bhagavad-gita-chapters</loc></url>
+  <url><loc>/concept/bhagavad-gita-philosophy</loc></url>
   <url><loc>/concept/bhagavata-purana-content</loc></url>
   <url><loc>/concept/bhakti</loc></url>
   <url><loc>/concept/bhavishya-purana</loc></url>
@@ -81,6 +85,7 @@
   <url><loc>/concept/digital-humanities</loc></url>
   <url><loc>/concept/digitization</loc></url>
   <url><loc>/concept/draupadi</loc></url>
+  <url><loc>/concept/durga-forms</loc></url>
   <url><loc>/concept/durga</loc></url>
   <url><loc>/concept/duryodhana</loc></url>
   <url><loc>/concept/dvaita-pancabheda</loc></url>
@@ -98,9 +103,11 @@
   <url><loc>/concept/gita-jnana-yoga</loc></url>
   <url><loc>/concept/gita-karma-yoga</loc></url>
   <url><loc>/concept/gita-mahatmya</loc></url>
+  <url><loc>/concept/hanuman-forms</loc></url>
   <url><loc>/concept/hanuman</loc></url>
   <url><loc>/concept/hare-krishna-mahamantra</loc></url>
   <url><loc>/concept/ishvara</loc></url>
+  <url><loc>/concept/itihasa-samskara</loc></url>
   <url><loc>/concept/japa-mala</loc></url>
   <url><loc>/concept/jivanmukti</loc></url>
   <url><loc>/concept/jnana</loc></url>
@@ -109,6 +116,7 @@
   <url><loc>/concept/kama</loc></url>
   <url><loc>/concept/karma</loc></url>
   <url><loc>/concept/karna</loc></url>
+  <url><loc>/concept/krishna-forms</loc></url>
   <url><loc>/concept/krishna</loc></url>
   <url><loc>/concept/kunti</loc></url>
   <url><loc>/concept/lakshmana</loc></url>
@@ -119,6 +127,7 @@
   <url><loc>/concept/mahabharata-characters</loc></url>
   <url><loc>/concept/mahabharata-parvas</loc></url>
   <url><loc>/concept/mahabharata-upanishad</loc></url>
+  <url><loc>/concept/mahabharata-war</loc></url>
   <url><loc>/concept/mahamrityunjaya-mantra</loc></url>
   <url><loc>/concept/mahapurana</loc></url>
   <url><loc>/concept/mandodari</loc></url>
@@ -157,9 +166,11 @@
   <url><loc>/concept/purusha</loc></url>
   <url><loc>/concept/purushartha</loc></url>
   <url><loc>/concept/rajadharma</loc></url>
+  <url><loc>/concept/rama-forms</loc></url>
   <url><loc>/concept/rama</loc></url>
   <url><loc>/concept/ramayana-characters</loc></url>
   <url><loc>/concept/ramayana-kandas</loc></url>
+  <url><loc>/concept/ramayana-philosophy</loc></url>
   <url><loc>/concept/rasa-theory</loc></url>
   <url><loc>/concept/ravana</loc></url>
   <url><loc>/concept/recension</loc></url>
@@ -169,6 +180,7 @@
   <url><loc>/concept/rudram</loc></url>
   <url><loc>/concept/samaveda-sakha</loc></url>
   <url><loc>/concept/samsara</loc></url>
+  <url><loc>/concept/samskara-types</loc></url>
   <url><loc>/concept/sankhya-evolution</loc></url>
   <url><loc>/concept/sankhya-gunatraya</loc></url>
   <url><loc>/concept/sankhya-purusha-prakriti</loc></url>
@@ -211,6 +223,7 @@
   <url><loc>/concept/vishnu-sahasranama</loc></url>
   <url><loc>/concept/vivarta-vada</loc></url>
   <url><loc>/concept/vrata-categories</loc></url>
+  <url><loc>/concept/vrata-dharma</loc></url>
   <url><loc>/concept/vyakarana</loc></url>
   <url><loc>/concept/vyavahara</loc></url>
   <url><loc>/concept/yajna-types</loc></url>
@@ -230,6 +243,7 @@
   <url><loc>/concept/dhanurveda</loc></url>
   <url><loc>/concept/gandharva-veda</loc></url>
   <url><loc>/concept/hindustani-music</loc></url>
+  <url><loc>/concept/kalamkari-painting</loc></url>
   <url><loc>/concept/kathakali</loc></url>
   <url><loc>/concept/kuchipudi</loc></url>
   <url><loc>/concept/madhubani-painting</loc></url>
@@ -237,8 +251,10 @@
   <url><loc>/concept/mohiniyattam</loc></url>
   <url><loc>/concept/odissi</loc></url>
   <url><loc>/concept/pattachitra-painting</loc></url>
+  <url><loc>/concept/pichwai-painting</loc></url>
   <url><loc>/concept/sanskrit-drama</loc></url>
   <url><loc>/concept/tanjore-painting</loc></url>
+  <url><loc>/concept/warli-painting</loc></url>
   <url><loc>/deity/devi</loc></url>
   <url><loc>/deity/ganesha</loc></url>
   <url><loc>/deity/narasimha</loc></url>
@@ -254,6 +270,8 @@
   <url><loc>/festival/chhath-puja</loc></url>
   <url><loc>/festival/deva-uthani-ekadashi</loc></url>
   <url><loc>/festival/dipavali</loc></url>
+  <url><loc>/festival/diwali</loc></url>
+  <url><loc>/festival/dussehra</loc></url>
   <url><loc>/festival/ganesh-chaturthi</loc></url>
   <url><loc>/festival/ganesha-caturthi</loc></url>
   <url><loc>/festival/gita-jayanti</loc></url>
@@ -284,10 +302,14 @@
   <url><loc>/glossary-term/prasada</loc></url>
   <url><loc>/acharya/caitanya</loc></url>
   <url><loc>/acharya/jiva-gosvami</loc></url>
+  <url><loc>/teacher/kabir</loc></url>
   <url><loc>/acharya/madhva</loc></url>
   <url><loc>/acharya/nimbarka</loc></url>
+  <url><loc>/teacher/ramananda</loc></url>
   <url><loc>/acharya/ramanuja</loc></url>
   <url><loc>/acharya/shankara</loc></url>
+  <url><loc>/teacher/surdas</loc></url>
+  <url><loc>/teacher/tulsidas</loc></url>
   <url><loc>/acharya/vallabha</loc></url>
   <url><loc>/teacher/valmiki</loc></url>
   <url><loc>/teacher/vyasa</loc></url>
@@ -431,13 +453,17 @@
   <url><loc>/scripture/yaska-nirukta</loc></url>
   <url><loc>/scripture/yogachudamani-upanishad</loc></url>
   <url><loc>/scripture/yogattva-upanishad</loc></url>
+  <url><loc>/temple/akshardham-delhi</loc></url>
   <url><loc>/temple/badrinath</loc></url>
   <url><loc>/temple/belur-chennakesava</loc></url>
   <url><loc>/temple/brihadeeswara</loc></url>
+  <url><loc>/temple/chidambaram-nataraja</loc></url>
   <url><loc>/temple/dwaraka</loc></url>
+  <url><loc>/temple/ekambareswarar-kanchipuram</loc></url>
   <url><loc>/temple/guruvayur</loc></url>
   <url><loc>/temple/halebidu-hoysaleswara</loc></url>
   <url><loc>/temple/jagannath-puri</loc></url>
+  <url><loc>/temple/jambukeswarar-tiruvanaikaval</loc></url>
   <url><loc>/temple/kanchipuram</loc></url>
   <url><loc>/temple/kashi-vishwanath</loc></url>
   <url><loc>/temple/kedarnath</loc></url>

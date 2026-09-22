@@ -70,6 +70,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "apaddharma",
+    "title": "Āpaddharma",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "apparatus-criticus",
     "title": "Apparatus Criticus",
     "status": "published",
@@ -88,6 +97,15 @@
     "title": "Artha",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ashrama-dharma",
+    "title": "Āśrama Dharma",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -116,6 +134,15 @@
   {
     "entityId": "bhagavad-gita-chapters",
     "title": "Bhagavad Gītā Chapters",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-philosophy",
+    "title": "Bhagavad Gītā Philosophy",
     "status": "published",
     "issues": [
       "No relationships"
@@ -284,6 +311,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "durga-forms",
+    "title": "Durgā Forms",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "durga",
     "title": "Durgā",
     "status": "published",
@@ -423,6 +459,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "hanuman-forms",
+    "title": "Hanumān Forms",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "hanuman",
     "title": "Hanumān",
     "status": "published",
@@ -443,6 +488,15 @@
   {
     "entityId": "ishvara",
     "title": "Īśvara",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "itihasa-samskara",
+    "title": "Itihāsa Saṃskāra",
     "status": "published",
     "issues": [
       "No relationships"
@@ -505,6 +559,15 @@
     "title": "Karṇa",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "krishna-forms",
+    "title": "Kṛṣṇa Forms",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -583,6 +646,15 @@
   {
     "entityId": "mahabharata-upanishad",
     "title": "Mahābhārata Upaniṣads",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-war",
+    "title": "Mahābhārata War",
     "status": "published",
     "issues": [
       "No relationships"
@@ -912,6 +984,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "rama-forms",
+    "title": "Rāma Forms",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rama",
     "title": "Rāma",
     "status": "published",
@@ -930,6 +1011,15 @@
   {
     "entityId": "ramayana-kandas",
     "title": "Rāmāyaṇa Kāṇḍas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-philosophy",
+    "title": "Rāmāyaṇa Philosophy",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1007,6 +1097,15 @@
     "title": "Saṃsāra",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samskara-types",
+    "title": "Saṃskāra Types",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -1366,6 +1465,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "vrata-dharma",
+    "title": "Vrata Dharma",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "vyakarana",
     "title": "Vyākaraṇa",
     "status": "published",
@@ -1531,6 +1639,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kalamkari-painting",
+    "title": "Kalamkari Painting",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "kathakali",
     "title": "Kathakali",
     "status": "published",
@@ -1594,6 +1711,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "pichwai-painting",
+    "title": "Pichwai Painting",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "sanskrit-drama",
     "title": "Saṃskṛta Nāṭya",
     "status": "published",
@@ -1605,6 +1731,15 @@
   {
     "entityId": "tanjore-painting",
     "title": "Thanjavur Painting",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "warli-painting",
+    "title": "Warli Painting",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1726,6 +1861,24 @@
     "title": "Dīpāvalī",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "diwali",
+    "title": "Dīpāvalī",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dussehra",
+    "title": "Vijayadaśamī / Dussehra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -1975,6 +2128,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kabir",
+    "title": "Kabīr",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "madhva",
     "title": "Madhva",
     "status": "published",
@@ -1989,6 +2151,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ramananda",
+    "title": "Rāmānanda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "ramanuja",
     "title": "Rāmānuja",
     "status": "published",
@@ -2000,6 +2171,24 @@
     "title": "Śaṅkara",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "surdas",
+    "title": "Sūrdās",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tulsidas",
+    "title": "Tulsīdās",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3176,6 +3365,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "akshardham-delhi",
+    "title": "Akshardham Delhi",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "badrinath",
     "title": "Badrinātha Temple",
     "status": "published",
@@ -3199,10 +3397,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "chidambaram-nataraja",
+    "title": "Chidambaram Nataraja Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "dwaraka",
     "title": "Dvārakā Temple (Dvārakādhīśa)",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ekambareswarar-kanchipuram",
+    "title": "Ekambareswarar Temple Kanchipuram",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3226,6 +3442,15 @@
     "title": "Jagannātha Temple, Purī",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "jambukeswarar-tiruvanaikaval",
+    "title": "Jambukeswarar Temple Tiruvanaikaval",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

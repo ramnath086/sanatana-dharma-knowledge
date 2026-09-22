@@ -29,6 +29,33 @@
   {
     "kind": "DUPLICATE_TITLE",
     "entityIds": [
+      "dipavali",
+      "diwali"
+    ],
+    "reason": "Canonical titles normalize to dipavali.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "dipavali",
+      "diwali"
+    ],
+    "reason": "Alias collision: Diwali.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "dipavali",
+      "diwali"
+    ],
+    "reason": "Alias collision: दीपावली.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
       "ganesh-chaturthi",
       "ganesha-caturthi"
     ],
