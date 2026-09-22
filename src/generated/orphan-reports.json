@@ -175,6 +175,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bharata-natyam",
+    "title": "Bharatanatyam Repertoire",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "bhavishya-purana",
     "title": "Bhaviṣya Purāṇa",
     "status": "published",
@@ -211,6 +220,15 @@
     "title": "Brahman",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "carnatic-raga",
+    "title": "Carnatic Rāga System",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -504,6 +522,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "hindustani-gharana",
+    "title": "Hindustani Gharānā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "ishvara",
     "title": "Īśvara",
     "status": "published",
@@ -577,6 +604,15 @@
     "title": "Karṇa",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kathakali-vesham",
+    "title": "Kathakali Vesham",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -1322,6 +1358,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "thumri-dadra",
+    "title": "Thumri and Dadra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "tirtha-types",
     "title": "Tīrtha Types",
     "status": "published",
@@ -1810,6 +1855,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "pahari-painting",
+    "title": "Pahari Miniature Painting",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "pattachitra-painting",
     "title": "Pattachitra Painting",
     "status": "published",
@@ -1821,6 +1875,15 @@
   {
     "entityId": "pichwai-painting",
     "title": "Pichwai Painting",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rajasthani-miniature",
+    "title": "Rajasthani Miniature Painting",
     "status": "published",
     "issues": [
       "No relationships"
@@ -2231,6 +2294,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "annamacharya",
+    "title": "Annamācārya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "appayya-dikshita",
     "title": "Appayya Dīkṣita",
     "status": "published",
@@ -2263,10 +2335,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kanakadasa",
+    "title": "Kanakadāsa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "madhva",
     "title": "Madhva",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mutthuswami-dikshitar",
+    "title": "Muttusvāmi Dīkṣitar",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2283,6 +2373,15 @@
     "title": "Nimbārka",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purandaradasa",
+    "title": "Purandaradāsa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2318,6 +2417,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "shyama-shastri",
+    "title": "Śyāma Śāstri",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "surdas",
     "title": "Sūrdās",
     "status": "published",
@@ -2329,6 +2437,15 @@
   {
     "entityId": "tulsidas",
     "title": "Tulsīdās",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tyagaraja",
+    "title": "Tyāgarāja",
     "status": "published",
     "issues": [
       "No relationships"

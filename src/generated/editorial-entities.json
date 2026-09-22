@@ -2144,6 +2144,113 @@
     }
   },
   {
+    "id": "bharata-natyam",
+    "title": "Bharatanatyam Repertoire",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Bharatanatyam Repertoire",
+      "Bharatanatyam Items",
+      "भरतनाट्यम् क्रम"
+    ],
+    "sources": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The traditional Bharatanatyam performance repertoire (mārgam): alarippu (invocation), jatisvaram (pure dance), śabdam (lyric dance), varṇam (centerpiece), padam (abhinaya), tillāṇa (finale), and ślokam/maṅgalam (conclusion); the role of nattuvanār, the mridangam, violin, and flute accompaniment are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "relationshipIds": [],
+    "body": "The traditional Bharatanatyam performance repertoire (mārgam): alarippu (invocation), jatisvaram (pure dance), śabdam (lyric dance), varṇam (centerpiece), padam (abhinaya), tillāṇa (finale), and ślokam/maṅgalam (conclusion); the role of nattuvanār, the mridangam, violin, and flute accompaniment are represented here as a catalogue entry.\n---",
+    "contentHash": "9d4d57c22cc0ee7819a60cdfc8560eb4385965ebb4f6cc632c2a1e1a85bb0d8e",
+    "sourceFile": "src\\content\\concepts\\bharatanatyam-repertoire.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "bhavishya-purana",
     "title": "Bhaviṣya Purāṇa",
     "type": "concept",
@@ -2575,6 +2682,114 @@
     "body": "The ultimate reality or ground of being in Vedāntic traditions, described through both negation (neti neti) and positive affirmation depending on the school.",
     "contentHash": "6a01a7b0272d13f090c8cf3ceddadfe37cb1eeeb419ce790bcd4b5408099c393",
     "sourceFile": "src\\content\\concepts\\brahman.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "carnatic-raga",
+    "title": "Carnatic Rāga System",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Carnatic Raga",
+      "Melakarta",
+      "Carnatic Music Theory",
+      "कार्णाटक राग"
+    ],
+    "sources": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "description": "The Carnatic rāga system: the 72 melakartā (parent) rāgas organized in the kaṭapayādi formula, their janya (derived) rāgas; the rāga structure (ārohaṇa/avarohaṇa), the gamaka (ornamentation), and the role of rāga in conveying rasa (emotion) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "kalakshetra-foundation",
+      "tamil-nadu-tourism-department"
+    ],
+    "relationshipIds": [],
+    "body": "The Carnatic rāga system: the 72 melakartā (parent) rāgas organized in the kaṭapayādi formula, their janya (derived) rāgas; the rāga structure (ārohaṇa/avarohaṇa), the gamaka (ornamentation), and the role of rāga in conveying rasa (emotion) are represented here as a catalogue entry.\n---",
+    "contentHash": "8611bb56ee218bee8da986ef1c210438e554fbe7879118b21bf11f040f08ac4d",
+    "sourceFile": "src\\content\\concepts\\carnatic-raga.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -6334,6 +6549,111 @@
     }
   },
   {
+    "id": "hindustani-gharana",
+    "title": "Hindustani Gharānā",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Hindustani Gharana",
+      "Gharanas",
+      "घराना"
+    ],
+    "sources": [
+      "gretil",
+      "sangeet-natak-akademi"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "description": "The Hindustani gharanā (lineage/school) system: the major vocal gharanās (Gwalior, Agra, Jaipur-Atrauli, Kirana, Patiala, Bhendi Bazaar, Indore, Mewati, Rampur-Sahaswan) and instrumental gharanās (Imdadkhani/Etawah sitar, Maihar sarod, etc.); the guru-śiṣya paramparā, distinctive gayaki/baaj (style), and their historical development are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sangeet-natak-akademi"
+    ],
+    "relationshipIds": [],
+    "body": "The Hindustani gharanā (lineage/school) system: the major vocal gharanās (Gwalior, Agra, Jaipur-Atrauli, Kirana, Patiala, Bhendi Bazaar, Indore, Mewati, Rampur-Sahaswan) and instrumental gharanās (Imdadkhani/Etawah sitar, Maihar sarod, etc.); the guru-śiṣya paramparā, distinctive gayaki/baaj (style), and their historical development are represented here as a catalogue entry.\n---",
+    "contentHash": "3b30d7ae67c847b47d302935882b3181207afcb609f421699c8511ae274000c1",
+    "sourceFile": "src\\content\\concepts\\hindustani-gharana.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "ishvara",
     "title": "Īśvara",
     "type": "concept",
@@ -7273,6 +7593,113 @@
     "body": "A central figure of the Mahābhārata, known for his generosity and tragic role; traditional narratives are represented without historical conflation.",
     "contentHash": "c3ce2aa41ef1d43c40d9b9063fe716a02a30f1f837c74b442b5cf50754c63f34",
     "sourceFile": "src\\content\\concepts\\karna.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "kathakali-vesham",
+    "title": "Kathakali Vesham",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "ml"
+    ],
+    "aliases": [
+      "Kathakali Vesham",
+      "Kathakali Makeup",
+      "कथकली वेसम्"
+    ],
+    "sources": [
+      "gretil",
+      "kalakshetra-foundation",
+      "kerala-tourism"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Kathakali vesham (makeup/costume) classification: paccā (green, noble/heroic), kaṭṭi (knife, anti-heroic), kari (black, demonic), teṭṭa (beard, ascetic), minukku (polished, female/sage); the symbolic colors, the chutti (white ridge), and the elaborate headgear (kireetam) are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "kalakshetra-foundation",
+      "kerala-tourism"
+    ],
+    "relationshipIds": [],
+    "body": "The Kathakali vesham (makeup/costume) classification: paccā (green, noble/heroic), kaṭṭi (knife, anti-heroic), kari (black, demonic), teṭṭa (beard, ascetic), minukku (polished, female/sage); the symbolic colors, the chutti (white ridge), and the elaborate headgear (kireetam) are represented here as a catalogue entry.\n---",
+    "contentHash": "9db8ef639c68723eecdbd4910104b2e8dd4fa659b3e9676ec50c71a882fee05c",
+    "sourceFile": "src\\content\\concepts\\kathakali-vesham.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -16298,6 +16725,112 @@
     }
   },
   {
+    "id": "thumri-dadra",
+    "title": "Thumri and Dadra",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Thumri",
+      "Dadra",
+      "Light Classical",
+      "ठुमरी दादरा"
+    ],
+    "sources": [
+      "gretil",
+      "sangeet-natak-akademi"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "description": "The light classical forms of Hindustani music: thumrī (romantic, erotic, based on Braj/Hindi poetry, set to dīpacandī/punjabi tāl), dadra (lighter, faster, in dadra tāl), kājrī, caitī, horī; their gharanā styles (Purab, Punjab), their place in the concert format after khayāl, and their emotive (śṛṅgāra) content are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sangeet-natak-akademi"
+    ],
+    "relationshipIds": [],
+    "body": "The light classical forms of Hindustani music: thumrī (romantic, erotic, based on Braj/Hindi poetry, set to dīpacandī/punjabi tāl), dadra (lighter, faster, in dadra tāl), kājrī, caitī, horī; their gharanā styles (Purab, Punjab), their place in the concert format after khayāl, and their emotive (śṛṅgāra) content are represented here as a catalogue entry.\n---",
+    "contentHash": "63d60adc0681e88cd052f5398ff8609cc4a745bd74621b69f0f8ab99fab17631",
+    "sourceFile": "src\\content\\concepts\\thumri-dadra.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "tirtha-types",
     "title": "Tīrtha Types",
     "type": "concept",
@@ -22067,6 +22600,111 @@
     }
   },
   {
+    "id": "pahari-painting",
+    "title": "Pahari Miniature Painting",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Pahari Miniatures",
+      "Pahari Painting",
+      "पहाड़ी लघुचित्र"
+    ],
+    "sources": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Pahari miniature painting schools of the Himalayan foothills: Basohli (bold colors, geometric), Kangra (lyrical, naturalistic), Guler, Chamba, Mandi, Kullu, and Jammu; their themes (Gīta Govinda, Bhāgavata Purāṇa, Nala-Damayantī, portraits), the delicate lines, soft colors, and their refinement of the Mughal style are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "relationshipIds": [],
+    "body": "The Pahari miniature painting schools of the Himalayan foothills: Basohli (bold colors, geometric), Kangra (lyrical, naturalistic), Guler, Chamba, Mandi, Kullu, and Jammu; their themes (Gīta Govinda, Bhāgavata Purāṇa, Nala-Damayantī, portraits), the delicate lines, soft colors, and their refinement of the Mughal style are represented here as a catalogue entry.\n---",
+    "contentHash": "3df08a7a7eea3175d4e4c896311d1acdda2e15eae7fff5eefe447f519af68cf9",
+    "sourceFile": "src\\content\\culture\\pahari-painting.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "pattachitra-painting",
     "title": "Pattachitra Painting",
     "type": "concept",
@@ -22206,6 +22844,111 @@
     "body": "The Pichwai painting tradition of Nathdwara (Rajasthan), large cloth paintings hung behind the Śrīnāthajī deity (Kṛṣṇa as seven-year-old); their seasonal themes (Śarad Pūrṇimā, Gopāṣṭamī, Annakūṭa), use of natural pigments, and ritual function in the Puṣṭimārga tradition are represented here as a catalogue entry.\n---",
     "contentHash": "08a46eb70866687a1b11b755611fc9204fd25387cb5068a9edf3f59b3655fbc5",
     "sourceFile": "src\\content\\culture\\pichwai-painting.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "rajasthani-miniature",
+    "title": "Rajasthani Miniature Painting",
+    "type": "concept",
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "aliases": [
+      "Rajasthani Miniatures",
+      "Rajput Painting",
+      "राजस्थानी लघुचित्र"
+    ],
+    "sources": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "description": "The Rajasthani miniature painting schools: Mewar (Udaipur), Marwar (Jodhpur), Bundi, Kota, Kishangarh, Jaipur, and Bikaner; their themes (Rāgamālā, Rasikapriyā, Bhāgavata Purāṇa, Rāmāyaṇa, court portraits), the use of natural pigments, the bold lines and vibrant colors, and their Mughal influence are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "sanskriti-heritage-foundation"
+    ],
+    "relationshipIds": [],
+    "body": "The Rajasthani miniature painting schools: Mewar (Udaipur), Marwar (Jodhpur), Bundi, Kota, Kishangarh, Jaipur, and Bikaner; their themes (Rāgamālā, Rasikapriyā, Bhāgavata Purāṇa, Rāmāyaṇa, court portraits), the use of natural pigments, the bold lines and vibrant colors, and their Mughal influence are represented here as a catalogue entry.\n---",
+    "contentHash": "ffcf8687f9381b5422c753b64b4f404483eb622e2094d04ce0cfbe6492f7e381",
+    "sourceFile": "src\\content\\culture\\rajasthani-miniature.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -27392,6 +28135,110 @@
     }
   },
   {
+    "id": "annamacharya",
+    "title": "Annamācārya",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Annamacharya",
+      "Annamayya",
+      "अन्नमाचार्य"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Annamācārya (1408–1503), the earliest known composer of saṅkīrtana (devotional songs) in Telugu, dedicated to Veṅkaṭeśvara of Tirumala; his 32,000+ compositions (saṅkīrtanas) on copper plates recovered in the 20th century, his role in the Śrīvaiṣṇava tradition, and his influence on Carnatic music are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Annamācārya (1408–1503), the earliest known composer of saṅkīrtana (devotional songs) in Telugu, dedicated to Veṅkaṭeśvara of Tirumala; his 32,000+ compositions (saṅkīrtanas) on copper plates recovered in the 20th century, his role in the Śrīvaiṣṇava tradition, and his influence on Carnatic music are represented here as a catalogue entry.\n---",
+    "contentHash": "06a110e1e5485845e825e4c49390a092f8323ab4283f37f6077b486a81efb050",
+    "sourceFile": "src\\content\\people\\annamacharya.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "appayya-dikshita",
     "title": "Appayya Dīkṣita",
     "type": "teacher",
@@ -27815,6 +28662,110 @@
     }
   },
   {
+    "id": "kanakadasa",
+    "title": "Kanakadāsa",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "aliases": [
+      "Kanakadasa",
+      "Kanaka Dasa",
+      "कनकदास"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Kanakadāsa (1509–1609), the Haridāsa saint-poet from Karnataka, composer of kīrtanas in Kannada dedicated to Adikeshava (Viṣṇu); his works (Mohanatarangini, Ramadhanya Charitre, Nalacharitre) emphasizing bhakti, social equality, and devotion over caste; his association with Udupi and the Krishna temple are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Kanakadāsa (1509–1609), the Haridāsa saint-poet from Karnataka, composer of kīrtanas in Kannada dedicated to Adikeshava (Viṣṇu); his works (Mohanatarangini, Ramadhanya Charitre, Nalacharitre) emphasizing bhakti, social equality, and devotion over caste; his association with Udupi and the Krishna temple are represented here as a catalogue entry.\n---",
+    "contentHash": "649a699e10caa1091d5c630955ce0dd99ee5e37193b84bc38f17846d442c094f",
+    "sourceFile": "src\\content\\people\\kanakadasa.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "madhva",
     "title": "Madhva",
     "type": "acharya",
@@ -27851,6 +28802,110 @@
     "body": "Traditional dating assigns Madhva to the 13th century CE; scholarly dates vary. He is associated with Dvaita Vedānta through traditional and textual lineages; this record represents his tradition without ranking it against other schools.",
     "contentHash": "1d21e5f5a5c4b8737c5b86689f0dd3c544f1b11dcbf57771b21836b9ab632231",
     "sourceFile": "src\\content\\people\\madhva.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mutthuswami-dikshitar",
+    "title": "Muttusvāmi Dīkṣitar",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Muthuswami Dikshitar",
+      "Dikshitar",
+      "मुथुस्वामी दीक्षितर्"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Muttusvāmi Dīkṣitar (1775–1835), one of the Carnatic trinity, composer of ~500 kṛtis in Sanskrit, known for his mastery of rāga, the navagraha kṛtis, the kamalamba navavarṇa kṛtis, and his use of Sanskrit sahitya with intricate rāga structures; his influence on Carnatic music theory is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Muttusvāmi Dīkṣitar (1775–1835), one of the Carnatic trinity, composer of ~500 kṛtis in Sanskrit, known for his mastery of rāga, the navagraha kṛtis, the kamalamba navavarṇa kṛtis, and his use of Sanskrit sahitya with intricate rāga structures; his influence on Carnatic music theory is represented here as a catalogue entry.\n---",
+    "contentHash": "1b6a781f603232c0969a540a354fb5e780d4b76858c80afca0ec2216ceac4cc8",
+    "sourceFile": "src\\content\\people\\mutthuswami-dikshitar.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -28061,6 +29116,110 @@
     "body": "A Vedānta ācārya traditionally associated with Dvaitādvaita (Bhedābheda) Vedānta; traditional dating and biography are kept distinct from historical scholarship.",
     "contentHash": "4f8c65399dd236c978e70741f634d82458c5d6fcfdd92a6dbf4911dde5c79f61",
     "sourceFile": "src\\content\\people\\nimbarka.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "purandaradasa",
+    "title": "Purandaradāsa",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "aliases": [
+      "Purandaradasa",
+      "Purandara Dasa",
+      "पुरंदरदास"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Purandaradāsa (1484–1564), the 'father of Carnatic music' (Karnataka Sangeeta Pitamaha), composer of 475,000+ kīrtanas in Kannada and Sanskrit; his systematization of music pedagogy (sarali, janta, alankara, geetam, swarajati, varnam), his devotion to Viṭṭhala, and his role in the Haridāsa movement are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Purandaradāsa (1484–1564), the 'father of Carnatic music' (Karnataka Sangeeta Pitamaha), composer of 475,000+ kīrtanas in Kannada and Sanskrit; his systematization of music pedagogy (sarali, janta, alankara, geetam, swarajati, varnam), his devotion to Viṭṭhala, and his role in the Haridāsa movement are represented here as a catalogue entry.\n---",
+    "contentHash": "d826f73acf232d47d8eb3458f10385d3ed1aa95305a5aa64d7ade6f83e8bf05e",
+    "sourceFile": "src\\content\\people\\purandaradasa.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -28557,6 +29716,110 @@
     }
   },
   {
+    "id": "shyama-shastri",
+    "title": "Śyāma Śāstri",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Syama Sastri",
+      "Shyama Shastri",
+      "श्याम शास्त्री"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Śyāma Śāstri (1762–1827), one of the Carnatic trinity, composer of ~300 kṛtis in Telugu and Sanskrit, known for his swarajatis, his kamakshi navaratna mālikā, his ananda bhairavi compositions, and his distinctive rhythmic structures (tāḷa); his influence on Carnatic music is represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Śyāma Śāstri (1762–1827), one of the Carnatic trinity, composer of ~300 kṛtis in Telugu and Sanskrit, known for his swarajatis, his kamakshi navaratna mālikā, his ananda bhairavi compositions, and his distinctive rhythmic structures (tāḷa); his influence on Carnatic music is represented here as a catalogue entry.\n---",
+    "contentHash": "bbf34b0e7d14acc682389a091fc40fef4126e03bbb0041d0d85ec9cb941557f0",
+    "sourceFile": "src\\content\\people\\shyama-shastri.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "surdas",
     "title": "Sūrdās",
     "type": "teacher",
@@ -28693,6 +29956,110 @@
     "body": "Tulsīdās (1532–1623), the composer of the Rāmacaritamānasa (Awadhi retelling of the Rāmāyaṇa), the Hanumān Cālīsā, and the Vinaya Patrikā; his role in popularizing Rāma-bhakti in North India, his founding of the Sankat Mochan Temple (Varanasi), and his influence on the Rāmānandī tradition are represented here as a catalogue entry.\n---",
     "contentHash": "5812bd84d177e50df67bf55b8239bdc8a2af26e5fc02d649919c32fb128e5965",
     "sourceFile": "src\\content\\people\\tulsidas.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tyagaraja",
+    "title": "Tyāgarāja",
+    "type": "teacher",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Tyagaraja",
+      "Tyagayya",
+      "त्यागराज"
+    ],
+    "sources": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "description": "Tyāgarāja (1767–1847), one of the Carnatic trinity, composer of ~24,000 kṛtis in Telugu and Sanskrit, mostly on Rāma; his pancharatna kṛtis, his devotion to Rāma, his life in Tiruvaiyaru, and his influence on Carnatic music pedagogy are represented here as a catalogue entry. ---",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "relationshipIds": [],
+    "body": "Tyāgarāja (1767–1847), one of the Carnatic trinity, composer of ~24,000 kṛtis in Telugu and Sanskrit, mostly on Rāma; his pancharatna kṛtis, his devotion to Rāma, his life in Tiruvaiyaru, and his influence on Carnatic music pedagogy are represented here as a catalogue entry.\n---",
+    "contentHash": "38a9a9fe0c1c49ea22ec6474bf7ebd9d3ba6935492ca945e8c1762762d3a4703",
+    "sourceFile": "src\\content\\people\\tyagaraja.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],

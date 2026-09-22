@@ -446,6 +446,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "bharata-natyam",
+    "title": "Bharatanatyam Repertoire",
+    "aliases": [
+      "Bharatanatyam Repertoire",
+      "Bharatanatyam Items",
+      "भरतनाट्यम् क्रम"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional Bharatanatyam performance repertoire (mārgam): alarippu (invocation), jatisvaram (pure dance), śabdam (lyric dance), varṇam (centerpiece), padam (abhinaya), tillāṇa (finale), and ślokam/maṅgalam (conclusion); the role of nattuvanār, the mridangam, violin, and flute accompaniment are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "bhavishya-purana",
     "title": "Bhaviṣya Purāṇa",
     "aliases": [
@@ -549,6 +573,31 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "carnatic-raga",
+    "title": "Carnatic Rāga System",
+    "aliases": [
+      "Carnatic Raga",
+      "Melakarta",
+      "Carnatic Music Theory",
+      "कार्णाटक राग"
+    ],
+    "sanskritTitle": "",
+    "description": "The Carnatic rāga system: the 72 melakartā (parent) rāgas organized in the kaṭapayādi formula, their janya (derived) rāgas; the rāga structure (ārohaṇa/avarohaṇa), the gamaka (ornamentation), and the role of rāga in conveying rasa (emotion) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -1367,6 +1416,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "hindustani-gharana",
+    "title": "Hindustani Gharānā",
+    "aliases": [
+      "Hindustani Gharana",
+      "Gharanas",
+      "घराना"
+    ],
+    "sanskritTitle": "",
+    "description": "The Hindustani gharanā (lineage/school) system: the major vocal gharanās (Gwalior, Agra, Jaipur-Atrauli, Kirana, Patiala, Bhendi Bazaar, Indore, Mewati, Rampur-Sahaswan) and instrumental gharanās (Imdadkhani/Etawah sitar, Maihar sarod, etc.); the guru-śiṣya paramparā, distinctive gayaki/baaj (style), and their historical development are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "ishvara",
     "title": "Īśvara",
     "aliases": [
@@ -1583,6 +1656,30 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kathakali-vesham",
+    "title": "Kathakali Vesham",
+    "aliases": [
+      "Kathakali Vesham",
+      "Kathakali Makeup",
+      "कथकली वेसम्"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kathakali vesham (makeup/costume) classification: paccā (green, noble/heroic), kaṭṭi (knife, anti-heroic), kari (black, demonic), teṭṭa (beard, ascetic), minukku (polished, female/sage); the symbolic colors, the chutti (white ridge), and the elaborate headgear (kireetam) are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ml"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -3551,6 +3648,31 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thumri-dadra",
+    "title": "Thumri and Dadra",
+    "aliases": [
+      "Thumri",
+      "Dadra",
+      "Light Classical",
+      "ठुमरी दादरा"
+    ],
+    "sanskritTitle": "",
+    "description": "The light classical forms of Hindustani music: thumrī (romantic, erotic, based on Braj/Hindi poetry, set to dīpacandī/punjabi tāl), dadra (lighter, faster, in dadra tāl), kājrī, caitī, horī; their gharanā styles (Purab, Punjab), their place in the concert format after khayāl, and their emotive (śṛṅgāra) content are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "MUSIC",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "tirtha-types",
     "title": "Tīrtha Types",
     "aliases": [
@@ -4826,6 +4948,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "pahari-painting",
+    "title": "Pahari Miniature Painting",
+    "aliases": [
+      "Pahari Miniatures",
+      "Pahari Painting",
+      "पहाड़ी लघुचित्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Pahari miniature painting schools of the Himalayan foothills: Basohli (bold colors, geometric), Kangra (lyrical, naturalistic), Guler, Chamba, Mandi, Kullu, and Jammu; their themes (Gīta Govinda, Bhāgavata Purāṇa, Nala-Damayantī, portraits), the delicate lines, soft colors, and their refinement of the Mughal style are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "pattachitra-painting",
     "title": "Pattachitra Painting",
     "aliases": [
@@ -4858,6 +5004,30 @@
     ],
     "sanskritTitle": "",
     "description": "The Pichwai painting tradition of Nathdwara (Rajasthan), large cloth paintings hung behind the Śrīnāthajī deity (Kṛṣṇa as seven-year-old); their seasonal themes (Śarad Pūrṇimā, Gopāṣṭamī, Annakūṭa), use of natural pigments, and ritual function in the Puṣṭimārga tradition are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "CULTURE",
+      "ART",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "rajasthani-miniature",
+    "title": "Rajasthani Miniature Painting",
+    "aliases": [
+      "Rajasthani Miniatures",
+      "Rajput Painting",
+      "राजस्थानी लघुचित्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Rajasthani miniature painting schools: Mewar (Udaipur), Marwar (Jodhpur), Bundi, Kota, Kishangarh, Jaipur, and Bikaner; their themes (Rāgamālā, Rasikapriyā, Bhāgavata Purāṇa, Rāmāyaṇa, court portraits), the use of natural pigments, the bold lines and vibrant colors, and their Mughal influence are represented here as a catalogue entry. ---",
     "type": "concept",
     "classification": [
       "CULTURE",
@@ -6010,6 +6180,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "annamacharya",
+    "title": "Annamācārya",
+    "aliases": [
+      "Annamacharya",
+      "Annamayya",
+      "अन्नमाचार्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Annamācārya (1408–1503), the earliest known composer of saṅkīrtana (devotional songs) in Telugu, dedicated to Veṅkaṭeśvara of Tirumala; his 32,000+ compositions (saṅkīrtanas) on copper plates recovered in the 20th century, his role in the Śrīvaiṣṇava tradition, and his influence on Carnatic music are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "appayya-dikshita",
     "title": "Appayya Dīkṣita",
     "aliases": [
@@ -6103,6 +6296,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "kanakadasa",
+    "title": "Kanakadāsa",
+    "aliases": [
+      "Kanakadasa",
+      "Kanaka Dasa",
+      "कनकदास"
+    ],
+    "sanskritTitle": "",
+    "description": "Kanakadāsa (1509–1609), the Haridāsa saint-poet from Karnataka, composer of kīrtanas in Kannada dedicated to Adikeshava (Viṣṇu); his works (Mohanatarangini, Ramadhanya Charitre, Nalacharitre) emphasizing bhakti, social equality, and devotion over caste; his association with Udupi and the Krishna temple are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "kn"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "madhva",
     "title": "Madhva",
     "aliases": [
@@ -6121,6 +6337,29 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mutthuswami-dikshitar",
+    "title": "Muttusvāmi Dīkṣitar",
+    "aliases": [
+      "Muthuswami Dikshitar",
+      "Dikshitar",
+      "मुथुस्वामी दीक्षितर्"
+    ],
+    "sanskritTitle": "",
+    "description": "Muttusvāmi Dīkṣitar (1775–1835), one of the Carnatic trinity, composer of ~500 kṛtis in Sanskrit, known for his mastery of rāga, the navagraha kṛtis, the kamalamba navavarṇa kṛtis, and his use of Sanskrit sahitya with intricate rāga structures; his influence on Carnatic music theory is represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -6167,6 +6406,29 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purandaradasa",
+    "title": "Purandaradāsa",
+    "aliases": [
+      "Purandaradasa",
+      "Purandara Dasa",
+      "पुरंदरदास"
+    ],
+    "sanskritTitle": "",
+    "description": "Purandaradāsa (1484–1564), the 'father of Carnatic music' (Karnataka Sangeeta Pitamaha), composer of 475,000+ kīrtanas in Kannada and Sanskrit; his systematization of music pedagogy (sarali, janta, alankara, geetam, swarajati, varnam), his devotion to Viṭṭhala, and his role in the Haridāsa movement are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "kn"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -6264,6 +6526,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "shyama-shastri",
+    "title": "Śyāma Śāstri",
+    "aliases": [
+      "Syama Sastri",
+      "Shyama Shastri",
+      "श्याम शास्त्री"
+    ],
+    "sanskritTitle": "",
+    "description": "Śyāma Śāstri (1762–1827), one of the Carnatic trinity, composer of ~300 kṛtis in Telugu and Sanskrit, known for his swarajatis, his kamakshi navaratna mālikā, his ananda bhairavi compositions, and his distinctive rhythmic structures (tāḷa); his influence on Carnatic music is represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "surdas",
     "title": "Sūrdās",
     "aliases": [
@@ -6305,6 +6590,29 @@
       "sa",
       "en",
       "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tyagaraja",
+    "title": "Tyāgarāja",
+    "aliases": [
+      "Tyagaraja",
+      "Tyagayya",
+      "त्यागराज"
+    ],
+    "sanskritTitle": "",
+    "description": "Tyāgarāja (1767–1847), one of the Carnatic trinity, composer of ~24,000 kṛtis in Telugu and Sanskrit, mostly on Rāma; his pancharatna kṛtis, his devotion to Rāma, his life in Tiruvaiyaru, and his influence on Carnatic music pedagogy are represented here as a catalogue entry. ---",
+    "type": "teacher",
+    "classification": [
+      "TRADITION",
+      "TEACHER"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
     ],
     "tags": [],
     "relatedEntityIds": []
