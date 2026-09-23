@@ -116,15 +116,20 @@
   <url><loc>/concept/hindustani-gharana</loc></url>
   <url><loc>/concept/ishvara</loc></url>
   <url><loc>/concept/itihasa-samskara</loc></url>
+  <url><loc>/concept/jaiminiya-sakha</loc></url>
   <url><loc>/concept/japa-mala</loc></url>
   <url><loc>/concept/jivanmukti</loc></url>
   <url><loc>/concept/jnana</loc></url>
   <url><loc>/concept/jyotisha</loc></url>
   <url><loc>/concept/kalpa</loc></url>
   <url><loc>/concept/kama</loc></url>
+  <url><loc>/concept/kanva-sakha</loc></url>
+  <url><loc>/concept/kapishthala-sakha</loc></url>
   <url><loc>/concept/karma</loc></url>
   <url><loc>/concept/karna</loc></url>
+  <url><loc>/concept/katha-sakha</loc></url>
   <url><loc>/concept/kathakali-vesham</loc></url>
+  <url><loc>/concept/kauthuma-sakha</loc></url>
   <url><loc>/concept/krishna-forms</loc></url>
   <url><loc>/concept/krishna</loc></url>
   <url><loc>/concept/kunti</loc></url>
@@ -132,6 +137,7 @@
   <url><loc>/concept/lakshmi-forms</loc></url>
   <url><loc>/concept/lakshmi</loc></url>
   <url><loc>/concept/lalita-sahasranama</loc></url>
+  <url><loc>/concept/madhyandina-sakha</loc></url>
   <url><loc>/concept/maha-mrityunjaya-mantra</loc></url>
   <url><loc>/concept/mahabharata-characters</loc></url>
   <url><loc>/concept/mahabharata-parvas</loc></url>
@@ -139,6 +145,7 @@
   <url><loc>/concept/mahabharata-war</loc></url>
   <url><loc>/concept/mahamrityunjaya-mantra</loc></url>
   <url><loc>/concept/mahapurana</loc></url>
+  <url><loc>/concept/maitrayaniya-sakha</loc></url>
   <url><loc>/concept/mandodari</loc></url>
   <url><loc>/concept/manu-smriti-content</loc></url>
   <url><loc>/concept/manuscript-catalogue</loc></url>
@@ -163,6 +170,7 @@
   <url><loc>/concept/om-namo-narayanaya</loc></url>
   <url><loc>/concept/om</loc></url>
   <url><loc>/concept/padma-tirtha</loc></url>
+  <url><loc>/concept/paippalada-sakha</loc></url>
   <url><loc>/concept/paleography</loc></url>
   <url><loc>/concept/pancha-mahabhuta</loc></url>
   <url><loc>/concept/parinamavada</loc></url>
@@ -184,6 +192,7 @@
   <url><loc>/concept/ramayana-characters</loc></url>
   <url><loc>/concept/ramayana-kandas</loc></url>
   <url><loc>/concept/ramayana-philosophy</loc></url>
+  <url><loc>/concept/ranayaniya-sakha</loc></url>
   <url><loc>/concept/rasa-theory</loc></url>
   <url><loc>/concept/ravana</loc></url>
   <url><loc>/concept/recension</loc></url>
@@ -203,6 +212,7 @@
   <url><loc>/concept/sapta-rishi</loc></url>
   <url><loc>/concept/saraswati-forms</loc></url>
   <url><loc>/concept/saraswati</loc></url>
+  <url><loc>/concept/saunaka-sakha</loc></url>
   <url><loc>/concept/shaiva-agamas</loc></url>
   <url><loc>/concept/shiksha</loc></url>
   <url><loc>/concept/shilpa-shastra</loc></url>
@@ -218,6 +228,7 @@
   <url><loc>/concept/stemmatics</loc></url>
   <url><loc>/concept/stridharma</loc></url>
   <url><loc>/concept/surya-navagraha</loc></url>
+  <url><loc>/concept/taittiriya-sakha</loc></url>
   <url><loc>/concept/tantra-sastra</loc></url>
   <url><loc>/concept/tantra</loc></url>
   <url><loc>/concept/textual-criticism</loc></url>
@@ -417,9 +428,36 @@
   <url><loc>/scripture/atharvaveda</loc></url>
   <url><loc>/scripture/avadhuta-upanishad</loc></url>
   <url><loc>/scripture/baudhayana-dharmasutra</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-1</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-10</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-11</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-12</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-13</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-14</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-15</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-16</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-17</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-18</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-2</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-3</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-4</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-5</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-6</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-7</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-8</loc></url>
+  <url><loc>/scripture/bhagavad-gita-chapter-9</loc></url>
   <url><loc>/text/bhagavad-gita</loc></url>
   <url><loc>/scripture/bhagavata-purana</loc></url>
   <url><loc>/scripture/brahma-purana</loc></url>
+  <url><loc>/scripture/brahma-sutra-adhyaya-1</loc></url>
+  <url><loc>/scripture/brahma-sutra-adhyaya-2</loc></url>
+  <url><loc>/scripture/brahma-sutra-adhyaya-3</loc></url>
+  <url><loc>/scripture/brahma-sutra-adhyaya-4</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-madhva</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-nimbarka</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-ramanuja</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-shankara</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-vallabha</loc></url>
   <url><loc>/scripture/brahma-sutra</loc></url>
   <url><loc>/scripture/brahma-upanishad</loc></url>
   <url><loc>/scripture/brahmana</loc></url>
@@ -437,6 +475,7 @@
   <url><loc>/scripture/hamsa-upanishad</loc></url>
   <url><loc>/scripture/isha-upanishad</loc></url>
   <url><loc>/scripture/jabala-upanishad</loc></url>
+  <url><loc>/scripture/jaiminiya-aranyaka</loc></url>
   <url><loc>/scripture/jaiminiya-brahmana</loc></url>
   <url><loc>/scripture/jyotisha-vedanga-text</loc></url>
   <url><loc>/scripture/kaivalya-upanishad</loc></url>
@@ -468,6 +507,16 @@
   <url><loc>/scripture/parashara-smriti</loc></url>
   <url><loc>/scripture/prashna-upanishad</loc></url>
   <url><loc>/scripture/ramayana</loc></url>
+  <url><loc>/scripture/rigveda-mandala-1</loc></url>
+  <url><loc>/scripture/rigveda-mandala-10</loc></url>
+  <url><loc>/scripture/rigveda-mandala-2</loc></url>
+  <url><loc>/scripture/rigveda-mandala-3</loc></url>
+  <url><loc>/scripture/rigveda-mandala-4</loc></url>
+  <url><loc>/scripture/rigveda-mandala-5</loc></url>
+  <url><loc>/scripture/rigveda-mandala-6</loc></url>
+  <url><loc>/scripture/rigveda-mandala-7</loc></url>
+  <url><loc>/scripture/rigveda-mandala-8</loc></url>
+  <url><loc>/scripture/rigveda-mandala-9</loc></url>
   <url><loc>/scripture/rigveda-samhita</loc></url>
   <url><loc>/scripture/rigveda</loc></url>
   <url><loc>/scripture/rudrahridaya-upanishad</loc></url>
@@ -475,6 +524,8 @@
   <url><loc>/scripture/samaveda-aranyaka</loc></url>
   <url><loc>/scripture/samaveda-samhita</loc></url>
   <url><loc>/scripture/samaveda</loc></url>
+  <url><loc>/scripture/samkhayana-aranyaka</loc></url>
+  <url><loc>/scripture/sankhyayana-brahmana</loc></url>
   <url><loc>/scripture/shatapatha-brahmana</loc></url>
   <url><loc>/scripture/shiva-purana</loc></url>
   <url><loc>/scripture/shvetashvatara-upanishad</loc></url>

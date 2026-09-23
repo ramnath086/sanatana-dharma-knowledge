@@ -1,6 +1,6 @@
 {
-  "entities": 503,
-  "published": 500,
+  "entities": 554,
+  "published": 551,
   "draft": 3,
   "entitiesByType": {
     "article": [
@@ -2228,6 +2228,38 @@
         "sourceFile": "src\\content\\concepts\\itihasa-samskara.md"
       },
       {
+        "id": "jaiminiya-sakha",
+        "title": "Jaiminīya Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Jaiminiya Shakha",
+          "Talavakara Shakha",
+          "जैमिनीय शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Jaiminīya Śākhā (also Talavakāra Śākhā) is a recension of the Sāmaveda, prevalent in South India; its texts include the Jaiminīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Jaiminīya Śākhā (also Talavakāra Śākhā) is a recension of the Sāmaveda, prevalent in South India; its texts include the Jaiminīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry.\n---",
+        "contentHash": "4e5d097a8b0b95df399f327cb96e6b6be64e31253a17c56cf0cccaa8df38cf24",
+        "sourceFile": "src\\content\\concepts\\jaiminiya-sakha.md"
+      },
+      {
         "id": "japa-mala",
         "title": "Japa Mālā",
         "type": "concept",
@@ -2415,6 +2447,70 @@
         "sourceFile": "src\\content\\concepts\\kama.md"
       },
       {
+        "id": "kanva-sakha",
+        "title": "Kāṇva Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Kanva Shakha",
+          "Kanva Recension",
+          "काण्व शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Kāṇva Śākhā is a principal recension of the Śukla (White) Yajurveda; its texts include the Vājasaneyi Saṃhitā (Kāṇva recension), Śatapatha Brāhmaṇa (Kāṇva), and Bṛhadāraṇyaka Upaniṣad (Kāṇva); represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Kāṇva Śākhā is a principal recension of the Śukla (White) Yajurveda; its texts include the Vājasaneyi Saṃhitā (Kāṇva recension), Śatapatha Brāhmaṇa (Kāṇva), and Bṛhadāraṇyaka Upaniṣad (Kāṇva); represented here as a catalogue entry.\n---",
+        "contentHash": "10c599af4d3902097bce0d1ddac691f0dc05b4e2de4672a2455a1bf32353f6c2",
+        "sourceFile": "src\\content\\concepts\\kanva-sakha.md"
+      },
+      {
+        "id": "kapishthala-sakha",
+        "title": "Kāpiṣṭhala Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Kapishthala Shakha",
+          "Kapishthala Recension",
+          "कपिष्ठल शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Kāpiṣṭhala Śākhā is a recension of the Kṛṣṇa Yajurveda, closely related to the Kaṭha Śākhā; its texts are partially preserved; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Kāpiṣṭhala Śākhā is a recension of the Kṛṣṇa Yajurveda, closely related to the Kaṭha Śākhā; its texts are partially preserved; represented here as a catalogue entry.\n---",
+        "contentHash": "a31de7e5a96db982b38a5579efd58d00f69656414acc3f6939ce231fe9e54b0b",
+        "sourceFile": "src\\content\\concepts\\kapishthala-sakha.md"
+      },
+      {
         "id": "karma",
         "title": "Karma",
         "type": "concept",
@@ -2476,6 +2572,38 @@
         "sourceFile": "src\\content\\concepts\\karna.md"
       },
       {
+        "id": "katha-sakha",
+        "title": "Kaṭha Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Katha Shakha",
+          "Katha Recension",
+          "कठ शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Kaṭha Śākhā is a recension of the Kṛṣṇa Yajurveda; its texts include the Kaṭha Saṃhitā, Brāhmaṇa, Āraṇyaka, and the Kaṭha Upaniṣad; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Kaṭha Śākhā is a recension of the Kṛṣṇa Yajurveda; its texts include the Kaṭha Saṃhitā, Brāhmaṇa, Āraṇyaka, and the Kaṭha Upaniṣad; represented here as a catalogue entry.\n---",
+        "contentHash": "3594b698cef8300919ece1308a113172834f856c027bf155c777bc59e990b4c8",
+        "sourceFile": "src\\content\\concepts\\katha-sakha.md"
+      },
+      {
         "id": "kathakali-vesham",
         "title": "Kathakali Vesham",
         "type": "concept",
@@ -2511,6 +2639,38 @@
         "body": "The Kathakali vesham (makeup/costume) classification: paccā (green, noble/heroic), kaṭṭi (knife, anti-heroic), kari (black, demonic), teṭṭa (beard, ascetic), minukku (polished, female/sage); the symbolic colors, the chutti (white ridge), and the elaborate headgear (kireetam) are represented here as a catalogue entry.\n---",
         "contentHash": "9db8ef639c68723eecdbd4910104b2e8dd4fa659b3e9676ec50c71a882fee05c",
         "sourceFile": "src\\content\\concepts\\kathakali-vesham.md"
+      },
+      {
+        "id": "kauthuma-sakha",
+        "title": "Kauthuma Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Kauthuma Shakha",
+          "Kauthuma Recension",
+          "कौथुम शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Kauthuma Śākhā is the principal surviving recension of the Sāmaveda; its texts include the Sāmaveda Saṃhitā, Chāndogya Brāhmaṇa, Chāndogya Upaniṣad, and Jaiminīya Brāhmaṇa; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Kauthuma Śākhā is the principal surviving recension of the Sāmaveda; its texts include the Sāmaveda Saṃhitā, Chāndogya Brāhmaṇa, Chāndogya Upaniṣad, and Jaiminīya Brāhmaṇa; represented here as a catalogue entry.\n---",
+        "contentHash": "2484969c7ec36387acab94d603f7bf8145dca214bd34e15e8dd5057e29568b6b",
+        "sourceFile": "src\\content\\concepts\\kauthuma-sakha.md"
       },
       {
         "id": "krishna-forms",
@@ -2734,6 +2894,38 @@
         "sourceFile": "src\\content\\concepts\\lalita-sahasranama.md"
       },
       {
+        "id": "madhyandina-sakha",
+        "title": "Mādhyandina Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Madhyandina Shakha",
+          "Madhyandina Recension",
+          "माध्यन्दिन शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Mādhyandina Śākhā is a principal recension of the Śukla (White) Yajurveda, prevalent in North India; its texts include the Vājasaneyi Saṃhitā, Śatapatha Brāhmaṇa, and Bṛhadāraṇyaka Upaniṣad; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Mādhyandina Śākhā is a principal recension of the Śukla (White) Yajurveda, prevalent in North India; its texts include the Vājasaneyi Saṃhitā, Śatapatha Brāhmaṇa, and Bṛhadāraṇyaka Upaniṣad; represented here as a catalogue entry.\n---",
+        "contentHash": "0a5877c800bdec3c04ddbefd41b1caf31a1bb5ce6e8ea87e60533f3aae411039",
+        "sourceFile": "src\\content\\concepts\\madhyandina-sakha.md"
+      },
+      {
         "id": "maha-mrityunjaya-mantra",
         "title": "Mahā Mrityunjaya Mantra",
         "type": "concept",
@@ -2953,6 +3145,38 @@
         "body": "The eighteen major Purāṇas distinguished from the Upapurāṇas by their scope, authority, and coverage of the pañcalakṣaṇa.",
         "contentHash": "6f46265ecf99eef80767faa1dc685cb3222e799318171b599bb005a2caf84cc9",
         "sourceFile": "src\\content\\concepts\\mahapurana.md"
+      },
+      {
+        "id": "maitrayaniya-sakha",
+        "title": "Maitrāyaṇīya Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Maitrayaniya Shakha",
+          "Maitrayaniya Recension",
+          "मैत्रायणीय शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Maitrāyaṇīya Śākhā is a recension of the Kṛṣṇa Yajurveda; its texts include the Maitrāyaṇīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Maitrāyaṇīya Śākhā is a recension of the Kṛṣṇa Yajurveda; its texts include the Maitrāyaṇīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry.\n---",
+        "contentHash": "1031d18d1c2a4899767ccd0d08aa49048069ad56391ece0c8c15909683d74ecf",
+        "sourceFile": "src\\content\\concepts\\maitrayaniya-sakha.md"
       },
       {
         "id": "mandodari",
@@ -3718,6 +3942,38 @@
         "sourceFile": "src\\content\\concepts\\padma-tirtha.md"
       },
       {
+        "id": "paippalada-sakha",
+        "title": "Paippalāda Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Paippalada Shakha",
+          "Paippalada Recension",
+          "पैप्पलाद शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Paippalāda Śākhā is a recension of the Atharvaveda, historically prominent in Kashmir and Odisha; its Saṃhitā is partially preserved and differs from the Śaunaka recension; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Paippalāda Śākhā is a recension of the Atharvaveda, historically prominent in Kashmir and Odisha; its Saṃhitā is partially preserved and differs from the Śaunaka recension; represented here as a catalogue entry.\n---",
+        "contentHash": "726c25338895e17fa2298c7551a742b31f7b24f3e0f1cf662c98b15b22ea949d",
+        "sourceFile": "src\\content\\concepts\\paippalada-sakha.md"
+      },
+      {
         "id": "paleography",
         "title": "Paleography",
         "type": "concept",
@@ -4380,6 +4636,38 @@
         "sourceFile": "src\\content\\concepts\\ramayana-philosophy.md"
       },
       {
+        "id": "ranayaniya-sakha",
+        "title": "Rāṇāyanīya Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Ranayaniya Shakha",
+          "Ranayaniya Recension",
+          "राणायनीय शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Rāṇāyanīya Śākhā is a recension of the Sāmaveda, historically prominent in Gujarat and Maharashtra; its texts are closely related to the Kauthuma recension; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Rāṇāyanīya Śākhā is a recension of the Sāmaveda, historically prominent in Gujarat and Maharashtra; its texts are closely related to the Kauthuma recension; represented here as a catalogue entry.\n---",
+        "contentHash": "7faa5d1dac39a415418f683e8533bca6c8f01f5e55eeedb9bcfecf3f7a376b31",
+        "sourceFile": "src\\content\\concepts\\ranayaniya-sakha.md"
+      },
+      {
         "id": "rasa-theory",
         "title": "Rasa Siddhānta",
         "type": "concept",
@@ -4986,6 +5274,38 @@
         "sourceFile": "src\\content\\concepts\\saraswati.md"
       },
       {
+        "id": "saunaka-sakha",
+        "title": "Śaunaka Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Saunaka Shakha",
+          "Saunaka Recension",
+          "शौनक शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Śaunaka Śākhā is the principal surviving recension of the Atharvaveda; its texts include the Atharvaveda Saṃhitā, Gopatha Brāhmaṇa, and several Upaniṣads; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Śaunaka Śākhā is the principal surviving recension of the Atharvaveda; its texts include the Atharvaveda Saṃhitā, Gopatha Brāhmaṇa, and several Upaniṣads; represented here as a catalogue entry.\n---",
+        "contentHash": "eb105755860bc2cb391ad8d8ff97d9ab0b8402f8c5f5aba163df2cc6485664d4",
+        "sourceFile": "src\\content\\concepts\\saunaka-sakha.md"
+      },
+      {
         "id": "shaiva-agamas",
         "title": "Śaiva Āgamas",
         "type": "concept",
@@ -5466,6 +5786,38 @@
         "body": "Sūrya as the chief of the Navagraha (nine planets), his iconography (seven-horse chariot, Aruṇa as charioteer), the Sūrya mantras, and his role in Vedic and Jyotiṣa traditions are represented here as a catalogue entry.\n---",
         "contentHash": "308f6c188b8873a03371aef1a10f7882c732b10e157a6be98a34697cb56ab021",
         "sourceFile": "src\\content\\concepts\\surya-navagraha.md"
+      },
+      {
+        "id": "taittiriya-sakha",
+        "title": "Taittirīya Śākhā",
+        "type": "concept",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Taittiriya Shakha",
+          "Taittiriya Recension",
+          "तैत्तिरीय शाखा"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC",
+          "CONCEPT"
+        ],
+        "description": "The Taittirīya Śākhā is the principal surviving recension of the Kṛṣṇa (Black) Yajurveda, prevalent in South India; its texts include the Taittirīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Taittirīya Śākhā is the principal surviving recension of the Kṛṣṇa (Black) Yajurveda, prevalent in South India; its texts include the Taittirīya Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad; represented here as a catalogue entry.\n---",
+        "contentHash": "dee8ad2cb0190c9504f6c8e832b7d7aa5da9a1d4b116b4f301cb89f2c5915e0f",
+        "sourceFile": "src\\content\\concepts\\taittiriya-sakha.md"
       },
       {
         "id": "tantra-sastra",
@@ -12099,6 +12451,565 @@
         "sourceFile": "src\\content\\scriptures\\baudhayana-dharmasutra.md"
       },
       {
+        "id": "bhagavad-gita-chapter-1",
+        "title": "Bhagavad Gītā Chapter 1 — Arjuna Viṣāda Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 1",
+          "Arjuna Vishada Yoga",
+          "भगवद्गीता अध्याय १"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The first chapter of the Bhagavad Gītā (Arjuna Viṣāda Yoga), describing Arjuna's dejection on the battlefield of Kurukṣetra and his refusal to fight; its 47 verses set the stage for Kṛṣṇa's teaching; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The first chapter of the Bhagavad Gītā (Arjuna Viṣāda Yoga), describing Arjuna's dejection on the battlefield of Kurukṣetra and his refusal to fight; its 47 verses set the stage for Kṛṣṇa's teaching; represented here as a catalogue entry.\n---",
+        "contentHash": "8814f62694c4adcc819a034d509d63ad336da96947af0516b48f087d24934bf0",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-1.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-10",
+        "title": "Bhagavad Gītā Chapter 10 — Vibhūti Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 10",
+          "Vibhuti Yoga",
+          "भगवद्गीता अध्याय १०"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The tenth chapter of the Bhagavad Gītā (Vibhūti Yoga), enumerating the divine manifestations (vibhūtis) of Kṛṣṇa as the supreme being in all aspects of creation; its 42 verses reveal the divine glories; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The tenth chapter of the Bhagavad Gītā (Vibhūti Yoga), enumerating the divine manifestations (vibhūtis) of Kṛṣṇa as the supreme being in all aspects of creation; its 42 verses reveal the divine glories; represented here as a catalogue entry.\n---",
+        "contentHash": "c1a862ebf4a556a081d478548850d0f9f26e8bc9d811a8d4518cfe35ddbb1cfe",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-10.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-11",
+        "title": "Bhagavad Gītā Chapter 11 — Viśvarūpa Darśana Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 11",
+          "Vishvarupa Darshana Yoga",
+          "भगवद्गीता अध्याय ११"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The eleventh chapter of the Bhagavad Gītā (Viśvarūpa Darśana Yoga), revealing Kṛṣṇa's cosmic form (viśvarūpa) to Arjuna, containing the entire universe within the divine form; its 55 verses present the supreme vision; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The eleventh chapter of the Bhagavad Gītā (Viśvarūpa Darśana Yoga), revealing Kṛṣṇa's cosmic form (viśvarūpa) to Arjuna, containing the entire universe within the divine form; its 55 verses present the supreme vision; represented here as a catalogue entry.\n---",
+        "contentHash": "e70024b0c0327b0e6e52ae44a5c4febfc248cde7cc2b7a2a039a66964f1301f3",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-11.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-12",
+        "title": "Bhagavad Gītā Chapter 12 — Bhakti Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 12",
+          "Bhakti Yoga",
+          "भगवद्गीता अध्याय १२"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The twelfth chapter of the Bhagavad Gītā (Bhakti Yoga), delineating the path of devotion (bhakti), the qualities of the devotee (bhakta), and the superiority of bhakti as the path to the supreme; its 20 verses are the heart of devotional yoga; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The twelfth chapter of the Bhagavad Gītā (Bhakti Yoga), delineating the path of devotion (bhakti), the qualities of the devotee (bhakta), and the superiority of bhakti as the path to the supreme; its 20 verses are the heart of devotional yoga; represented here as a catalogue entry.\n---",
+        "contentHash": "015ac49ca958cb1a5e8e84c739745cb25a23ddb611a5a6c2b3bfe485ae062cdc",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-12.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-13",
+        "title": "Bhagavad Gītā Chapter 13 — Kṣetra Kṣetrajña Vibhāga Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 13",
+          "Kshetra Kshetrajna Vibhaga Yoga",
+          "भगवद्गीता अध्याय १३"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The thirteenth chapter of the Bhagavad Gītā (Kṣetra Kṣetrajña Vibhāga Yoga), distinguishing the field (kṣetra, the body) from the knower of the field (kṣetrajña, the self), and describing the nature of both; its 35 verses analyze the relationship between body and self; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The thirteenth chapter of the Bhagavad Gītā (Kṣetra Kṣetrajña Vibhāga Yoga), distinguishing the field (kṣetra, the body) from the knower of the field (kṣetrajña, the self), and describing the nature of both; its 35 verses analyze the relationship between body and self; represented here as a catalogue entry.\n---",
+        "contentHash": "03ee0ca100ae9f5d5d668b93d4caaec71fc2ff18687c7771672d227275ad89ba",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-13.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-14",
+        "title": "Bhagavad Gītā Chapter 14 — Guṇa Traya Vibhāga Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 14",
+          "Guna Traya Vibhaga Yoga",
+          "भगवद्गीता अध्याय १४"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The fourteenth chapter of the Bhagavad Gītā (Guṇa Traya Vibhāga Yoga), analyzing the three guṇas (sattva, rajas, tamas) that bind the self to the body, their effects, and the means to transcend them; its 27 verses reveal the nature of the guṇas; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fourteenth chapter of the Bhagavad Gītā (Guṇa Traya Vibhāga Yoga), analyzing the three guṇas (sattva, rajas, tamas) that bind the self to the body, their effects, and the means to transcend them; its 27 verses reveal the nature of the guṇas; represented here as a catalogue entry.\n---",
+        "contentHash": "7f8ee3ba94324a45e2c912f585afb4fd717628019ccb3ddcbaef5a3f06d6e095",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-14.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-15",
+        "title": "Bhagavad Gītā Chapter 15 — Puruṣottama Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 15",
+          "Purushottama Yoga",
+          "भगवद्गीता अध्याय १५"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The fifteenth chapter of the Bhagavad Gītā (Puruṣottama Yoga), describing the cosmic tree (aśvattha) with roots above and branches below, and the supreme Person (Puruṣottama) who transcends both the perishable and imperishable; its 20 verses reveal the supreme Person; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fifteenth chapter of the Bhagavad Gītā (Puruṣottama Yoga), describing the cosmic tree (aśvattha) with roots above and branches below, and the supreme Person (Puruṣottama) who transcends both the perishable and imperishable; its 20 verses reveal the supreme Person; represented here as a catalogue entry.\n---",
+        "contentHash": "9202e1e14deda0a16e1ddb9f0852051490cc8dca8e8cf247d9231d753d0f8c13",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-15.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-16",
+        "title": "Bhagavad Gītā Chapter 16 — Daivāsura Sampad Vibhāga Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 16",
+          "Daivasura Sampad Vibhaga Yoga",
+          "भगवद्गीता अध्याय १६"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The sixteenth chapter of the Bhagavad Gītā (Daivāsura Sampad Vibhāga Yoga), contrasting the divine qualities (daivī sampad) with the demonic qualities (āsurī sampad), and their consequences for liberation or bondage; its 24 verses contrast the two paths; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The sixteenth chapter of the Bhagavad Gītā (Daivāsura Sampad Vibhāga Yoga), contrasting the divine qualities (daivī sampad) with the demonic qualities (āsurī sampad), and their consequences for liberation or bondage; its 24 verses contrast the two paths; represented here as a catalogue entry.\n---",
+        "contentHash": "85af12a4344610aaefad79917fa4ecf767ef3e138fcc5131a24cca30db2c833b",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-16.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-17",
+        "title": "Bhagavad Gītā Chapter 17 — Śraddhā Traya Vibhāga Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 17",
+          "Shraddha Traya Vibhaga Yoga",
+          "भगवद्गीता अध्याय १७"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The seventeenth chapter of the Bhagavad Gītā (Śraddhā Traya Vibhāga Yoga), analyzing the three types of faith (śraddhā) — sāttvika, rājasika, tāmasika — and their expressions in food, sacrifice, austerity, and charity; its 28 verses analyze faith; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The seventeenth chapter of the Bhagavad Gītā (Śraddhā Traya Vibhāga Yoga), analyzing the three types of faith (śraddhā) — sāttvika, rājasika, tāmasika — and their expressions in food, sacrifice, austerity, and charity; its 28 verses analyze faith; represented here as a catalogue entry.\n---",
+        "contentHash": "8dde3d7662256cd10ae584a3694776b8ceb8c411ac3320a66a5254ccf0033ac4",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-17.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-18",
+        "title": "Bhagavad Gītā Chapter 18 — Mokṣa Saṃnyāsa Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 18",
+          "Moksha Sannyasa Yoga",
+          "भगवद्गीता अध्याय १८"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The eighteenth and final chapter of the Bhagavad Gītā (Mokṣa Saṃnyāsa Yoga), summarizing the entire teaching, distinguishing true renunciation from false, and declaring the supremacy of bhakti and surrender to the divine; its 78 verses provide the final synthesis; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The eighteenth and final chapter of the Bhagavad Gītā (Mokṣa Saṃnyāsa Yoga), summarizing the entire teaching, distinguishing true renunciation from false, and declaring the supremacy of bhakti and surrender to the divine; its 78 verses provide the final synthesis; represented here as a catalogue entry.\n---",
+        "contentHash": "cb2d35db72a6d9564ea813f01bed001bc0dac514ff27622391d41e88143c3437",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-18.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-2",
+        "title": "Bhagavad Gītā Chapter 2 — Sāṅkhya Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 2",
+          "Sankhya Yoga",
+          "भगवद्गीता अध्याय २"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The second chapter of the Bhagavad Gītā (Sāṅkhya Yoga), containing Kṛṣṇa's foundational teaching on the immortality of the self (ātman), the nature of action (karma), and the practice of yoga; its 72 verses are foundational to the Gītā's philosophy; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The second chapter of the Bhagavad Gītā (Sāṅkhya Yoga), containing Kṛṣṇa's foundational teaching on the immortality of the self (ātman), the nature of action (karma), and the practice of yoga; its 72 verses are foundational to the Gītā's philosophy; represented here as a catalogue entry.\n---",
+        "contentHash": "1e333ce821ae82357af3e1ccc6e23f04c87f0e9300f5e1d39e25dce0ded1f68e",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-2.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-3",
+        "title": "Bhagavad Gītā Chapter 3 — Karma Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 3",
+          "Karma Yoga",
+          "भगवद्गीता अध्याय ३"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The third chapter of the Bhagavad Gītā (Karma Yoga), expounding the yoga of selfless action (niṣkāma karma), the nature of svadharma, and the cosmic cycle of yajña; its 43 verses elaborate the path of action; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The third chapter of the Bhagavad Gītā (Karma Yoga), expounding the yoga of selfless action (niṣkāma karma), the nature of svadharma, and the cosmic cycle of yajña; its 43 verses elaborate the path of action; represented here as a catalogue entry.\n---",
+        "contentHash": "6385ec1eb15a2eee5a46488d900d4fb65884f79bfe59404b78d5f17293953a52",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-3.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-4",
+        "title": "Bhagavad Gītā Chapter 4 — Jñāna Karma Saṃnyāsa Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 4",
+          "Jnana Karma Sannyasa Yoga",
+          "भगवद्गीता अध्याय ४"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The fourth chapter of the Bhagavad Gītā (Jñāna Karma Saṃnyāsa Yoga), describing the transmission of yoga through the guru-paramparā, the divine manifestation (avatāra), and the synthesis of knowledge and action; its 42 verses reveal the nature of true knowledge; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fourth chapter of the Bhagavad Gītā (Jñāna Karma Saṃnyāsa Yoga), describing the transmission of yoga through the guru-paramparā, the divine manifestation (avatāra), and the synthesis of knowledge and action; its 42 verses reveal the nature of true knowledge; represented here as a catalogue entry.\n---",
+        "contentHash": "50c2a6a39c80aacf89c35ef5e661ce8d6eb01276177a06014646ca6f457e0e81",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-4.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-5",
+        "title": "Bhagavad Gītā Chapter 5 — Karma Saṃnyāsa Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 5",
+          "Karma Sannyasa Yoga",
+          "भगवद्गीता अध्याय ५"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The fifth chapter of the Bhagavad Gītā (Karma Saṃnyāsa Yoga), comparing the path of renunciation (saṃnyāsa) with the yoga of action (karma yoga), establishing their essential unity; its 29 verses clarify the relationship between action and knowledge; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fifth chapter of the Bhagavad Gītā (Karma Saṃnyāsa Yoga), comparing the path of renunciation (saṃnyāsa) with the yoga of action (karma yoga), establishing their essential unity; its 29 verses clarify the relationship between action and knowledge; represented here as a catalogue entry.\n---",
+        "contentHash": "cd1f83d64b2fd057e998eba237d159f6b61fb2ea4b56347efc0e6cff7fb363e8",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-5.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-6",
+        "title": "Bhagavad Gītā Chapter 6 — Dhyāna Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 6",
+          "Dhyana Yoga",
+          "Atma Samyama Yoga",
+          "भगवद्गीता अध्याय ६"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The sixth chapter of the Bhagavad Gītā (Dhyāna Yoga / Ātma Saṃyama Yoga), detailing the practice of meditation (dhyāna), the discipline of the mind, and the qualities of the true yogin; its 47 verses present the practical path of meditation; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The sixth chapter of the Bhagavad Gītā (Dhyāna Yoga / Ātma Saṃyama Yoga), detailing the practice of meditation (dhyāna), the discipline of the mind, and the qualities of the true yogin; its 47 verses present the practical path of meditation; represented here as a catalogue entry.\n---",
+        "contentHash": "e5c31d722fe69786fdde839204e924fe6bfc4dc08411bb85e155ac8abd26256c",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-6.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-7",
+        "title": "Bhagavad Gītā Chapter 7 — Jñāna Vijñāna Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 7",
+          "Jnana Vijnana Yoga",
+          "भगवद्गीता अध्याय ७"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The seventh chapter of the Bhagavad Gītā (Jñāna Vijñāna Yoga), revealing the nature of the divine (Bhagavān) as both the material and efficient cause of the universe, and the distinction between lower (aparā) and higher (parā) knowledge; its 30 verses reveal the nature of the supreme; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The seventh chapter of the Bhagavad Gītā (Jñāna Vijñāna Yoga), revealing the nature of the divine (Bhagavān) as both the material and efficient cause of the universe, and the distinction between lower (aparā) and higher (parā) knowledge; its 30 verses reveal the nature of the supreme; represented here as a catalogue entry.\n---",
+        "contentHash": "58c69846c6deb61a4dc6f003675bc91b93abd12fb255c890e664c57a73d199f0",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-7.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-8",
+        "title": "Bhagavad Gītā Chapter 8 — Akṣara Brahma Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 8",
+          "Akshara Brahma Yoga",
+          "भगवद्गीता अध्याय ८"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The eighth chapter of the Bhagavad Gītā (Akṣara Brahma Yoga), describing the imperishable Brahman, the practice of remembering the divine at the time of death, and the two paths of departure (arcirādi and dhūmādi); its 28 verses reveal the path to the supreme; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The eighth chapter of the Bhagavad Gītā (Akṣara Brahma Yoga), describing the imperishable Brahman, the practice of remembering the divine at the time of death, and the two paths of departure (arcirādi and dhūmādi); its 28 verses reveal the path to the supreme; represented here as a catalogue entry.\n---",
+        "contentHash": "c451de09ecc71ee16c1b18e84eeba2b317be3b2d41353d1e6dd07ae4113eeb7a",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-8.md"
+      },
+      {
+        "id": "bhagavad-gita-chapter-9",
+        "title": "Bhagavad Gītā Chapter 9 — Rāja Vidyā Rāja Guhya Yoga",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bhagavad Gita Chapter 9",
+          "Raja Vidya Raja Guhya Yoga",
+          "भगवद्गीता अध्याय ९"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SMRITI",
+          "ITIHASA"
+        ],
+        "description": "The ninth chapter of the Bhagavad Gītā (Rāja Vidyā Rāja Guhya Yoga), revealing the supreme secret knowledge (rāja vidyā) of the all-pervading divine, the practice of devotion (bhakti), and the inclusivity of the divine path; its 34 verses reveal the king of sciences; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The ninth chapter of the Bhagavad Gītā (Rāja Vidyā Rāja Guhya Yoga), revealing the supreme secret knowledge (rāja vidyā) of the all-pervading divine, the practice of devotion (bhakti), and the inclusivity of the divine path; its 34 verses reveal the king of sciences; represented here as a catalogue entry.\n---",
+        "contentHash": "1b041b4a2fc5844e220e9a04d2339ae3ee9ffd674efdfe49094f6528720bbcda",
+        "sourceFile": "src\\content\\scriptures\\bhagavad-gita-chapter-9.md"
+      },
+      {
         "id": "bhagavata-purana",
         "title": "Bhāgavata Purāṇa",
         "type": "scripture",
@@ -12157,6 +13068,276 @@
         "body": "A Mahāpurāṇa focused on Brahmā and creation narratives, with sections on pilgrimage, ritual, and cosmology; represented here as a catalogue entry.",
         "contentHash": "5705c3a87829d3b2ef3afd440715fe4d9cc2c8ca7452a49badc2033bfb96684f",
         "sourceFile": "src\\content\\scriptures\\brahma-purana.md"
+      },
+      {
+        "id": "brahma-sutra-adhyaya-1",
+        "title": "Brahma Sūtra Adhyāya 1 — Samanvaya",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Brahma Sutra Adhyaya 1",
+          "Brahma Sutra Chapter 1",
+          "ब्रह्म सूत्र अध्याय १"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "The first adhyāya (chapter) of the Brahma Sūtra (Samanvaya), consisting of four pādas and 134 sūtras, harmonizing the diverse Upaniṣadic statements to establish that Brahman is the sole cause of the universe; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The first adhyāya (chapter) of the Brahma Sūtra (Samanvaya), consisting of four pādas and 134 sūtras, harmonizing the diverse Upaniṣadic statements to establish that Brahman is the sole cause of the universe; represented here as a catalogue entry.\n---",
+        "contentHash": "1e6fbfc80b2fa168204405b58adb8a7c9d086ec172291a18c82c3e8a5bb11489",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-adhyaya-1.md"
+      },
+      {
+        "id": "brahma-sutra-adhyaya-2",
+        "title": "Brahma Sūtra Adhyāya 2 — Avirodha",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Brahma Sutra Adhyaya 2",
+          "Brahma Sutra Chapter 2",
+          "ब्रह्म सूत्र अध्याय २"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "The second adhyāya of the Brahma Sūtra (Avirodha), consisting of four pādas and 157 sūtras, refuting objections from other schools (Sāṃkhya, Yoga, Vaiśeṣika, Buddhist, Jain) and showing the consistency of the Vedānta doctrine; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The second adhyāya of the Brahma Sūtra (Avirodha), consisting of four pādas and 157 sūtras, refuting objections from other schools (Sāṃkhya, Yoga, Vaiśeṣika, Buddhist, Jain) and showing the consistency of the Vedānta doctrine; represented here as a catalogue entry.\n---",
+        "contentHash": "cb85198dd93aeed353386bd31fb465e3e7f2de4daa81d42acf1ed371185cdad7",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-adhyaya-2.md"
+      },
+      {
+        "id": "brahma-sutra-adhyaya-3",
+        "title": "Brahma Sūtra Adhyāya 3 — Sādhana",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Brahma Sutra Adhyaya 3",
+          "Brahma Sutra Chapter 3",
+          "ब्रह्म सूत्र अध्याय ३"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "The third adhyāya of the Brahma Sūtra (Sādhana), consisting of four pādas and 186 sūtras, discussing the means (sādhana) to realize Brahman, including meditation (upāsanā), ethics, and the path of knowledge; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The third adhyāya of the Brahma Sūtra (Sādhana), consisting of four pādas and 186 sūtras, discussing the means (sādhana) to realize Brahman, including meditation (upāsanā), ethics, and the path of knowledge; represented here as a catalogue entry.\n---",
+        "contentHash": "443e50ba1b9778ca55e6d722b66c838e5a488773b811d62a725e110e2735faa0",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-adhyaya-3.md"
+      },
+      {
+        "id": "brahma-sutra-adhyaya-4",
+        "title": "Brahma Sūtra Adhyāya 4 — Phala",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Brahma Sutra Adhyaya 4",
+          "Brahma Sutra Chapter 4",
+          "ब्रह्म सूत्र अध्याय ४"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "The fourth adhyāya of the Brahma Sūtra (Phala), consisting of four pādas and 113 sūtras, describing the fruit (phala) of knowledge — liberation (mokṣa), the state of the liberated, and the fate of the knower of Brahman; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fourth adhyāya of the Brahma Sūtra (Phala), consisting of four pādas and 113 sūtras, describing the fruit (phala) of knowledge — liberation (mokṣa), the state of the liberated, and the fate of the knower of Brahman; represented here as a catalogue entry.\n---",
+        "contentHash": "620d7a9cfd4965cf5544495ce47c872192f21be2e52e2b433e39c58191f6fc78",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-adhyaya-4.md"
+      },
+      {
+        "id": "brahma-sutra-bhashya-madhva",
+        "title": "Madhva Brahma Sūtra Bhāṣya",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Madhva Brahma Sutra Bhashya",
+          "Madhva Brahma Sutra Commentary",
+          "मध्व ब्रह्म सूत्र भाष्य"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; represented here as a catalogue entry.\n---",
+        "contentHash": "d301bc83346d75d39b000a81cb024ba6936f990de7e451a8ca12d0e03aaec7f1",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-bhashya-madhva.md"
+      },
+      {
+        "id": "brahma-sutra-bhashya-nimbarka",
+        "title": "Nimbārka Vedānta Pārijāta Saurabha",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Nimbarka Brahma Sutra Bhashya",
+          "Nimbarka Vedanta Parijata Saurabha",
+          "निम्बार्क वेदान्त पारिजात सौरभ"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "Nimbārka's Vedānta Pārijāta Saurabha, the Bhedābheda commentary on the Brahma Sūtra, establishing difference-and-non-difference with Kṛṣṇa as the supreme reality; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Nimbārka's Vedānta Pārijāta Saurabha, the Bhedābheda commentary on the Brahma Sūtra, establishing difference-and-non-difference with Kṛṣṇa as the supreme reality; represented here as a catalogue entry.\n---",
+        "contentHash": "f9e4f005822f0a37056eb32a5dffdbf6cee93c21bf3e69facaad33d44e0857ec",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-bhashya-nimbarka.md"
+      },
+      {
+        "id": "brahma-sutra-bhashya-ramanuja",
+        "title": "Rāmānuja Śrī Bhāṣya",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Ramanuja Sri Bhashya",
+          "Ramanuja Brahma Sutra Bhashya",
+          "रामानुज श्री भाष्य"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "Rāmānuja's Śrī Bhāṣya, the principal Viśiṣṭādvaita commentary on the Brahma Sūtra, establishing qualified non-duality with Viṣṇu as the supreme Brahman qualified by conscious souls and matter; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Rāmānuja's Śrī Bhāṣya, the principal Viśiṣṭādvaita commentary on the Brahma Sūtra, establishing qualified non-duality with Viṣṇu as the supreme Brahman qualified by conscious souls and matter; represented here as a catalogue entry.\n---",
+        "contentHash": "950ded325af0bd6674a3abdae7e02d47a881ad4f91d10103ffe01540e75c46c6",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-bhashya-ramanuja.md"
+      },
+      {
+        "id": "brahma-sutra-bhashya-shankara",
+        "title": "Śaṅkara Brahma Sūtra Bhāṣya",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Shankara Brahma Sutra Bhashya",
+          "Shankara Brahma Sutra Commentary",
+          "शंकर ब्रह्म सूत्र भाष्य"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "Śaṅkara's Brahma Sūtra Bhāṣya, the earliest surviving and most influential commentary on the Brahma Sūtra, establishing the Advaita (non-dual) interpretation; its systematic exposition of Brahman as non-dual, the illusory nature of the world (māyā), and the identity of ātman and Brahman is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Śaṅkara's Brahma Sūtra Bhāṣya, the earliest surviving and most influential commentary on the Brahma Sūtra, establishing the Advaita (non-dual) interpretation; its systematic exposition of Brahman as non-dual, the illusory nature of the world (māyā), and the identity of ātman and Brahman is represented here as a catalogue entry.\n---",
+        "contentHash": "7d24e7502c967468a0ff62471fbe12c43699d58642efbf35801a76cf2b1ca4b9",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-bhashya-shankara.md"
+      },
+      {
+        "id": "brahma-sutra-bhashya-vallabha",
+        "title": "Vallabha Anubhāṣya",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Vallabha Anubhashya",
+          "Vallabha Brahma Sutra Commentary",
+          "वल्लभ अनुभाष्य"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "VEDANTA"
+        ],
+        "description": "Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); represented here as a catalogue entry.\n---",
+        "contentHash": "ef8a0704658dcb690a87a83cf229c95ccfab5da16928052a60e4e5b340a8ff21",
+        "sourceFile": "src\\content\\scriptures\\brahma-sutra-bhashya-vallabha.md"
       },
       {
         "id": "brahma-sutra",
@@ -12674,6 +13855,36 @@
         "sourceFile": "src\\content\\scriptures\\jabala-upanishad.md"
       },
       {
+        "id": "jaiminiya-aranyaka",
+        "title": "Jaiminīya Āraṇyaka",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Jaiminiya Aranyaka",
+          "जैमिनीय आरण्यक"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The Jaiminīya Āraṇyaka, associated with the Jaiminīya Śākhā of the Sāmaveda, contains the Jaiminīya Upaniṣad Bṛhadāraṇyaka and related forest texts; its content is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Jaiminīya Āraṇyaka, associated with the Jaiminīya Śākhā of the Sāmaveda, contains the Jaiminīya Upaniṣad Bṛhadāraṇyaka and related forest texts; its content is represented here as a catalogue entry.\n---",
+        "contentHash": "1b76eb2d4fbd9afa78db0ab00a90a7001af95d1e7d7498cb85a3afb54b4efd83",
+        "sourceFile": "src\\content\\scriptures\\jaiminiya-aranyaka.md"
+      },
+      {
         "id": "jaiminiya-brahmana",
         "title": "Jaiminīya Brāhmaṇa",
         "type": "scripture",
@@ -12683,6 +13894,7 @@
         ],
         "aliases": [
           "Jaiminiya Brahmana",
+          "Talavakara Brahmana",
           "जैमिनीय ब्राह्मण"
         ],
         "sources": [
@@ -12700,7 +13912,7 @@
         ],
         "relationshipIds": [],
         "body": "The Jaiminīya Brāhmaṇa (also Talavakāra Brāhmaṇa), associated with the Jaiminīya/Talavakāra Śākhā of the Sāmaveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.\n---",
-        "contentHash": "e72f61dcf726b265d28df1143bd8978911b663e24cd46cc8efef7412b7008521",
+        "contentHash": "4c2decb259ccbdaf71f7fa47495328f2c308d08f0ae444a23c3533485707f170",
         "sourceFile": "src\\content\\scriptures\\jaiminiya-brahmana.md"
       },
       {
@@ -12845,13 +14057,13 @@
           "SHRUTI",
           "VEDIC"
         ],
-        "description": "The Kauṣītaki Brāhmaṇa (also Śāṅkhāyana Brāhmaṇa), associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
+        "description": "The Kauṣītaki Brāhmaṇa, associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Kauṣītaki Brāhmaṇa (also Śāṅkhāyana Brāhmaṇa), associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.\n---",
-        "contentHash": "e28ebb4bad0e9872fc894497c5acae70a2eb105b1816d61ccd729bbe1a6808d6",
+        "body": "The Kauṣītaki Brāhmaṇa, associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.\n---",
+        "contentHash": "6cde650460ca348cf008ac94480bce148761b9c9fa830d1fbdd53425132889ca",
         "sourceFile": "src\\content\\scriptures\\kaushitaki-brahmana.md"
       },
       {
@@ -13616,6 +14828,316 @@
         "sourceFile": "src\\content\\scriptures\\ramayana.md"
       },
       {
+        "id": "rigveda-mandala-1",
+        "title": "Ṛgveda Maṇḍala 1",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 1",
+          "Rig Veda Book 1",
+          "ऋग्वेद मण्डल १"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The first Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns (sūktas) primarily dedicated to Agni and Indra; its composition is attributed to the ṛṣi Madhucchandas and other seers; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The first Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns (sūktas) primarily dedicated to Agni and Indra; its composition is attributed to the ṛṣi Madhucchandas and other seers; represented here as a catalogue entry.\n---",
+        "contentHash": "e2e1aa1eb5c12e5d83bc31c7b0aae9f70fec303de65c72d3b3bc5bb637352bc6",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-1.md"
+      },
+      {
+        "id": "rigveda-mandala-10",
+        "title": "Ṛgveda Maṇḍala 10",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 10",
+          "Rig Veda Book 10",
+          "ऋग्वेद मण्डल १०"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The tenth Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns attributed to various ṛṣis; contains the Puruṣa Sūkta (10.90), Nāsadīya Sūkta (10.129), and hymns on cosmology, philosophy, and social life; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The tenth Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns attributed to various ṛṣis; contains the Puruṣa Sūkta (10.90), Nāsadīya Sūkta (10.129), and hymns on cosmology, philosophy, and social life; represented here as a catalogue entry.\n---",
+        "contentHash": "c424c27f51198c64bb5619a77c362d1e18ab96b2116276faf7ba3cffdf9ac065",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-10.md"
+      },
+      {
+        "id": "rigveda-mandala-2",
+        "title": "Ṛgveda Maṇḍala 2",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 2",
+          "Rig Veda Book 2",
+          "ऋग्वेद मण्डल २"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The second Maṇḍala of the Ṛgveda Saṃhitā contains 43 hymns attributed to the ṛṣi Gṛtsamada; primarily dedicated to Agni, Indra, and the Viśvedevas; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The second Maṇḍala of the Ṛgveda Saṃhitā contains 43 hymns attributed to the ṛṣi Gṛtsamada; primarily dedicated to Agni, Indra, and the Viśvedevas; represented here as a catalogue entry.\n---",
+        "contentHash": "71ac9e6f978a772398a6b98836ac12d6bf94564dc5637f525356f615e0e2fe90",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-2.md"
+      },
+      {
+        "id": "rigveda-mandala-3",
+        "title": "Ṛgveda Maṇḍala 3",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 3",
+          "Rig Veda Book 3",
+          "ऋग्वेद मण्डल ३"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The third Maṇḍala of the Ṛgveda Saṃhitā contains 62 hymns attributed to the ṛṣi Viśvāmitra; famous for the Gāyatrī Mantra (3.62.10) addressed to Savitṛ; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The third Maṇḍala of the Ṛgveda Saṃhitā contains 62 hymns attributed to the ṛṣi Viśvāmitra; famous for the Gāyatrī Mantra (3.62.10) addressed to Savitṛ; represented here as a catalogue entry.\n---",
+        "contentHash": "3d157da23916cd2ad5f2b953eba8911b3a2f4c630cf0a302793153d2c3ed4ab2",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-3.md"
+      },
+      {
+        "id": "rigveda-mandala-4",
+        "title": "Ṛgveda Maṇḍala 4",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 4",
+          "Rig Veda Book 4",
+          "ऋग्वेद मण्डल ४"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The fourth Maṇḍala of the Ṛgveda Saṃhitā contains 58 hymns attributed to the ṛṣi Vāmadeva; dedicated to Agni, Indra, and the Aśvins; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fourth Maṇḍala of the Ṛgveda Saṃhitā contains 58 hymns attributed to the ṛṣi Vāmadeva; dedicated to Agni, Indra, and the Aśvins; represented here as a catalogue entry.\n---",
+        "contentHash": "e60b5827f513bf7e4c57f83a9d95dedc644c12a85307119f0463729bd1305e1a",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-4.md"
+      },
+      {
+        "id": "rigveda-mandala-5",
+        "title": "Ṛgveda Maṇḍala 5",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 5",
+          "Rig Veda Book 5",
+          "ऋग्वेद मण्डल ५"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The fifth Maṇḍala of the Ṛgveda Saṃhitā contains 87 hymns attributed to the ṛṣi Atri; dedicated to Agni, Indra, Viśvedevas, and the Maruts; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The fifth Maṇḍala of the Ṛgveda Saṃhitā contains 87 hymns attributed to the ṛṣi Atri; dedicated to Agni, Indra, Viśvedevas, and the Maruts; represented here as a catalogue entry.\n---",
+        "contentHash": "025463a733986a58f741ab2851edd5a7c80678c78c0b34ad65feadf5f9618c5c",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-5.md"
+      },
+      {
+        "id": "rigveda-mandala-6",
+        "title": "Ṛgveda Maṇḍala 6",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 6",
+          "Rig Veda Book 6",
+          "ऋग्वेद मण्डल ६"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The sixth Maṇḍala of the Ṛgveda Saṃhitā contains 75 hymns attributed to the ṛṣi Bharadvāja; dedicated to Agni, Indra, and the Viśvedevas; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The sixth Maṇḍala of the Ṛgveda Saṃhitā contains 75 hymns attributed to the ṛṣi Bharadvāja; dedicated to Agni, Indra, and the Viśvedevas; represented here as a catalogue entry.\n---",
+        "contentHash": "08a282c7fc60d98646d9a34ae5f74d2af96b5c7939dd8bb3b0aef522253e4815",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-6.md"
+      },
+      {
+        "id": "rigveda-mandala-7",
+        "title": "Ṛgveda Maṇḍala 7",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 7",
+          "Rig Veda Book 7",
+          "ऋग्वेद मण्डल ७"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The seventh Maṇḍala of the Ṛgveda Saṃhitā contains 104 hymns attributed to the ṛṣi Vasiṣṭha; dedicated to Indra, Agni, Varuṇa, and the Viśvedevas; contains the Mahāmṛtyuñjaya Mantra (7.59.12); represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The seventh Maṇḍala of the Ṛgveda Saṃhitā contains 104 hymns attributed to the ṛṣi Vasiṣṭha; dedicated to Indra, Agni, Varuṇa, and the Viśvedevas; contains the Mahāmṛtyuñjaya Mantra (7.59.12); represented here as a catalogue entry.\n---",
+        "contentHash": "a3da01ac3389b7ecf91dea6ea34a40941e4c5bdc337dcf0f64cfd17eb118df4c",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-7.md"
+      },
+      {
+        "id": "rigveda-mandala-8",
+        "title": "Ṛgveda Maṇḍala 8",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 8",
+          "Rig Veda Book 8",
+          "ऋग्वेद मण्डल ८"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The eighth Maṇḍala of the Ṛgveda Saṃhitā contains 103 hymns attributed to the Kaṇva and Āṅgirasa families; dedicated to Indra, Agni, and the Aśvins; contains the Vālakhilya hymns (8.49–59); represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The eighth Maṇḍala of the Ṛgveda Saṃhitā contains 103 hymns attributed to the Kaṇva and Āṅgirasa families; dedicated to Indra, Agni, and the Aśvins; contains the Vālakhilya hymns (8.49–59); represented here as a catalogue entry.\n---",
+        "contentHash": "fafb629a243d333233c6170021708d1e7e2072b50944bbc773c131c6f0d9ec43",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-8.md"
+      },
+      {
+        "id": "rigveda-mandala-9",
+        "title": "Ṛgveda Maṇḍala 9",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rigveda Mandala 9",
+          "Rig Veda Book 9",
+          "ऋग्वेद मण्डल ९"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The ninth Maṇḍala of the Ṛgveda Saṃhitā contains 114 hymns dedicated entirely to Soma Pavamāna (the purifying Soma); its hymns are attributed to various ṛṣis and are used in the Soma sacrifice; represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The ninth Maṇḍala of the Ṛgveda Saṃhitā contains 114 hymns dedicated entirely to Soma Pavamāna (the purifying Soma); its hymns are attributed to various ṛṣis and are used in the Soma sacrifice; represented here as a catalogue entry.\n---",
+        "contentHash": "3e379313789d3322f58b59d1c580d2299fed1b8e8b69f37556b43728e3eaabb7",
+        "sourceFile": "src\\content\\scriptures\\rigveda-mandala-9.md"
+      },
+      {
         "id": "rigveda-samhita",
         "title": "Ṛgveda Saṃhitā",
         "type": "scripture",
@@ -13826,6 +15348,66 @@
         "body": "A Vedic collection represented as a source-aware catalogue entry. Its textual and recitational traditions are not treated as identical to those of the other Vedas.",
         "contentHash": "7002810a596c7eeaa0fdd78ddbd4302efab08a1a3cae1beb475b12281f92f980",
         "sourceFile": "src\\content\\scriptures\\samaveda.md"
+      },
+      {
+        "id": "samkhayana-aranyaka",
+        "title": "Śāṅkhāyana Āraṇyaka",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Sankhayana Aranyaka",
+          "शाङ्खायन आरण्यक"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The Śāṅkhāyana Āraṇyaka, associated with the Ṛgveda, contains the Kauṣītaki Upaniṣad and discusses the inner meaning of ritual; its content is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Śāṅkhāyana Āraṇyaka, associated with the Ṛgveda, contains the Kauṣītaki Upaniṣad and discusses the inner meaning of ritual; its content is represented here as a catalogue entry.\n---",
+        "contentHash": "c95bc5758b5e3101649f18690d3f212258fd222830da8001b02d4c3168d4e06e",
+        "sourceFile": "src\\content\\scriptures\\samkhayana-aranyaka.md"
+      },
+      {
+        "id": "sankhyayana-brahmana",
+        "title": "Śāṅkhāyana Brāhmaṇa",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Sankhayana Brahmana",
+          "शाङ्खायन ब्राह्मण"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "SHRUTI",
+          "VEDIC"
+        ],
+        "description": "The Śāṅkhāyana Brāhmaṇa (also Kauṣītaki Brāhmaṇa), associated with the Bāṣkala Śākhā of the Ṛgveda; contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Śāṅkhāyana Brāhmaṇa (also Kauṣītaki Brāhmaṇa), associated with the Bāṣkala Śākhā of the Ṛgveda; contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.\n---",
+        "contentHash": "790ba20dcd1523b8a10b552a3697fd156a94358e3edebf763469b51b14d0d502",
+        "sourceFile": "src\\content\\scriptures\\sankhyayana-brahmana.md"
       },
       {
         "id": "shatapatha-brahmana",
@@ -16322,5 +17904,5 @@
     "ta",
     "te"
   ],
-  "compiledAt": "2026-09-23T15:24:00.962Z"
+  "compiledAt": "2026-09-23T17:26:31.757Z"
 }

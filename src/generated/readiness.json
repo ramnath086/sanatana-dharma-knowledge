@@ -4840,6 +4840,76 @@
       }
     ]
   },
+  "jaiminiya-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "japa-mala": {
     "publishable": true,
     "blockers": [],
@@ -5260,6 +5330,146 @@
       }
     ]
   },
+  "kanva-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "kapishthala-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "karma": {
     "publishable": true,
     "blockers": [],
@@ -5400,7 +5610,147 @@
       }
     ]
   },
+  "katha-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "kathakali-vesham": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "kauthuma-sakha": {
     "publishable": true,
     "blockers": [],
     "warnings": [],
@@ -5960,6 +6310,76 @@
       }
     ]
   },
+  "madhyandina-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "maha-mrityunjaya-mantra": {
     "publishable": true,
     "blockers": [],
@@ -6381,6 +6801,76 @@
     ]
   },
   "mahapurana": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "maitrayaniya-sakha": {
     "publishable": true,
     "blockers": [],
     "warnings": [],
@@ -8130,6 +8620,76 @@
       }
     ]
   },
+  "paippalada-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "paleography": {
     "publishable": true,
     "blockers": [],
@@ -9600,6 +10160,76 @@
       }
     ]
   },
+  "ranayaniya-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "rasa-theory": {
     "publishable": true,
     "blockers": [],
@@ -10930,6 +11560,76 @@
       }
     ]
   },
+  "saunaka-sakha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "shaiva-agamas": {
     "publishable": true,
     "blockers": [],
@@ -11911,6 +12611,76 @@
     ]
   },
   "surya-navagraha": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "taittiriya-sakha": {
     "publishable": true,
     "blockers": [],
     "warnings": [],
@@ -26062,6 +26832,1266 @@
       }
     ]
   },
+  "bhagavad-gita-chapter-1": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-10": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-11": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-12": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-13": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-14": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-15": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-16": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-17": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-18": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-2": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-3": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-4": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-5": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-6": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-7": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-8": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "bhagavad-gita-chapter-9": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "bhagavad-gita": {
     "publishable": true,
     "blockers": [],
@@ -26203,6 +28233,636 @@
     ]
   },
   "brahma-purana": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-adhyaya-1": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-adhyaya-2": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-adhyaya-3": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-adhyaya-4": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-bhashya-madhva": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-bhashya-nimbarka": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-bhashya-ramanuja": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-bhashya-shankara": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "brahma-sutra-bhashya-vallabha": {
     "publishable": true,
     "blockers": [],
     "warnings": [],
@@ -27393,6 +30053,76 @@
     ]
   },
   "jabala-upanishad": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "jaiminiya-aranyaka": {
     "publishable": true,
     "blockers": [],
     "warnings": [],
@@ -29632,6 +32362,706 @@
       }
     ]
   },
+  "rigveda-mandala-1": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-10": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-2": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-3": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-4": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-5": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-6": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-7": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-8": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "rigveda-mandala-9": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
   "rigveda-samhita": {
     "publishable": true,
     "blockers": [],
@@ -30053,6 +33483,146 @@
     ]
   },
   "samaveda": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "samkhayana-aranyaka": {
+    "publishable": true,
+    "blockers": [],
+    "warnings": [],
+    "checks": [
+      {
+        "id": "content-id",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Stable entity ID is present."
+      },
+      {
+        "id": "content-title",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Title is present."
+      },
+      {
+        "id": "content-body",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Content body is present."
+      },
+      {
+        "id": "language",
+        "category": "CONTENT",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Language metadata is present."
+      },
+      {
+        "id": "workflow-state",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Record is explicitly published."
+      },
+      {
+        "id": "verification",
+        "category": "EDITORIAL",
+        "status": "PASS",
+        "severity": "error",
+        "message": "Verification state is acceptable."
+      },
+      {
+        "id": "sources",
+        "category": "SOURCE",
+        "status": "PASS",
+        "severity": "error",
+        "message": "All source IDs resolve."
+      },
+      {
+        "id": "rights",
+        "category": "RIGHTS",
+        "status": "PASS",
+        "severity": "info",
+        "message": "Referenced source rights are recorded."
+      },
+      {
+        "id": "evidence",
+        "category": "EVIDENCE",
+        "status": "NOT_APPLICABLE",
+        "severity": "info",
+        "message": "No claims recorded."
+      }
+    ]
+  },
+  "sankhyayana-brahmana": {
     "publishable": true,
     "blockers": [],
     "warnings": [],

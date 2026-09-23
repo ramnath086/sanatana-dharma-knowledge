@@ -583,6 +583,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "jaiminiya-sakha",
+    "title": "Jaiminīya Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "japa-mala",
     "title": "Japa Mālā",
     "status": "published",
@@ -633,6 +642,24 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kanva-sakha",
+    "title": "Kāṇva Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kapishthala-sakha",
+    "title": "Kāpiṣṭhala Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "karma",
     "title": "Karma",
     "status": "published",
@@ -649,8 +676,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "katha-sakha",
+    "title": "Kaṭha Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "kathakali-vesham",
     "title": "Kathakali Vesham",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kauthuma-sakha",
+    "title": "Kauthuma Śākhā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -717,6 +762,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "madhyandina-sakha",
+    "title": "Mādhyandina Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "maha-mrityunjaya-mantra",
     "title": "Mahā Mrityunjaya Mantra",
     "status": "published",
@@ -773,6 +827,15 @@
   {
     "entityId": "mahapurana",
     "title": "Mahāpurāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "maitrayaniya-sakha",
+    "title": "Maitrāyaṇīya Śākhā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -990,6 +1053,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "paippalada-sakha",
+    "title": "Paippalāda Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "paleography",
     "title": "Paleography",
     "status": "published",
@@ -1177,6 +1249,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ranayaniya-sakha",
+    "title": "Rāṇāyanīya Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rasa-theory",
     "title": "Rasa Siddhānta",
     "status": "published",
@@ -1346,6 +1427,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "saunaka-sakha",
+    "title": "Śaunaka Śākhā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "shaiva-agamas",
     "title": "Śaiva Āgamas",
     "status": "published",
@@ -1472,6 +1562,15 @@
   {
     "entityId": "surya-navagraha",
     "title": "Sūrya Navagraha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "taittiriya-sakha",
+    "title": "Taittirīya Śākhā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3184,6 +3283,168 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bhagavad-gita-chapter-1",
+    "title": "Bhagavad Gītā Chapter 1 — Arjuna Viṣāda Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-10",
+    "title": "Bhagavad Gītā Chapter 10 — Vibhūti Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-11",
+    "title": "Bhagavad Gītā Chapter 11 — Viśvarūpa Darśana Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-12",
+    "title": "Bhagavad Gītā Chapter 12 — Bhakti Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-13",
+    "title": "Bhagavad Gītā Chapter 13 — Kṣetra Kṣetrajña Vibhāga Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-14",
+    "title": "Bhagavad Gītā Chapter 14 — Guṇa Traya Vibhāga Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-15",
+    "title": "Bhagavad Gītā Chapter 15 — Puruṣottama Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-16",
+    "title": "Bhagavad Gītā Chapter 16 — Daivāsura Sampad Vibhāga Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-17",
+    "title": "Bhagavad Gītā Chapter 17 — Śraddhā Traya Vibhāga Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-18",
+    "title": "Bhagavad Gītā Chapter 18 — Mokṣa Saṃnyāsa Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-2",
+    "title": "Bhagavad Gītā Chapter 2 — Sāṅkhya Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-3",
+    "title": "Bhagavad Gītā Chapter 3 — Karma Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-4",
+    "title": "Bhagavad Gītā Chapter 4 — Jñāna Karma Saṃnyāsa Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-5",
+    "title": "Bhagavad Gītā Chapter 5 — Karma Saṃnyāsa Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-6",
+    "title": "Bhagavad Gītā Chapter 6 — Dhyāna Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-7",
+    "title": "Bhagavad Gītā Chapter 7 — Jñāna Vijñāna Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-8",
+    "title": "Bhagavad Gītā Chapter 8 — Akṣara Brahma Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-chapter-9",
+    "title": "Bhagavad Gītā Chapter 9 — Rāja Vidyā Rāja Guhya Yoga",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "bhagavad-gita",
     "title": "Bhagavad Gita",
     "status": "published",
@@ -3200,6 +3461,87 @@
   {
     "entityId": "brahma-purana",
     "title": "Brahma Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-adhyaya-1",
+    "title": "Brahma Sūtra Adhyāya 1 — Samanvaya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-adhyaya-2",
+    "title": "Brahma Sūtra Adhyāya 2 — Avirodha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-adhyaya-3",
+    "title": "Brahma Sūtra Adhyāya 3 — Sādhana",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-adhyaya-4",
+    "title": "Brahma Sūtra Adhyāya 4 — Phala",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-madhva",
+    "title": "Madhva Brahma Sūtra Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-nimbarka",
+    "title": "Nimbārka Vedānta Pārijāta Saurabha",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-ramanuja",
+    "title": "Rāmānuja Śrī Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-shankara",
+    "title": "Śaṅkara Brahma Sūtra Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-vallabha",
+    "title": "Vallabha Anubhāṣya",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3347,6 +3689,15 @@
   {
     "entityId": "jabala-upanishad",
     "title": "Jabāla Upaniṣad",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "jaiminiya-aranyaka",
+    "title": "Jaiminīya Āraṇyaka",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3629,6 +3980,96 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "rigveda-mandala-1",
+    "title": "Ṛgveda Maṇḍala 1",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-10",
+    "title": "Ṛgveda Maṇḍala 10",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-2",
+    "title": "Ṛgveda Maṇḍala 2",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-3",
+    "title": "Ṛgveda Maṇḍala 3",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-4",
+    "title": "Ṛgveda Maṇḍala 4",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-5",
+    "title": "Ṛgveda Maṇḍala 5",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-6",
+    "title": "Ṛgveda Maṇḍala 6",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-7",
+    "title": "Ṛgveda Maṇḍala 7",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-8",
+    "title": "Ṛgveda Maṇḍala 8",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "rigveda-mandala-9",
+    "title": "Ṛgveda Maṇḍala 9",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rigveda-samhita",
     "title": "Ṛgveda Saṃhitā",
     "status": "published",
@@ -3683,6 +4124,24 @@
   {
     "entityId": "samaveda",
     "title": "Sāmaveda",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "samkhayana-aranyaka",
+    "title": "Śāṅkhāyana Āraṇyaka",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sankhyayana-brahmana",
+    "title": "Śāṅkhāyana Brāhmaṇa",
     "status": "published",
     "issues": [
       "No relationships"

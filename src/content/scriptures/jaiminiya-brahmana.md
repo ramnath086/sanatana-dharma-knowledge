@@ -3,7 +3,7 @@ id: jaiminiya-brahmana
 title: Jaiminīya Brāhmaṇa
 type: scripture
 language: [sa, en]
-aliases: [Jaiminiya Brahmana, जैमिनीय ब्राह्मण]
+aliases: [Jaiminiya Brahmana, Talavakara Brahmana, जैमिनीय ब्राह्मण]
 sources: [gretil]
 status: published
 verification: verified
