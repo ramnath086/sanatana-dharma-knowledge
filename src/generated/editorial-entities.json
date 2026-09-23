@@ -42402,13 +42402,13 @@
       "SHRUTI",
       "VEDANTA"
     ],
-    "description": "The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the ātman, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry. ---",
+    "description": "The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the self, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry. ---",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the ātman, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry.\n---",
-    "contentHash": "634c17d79ec08c6db3e01ce8891da67757d592d963f54957fcb1f664c106f6d2",
+    "body": "The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the self, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry.\n---",
+    "contentHash": "6f87318bdd64fe03b493d0a4501cb354996c9ffcacf36ab390e21c60d10fd31a",
     "sourceFile": "src\\content\\scriptures\\brahma-upanishad.md",
     "publicationReadiness": {
       "publishable": true,
@@ -43895,7 +43895,8 @@
     ],
     "aliases": [
       "Jabala Upanishad",
-      "जबाल उपनिषद्"
+      "Kauṣītaki Brāhmaṇa Upaniṣad",
+      "कौषीतकि उपनिषद्"
     ],
     "sources": [
       "gretil"
@@ -43906,13 +43907,13 @@
       "SHRUTI",
       "VEDANTA"
     ],
-    "description": "The Jabāla Upaniṣad, associated with the Śukla Yajurveda, discusses the renounced life (saṃnyāsa), the four āśramas, and the sacred thread (yajñopavīta); its text is represented here as a catalogue entry. ---",
+    "description": "The Jabāla Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The Jabāla Upaniṣad, associated with the Śukla Yajurveda, discusses the renounced life (saṃnyāsa), the four āśramas, and the sacred thread (yajñopavīta); its text is represented here as a catalogue entry.\n---",
-    "contentHash": "de54dec48211c66e15b1193adf79c043382d8d5939e3e1e95586290a90acac06",
+    "body": "The Jabāla Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry.\n---",
+    "contentHash": "421f0875b6e7e98cfc58357b5904b5bf131fc1c53eb47ee2e8de8c604739cdb7",
     "sourceFile": "src\\content\\scriptures\\jabala-upanishad.md",
     "publicationReadiness": {
       "publishable": true,
@@ -46112,13 +46113,13 @@
       "SHRUTI",
       "VEDANTA"
     ],
-    "description": "The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme reality and teaches the aṣṭākṣara mantra (Oṃ Namo Nārāyaṇāya); its text is represented here as a catalogue entry. ---",
+    "description": "The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme deity and teaches the dvādaśākṣara mantra; its text is represented here as a catalogue entry. ---",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme reality and teaches the aṣṭākṣara mantra (Oṃ Namo Nārāyaṇāya); its text is represented here as a catalogue entry.\n---",
-    "contentHash": "5124035c54c552fa97e3d70d5101abac1c79b374e1a4da4b5814d896067d209e",
+    "body": "The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme deity and teaches the dvādaśākṣara mantra; its text is represented here as a catalogue entry.\n---",
+    "contentHash": "67431df1e0dbba6df9f48646cc0f6c2d16f75996dffcbee09b6bf65e15fb1308",
     "sourceFile": "src\\content\\scriptures\\narayana-upanishad.md",
     "publicationReadiness": {
       "publishable": true,
@@ -50032,13 +50033,13 @@
       "SHRUTI",
       "VEDANTA"
     ],
-    "description": "The Tārasāra Upaniṣad, a Śaiva Upaniṣad, teaches the tāraka-mantra (Oṃ Namaḥ Śivāya) as the means to cross the ocean of saṃsāra; its text is represented here as a catalogue entry. ---",
+    "description": "The Tārasāra Upaniṣad, a Śaiva Upaniṣad, identifies Rudra as the supreme reality and the heart (hṛdaya) of all beings; its text is represented here as a catalogue entry. ---",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The Tārasāra Upaniṣad, a Śaiva Upaniṣad, teaches the tāraka-mantra (Oṃ Namaḥ Śivāya) as the means to cross the ocean of saṃsāra; its text is represented here as a catalogue entry.\n---",
-    "contentHash": "c340c03fd3450262c91bec48bc8cf958fdb5b519520edffb5d7eac4a4d8cfcc3",
+    "body": "The Tārasāra Upaniṣad, a Śaiva Upaniṣad, identifies Rudra as the supreme reality and the heart (hṛdaya) of all beings; its text is represented here as a catalogue entry.\n---",
+    "contentHash": "c09e1a18438546c9d240b41dda53a43ac391398c7b222c2332fa3a79e41f060e",
     "sourceFile": "src\\content\\scriptures\\tarasara-upanishad.md",
     "publicationReadiness": {
       "publishable": true,

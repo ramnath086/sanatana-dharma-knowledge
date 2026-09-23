@@ -9,5 +9,5 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA]
 ---
-The Tārasāra Upaniṣad, a Śaiva Upaniṣad, teaches the tāraka-mantra (Oṃ Namaḥ Śivāya) as the means to cross the ocean of saṃsāra; its text is represented here as a catalogue entry.
+The Tārasāra Upaniṣad, a Śaiva Upaniṣad, identifies Rudra as the supreme reality and the heart (hṛdaya) of all beings; its text is represented here as a catalogue entry.
 ---

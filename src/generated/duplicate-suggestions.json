@@ -164,6 +164,24 @@
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
+      "jabala-upanishad",
+      "kaushitaki-upanishad"
+    ],
+    "reason": "Alias collision: Kauṣītaki Brāhmaṇa Upaniṣad.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "jabala-upanishad",
+      "kaushitaki-upanishad"
+    ],
+    "reason": "Alias collision: कौषीतकि उपनिषद्.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
       "yajnavalkya-smriti-content",
       "yajnavalkya-smriti"
     ],
