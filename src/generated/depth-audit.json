@@ -5,12 +5,13 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -19,7 +20,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 6,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -47,7 +48,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -58,7 +59,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -72,7 +73,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -83,7 +84,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -97,7 +98,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 5,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -111,12 +112,13 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 4,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -125,12 +127,13 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -139,12 +142,13 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -153,12 +157,13 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -167,7 +172,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 6,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -181,7 +186,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -195,7 +200,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 4,
+    "relationshipCount": 13,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -223,7 +228,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 13,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -237,10 +242,12 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": []
+    "needsWork": [
+      "relationship"
+    ]
   },
   {
     "entityId": "ganesha-caturthi",
@@ -248,20 +255,6 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
-    "claimCount": 0,
-    "evidenceCount": 0,
-    "needsWork": [
-      "claim",
-      "evidence"
-    ]
-  },
-  {
-    "entityId": "holi",
-    "title": "Holī",
-    "type": "festival",
-    "status": "published",
-    "sourceCount": 2,
     "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
@@ -272,12 +265,26 @@
     ]
   },
   {
+    "entityId": "holi",
+    "title": "Holī",
+    "type": "festival",
+    "status": "published",
+    "sourceCount": 2,
+    "relationshipCount": 1,
+    "claimCount": 0,
+    "evidenceCount": 0,
+    "needsWork": [
+      "claim",
+      "evidence"
+    ]
+  },
+  {
     "entityId": "janmashtami",
     "title": "Kṛṣṇa Janmāṣṭamī",
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -291,7 +298,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -305,7 +312,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -319,12 +326,13 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 3,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -333,7 +341,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -347,7 +355,7 @@
     "type": "acharya",
     "status": "published",
     "sourceCount": 4,
-    "relationshipCount": 2,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -361,7 +369,7 @@
     "type": "acharya",
     "status": "published",
     "sourceCount": 4,
-    "relationshipCount": 2,
+    "relationshipCount": 5,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -375,7 +383,7 @@
     "type": "acharya",
     "status": "published",
     "sourceCount": 4,
-    "relationshipCount": 2,
+    "relationshipCount": 7,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -389,12 +397,13 @@
     "type": "teacher",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -403,12 +412,13 @@
     "type": "teacher",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -417,7 +427,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 6,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -431,7 +441,7 @@
     "type": "philosophical-school",
     "status": "draft",
     "sourceCount": 1,
-    "relationshipCount": 4,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -445,10 +455,12 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": []
+    "needsWork": [
+      "relationship"
+    ]
   },
   {
     "entityId": "purva-mimamsa",
@@ -456,12 +468,13 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -470,12 +483,13 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -484,7 +498,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 13,
+    "relationshipCount": 6,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -495,7 +509,7 @@
     "type": "philosophical-school",
     "status": "draft",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -509,7 +523,7 @@
     "type": "philosophical-school",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -523,10 +537,12 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": []
+    "needsWork": [
+      "relationship"
+    ]
   },
   {
     "entityId": "japa",
@@ -548,7 +564,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 7,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -559,7 +575,7 @@
     "type": "ritual",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 15,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -602,7 +618,7 @@
     "type": "practice",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -616,7 +632,7 @@
     "type": "ritual",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -630,13 +646,12 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -645,7 +660,7 @@
     "type": "text",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 5,
+    "relationshipCount": 9,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -656,12 +671,13 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 2,
+    "relationshipCount": 0,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence"
+      "evidence",
+      "relationship"
     ]
   },
   {
@@ -670,10 +686,12 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 12,
+    "relationshipCount": 0,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": []
+    "needsWork": [
+      "relationship"
+    ]
   },
   {
     "entityId": "ramayana",
@@ -681,7 +699,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 5,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -695,7 +713,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 1,
     "evidenceCount": 1,
     "needsWork": []
@@ -721,7 +739,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -735,7 +753,7 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 11,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -749,7 +767,7 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -763,7 +781,7 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 11,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
