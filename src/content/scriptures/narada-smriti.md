@@ -3,10 +3,11 @@ id: narada-smriti
 title: Nāradasmṛti
 type: scripture
 language: [sa, en]
-aliases: [Narada Smriti, नारदस्मृति]
+aliases: [Narada Smriti, Narada Smriti, नारद स्मृति]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra]
+classifications: [DHARMASHASTRA]
 ---
-A Dharmaśāstra focused on juridical procedure and legal process, influential in medieval Indian law; represented here as a catalogue entry.
+The Nāradasmṛti, a Dharmaśāstra text focused on vyavahāra (legal procedure), attributed to the sage Nārada; its detailed treatment of legal topics and influence on later digests is represented here as a catalogue entry.
+---

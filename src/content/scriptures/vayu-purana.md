@@ -7,6 +7,7 @@ aliases: [Vayu Purana, वायु पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa traditionally narrated by the wind-god Vāyu, covering creation, genealogy, and geography; represented here as a catalogue entry.
+The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas, focusing on cosmology, genealogies, and the glory of Śiva; its relationship to the Brahmāṇḍa Purāṇa and its detailed tīrtha-māhātmya sections are represented here as a catalogue entry.
+---

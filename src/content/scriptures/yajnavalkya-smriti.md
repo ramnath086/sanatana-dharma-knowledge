@@ -1,12 +1,13 @@
 ---
 id: yajnavalkya-smriti
-title: Yājñavalkyasmṛti
+title: Yājñavalkya Smṛti
 type: scripture
 language: [sa, en]
-aliases: [Yajnavalkya Smriti, याज्ञवल्क्यस्मृति]
+aliases: [Yajnavalkya Smriti, Yajnavalkya Smriti, याज्ञवल्क्य स्मृति]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra]
+classifications: [DHARMASHASTRA]
 ---
-A major Dharmaśāstra noted for its systematic organization of law, procedure, and penance; represented here as a catalogue entry.
+The Yājñavalkya Smṛti, a systematic Dharmaśāstra text in three books (ācāra, vyavahāra, prāyaścitta), more concise and organized than Manusmṛti; its influence on medieval Dharmaśāstra digests is represented here as a catalogue entry.
+---

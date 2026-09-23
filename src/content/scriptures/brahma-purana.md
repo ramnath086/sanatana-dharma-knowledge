@@ -7,6 +7,7 @@ aliases: [Brahma Purana, ब्रह्म पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa focused on Brahmā and creation narratives, with sections on pilgrimage, ritual, and cosmology; represented here as a catalogue entry.
+The Brahma Purāṇa, one of the eighteen Mahāpurāṇas, focusing on creation, geography, and the glory of Viṣṇu and Śiva; its traditional attribution to Brahma and its role in Vaiṣṇava and Śaiva traditions are represented here as a catalogue entry.
+---

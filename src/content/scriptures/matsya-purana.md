@@ -7,6 +7,7 @@ aliases: [Matsya Purana, मत्स्य पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa narrated by Viṣṇu in his fish (matsya) incarnation, covering cosmology, genealogy, and temple architecture; represented here as a catalogue entry.
+The Matsya Purāṇa, one of the eighteen Mahāpurāṇas, its focus on the Matsya avatāra of Viṣṇu, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry.
+---

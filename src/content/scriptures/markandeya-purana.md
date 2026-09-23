@@ -7,6 +7,7 @@ aliases: [Markandeya Purana, मार्कण्डेय पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa narrated by the sage Mārkaṇḍeya, containing the Devī Māhātmya and diverse cosmological narratives; represented here as a catalogue entry.
+The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters, containing the Devī Māhātmya (Durgā Saptashatī) in chapters 81-93; its dialogue format between Mārkaṇḍeya and Jaimini, and its importance for Śākta tradition are represented here as a catalogue entry.
+---

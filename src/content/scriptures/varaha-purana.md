@@ -7,6 +7,7 @@ aliases: [Varaha Purana, वराह पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa associated with Viṣṇu's boar (varāha) incarnation, focusing on cosmology, ritual, and sacred geography; represented here as a catalogue entry.
+The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī, focusing on tīrthas, vrata, and Viṣṇu-bhakti; its detailed tīrtha-māhātmya sections are represented here as a catalogue entry.
+---

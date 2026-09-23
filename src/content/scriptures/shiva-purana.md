@@ -7,7 +7,7 @@ aliases: [Shiva Purana, शिव पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A major Śaiva Purāṇa presenting Śiva-centered cosmology, theology, and ritual; represented here as a catalogue entry.
-
+The Śiva Purāṇa, one of the eighteen Mahāpurāṇas, in seven saṃhitās, focusing on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry.
+---

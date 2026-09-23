@@ -7,6 +7,7 @@ aliases: [Narada Purana, नारद पुराण]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [PURANA, TRADITION]
+classifications: [PURANA]
 ---
-A Mahāpurāṇa attributed to the sage Nārada, focusing on pilgrimage, ritual, and devotion; represented here as a catalogue entry.
+The Nārada Purāṇa, one of the eighteen Mahāpurāṇas, attributed to the sage Nārada, covering pilgrimage sites, vrata, and the tenets of Vaiṣṇava dharma; its encyclopedic scope is represented here as a catalogue entry.
+---

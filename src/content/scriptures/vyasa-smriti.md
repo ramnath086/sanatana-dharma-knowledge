@@ -3,10 +3,11 @@ id: vyasa-smriti
 title: Vyāsasmṛti
 type: scripture
 language: [sa, en]
-aliases: [Vyasa Smriti, व्यासस्मृति]
+aliases: [Vyasa Smriti, Vyasa Smriti, व्यास स्मृति]
 sources: [gretil]
 status: published
 verification: verified
-classifications: [Dharmashastra]
+classifications: [DHARMASHASTRA]
 ---
-A Dharmaśāstra attributed to Vyāsa, covering ritual, penance, and social duties; represented here as a catalogue entry.
+The Vyāsasmṛti, a Dharmaśāstra text attributed to Vyāsa, dealing with ācāra, vyavahāra, and prāyaścitta; its role in the Smṛti tradition is represented here as a catalogue entry.
+---
