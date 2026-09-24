@@ -7,7 +7,7 @@ aliases: [Vallabha Anubhashya, Vallabha Brahma Sutra Commentary, वल्लभ
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANTA]
+classifications: [VEDANTA, COMMENTARY]
 ---
-Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); represented here as a catalogue entry.
+Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); its critique of māyā-vāda is represented here as a catalogue entry.
 ---

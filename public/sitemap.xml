@@ -47,6 +47,7 @@
   <url><loc>/knowledge/acharya</loc></url>
   <url><loc>/knowledge/rishi</loc></url>
   <url><loc>/knowledge/temple</loc></url>
+  <url><loc>/knowledge/commentary</loc></url>
   <url><loc>/knowledge/sampradaya</loc></url>
   <url><loc>/concept/acintyabhedabheda</loc></url>
   <url><loc>/concept/advaita-adhyasa</loc></url>
@@ -180,10 +181,14 @@
   <url><loc>/concept/prayascitta-types</loc></url>
   <url><loc>/concept/prayascitta</loc></url>
   <url><loc>/concept/puja-shodashopachara</loc></url>
+  <url><loc>/concept/purana-mahapurana-list</loc></url>
   <url><loc>/concept/purana-panchalaksana</loc></url>
+  <url><loc>/concept/purana-panchalakshana</loc></url>
+  <url><loc>/concept/purana-sectarian-classification</loc></url>
   <url><loc>/concept/purana-sectarian</loc></url>
   <url><loc>/concept/purana-structure</loc></url>
   <url><loc>/concept/purana-traditional-attribution</loc></url>
+  <url><loc>/concept/purana-upapurana</loc></url>
   <url><loc>/concept/purusha</loc></url>
   <url><loc>/concept/purushartha</loc></url>
   <url><loc>/concept/rajadharma</loc></url>
@@ -416,18 +421,28 @@
   <url><loc>/ritual/vivaha</loc></url>
   <url><loc>/practice/vrata</loc></url>
   <url><loc>/ritual/yajna</loc></url>
+  <url><loc>/scripture/aditya-purana</loc></url>
   <url><loc>/scripture/agni-purana</loc></url>
+  <url><loc>/scripture/ahirbudhnya-samhita</loc></url>
   <url><loc>/scripture/aitareya-aranyaka</loc></url>
   <url><loc>/scripture/aitareya-brahmana</loc></url>
   <url><loc>/scripture/aitareya-upanishad</loc></url>
+  <url><loc>/scripture/ajita-agama</loc></url>
   <url><loc>/scripture/akshi-upanishad</loc></url>
   <url><loc>/scripture/apastamba-dharmasutra</loc></url>
   <url><loc>/scripture/aranyaka</loc></url>
   <url><loc>/scripture/aruni-upanishad</loc></url>
   <url><loc>/scripture/atharvaveda-samhita</loc></url>
   <url><loc>/scripture/atharvaveda</loc></url>
+  <url><loc>/scripture/aushanasa-purana</loc></url>
   <url><loc>/scripture/avadhuta-upanishad</loc></url>
   <url><loc>/scripture/baudhayana-dharmasutra</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-madhva</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-nimbarka</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-ramanuja</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-shankara</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-sridhara</loc></url>
+  <url><loc>/scripture/bhagavad-gita-bhashya-vallabha</loc></url>
   <url><loc>/scripture/bhagavad-gita-chapter-1</loc></url>
   <url><loc>/scripture/bhagavad-gita-chapter-10</loc></url>
   <url><loc>/scripture/bhagavad-gita-chapter-11</loc></url>
@@ -448,6 +463,7 @@
   <url><loc>/scripture/bhagavad-gita-chapter-9</loc></url>
   <url><loc>/text/bhagavad-gita</loc></url>
   <url><loc>/scripture/bhagavata-purana</loc></url>
+  <url><loc>/scripture/bhargava-purana</loc></url>
   <url><loc>/scripture/brahma-purana</loc></url>
   <url><loc>/scripture/brahma-sutra-adhyaya-1</loc></url>
   <url><loc>/scripture/brahma-sutra-adhyaya-2</loc></url>
@@ -455,58 +471,107 @@
   <url><loc>/scripture/brahma-sutra-adhyaya-4</loc></url>
   <url><loc>/scripture/brahma-sutra-bhashya-madhva</loc></url>
   <url><loc>/scripture/brahma-sutra-bhashya-nimbarka</loc></url>
-  <url><loc>/scripture/brahma-sutra-bhashya-ramanuja</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-prakashatman</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-ramanuja-sri-bhashya</loc></url>
   <url><loc>/scripture/brahma-sutra-bhashya-shankara</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-sureshvara</loc></url>
+  <url><loc>/scripture/brahma-sutra-bhashya-vacaspati-mishra</loc></url>
   <url><loc>/scripture/brahma-sutra-bhashya-vallabha</loc></url>
   <url><loc>/scripture/brahma-sutra</loc></url>
   <url><loc>/scripture/brahma-upanishad</loc></url>
+  <url><loc>/scripture/brahma-yamala-tantra</loc></url>
   <url><loc>/scripture/brahmana</loc></url>
   <url><loc>/scripture/brahmanda-purana</loc></url>
   <url><loc>/scripture/brihadaranyaka-upanishad</loc></url>
+  <url><loc>/scripture/brihaspati-smriti</loc></url>
   <url><loc>/scripture/chandas-sutra</loc></url>
   <url><loc>/scripture/chandogya-brahmana</loc></url>
   <url><loc>/scripture/chandogya-upanishad</loc></url>
   <url><loc>/scripture/devi-bhagavata-purana</loc></url>
   <url><loc>/scripture/garbha-upanishad</loc></url>
+  <url><loc>/scripture/garga-purana</loc></url>
   <url><loc>/scripture/garuda-purana</loc></url>
   <url><loc>/scripture/gautama-dharmasutra</loc></url>
   <url><loc>/scripture/gopatha-brahmana</loc></url>
   <url><loc>/scripture/grihya-sutra</loc></url>
   <url><loc>/scripture/hamsa-upanishad</loc></url>
+  <url><loc>/scripture/mahabharata-harivamsha</loc></url>
   <url><loc>/scripture/isha-upanishad</loc></url>
   <url><loc>/scripture/jabala-upanishad</loc></url>
   <url><loc>/scripture/jaiminiya-aranyaka</loc></url>
   <url><loc>/scripture/jaiminiya-brahmana</loc></url>
+  <url><loc>/scripture/jayakhya-samhita</loc></url>
   <url><loc>/scripture/jyotisha-vedanga-text</loc></url>
   <url><loc>/scripture/kaivalya-upanishad</loc></url>
+  <url><loc>/scripture/kalika-purana</loc></url>
+  <url><loc>/scripture/kamika-agama</loc></url>
+  <url><loc>/scripture/kapila-purana</loc></url>
   <url><loc>/scripture/katha-aranyaka</loc></url>
   <url><loc>/scripture/katha-upanishad</loc></url>
+  <url><loc>/scripture/katyayana-smriti</loc></url>
   <url><loc>/scripture/kaushitaki-brahmana</loc></url>
   <url><loc>/scripture/kaushitaki-upanishad</loc></url>
   <url><loc>/scripture/kena-upanishad</loc></url>
+  <url><loc>/scripture/kirana-agama</loc></url>
+  <url><loc>/scripture/kularnava-tantra</loc></url>
   <url><loc>/scripture/kurma-purana</loc></url>
+  <url><loc>/scripture/lakulisha-pashupata</loc></url>
   <url><loc>/scripture/linga-purana</loc></url>
+  <url><loc>/scripture/mahabharata-adiparva</loc></url>
+  <url><loc>/scripture/mahabharata-anushasanaparva</loc></url>
+  <url><loc>/scripture/mahabharata-ashramavasikaparva</loc></url>
+  <url><loc>/scripture/mahabharata-bhishmaparva</loc></url>
+  <url><loc>/scripture/mahabharata-dronaparva</loc></url>
+  <url><loc>/scripture/mahabharata-karnaparva</loc></url>
+  <url><loc>/scripture/mahabharata-mahaprasthanikaparva</loc></url>
+  <url><loc>/scripture/mahabharata-mausalaparva</loc></url>
+  <url><loc>/scripture/mahabharata-sabhaparva</loc></url>
+  <url><loc>/scripture/mahabharata-santiparva</loc></url>
+  <url><loc>/scripture/mahabharata-sauptikaparva</loc></url>
+  <url><loc>/scripture/mahabharata-shalyaparva</loc></url>
+  <url><loc>/scripture/mahabharata-striparva</loc></url>
+  <url><loc>/scripture/mahabharata-svargarohanaparva</loc></url>
+  <url><loc>/scripture/mahabharata-udyogaparva</loc></url>
+  <url><loc>/scripture/mahabharata-vanaparva</loc></url>
+  <url><loc>/scripture/mahabharata-virataparva</loc></url>
   <url><loc>/scripture/mahabharata</loc></url>
   <url><loc>/scripture/maitrayaniya-aranyaka</loc></url>
   <url><loc>/scripture/maitri-upanishad</loc></url>
+  <url><loc>/scripture/manava-purana</loc></url>
   <url><loc>/scripture/mandukya-upanishad</loc></url>
   <url><loc>/scripture/manu-smriti</loc></url>
   <url><loc>/scripture/markandeya-purana</loc></url>
+  <url><loc>/scripture/matsya-purana-upapurana</loc></url>
   <url><loc>/scripture/matsya-purana</loc></url>
+  <url><loc>/scripture/mrigendra-agama</loc></url>
   <url><loc>/scripture/mundaka-upanishad</loc></url>
+  <url><loc>/scripture/nandi-purana</loc></url>
   <url><loc>/scripture/narada-purana</loc></url>
   <url><loc>/scripture/narada-smriti</loc></url>
+  <url><loc>/scripture/narasimha-purana</loc></url>
   <url><loc>/scripture/narayana-upanishad</loc></url>
   <url><loc>/scripture/natya-shastra</loc></url>
   <url><loc>/scripture/nighantu</loc></url>
+  <url><loc>/scripture/nrisimha-purana</loc></url>
+  <url><loc>/scripture/nrisimha-tapaniya-purana</loc></url>
   <url><loc>/scripture/nrisimha-upanishad</loc></url>
   <url><loc>/scripture/padma-purana</loc></url>
   <url><loc>/scripture/panchavimsha-brahmana</loc></url>
   <url><loc>/scripture/panini-ashtadhyayi</loc></url>
   <url><loc>/scripture/paramahamsa-upanishad</loc></url>
+  <url><loc>/scripture/parameshvara-agama</loc></url>
   <url><loc>/scripture/parashara-smriti</loc></url>
+  <url><loc>/scripture/paushkara-samhita</loc></url>
   <url><loc>/scripture/prashna-upanishad</loc></url>
+  <url><loc>/scripture/ramayana-aranya-kanda</loc></url>
+  <url><loc>/scripture/ramayana-ayodhya-kanda</loc></url>
+  <url><loc>/scripture/ramayana-bala-kanda</loc></url>
+  <url><loc>/scripture/ramayana-kishkindha-kanda</loc></url>
+  <url><loc>/scripture/ramayana-sundara-kanda</loc></url>
+  <url><loc>/scripture/ramayana-uttara-kanda</loc></url>
+  <url><loc>/scripture/ramayana-yuddha-kanda</loc></url>
   <url><loc>/scripture/ramayana</loc></url>
+  <url><loc>/scripture/raurava-agama</loc></url>
   <url><loc>/scripture/rigveda-mandala-1</loc></url>
   <url><loc>/scripture/rigveda-mandala-10</loc></url>
   <url><loc>/scripture/rigveda-mandala-2</loc></url>
@@ -519,29 +584,46 @@
   <url><loc>/scripture/rigveda-mandala-9</loc></url>
   <url><loc>/scripture/rigveda-samhita</loc></url>
   <url><loc>/scripture/rigveda</loc></url>
+  <url><loc>/scripture/rudra-yamala-tantra</loc></url>
   <url><loc>/scripture/rudrahridaya-upanishad</loc></url>
   <url><loc>/scripture/sadvimsha-brahmana</loc></url>
   <url><loc>/scripture/samaveda-aranyaka</loc></url>
   <url><loc>/scripture/samaveda-samhita</loc></url>
   <url><loc>/scripture/samaveda</loc></url>
+  <url><loc>/scripture/samba-purana</loc></url>
   <url><loc>/scripture/samkhayana-aranyaka</loc></url>
   <url><loc>/scripture/sankhyayana-brahmana</loc></url>
+  <url><loc>/scripture/sarvokta-agama</loc></url>
+  <url><loc>/scripture/satvata-samhita</loc></url>
+  <url><loc>/scripture/saura-purana</loc></url>
   <url><loc>/scripture/shatapatha-brahmana</loc></url>
   <url><loc>/scripture/shiva-purana</loc></url>
   <url><loc>/scripture/shvetashvatara-upanishad</loc></url>
   <url><loc>/scripture/skanda-purana</loc></url>
   <url><loc>/scripture/subala-upanishad</loc></url>
+  <url><loc>/scripture/suprabheda-agama</loc></url>
   <url><loc>/scripture/taittiriya-aranyaka</loc></url>
   <url><loc>/scripture/taittiriya-brahmana</loc></url>
   <url><loc>/scripture/taittiriya-samhita</loc></url>
   <url><loc>/scripture/taittiriya-upanishad</loc></url>
   <url><loc>/scripture/tarasara-upanishad</loc></url>
+  <url><loc>/scripture/tripura-rahasa</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-madhusudana-sarasvati</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-madhva</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-ramananda</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-ramanuja</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-shankara</loc></url>
+  <url><loc>/scripture/upanishad-bhashya-vallabha</loc></url>
   <url><loc>/scripture/vamana-purana</loc></url>
+  <url><loc>/scripture/varaha-purana-upapurana</loc></url>
   <url><loc>/scripture/varaha-purana</loc></url>
   <url><loc>/scripture/varttika</loc></url>
   <url><loc>/scripture/vashistha-dharmasutra</loc></url>
   <url><loc>/scripture/vasudeva-upanishad</loc></url>
+  <url><loc>/scripture/vatula-agama</loc></url>
   <url><loc>/scripture/vayu-purana</loc></url>
+  <url><loc>/scripture/vira-agama</loc></url>
+  <url><loc>/scripture/vishnu-dharmottara-purana</loc></url>
   <url><loc>/scripture/vishnu-purana</loc></url>
   <url><loc>/scripture/vyakarana-mahabhashya</loc></url>
   <url><loc>/scripture/vyasa-smriti</loc></url>
@@ -554,27 +636,39 @@
   <url><loc>/scripture/yogattva-upanishad</loc></url>
   <url><loc>/temple/ahobilam</loc></url>
   <url><loc>/temple/akshardham-delhi</loc></url>
+  <url><loc>/temple/alagar-koil</loc></url>
   <url><loc>/temple/badrinath</loc></url>
+  <url><loc>/temple/baidyanath</loc></url>
   <url><loc>/temple/belur-chennakesava</loc></url>
   <url><loc>/temple/brihadeeswara</loc></url>
+  <url><loc>/temple/chamunda-devi</loc></url>
   <url><loc>/temple/chidambaram-nataraja</loc></url>
+  <url><loc>/temple/dakhineswar</loc></url>
   <url><loc>/temple/dwaraka</loc></url>
   <url><loc>/temple/dwarka-matha</loc></url>
   <url><loc>/temple/ekambareswarar-kanchipuram</loc></url>
+  <url><loc>/temple/grishneshwar</loc></url>
   <url><loc>/temple/guruvayur</loc></url>
   <url><loc>/temple/halebidu-hoysaleswara</loc></url>
   <url><loc>/temple/jagannath-puri</loc></url>
   <url><loc>/temple/jambukeswarar-tiruvanaikaval</loc></url>
+  <url><loc>/temple/jwalamukhi</loc></url>
   <url><loc>/temple/jyotirmath</loc></url>
+  <url><loc>/temple/kalighat</loc></url>
+  <url><loc>/temple/kamakhya</loc></url>
   <url><loc>/temple/kanchi-kamakoti</loc></url>
+  <url><loc>/temple/kanchipuram-divyadesam</loc></url>
   <url><loc>/temple/kanchipuram</loc></url>
   <url><loc>/temple/kashi-vishwanath</loc></url>
   <url><loc>/temple/kedarnath</loc></url>
   <url><loc>/temple/khajuraho-temples</loc></url>
   <url><loc>/temple/konark-sun-temple</loc></url>
   <url><loc>/temple/uv-lingaraj</loc></url>
+  <url><loc>/temple/mahakaleshwar-ujjain</loc></url>
   <url><loc>/temple/meenakshi-amman</loc></url>
   <url><loc>/temple/mukteshwar-bhubaneswar</loc></url>
+  <url><loc>/temple/nageshwar-dwarka</loc></url>
+  <url><loc>/temple/omkareshwar</loc></url>
   <url><loc>/temple/pandharpur</loc></url>
   <url><loc>/temple/puri-govardhana-matha</loc></url>
   <url><loc>/temple/rameshwaram</loc></url>
@@ -582,9 +676,15 @@
   <url><loc>/temple/shrngeri-matha</loc></url>
   <url><loc>/temple/simhachalam</loc></url>
   <url><loc>/temple/somnath</loc></url>
+  <url><loc>/temple/srirangam-divyadesam</loc></url>
   <url><loc>/temple/srirangam</loc></url>
+  <url><loc>/temple/srivilliputhur</loc></url>
+  <url><loc>/temple/thirukkoloor</loc></url>
   <url><loc>/temple/tirupati-balaji</loc></url>
+  <url><loc>/temple/tirupati-divyadesam</loc></url>
   <url><loc>/temple/tirupati-tirumala</loc></url>
+  <url><loc>/temple/tryambakeshwar</loc></url>
+  <url><loc>/temple/vaishno-devi</loc></url>
   <url><loc>/tradition/darshana</loc></url>
   <url><loc>/tradition/deity</loc></url>
   <url><loc>/tradition/festival</loc></url>

@@ -1143,8 +1143,35 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "purana-mahapurana-list",
+    "title": "Mahāpurāṇa List",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "purana-panchalaksana",
     "title": "Purāṇa Pañcalakṣaṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purana-panchalakshana",
+    "title": "Purāṇa Pañcalakṣaṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purana-sectarian-classification",
+    "title": "Purāṇa Sectarian Classification",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1172,6 +1199,15 @@
   {
     "entityId": "purana-traditional-attribution",
     "title": "Purāṇa Traditional Attribution",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "purana-upapurana",
+    "title": "Upapurāṇas",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3177,8 +3213,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "aditya-purana",
+    "title": "Āditya Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "agni-purana",
     "title": "Agni Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ahirbudhnya-samhita",
+    "title": "Ahirbudhnya Saṃhitā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3206,6 +3260,15 @@
   {
     "entityId": "aitareya-upanishad",
     "title": "Aitareya Upaniṣad",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ajita-agama",
+    "title": "Ajita Āgama",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3265,6 +3328,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "aushanasa-purana",
+    "title": "Auśanasa Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "avadhuta-upanishad",
     "title": "Avadhūta Upaniṣad",
     "status": "published",
@@ -3276,6 +3348,60 @@
   {
     "entityId": "baudhayana-dharmasutra",
     "title": "Baudhāyana Dharmasūtra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-madhva",
+    "title": "Madhva Bhagavad Gītā Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-nimbarka",
+    "title": "Nimbārka Bhagavad Gītā Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-ramanuja",
+    "title": "Rāmānuja Bhagavad Gītā Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-shankara",
+    "title": "Śaṅkara Bhagavad Gītā Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-sridhara",
+    "title": "Śrīdhara Bhagavad Gītā Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "bhagavad-gita-bhashya-vallabha",
+    "title": "Vallabha Bhagavad Gītā Bhāṣya",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3459,6 +3585,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "bhargava-purana",
+    "title": "Bhārgava Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "brahma-purana",
     "title": "Brahma Purāṇa",
     "status": "published",
@@ -3522,8 +3657,17 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "brahma-sutra-bhashya-ramanuja",
-    "title": "Rāmānuja Śrī Bhāṣya",
+    "entityId": "brahma-sutra-bhashya-prakashatman",
+    "title": "Prakāśātman Brahma Sūtra Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-ramanuja-sri-bhashya",
+    "title": "Rāmānuja Śrī Bhāṣya on Brahma Sūtra",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3533,6 +3677,24 @@
   {
     "entityId": "brahma-sutra-bhashya-shankara",
     "title": "Śaṅkara Brahma Sūtra Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-sureshvara",
+    "title": "Sureśvara Brahma Sūtra Bhāṣya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brahma-sutra-bhashya-vacaspati-mishra",
+    "title": "Vācaspati Miśra Brahma Sūtra Bhāṣya",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3565,6 +3727,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "brahma-yamala-tantra",
+    "title": "Brahmayāmala Tantra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "brahmana",
     "title": "Brāhmaṇa texts",
     "status": "published",
@@ -3587,6 +3758,15 @@
     "title": "Bṛhadāraṇyaka Upaniṣad",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "brihaspati-smriti",
+    "title": "Bṛhaspati Smṛti",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3628,6 +3808,15 @@
   {
     "entityId": "garbha-upanishad",
     "title": "Garbha Upaniṣad",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "garga-purana",
+    "title": "Garga Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3678,6 +3867,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "mahabharata-harivamsha",
+    "title": "Harivaṃśa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "isha-upanishad",
     "title": "Īśā Upaniṣad",
     "status": "published",
@@ -3714,6 +3912,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "jayakhya-samhita",
+    "title": "Jayākhya Saṃhitā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "jyotisha-vedanga-text",
     "title": "Jyotiṣa Vedāṅga",
     "status": "published",
@@ -3725,6 +3932,33 @@
   {
     "entityId": "kaivalya-upanishad",
     "title": "Kaivalya Upaniṣad",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kalika-purana",
+    "title": "Kālikā Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kamika-agama",
+    "title": "Kāmika Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kapila-purana",
+    "title": "Kapila Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3745,6 +3979,15 @@
     "title": "Kaṭha Upaniṣad",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "katyayana-smriti",
+    "title": "Kātyāyana Smṛti",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3775,6 +4018,24 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kirana-agama",
+    "title": "Kiraṇa Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kularnava-tantra",
+    "title": "Kulārṇava Tantra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "kurma-purana",
     "title": "Kūrma Purāṇa",
     "status": "published",
@@ -3784,8 +4045,170 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "lakulisha-pashupata",
+    "title": "Lakulīśa Pāśupata Sūtra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "linga-purana",
     "title": "Liṅga Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-adiparva",
+    "title": "Mahābhārata Ādi Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-anushasanaparva",
+    "title": "Mahābhārata Anuśāsana Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-ashramavasikaparva",
+    "title": "Mahābhārata Āśramavāsika Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-bhishmaparva",
+    "title": "Mahābhārata Bhīṣma Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-dronaparva",
+    "title": "Mahābhārata Droṇa Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-karnaparva",
+    "title": "Mahābhārata Karṇa Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-mahaprasthanikaparva",
+    "title": "Mahābhārata Mahāprasthānika Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-mausalaparva",
+    "title": "Mahābhārata Mausala Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-sabhaparva",
+    "title": "Mahābhārata Sabhā Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-santiparva",
+    "title": "Mahābhārata Śānti Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-sauptikaparva",
+    "title": "Mahābhārata Sauptika Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-shalyaparva",
+    "title": "Mahābhārata Śalya Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-striparva",
+    "title": "Mahābhārata Strī Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-svargarohanaparva",
+    "title": "Mahābhārata Svargārohaṇa Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-udyogaparva",
+    "title": "Mahābhārata Udyoga Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-vanaparva",
+    "title": "Mahābhārata Vana Parva",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "mahabharata-virataparva",
+    "title": "Mahābhārata Virāṭa Parva",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3820,6 +4243,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "manava-purana",
+    "title": "Mānava Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "mandukya-upanishad",
     "title": "Māṇḍūkya Upaniṣad",
     "status": "published",
@@ -3830,7 +4262,7 @@
   },
   {
     "entityId": "manu-smriti",
-    "title": "Manusmṛti",
+    "title": "Manu Smṛti",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3847,6 +4279,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "matsya-purana-upapurana",
+    "title": "Matsya Purāṇa (Upapurāṇa)",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "matsya-purana",
     "title": "Matsya Purāṇa",
     "status": "published",
@@ -3856,8 +4297,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "mrigendra-agama",
+    "title": "Mṛgendra Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "mundaka-upanishad",
     "title": "Muṇḍaka Upaniṣad",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nandi-purana",
+    "title": "Nandi Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3876,6 +4335,15 @@
   {
     "entityId": "narada-smriti",
     "title": "Nāradasmṛti",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "narasimha-purana",
+    "title": "Nṛsiṃha Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3903,6 +4371,24 @@
   {
     "entityId": "nighantu",
     "title": "Nighaṇṭu",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nrisimha-purana",
+    "title": "Nṛsiṃha Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nrisimha-tapaniya-purana",
+    "title": "Nṛsiṃha Tāpanīya Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3955,8 +4441,26 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "parameshvara-agama",
+    "title": "Parameśvara Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "parashara-smriti",
     "title": "Parāśarasmṛti",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "paushkara-samhita",
+    "title": "Pauṣkara Saṃhitā",
     "status": "published",
     "issues": [
       "No relationships"
@@ -3973,10 +4477,82 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "ramayana-aranya-kanda",
+    "title": "Rāmāyaṇa Araṇya Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-ayodhya-kanda",
+    "title": "Rāmāyaṇa Ayodhyā Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-bala-kanda",
+    "title": "Rāmāyaṇa Bāla Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-kishkindha-kanda",
+    "title": "Rāmāyaṇa Kiṣkindhā Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-sundara-kanda",
+    "title": "Rāmāyaṇa Sundara Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-uttara-kanda",
+    "title": "Rāmāyaṇa Uttara Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "ramayana-yuddha-kanda",
+    "title": "Rāmāyaṇa Yuddha Kāṇḍa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "ramayana",
     "title": "Rāmāyaṇa",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "raurava-agama",
+    "title": "Raurava Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4086,6 +4662,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "rudra-yamala-tantra",
+    "title": "Rudrayāmala Tantra",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "rudrahridaya-upanishad",
     "title": "Rudrahṛdaya Upaniṣad",
     "status": "published",
@@ -4131,6 +4716,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "samba-purana",
+    "title": "Sāmba Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "samkhayana-aranyaka",
     "title": "Śāṅkhāyana Āraṇyaka",
     "status": "published",
@@ -4142,6 +4736,33 @@
   {
     "entityId": "sankhyayana-brahmana",
     "title": "Śāṅkhāyana Brāhmaṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "sarvokta-agama",
+    "title": "Sarvokta Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "satvata-samhita",
+    "title": "Sāttvata Saṃhitā",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "saura-purana",
+    "title": "Saura Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4194,6 +4815,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "suprabheda-agama",
+    "title": "Suprabheda Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "taittiriya-aranyaka",
     "title": "Taittirīya Āraṇyaka",
     "status": "published",
@@ -4239,8 +4869,80 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "tripura-rahasa",
+    "title": "Tripurā Rahasya",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-madhusudana-sarasvati",
+    "title": "Madhusūdana Sarasvatī Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-madhva",
+    "title": "Madhva Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-ramananda",
+    "title": "Rāmānanda Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-ramanuja",
+    "title": "Rāmānuja Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-shankara",
+    "title": "Śaṅkara Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "upanishad-bhashya-vallabha",
+    "title": "Vallabha Upaniṣad Bhāṣyas",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "vamana-purana",
     "title": "Vāmana Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "varaha-purana-upapurana",
+    "title": "Varāha Purāṇa (Upapurāṇa)",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4284,8 +4986,35 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "vatula-agama",
+    "title": "Vātula Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "vayu-purana",
     "title": "Vāyu Purāṇa",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vira-agama",
+    "title": "Vīra Āgama",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vishnu-dharmottara-purana",
+    "title": "Viṣṇu Dharmottara Purāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4321,7 +5050,7 @@
   },
   {
     "entityId": "yajnavalkya-smriti",
-    "title": "Yājñavalkyasmṛti",
+    "title": "Yājñavalkya Smṛti",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4395,10 +5124,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "alagar-koil",
+    "title": "Aḻagar Kōyil Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "badrinath",
     "title": "Badrinātha Temple",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "baidyanath",
+    "title": "Baidyanath Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4418,10 +5165,28 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "chamunda-devi",
+    "title": "Chamunda Devi Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "chidambaram-nataraja",
     "title": "Chidambaram Nataraja Temple",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "dakhineswar",
+    "title": "Dakṣiṇeśvara Kālī Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4445,6 +5210,15 @@
     "title": "Ekambareswarar Temple Kanchipuram",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "grishneshwar",
+    "title": "Gṛhṇeśvara Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4478,6 +5252,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "jwalamukhi",
+    "title": "Jvālāmukhī Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "jyotirmath",
     "title": "Jyotir Maṭha",
     "status": "published",
@@ -4487,8 +5270,35 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kalighat",
+    "title": "Kālīghāṭ Temple Kolkata",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kamakhya",
+    "title": "Kāmākhyā Temple Guwahati",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "kanchi-kamakoti",
     "title": "Kāñcī Kāmakōṭi Pīṭham",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "kanchipuram-divyadesam",
+    "title": "Kāñcīpuram Divya Deśams",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4546,6 +5356,15 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "mahakaleshwar-ujjain",
+    "title": "Mahākāleśvara Temple Ujjain",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "meenakshi-amman",
     "title": "Mīnākṣī Amman Temple",
     "status": "published",
@@ -4557,6 +5376,24 @@
   {
     "entityId": "mukteshwar-bhubaneswar",
     "title": "Mukteshwar Temple Bhubaneswar",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nageshwar-dwarka",
+    "title": "Nāgeśvara Temple Dwarka",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "omkareshwar",
+    "title": "Omkāreśvara Temple",
     "status": "published",
     "issues": [
       "No relationships"
@@ -4617,10 +5454,37 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "srirangam-divyadesam",
+    "title": "Śrīraṅgam Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "srirangam",
     "title": "Śrīraṅgam Temple (Ranganathaswamy)",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "srivilliputhur",
+    "title": "Śrīvilliputtūr Āṇḍāl Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukkoloor",
+    "title": "Tirukkōḷūr Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4633,10 +5497,37 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "tirupati-divyadesam",
+    "title": "Tirumala Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "tirupati-tirumala",
     "title": "Tirumala Venkateswara Temple",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "tryambakeshwar",
+    "title": "Tryambakeśvara Temple Nashik",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "vaishno-devi",
+    "title": "Vaishno Devi Temple",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

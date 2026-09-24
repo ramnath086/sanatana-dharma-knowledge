@@ -2965,6 +2965,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "purana-mahapurana-list",
+    "title": "Mahāpurāṇa List",
+    "aliases": [
+      "Mahapurana List",
+      "Eighteen Puranas",
+      "महापुराण सूची"
+    ],
+    "sanskritTitle": "",
+    "description": "The eighteen Mahāpurāṇas: Brahma, Padma, Viṣṇu, Śiva, Liṅga, Garuḍa, Nārada, Bhāgavata, Agni, Skanda, Bhaviṣya, Brahmāṇḍa, Vāmana, Kūrma, Matsya, Vāyu, Varāha, and Vāyu; their traditional enumeration and thematic groupings are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "purana-panchalaksana",
     "title": "Purāṇa Pañcalakṣaṇa",
     "aliases": [
@@ -2978,6 +3000,50 @@
       "CONCEPT",
       "PURANA",
       "PHILOSOPHY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-panchalakshana",
+    "title": "Purāṇa Pañcalakṣaṇa",
+    "aliases": [
+      "Purana Panchalakshana",
+      "Five Characteristics of Purana",
+      "पुराण पञ्चलक्षण"
+    ],
+    "sanskritTitle": "",
+    "description": "The five characteristic topics (pañcalakṣaṇa) that define a Purāṇa: sarga (primary creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-sectarian-classification",
+    "title": "Purāṇa Sectarian Classification",
+    "aliases": [
+      "Purana Sectarian",
+      "Puranic Classification",
+      "पुराण संप्रदाय वर्गीकरण"
+    ],
+    "sanskritTitle": "",
+    "description": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Kṛṣṇa), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -3040,6 +3106,28 @@
     ],
     "sanskritTitle": "",
     "description": "Traditional attribution assigns the major Purāṇas to Vyāsa as compiler; this attribution is represented here as a traditional claim distinct from modern textual scholarship on Purāṇa composition and stratification. ---",
+    "type": "concept",
+    "classification": [
+      "PURANA",
+      "CONCEPT"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "purana-upapurana",
+    "title": "Upapurāṇas",
+    "aliases": [
+      "Upapuranas",
+      "Minor Puranas",
+      "उपपुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The eighteen Upapurāṇas (minor Purāṇas): Saura, Nṛsiṃha, Viṣṇu Dharmottara, Kālikā, Garga, Āditya, Nandi, Sāmba, Nṛsiṃha Tāpanīya, Bhārgava, Matsya, Varāha, Kapila, Mānava, Auśanasa, Sāmba, Nṛsiṃha Tāpanīya, and Bhārgava; their relationship to the Mahāpurāṇas and their distinct thematic foci are represented here as a catalogue entry. ---",
     "type": "concept",
     "classification": [
       "PURANA",
@@ -8301,6 +8389,26 @@
     "relatedEntityIds": []
   },
   {
+    "id": "aditya-purana",
+    "title": "Āditya Purāṇa",
+    "aliases": [
+      "Aditya Purana",
+      "आदित्य पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Āditya Purāṇa, one of the eighteen Upapurāṇas, focusing on the worship of Sūrya (Āditya), solar deities, and solar rituals; its overlap with the Saura Purāṇa and role in solar traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "agni-purana",
     "title": "Agni Purāṇa",
     "aliases": [
@@ -8308,11 +8416,31 @@
       "अग्नि पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa traditionally attributed to Agni, covering cosmology, ritual, medicine, architecture, and grammar; represented here as a catalogue entry.",
+    "description": "The Agni Purāṇa, one of the eighteen Mahāpurāṇas, its encyclopedic scope covering cosmology, geography, iconography, medicine, polity, and Dharmaśāstra; its role as a compendium of traditional knowledge is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ahirbudhnya-samhita",
+    "title": "Ahirbudhnya Saṃhitā",
+    "aliases": [
+      "Ahirbudhnya Samhita",
+      "Ahirbudhnya Samhita",
+      "अहिर्बुध्न्य संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ahirbudhnya Saṃhitā, a major Vaiṣṇava Pāñcarātra text, focusing on the Sudarśana cakra, the Nṛsiṃha mantra, the cakra system, and the esoteric rituals of the Pāñcarātra tradition; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -8376,6 +8504,27 @@
     "classification": [
       "SHRUTI",
       "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ajita-agama",
+    "title": "Ajita Āgama",
+    "aliases": [
+      "Ajita Agama",
+      "Ajitagama",
+      "अजित आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Ajita Āgama, one of the twenty-eight principal Śaiva Āgamas, covering the four pādas with emphasis on the nature of Śiva as Ajita (unconquered), temple rituals, and the philosophy of Śiva-Śakti; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -8512,6 +8661,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "aushanasa-purana",
+    "title": "Auśanasa Purāṇa",
+    "aliases": [
+      "Ausanasa Purana",
+      "Aushanasa Purana",
+      "औशनस पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Auśanasa Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Uśanas (Śukra), focusing on dharma, polity, and the worship of Śiva; its role in Śaiva and Dharmaśāstra traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "avadhuta-upanishad",
     "title": "Avadhūta Upaniṣad",
     "aliases": [
@@ -8546,6 +8716,144 @@
       "SHRUTI",
       "VEDANGA",
       "DHARMASHASTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-madhva",
+    "title": "Madhva Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Madhva Gita Bhashya",
+      "Madhva Gita Commentary",
+      "मध्व गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Madhva's Gītā Bhāṣya, presenting the Dvaita interpretation, emphasizing the fivefold difference (pañca-bheda), the hierarchy of souls, and the supremacy of bhakti to Viṣṇu; its distinction from both Advaita and Viśiṣṭādvaita is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-nimbarka",
+    "title": "Nimbārka Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Nimbarka Gita Bhashya",
+      "Nimbarka Gita Commentary",
+      "निम्बार्क गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Nimbārka's Gītā Bhāṣya, presenting the Bhedābheda interpretation, reconciling difference and non-difference through the relation of whole and part; its unique synthesis is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-ramanuja",
+    "title": "Rāmānuja Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Ramanuja Gita Bhashya",
+      "Ramanuja Gita Commentary",
+      "रामानुज गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Rāmānuja's Gītā Bhāṣya, presenting the Viśiṣṭādvaita interpretation of the Gītā, emphasizing bhakti as the supreme path and the role of prapatti (self-surrender); its distinction from Śaṅkara's interpretation is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-shankara",
+    "title": "Śaṅkara Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Shankara Gita Bhashya",
+      "Shankara Gita Commentary",
+      "शंकर गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Śaṅkara's Bhagavad Gītā Bhāṣya, the earliest surviving commentary on the Gītā (c. 8th century), establishing the Advaita interpretation of karma-yoga, jñāna-yoga, and bhakti-yoga as convergent paths to liberation; its influence on all subsequent Gītā exegesis is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-sridhara",
+    "title": "Śrīdhara Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Sridhara Gita Bhashya",
+      "Sridhara Gita Commentary",
+      "श्रीधर गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Śrīdhara's Gītā Bhāṣya (Subodhinī), an influential Advaita commentary known for its clarity and systematic exposition; its influence on later Advaita Gītā exegesis is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhagavad-gita-bhashya-vallabha",
+    "title": "Vallabha Bhagavad Gītā Bhāṣya",
+    "aliases": [
+      "Vallabha Gita Bhashya",
+      "Vallabha Gita Commentary",
+      "वल्लभ गीता भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Vallabha's Bhagavad Gītā Bhāṣya (Subodhinī), presenting the Śuddhādvaita interpretation, emphasizing puṣṭi (grace) as the means to participate in Kṛṣṇa's līlā; its distinctive emphasis on the path of grace is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SMRITI",
+      "ITIHASA",
+      "COMMENTARY"
     ],
     "language": [
       "sa",
@@ -8977,15 +9285,35 @@
     "id": "bhagavata-purana",
     "title": "Bhāgavata Purāṇa",
     "aliases": [
+      "Bhagavata Purana",
       "Srimad Bhagavatam",
-      "श्रीमद्भागवतम्"
+      "भागवत पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A major Purāṇa centered on Kṛṣṇa-bhakti, influential across Vaiṣṇava traditions; this record contains no reproduced translation.",
+    "description": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), one of the eighteen Mahāpurāṇas in twelve skandhas, focusing on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "bhargava-purana",
+    "title": "Bhārgava Purāṇa",
+    "aliases": [
+      "Bhargava Purana",
+      "भार्गव पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bhārgava Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Bhṛgu, focusing on dharma, prāyaścitta, and the worship of Viṣṇu; its role in Dharmaśāstra traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9002,11 +9330,10 @@
       "ब्रह्म पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa focused on Brahmā and creation narratives, with sections on pilgrimage, ritual, and cosmology; represented here as a catalogue entry.",
+    "description": "The Brahma Purāṇa, one of the eighteen Mahāpurāṇas, focusing on creation, geography, and the glory of Viṣṇu and Śiva; its traditional attribution to Brahma and its role in Vaiṣṇava and Śaiva traditions are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9108,10 +9435,11 @@
       "मध्व ब्रह्म सूत्र भाष्य"
     ],
     "sanskritTitle": "",
-    "description": "Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; represented here as a catalogue entry. ---",
+    "description": "Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; its refutation of Advaita and Viśiṣṭādvaita is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "VEDANTA"
+      "VEDANTA",
+      "COMMENTARY"
     ],
     "language": [
       "sa",
@@ -9129,10 +9457,11 @@
       "निम्बार्क वेदान्त पारिजात सौरभ"
     ],
     "sanskritTitle": "",
-    "description": "Nimbārka's Vedānta Pārijāta Saurabha, the Bhedābheda commentary on the Brahma Sūtra, establishing difference-and-non-difference with Kṛṣṇa as the supreme reality; represented here as a catalogue entry. ---",
+    "description": "Nimbārka's Vedānta Pārijāta Saurabha, the Bhedābheda commentary on the Brahma Sūtra, establishing difference-and-non-difference with Kṛṣṇa as the supreme reality; its unique position between dualism and non-dualism is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "VEDANTA"
+      "VEDANTA",
+      "COMMENTARY"
     ],
     "language": [
       "sa",
@@ -9142,18 +9471,41 @@
     "relatedEntityIds": []
   },
   {
-    "id": "brahma-sutra-bhashya-ramanuja",
-    "title": "Rāmānuja Śrī Bhāṣya",
+    "id": "brahma-sutra-bhashya-prakashatman",
+    "title": "Prakāśātman Brahma Sūtra Bhāṣya",
+    "aliases": [
+      "Prakashatman Brahma Sutra Bhashya",
+      "Prakashatman Brahma Sutra Commentary",
+      "प्रकाशात्मन् ब्रह्म सूत्र भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Prakāśātman's Brahma Sūtra Bhāṣya (Pancapadika), a detailed Advaita commentary elaborating on the first five sūtras of the Brahma Sūtra; its analysis of the categories of error (bhrama) is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "brahma-sutra-bhashya-ramanuja-sri-bhashya",
+    "title": "Rāmānuja Śrī Bhāṣya on Brahma Sūtra",
     "aliases": [
       "Ramanuja Sri Bhashya",
       "Ramanuja Brahma Sutra Bhashya",
       "रामानुज श्री भाष्य"
     ],
     "sanskritTitle": "",
-    "description": "Rāmānuja's Śrī Bhāṣya, the principal Viśiṣṭādvaita commentary on the Brahma Sūtra, establishing qualified non-duality with Viṣṇu as the supreme Brahman qualified by conscious souls and matter; represented here as a catalogue entry. ---",
+    "description": "Rāmānuja's Śrī Bhāṣya, the principal Viśiṣṭādvaita commentary on the Brahma Sūtra, establishing qualified non-duality with Viṣṇu as the supreme Brahman qualified by conscious souls and matter; its refutation of Advaita and its systematic exposition of viśiṣṭādvaita are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "VEDANTA"
+      "VEDANTA",
+      "COMMENTARY"
     ],
     "language": [
       "sa",
@@ -9184,6 +9536,50 @@
     "relatedEntityIds": []
   },
   {
+    "id": "brahma-sutra-bhashya-sureshvara",
+    "title": "Sureśvara Brahma Sūtra Bhāṣya",
+    "aliases": [
+      "Sureshvara Brahma Sutra Bhashya",
+      "Sureshvara Brahma Sutra Commentary",
+      "सुरेश्वर ब्रह्म सूत्र भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Sureśvara's Brahma Sūtra Bhāṣya (Bṛhadāraṇyaka Upaniṣad Bhāṣya Vārtika), the direct disciple of Śaṅkara, providing a detailed Vārtika on Śaṅkara's Brahma Sūtra Bhāṣya; its elaboration of Advaita arguments is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "brahma-sutra-bhashya-vacaspati-mishra",
+    "title": "Vācaspati Miśra Brahma Sūtra Bhāṣya",
+    "aliases": [
+      "Vacaspati Mishra Brahma Sutra Bhashya",
+      "Vacaspati Brahma Sutra Commentary",
+      "वाचस्पति मिश्र ब्रह्म सूत्र भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Vācaspati Miśra's Brahma Sūtra Bhāṣya (Bhāmatī), a sub-commentary on Śaṅkara's Brahma Sūtra Bhāṣya, establishing the Bhāmatī school of Advaita and its theory of avidyā; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "brahma-sutra-bhashya-vallabha",
     "title": "Vallabha Anubhāṣya",
     "aliases": [
@@ -9192,10 +9588,11 @@
       "वल्लभ अनुभाष्य"
     ],
     "sanskritTitle": "",
-    "description": "Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); represented here as a catalogue entry. ---",
+    "description": "Vallabha's Anubhāṣya, the Śuddhādvaita commentary on the Brahma Sūtra, establishing pure non-duality with Kṛṣṇa as the supreme Brahman and the path of grace (puṣṭi-mārga); its critique of māyā-vāda is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "VEDANTA"
+      "VEDANTA",
+      "COMMENTARY"
     ],
     "language": [
       "sa",
@@ -9248,6 +9645,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "brahma-yamala-tantra",
+    "title": "Brahmayāmala Tantra",
+    "aliases": [
+      "Brahmayamala Tantra",
+      "Brahma Yamala",
+      "ब्रह्मयामल तन्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Brahmayāmala Tantra, a major Śākta Tantra in 21 chapters, focusing on the worship of the Goddess as Brahmayāmala, the cakra system, and the Kaula initiation; its detailed ritual prescriptions are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "TANTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "brahmana",
     "title": "Brāhmaṇa texts",
     "aliases": [
@@ -9277,11 +9695,10 @@
       "ब्रह्माण्ड पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa presenting the cosmic egg (brahmāṇḍa) cosmology, genealogies, and geography; represented here as a catalogue entry.",
+    "description": "The Brahmāṇḍa Purāṇa, one of the eighteen Mahāpurāṇas in four parts, detailing the cosmic egg (brahmāṇḍa), the Lalitopākhyāna (narrative of Lalitā Tripurasundarī), and the Aṣṭādaśa-śakti-pīṭhas; its relationship to the Vāyu Purāṇa and its significance for Śākta tradition are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9303,6 +9720,27 @@
     "classification": [
       "SHRUTI",
       "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "brihaspati-smriti",
+    "title": "Bṛhaspati Smṛti",
+    "aliases": [
+      "Brihaspati Smriti",
+      "Brihaspati Smriti",
+      "बृहस्पति स्मृति"
+    ],
+    "sanskritTitle": "",
+    "description": "The Bṛhaspati Smṛti, a Dharmaśāstra text attributed to Bṛhaspati, focusing on vyavahāra (legal procedure), courts, evidence, and civil law; its influence on the Indian legal tradition and medieval dharma digests is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "DHARMASHASTRA"
     ],
     "language": [
       "sa",
@@ -9418,6 +9856,26 @@
     "relatedEntityIds": []
   },
   {
+    "id": "garga-purana",
+    "title": "Garga Purāṇa",
+    "aliases": [
+      "Garga Purana",
+      "गर्ग पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Garga Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Garga, focusing on astrology (jyotiṣa), omens, and the worship of Kṛṣṇa; its astronomical content is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "garuda-purana",
     "title": "Garuḍa Purāṇa",
     "aliases": [
@@ -9425,11 +9883,10 @@
       "गरुड पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa associated with Viṣṇu's vehicle Garuḍa, known for its sections on death, afterlife, and funerary rites; represented here as a catalogue entry.",
+    "description": "The Garuḍa Purāṇa, one of the eighteen Mahāpurāṇas, its focus on Viṣṇu worship, funeral rites (antyeṣṭi), gemology, and the afterlife journey (pretakalpā); its role in death rituals is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9525,6 +9982,28 @@
     "relatedEntityIds": []
   },
   {
+    "id": "mahabharata-harivamsha",
+    "title": "Harivaṃśa",
+    "aliases": [
+      "Harivamsha",
+      "Harivamsa",
+      "हरिवंश"
+    ],
+    "sanskritTitle": "",
+    "description": "The Harivaṃśa (Lineage of Hari), an appendix (khila) to the Mahābhārata in three books, detailing the lineage of Kṛṣṇa, his childhood in Vraja, and the history of the Yādava dynasty; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "isha-upanishad",
     "title": "Īśā Upaniṣad",
     "aliases": [
@@ -9611,6 +10090,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "jayakhya-samhita",
+    "title": "Jayākhya Saṃhitā",
+    "aliases": [
+      "Jayakhya Samhita",
+      "Jayakhya Samhita",
+      "जयाख्य संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jayākhya Saṃhitā, a major Vaiṣṇava Pāñcarātra text in 33 chapters, expounding the five forms of Viṣṇu (para, vyūha, vibhava, antaryāmin, arcā), the fivefold worship (pañcakāla), and the philosophy of Viṣṇu as supreme; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "jyotisha-vedanga-text",
     "title": "Jyotiṣa Vedāṅga",
     "aliases": [
@@ -9654,6 +10154,67 @@
     "relatedEntityIds": []
   },
   {
+    "id": "kalika-purana",
+    "title": "Kālikā Purāṇa",
+    "aliases": [
+      "Kalika Purana",
+      "कालिका पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kālikā Purāṇa, one of the eighteen Upapurāṇas, a Śākta text focusing on the worship of Kālī, the ten Mahāvidyās, and the ritual practices of Śākta traditions in Kamarupa (Assam); its tantric orientation is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kamika-agama",
+    "title": "Kāmika Āgama",
+    "aliases": [
+      "Kamika Agama",
+      "Kamikagama",
+      "कामिक आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kāmika Āgama, one of the twenty-eight principal Śaiva Āgamas, covering all four pādas (jñāna, yoga, kriyā, caryā) with detailed ritual instructions for temple construction, daily worship, and festivals; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kapila-purana",
+    "title": "Kapila Purāṇa",
+    "aliases": [
+      "Kapila Purana",
+      "कपिल पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kapila Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Kapila, focusing on Sāṅkhya philosophy, the worship of Viṣṇu, and the glory of the Gangā; its philosophical orientation is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "katha-aranyaka",
     "title": "Kaṭha Āraṇyaka",
     "aliases": [
@@ -9687,6 +10248,27 @@
     "classification": [
       "SHRUTI",
       "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "katyayana-smriti",
+    "title": "Kātyāyana Smṛti",
+    "aliases": [
+      "Katyayana Smriti",
+      "Katyayana Smriti",
+      "कात्यायन स्मृति"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kātyāyana Smṛti, a Dharmaśāstra text attributed to Kātyāyana, focusing on vyavahāra, women's property rights (strīdhana), and inheritance law; its influence on later dharma digests (Mitākṣarā, Dāyabhāga) is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "DHARMASHASTRA"
     ],
     "language": [
       "sa",
@@ -9760,6 +10342,48 @@
     "relatedEntityIds": []
   },
   {
+    "id": "kirana-agama",
+    "title": "Kiraṇa Āgama",
+    "aliases": [
+      "Kirana Agama",
+      "Kiranagama",
+      "किरण आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kiraṇa Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of dīkṣā (initiation), the nature of the soul (paśu), and the removal of mala; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kularnava-tantra",
+    "title": "Kulārṇava Tantra",
+    "aliases": [
+      "Kularnava Tantra",
+      "Kularnava Tantra",
+      "कुलार्णव तन्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kulārṇava Tantra, a major Śākta Tantra in 17 chapters, expounding the Kaula tradition, the worship of Kuleśvarī, the cakra system, and the guru-śiṣya relationship; its synthesis of tantric and Vedic elements is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "TANTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "kurma-purana",
     "title": "Kūrma Purāṇa",
     "aliases": [
@@ -9767,11 +10391,32 @@
       "कूर्म पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa narrated by Viṣṇu in his tortoise (kūrma) incarnation, covering cosmology, duty, and yoga; represented here as a catalogue entry.",
+    "description": "The Kūrma Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrva and Uttara), narrated by Kūrma (Viṣṇu's tortoise avatar) to the sages, focusing on the four goals of life (puruṣārtha), Śiva-Viṣṇu unity, and the Lakṣmī-Nārāyaṇa-hṛdaya; its philosophical synthesis is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "lakulisha-pashupata",
+    "title": "Lakulīśa Pāśupata Sūtra",
+    "aliases": [
+      "Lakulisha Pashupata Sutra",
+      "Lakulisha Pasupata Sutra",
+      "लकुलीश पाशुपत सूत्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Lakulīśa Pāśupata Sūtra, the foundational text of the Pāśupata Śaiva tradition founded by Lakulīśa, outlining the five categories (kārana, kārya, yoga, vidhi, duḥkhānta) and the path of the Pāśupata ascetic; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA",
+      "TANTRA"
     ],
     "language": [
       "sa",
@@ -9788,11 +10433,384 @@
       "लिङ्ग पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa centered on the liṅga as the aniconic form of Śiva, with cosmology and ritual; represented here as a catalogue entry.",
+    "description": "The Liṅga Purāṇa, one of the eighteen Mahāpurāṇas, focusing on the worship of Śiva in the form of the liṅga, the origin of the liṅga, and the glory of Śiva's various forms; its role in Śaiva ritual and temple worship is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-adiparva",
+    "title": "Mahābhārata Ādi Parva",
+    "aliases": [
+      "Mahabharata Adi Parva",
+      "Mahabharata Book 1",
+      "महाभारत आदिपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The first book (Ādi Parva) of the Mahābhārata, containing the origins of the Kuru dynasty, the birth of the Pāṇḍavas and Kauravas, the game of dice, and the exile of the Pāṇḍavas; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-anushasanaparva",
+    "title": "Mahābhārata Anuśāsana Parva",
+    "aliases": [
+      "Mahabharata Anushasana Parva",
+      "Mahabharata Book 13",
+      "महाभारत अनुशासनपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The thirteenth book (Anuśāsana Parva) of the Mahābhārata, continuing Bhīṣma's teachings on dharma, varṇa, āśrama, and the glory of Viṣṇu; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-ashramavasikaparva",
+    "title": "Mahābhārata Āśramavāsika Parva",
+    "aliases": [
+      "Mahabharata Ashramavasika Parva",
+      "Mahabharata Book 14",
+      "महाभारत आश्रमवासिकपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The fourteenth book (Āśramavāsika Parva) of the Mahābhārata, describing the Pāṇḍavas' retirement to the forest, Dhṛtarāṣṭra's death, and the end of the Kuru elders; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-bhishmaparva",
+    "title": "Mahābhārata Bhīṣma Parva",
+    "aliases": [
+      "Mahabharata Bhishma Parva",
+      "Mahabharata Book 6",
+      "महाभारत भीष्मपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The sixth book (Bhīṣma Parva) of the Mahābhārata, containing the first ten days of the Kurukṣetra war under Bhīṣma's command, including the Bhagavad Gītā; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-dronaparva",
+    "title": "Mahābhārata Droṇa Parva",
+    "aliases": [
+      "Mahabharata Drona Parva",
+      "Mahabharata Book 7",
+      "महाभारत द्रोणपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The seventh book (Droṇa Parva) of the Mahābhārata, describing the five days of war under Droṇa's command, including the deaths of Abhimanyu and Droṇa; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-karnaparva",
+    "title": "Mahābhārata Karṇa Parva",
+    "aliases": [
+      "Mahabharata Karna Parva",
+      "Mahabharata Book 8",
+      "महाभारत कर्णपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The eighth book (Karṇa Parva) of the Mahābhārata, describing the two days of war under Karṇa's command and his final duel with Arjuna; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-mahaprasthanikaparva",
+    "title": "Mahābhārata Mahāprasthānika Parva",
+    "aliases": [
+      "Mahabharata Mahaprasthanika Parva",
+      "Mahabharata Book 16",
+      "महाभारत महाप्रस्थानिकपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The sixteenth book (Mahāprasthānika Parva) of the Mahābhārata, describing the Pāṇḍavas' great journey (mahāprasthāna) toward the Himalayas and their successive falls; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-mausalaparva",
+    "title": "Mahābhārata Mausala Parva",
+    "aliases": [
+      "Mahabharata Mausala Parva",
+      "Mahabharata Book 15",
+      "महाभारत मौसलपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The fifteenth book (Mausala Parva) of the Mahābhārata, describing the destruction of the Yādava clan through mutual slaughter (mausala) and Kṛṣṇa's departure; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-sabhaparva",
+    "title": "Mahābhārata Sabhā Parva",
+    "aliases": [
+      "Mahabharata Sabha Parva",
+      "Mahabharata Book 2",
+      "महाभारत सभापर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The second book (Sabhā Parva) of the Mahābhārata, describing the assembly hall (sabhā) of Yudhiṣṭhira, the Rājasūya sacrifice, and the fateful game of dice; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-santiparva",
+    "title": "Mahābhārata Śānti Parva",
+    "aliases": [
+      "Mahabharata Shanti Parva",
+      "Mahabharata Book 12",
+      "महाभारत शान्तिपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The twelfth book (Śānti Parva) of the Mahābhārata, the longest book, containing Bhīṣma's teachings on rājadharma, āpad-dharma, and mokṣa from his bed of arrows; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-sauptikaparva",
+    "title": "Mahābhārata Sauptika Parva",
+    "aliases": [
+      "Mahabharata Sauptika Parva",
+      "Mahabharata Book 10",
+      "महाभारत सौप्तिकपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The tenth book (Sauptika Parva) of the Mahābhārata, describing the night raid (sauptika) by Aśvatthāman, Kṛpa, and Kṛtavarman on the sleeping Pāṇḍava army; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-shalyaparva",
+    "title": "Mahābhārata Śalya Parva",
+    "aliases": [
+      "Mahabharata Shalya Parva",
+      "Mahabharata Book 9",
+      "महाभारत शल्यपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The ninth book (Śalya Parva) of the Mahābhārata, describing the final day of war under Śalya's command, the mace duel between Bhīma and Duryodhana, and the end of the war; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-striparva",
+    "title": "Mahābhārata Strī Parva",
+    "aliases": [
+      "Mahabharata Stri Parva",
+      "Mahabharata Book 11",
+      "महाभारत स्त्रीपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The eleventh book (Strī Parva) of the Mahābhārata, depicting the lamentations of the women (strī) after the war, including Gandhārī's curse and the grief of the widows; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-svargarohanaparva",
+    "title": "Mahābhārata Svargārohaṇa Parva",
+    "aliases": [
+      "Mahabharata Svargarohana Parva",
+      "Mahabharata Book 17",
+      "महाभारत स्वर्गारोहणपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The seventeenth book (Svargārohaṇa Parva) of the Mahābhārata, describing Yudhiṣṭhira's final ascent to heaven (svarga) and the resolution of the epic's central tensions; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-udyogaparva",
+    "title": "Mahābhārata Udyoga Parva",
+    "aliases": [
+      "Mahabharata Udyoga Parva",
+      "Mahabharata Book 5",
+      "महाभारत उद्योगपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The fifth book (Udyoga Parva) of the Mahābhārata, detailing the preparations for war (udyoga), the failed peace missions, and the marshalling of armies on both sides; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-vanaparva",
+    "title": "Mahābhārata Vana Parva",
+    "aliases": [
+      "Mahabharata Vana Parva",
+      "Mahabharata Book 3",
+      "महाभारत वनपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The third book (Vana Parva) of the Mahābhārata, describing the Pāṇḍavas' twelve-year exile in the forest (vana), their encounters with sages, and the Nala-Damayantī episode; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mahabharata-virataparva",
+    "title": "Mahābhārata Virāṭa Parva",
+    "aliases": [
+      "Mahabharata Virata Parva",
+      "Mahabharata Book 4",
+      "महाभारत विराटपर्व"
+    ],
+    "sanskritTitle": "",
+    "description": "The fourth book (Virāṭa Parva) of the Mahābhārata, describing the Pāṇḍavas' thirteenth year of exile incognito at the court of King Virāṭa; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
     ],
     "language": [
       "sa",
@@ -9867,6 +10885,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "manava-purana",
+    "title": "Mānava Purāṇa",
+    "aliases": [
+      "Manava Purana",
+      "Manava Purana",
+      "मानव पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mānava Purāṇa, one of the eighteen Upapurāṇas, attributed to Manu, focusing on dharma, the four āśramas, and the worship of Viṣṇu; its role in Dharmaśāstra traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "mandukya-upanishad",
     "title": "Māṇḍūkya Upaniṣad",
     "aliases": [
@@ -9889,17 +10928,17 @@
   },
   {
     "id": "manu-smriti",
-    "title": "Manusmṛti",
+    "title": "Manu Smṛti",
     "aliases": [
       "Manusmriti",
-      "Manu Smriti",
-      "मानुस्मृति"
+      "Manusmriti",
+      "मनुस्मृति"
     ],
     "sanskritTitle": "",
-    "description": "The most influential Dharmaśāstra text, traditionally attributed to Manu, prescribing social, legal, and ritual norms; represented here as a catalogue entry without endorsing its prescriptions as universal.",
+    "description": "The Manusmṛti (Mānava Dharmaśāstra), the most authoritative Dharmaśāstra text in twelve chapters, covering varṇa, āśrama, rājadharma, vyavahāra, prāyaścitta, and the rules of daily conduct; its influence on Hindu law and social organization is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra"
+      "DHARMASHASTRA"
     ],
     "language": [
       "sa",
@@ -9916,11 +10955,31 @@
       "मार्कण्डेय पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa narrated by the sage Mārkaṇḍeya, containing the Devī Māhātmya and diverse cosmological narratives; represented here as a catalogue entry.",
+    "description": "The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters, containing the Devī Māhātmya (Durgā Saptashatī) in chapters 81-93; its dialogue format between Mārkaṇḍeya and Jaimini, and its importance for Śākta tradition are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "matsya-purana-upapurana",
+    "title": "Matsya Purāṇa (Upapurāṇa)",
+    "aliases": [
+      "Matsya Upapurana",
+      "Matsya Purana Upapurana",
+      "मत्स्य उपपुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Matsya Upapurāṇa, one of the eighteen Upapurāṇas, distinct from the Mahāpurāṇa Matsya Purāṇa, focusing on the Matsya avatar of Viṣṇu, temple architecture, and vrata; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9937,11 +10996,31 @@
       "मत्स्य पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa narrated by Viṣṇu in his fish (matsya) incarnation, covering cosmology, genealogy, and temple architecture; represented here as a catalogue entry.",
+    "description": "The Matsya Purāṇa, one of the eighteen Mahāpurāṇas, its focus on the Matsya avatāra of Viṣṇu, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "mrigendra-agama",
+    "title": "Mṛgendra Āgama",
+    "aliases": [
+      "Mrigendra Agama",
+      "Mrigendragama",
+      "मृगेन्द्र आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mṛgendra Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the philosophy of Śiva, the nature of the soul (paśu), bondage (pāśa), and the path to liberation; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -9972,6 +11051,26 @@
     "relatedEntityIds": []
   },
   {
+    "id": "nandi-purana",
+    "title": "Nandi Purāṇa",
+    "aliases": [
+      "Nandi Purana",
+      "नन्दि पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nandi Purāṇa, one of the eighteen Upapurāṇas, a Śaiva text narrated by Nandi (Śiva's bull), focusing on Śiva worship, the glory of the liṅga, and Śaiva rituals; its role in Śaiva traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "narada-purana",
     "title": "Nārada Purāṇa",
     "aliases": [
@@ -9979,11 +11078,10 @@
       "नारद पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa attributed to the sage Nārada, focusing on pilgrimage, ritual, and devotion; represented here as a catalogue entry.",
+    "description": "The Nārada Purāṇa, one of the eighteen Mahāpurāṇas, attributed to the sage Nārada, covering pilgrimage sites, vrata, and the tenets of Vaiṣṇava dharma; its encyclopedic scope is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -9997,13 +11095,35 @@
     "title": "Nāradasmṛti",
     "aliases": [
       "Narada Smriti",
-      "नारदस्मृति"
+      "Narada Smriti",
+      "नारद स्मृति"
     ],
     "sanskritTitle": "",
-    "description": "A Dharmaśāstra focused on juridical procedure and legal process, influential in medieval Indian law; represented here as a catalogue entry.",
+    "description": "The Nāradasmṛti, a Dharmaśāstra text focused on vyavahāra (legal procedure), attributed to the sage Nārada; its detailed treatment of legal topics and influence on later digests is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra"
+      "DHARMASHASTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "narasimha-purana",
+    "title": "Nṛsiṃha Purāṇa",
+    "aliases": [
+      "Narasimha Purana",
+      "Narasimha Purana",
+      "नृसिंह पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nṛsiṃha Purāṇa, one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha avatar of Viṣṇu, the story of Prahlāda, and the worship of Narasiṃha; its role in Vaiṣṇava traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10069,6 +11189,47 @@
     "classification": [
       "SHRUTI",
       "VEDANGA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nrisimha-purana",
+    "title": "Nṛsiṃha Purāṇa",
+    "aliases": [
+      "Nrisimha Purana",
+      "Narasimha Purana",
+      "नृसिंह पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nṛsiṃha Purāṇa, one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha avatar of Viṣṇu, the story of Prahlāda, and the worship of Narasiṃha; its role in Vaiṣṇava traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nrisimha-tapaniya-purana",
+    "title": "Nṛsiṃha Tāpanīya Purāṇa",
+    "aliases": [
+      "Nrisimha Tapaniya Purana",
+      "नृसिंह तापनीय पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nṛsiṃha Tāpanīya Purāṇa, one of the eighteen Upapurāṇas, a Vaiṣṇava text focusing on the Nṛsiṃha avatar, the Nṛsiṃha mantra, and the meditation on the fierce form of Viṣṇu; its role in Nṛsiṃha worship is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10186,17 +11347,60 @@
     "relatedEntityIds": []
   },
   {
+    "id": "parameshvara-agama",
+    "title": "Parameśvara Āgama",
+    "aliases": [
+      "Parameshvara Agama",
+      "Parameshvara Agama",
+      "परमेश्वर आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Parameśvara Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of Śiva-Śakti philosophy, the nature of mala (impurity), and the path of initiation (dīkṣā); represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "parashara-smriti",
     "title": "Parāśarasmṛti",
     "aliases": [
       "Parashara Smriti",
-      "पराशरस्मृति"
+      "Parashara Smriti",
+      "पराशर स्मृति"
     ],
     "sanskritTitle": "",
-    "description": "A Dharmaśāstra traditionally attributed to Parāśara, prescribing norms for the Kali age; represented here as a catalogue entry.",
+    "description": "The Parāśarasmṛti, a Dharmaśāstra text attributed to the sage Parāśara, prescribing dharma for the Kali Yuga with emphasis on simplified rules; its influence on later dharma digests is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra"
+      "DHARMASHASTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "paushkara-samhita",
+    "title": "Pauṣkara Saṃhitā",
+    "aliases": [
+      "Paushkara Samhita",
+      "Paushkara Samhita",
+      "पौष्कर संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Pauṣkara Saṃhitā, an important Vaiṣṇava Pāñcarātra text, detailing the fivefold daily worship (pañcakāla), the five forms of Viṣṇu, and the rituals of the arcāvatāra; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -10227,6 +11431,160 @@
     "relatedEntityIds": []
   },
   {
+    "id": "ramayana-aranya-kanda",
+    "title": "Rāmāyaṇa Araṇya Kāṇḍa",
+    "aliases": [
+      "Ramayana Aranya Kanda",
+      "Ramayana Book 3",
+      "रामायण अरण्यकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The third kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Araṇya Kāṇḍa), describing Rāma, Sītā, and Lakṣmaṇa's life in the forest, the encounter with Śūrpaṇakhā, and Sītā's abduction by Rāvaṇa; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-ayodhya-kanda",
+    "title": "Rāmāyaṇa Ayodhyā Kāṇḍa",
+    "aliases": [
+      "Ramayana Ayodhya Kanda",
+      "Ramayana Book 2",
+      "रामायण अयोध्याकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The second kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Ayodhyā Kāṇḍa), describing the events in Ayodhyā leading to Rāma's exile, including Kaikeyī's boons, Daśaratha's grief, and Rāma's departure; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-bala-kanda",
+    "title": "Rāmāyaṇa Bāla Kāṇḍa",
+    "aliases": [
+      "Ramayana Bala Kanda",
+      "Ramayana Book 1",
+      "रामायण बालकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The first kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Bāla Kāṇḍa), describing the birth of Rāma, his childhood, education under Vasiṣṭha, marriage to Sītā, and the journey to Mithilā; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-kishkindha-kanda",
+    "title": "Rāmāyaṇa Kiṣkindhā Kāṇḍa",
+    "aliases": [
+      "Ramayana Kishkindha Kanda",
+      "Ramayana Book 4",
+      "रामायण किष्किन्धाकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The fourth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Kiṣkindhā Kāṇḍa), describing Rāma and Lakṣmaṇa's alliance with Sugrīva, the search for Sītā, and the killing of Vālin; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-sundara-kanda",
+    "title": "Rāmāyaṇa Sundara Kāṇḍa",
+    "aliases": [
+      "Ramayana Sundara Kanda",
+      "Ramayana Book 5",
+      "रामायण सुन्दरकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The fifth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Sundara Kāṇḍa), focusing on Hanumān's leap to Laṅkā, his meeting with Sītā, and the burning of Laṅkā; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-uttara-kanda",
+    "title": "Rāmāyaṇa Uttara Kāṇḍa",
+    "aliases": [
+      "Ramayana Uttara Kanda",
+      "Ramayana Book 7",
+      "रामायण उत्तरकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The seventh kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Uttara Kāṇḍa), describing Rāma's return to Ayodhyā, his coronation, Sītā's banishment, the birth of his sons, and his eventual departure; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "ramayana-yuddha-kanda",
+    "title": "Rāmāyaṇa Yuddha Kāṇḍa",
+    "aliases": [
+      "Ramayana Yuddha Kanda",
+      "Ramayana Book 6",
+      "रामायण युद्धकाण्ड"
+    ],
+    "sanskritTitle": "",
+    "description": "The sixth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Yuddha Kāṇḍa), describing the war between Rāma's army and Rāvaṇa's forces, the death of Rāvaṇa, and Sītā's rescue; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "ITIHASA",
+      "SMRITI"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "ramayana",
     "title": "Rāmāyaṇa",
     "aliases": [
@@ -10240,6 +11598,27 @@
       "SMRITI",
       "ITIHASA",
       "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "raurava-agama",
+    "title": "Raurava Āgama",
+    "aliases": [
+      "Raurava Agama",
+      "Rauravagama",
+      "रौरव आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Raurava Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of temple architecture, iconography, and the philosophy of Śiva-Śakti; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -10511,6 +11890,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "rudra-yamala-tantra",
+    "title": "Rudrayāmala Tantra",
+    "aliases": [
+      "Rudrayamala Tantra",
+      "Rudra Yamala",
+      "रुद्रयामल तन्त्र"
+    ],
+    "sanskritTitle": "",
+    "description": "The Rudrayāmala Tantra, a major Śākta-Śaiva Tantra in 44 chapters, expounding the worship of Śiva and Śakti in their fierce forms, the ten Mahāvidyās, and the practice of kaula; its influence on Bengali Śākta traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "TANTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "rudrahridaya-upanishad",
     "title": "Rudrahṛdaya Upaniṣad",
     "aliases": [
@@ -10616,6 +12016,26 @@
     "relatedEntityIds": []
   },
   {
+    "id": "samba-purana",
+    "title": "Sāmba Purāṇa",
+    "aliases": [
+      "Samba Purana",
+      "साम्ब पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sāmba Purāṇa, one of the eighteen Upapurāṇas, narrated by Sāmba (Kṛṣṇa's son), focusing on Sūrya worship, the healing of Sāmba's leprosy through solar worship, and the solar temples of India; its role in solar traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "samkhayana-aranyaka",
     "title": "Śāṅkhāyana Āraṇyaka",
     "aliases": [
@@ -10658,6 +12078,68 @@
     "relatedEntityIds": []
   },
   {
+    "id": "sarvokta-agama",
+    "title": "Sarvokta Āgama",
+    "aliases": [
+      "Sarvokta Agama",
+      "Sarvoktagama",
+      "सर्वोक्त आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sarvokta Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its comprehensive treatment of the four pādas and its influence on temple architecture in South India; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "satvata-samhita",
+    "title": "Sāttvata Saṃhitā",
+    "aliases": [
+      "Sattvata Samhita",
+      "Sattvata Samhita",
+      "सात्वत संहिता"
+    ],
+    "sanskritTitle": "",
+    "description": "The Sāttvata Saṃhitā, an early Vaiṣṇava Pāñcarātra text, detailing the five forms of Viṣṇu, the cakra system, and the rituals of temple worship; its influence on later Pāñcarātra texts is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "saura-purana",
+    "title": "Saura Purāṇa",
+    "aliases": [
+      "Saura Purana",
+      "सौर पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Saura Purāṇa, one of the eighteen Upapurāṇas, focusing on the worship of Sūrya (the Sun), solar cosmology, and the Sūrya mantras; its role in solar worship traditions is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "shatapatha-brahmana",
     "title": "Śatapatha Brāhmaṇa",
     "aliases": [
@@ -10686,11 +12168,10 @@
       "शिव पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A major Śaiva Purāṇa presenting Śiva-centered cosmology, theology, and ritual; represented here as a catalogue entry.",
+    "description": "The Śiva Purāṇa, one of the eighteen Mahāpurāṇas, in seven saṃhitās, focusing on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10729,11 +12210,10 @@
       "स्कन्द पुराण"
     ],
     "sanskritTitle": "",
-    "description": "The largest Mahāpurāṇa, centered on Kārttikeya (Skanda), with extensive pilgrimage and temple lore; represented here as a catalogue entry.",
+    "description": "The Skanda Purāṇa, the largest Mahāpurāṇa with over 81,000 verses in seven khaṇḍas (Māheśvara, Viṣṇu, Brahma, Kāśī, Āvantya, Nāgara, Prabhāsa), focusing on Śiva, Skanda/Kārttikeya, and pilgrimage sites (tīrthas) across India; its role in Śaiva tradition and temple mythology are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10755,6 +12235,27 @@
     "classification": [
       "SHRUTI",
       "VEDANTA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "suprabheda-agama",
+    "title": "Suprabheda Āgama",
+    "aliases": [
+      "Suprabheda Agama",
+      "Suprabhedagama",
+      "सुप्रभेद आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Suprabheda Āgama, one of the twenty-eight principal Śaiva Āgamas, covering jñāna, yoga, kriyā, and caryā pādas with emphasis on temple construction and iconography; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
     ],
     "language": [
       "sa",
@@ -10869,6 +12370,165 @@
     "relatedEntityIds": []
   },
   {
+    "id": "tripura-rahasa",
+    "title": "Tripurā Rahasya",
+    "aliases": [
+      "Tripura Rahasya",
+      "Tripura Rahasya",
+      "त्रिपुरा रहस्य"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tripurā Rahasya, a Śākta text in three books (Mahātmya, Jñāna, Caryā), attributed to Dattātreya, expounding the worship of Tripurasundarī, the nature of consciousness, and the path of jñāna within the Śrīvidyā tradition; its Advaita-Tantric synthesis is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "TANTRA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-madhusudana-sarasvati",
+    "title": "Madhusūdana Sarasvatī Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Madhusudana Sarasvati Upanishad Bhashyas",
+      "Madhusudana Sarasvati Upanishad Commentaries",
+      "मधुसूदन सरस्वती उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Madhusūdana Sarasvatī's Upaniṣad Bhāṣyas (especially on the Īśa, Kaṭha, and Bṛhadāraṇyaka), a 16th-century Advaita scholar's synthesis of Śaṅkara's Advaita with Bhakti; his Advaita Siddhi refutation of Dvaita is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-madhva",
+    "title": "Madhva Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Madhva Upanishad Bhashyas",
+      "Madhva Upanishad Commentaries",
+      "मध्व उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Madhva's commentaries on the ten principal Upaniṣads, presenting the Dvaita interpretation of the mahāvākyas, the eternal distinction between jīva and Brahman, and the role of bhakti; his refutation of Advaita's identity thesis is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-ramananda",
+    "title": "Rāmānanda Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Ramananda Upanishad Bhashyas",
+      "Ramananda Upanishad Commentaries",
+      "रामानन्द उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Rāmānanda's Upaniṣad Bhāṣyas, reflecting the Viśiṣṭādvaita tradition in the North Indian Bhakti context, emphasizing Rāma as the supreme reality of the Upaniṣads; his influence on the Rāmānandī tradition is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-ramanuja",
+    "title": "Rāmānuja Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Ramanuja Upanishad Bhashyas",
+      "Ramanuja Upanishad Commentaries",
+      "रामानुज उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Rāmānuja's commentaries on selected Upaniṣads (including the Vedārtha Saṅgraha, a summary of Upaniṣadic teaching), presenting the Viśiṣṭādvaita interpretation of Brahman as qualified by cit and acit; his refutation of Advaita's avidyā is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-shankara",
+    "title": "Śaṅkara Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Shankara Upanishad Bhashyas",
+      "Shankara Upanishad Commentaries",
+      "शंकर उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Śaṅkara's commentaries on the ten principal Upaniṣads (Īśa, Kena, Kaṭha, Praśna, Muṇḍaka, Māṇḍūkya, Taittirīya, Aitareya, Chāndogya, Bṛhadāraṇyaka); his Advaita interpretation of mahāvākyas, the nature of ātman/Brahman, and the refutation of duality are represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "upanishad-bhashya-vallabha",
+    "title": "Vallabha Upaniṣad Bhāṣyas",
+    "aliases": [
+      "Vallabha Upanishad Bhashyas",
+      "Vallabha Upanishad Commentaries",
+      "वल्लभ उपनिषद भाष्य"
+    ],
+    "sanskritTitle": "",
+    "description": "Vallabha's commentaries on selected Upaniṣads (including the Subodhinī on the Īśa, Kaṭha, and Bṛhadāraṇyaka), presenting the Śuddhādvaita interpretation and the path of puṣṭi (grace); his emphasis on Kṛṣṇa as the supreme reality of the Upaniṣads is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "SHRUTI",
+      "VEDANTA",
+      "COMMENTARY"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vamana-purana",
     "title": "Vāmana Purāṇa",
     "aliases": [
@@ -10876,11 +12536,31 @@
       "वामन पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa associated with Viṣṇu's dwarf (vāmana) incarnation, covering cosmology and pilgrimage; represented here as a catalogue entry.",
+    "description": "The Vāmana Purāṇa, one of the eighteen Mahāpurāṇas in 95 chapters, narrated by Pulastya to Nārada, focusing on Viṣṇu's Vāmana avatar, the Bali-Vāmana narrative, and the tīrthas of Kurukṣetra; its role in Vaiṣṇava pilgrimage traditions is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "varaha-purana-upapurana",
+    "title": "Varāha Purāṇa (Upapurāṇa)",
+    "aliases": [
+      "Varaha Upapurana",
+      "Varaha Purana Upapurana",
+      "वराह उपपुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Varāha Upapurāṇa, one of the eighteen Upapurāṇas, distinct from the Mahāpurāṇa Varāha Purāṇa, focusing on Viṣṇu's Varāha avatar and the rescue of Bhūdevī; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10897,11 +12577,10 @@
       "वराह पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa associated with Viṣṇu's boar (varāha) incarnation, focusing on cosmology, ritual, and sacred geography; represented here as a catalogue entry.",
+    "description": "The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī, focusing on tīrthas, vrata, and Viṣṇu-bhakti; its detailed tīrtha-māhātmya sections are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -10974,6 +12653,27 @@
     "relatedEntityIds": []
   },
   {
+    "id": "vatula-agama",
+    "title": "Vātula Āgama",
+    "aliases": [
+      "Vatula Agama",
+      "Vatulagama",
+      "वातुल आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vātula Āgama, one of the twenty-eight principal Śaiva Āgamas, a text of the Vātula Śaiva tradition, covering the four pādas with emphasis on yoga and the nature of Śiva as the supreme reality; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "vayu-purana",
     "title": "Vāyu Purāṇa",
     "aliases": [
@@ -10981,11 +12681,51 @@
       "वायु पुराण"
     ],
     "sanskritTitle": "",
-    "description": "A Mahāpurāṇa traditionally narrated by the wind-god Vāyu, covering creation, genealogy, and geography; represented here as a catalogue entry.",
+    "description": "The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas, focusing on cosmology, genealogies, and the glory of Śiva; its relationship to the Brahmāṇḍa Purāṇa and its detailed tīrtha-māhātmya sections are represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vira-agama",
+    "title": "Vīra Āgama",
+    "aliases": [
+      "Vira Agama",
+      "Viraagama",
+      "वीर आगम"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vīra Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the Vīra Śaiva tradition, covering the four pādas with emphasis on the vīra (heroic) path of Śiva worship; represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vishnu-dharmottara-purana",
+    "title": "Viṣṇu Dharmottara Purāṇa",
+    "aliases": [
+      "Vishnu Dharmottara Purana",
+      "विष्णु धर्मोत्तर पुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Viṣṇu Dharmottara Purāṇa, a major Upapurāṇa supplementing the Viṣṇu Purāṇa, covering temple architecture (vāstu), iconography (pratimā-lakṣaṇa), painting (citra), dance (nṛtya), and the Viṣṇu bhakti tradition; its role in temple arts is represented here as a catalogue entry. ---",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -11002,11 +12742,10 @@
       "विष्णु पुराण"
     ],
     "sanskritTitle": "",
-    "description": "One of the eighteen Mahāpurāṇas, presenting Viṣṇu-centered cosmology, genealogy, and theology; represented here as a catalogue entry.",
+    "description": "The Viṣṇu Purāṇa, one of the eighteen Mahāpurāṇas in six aṃśas, focusing on Viṣṇu's avatāras, cosmology, and the genealogy of the solar and lunar dynasties; its influence on later Vaiṣṇava theology is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "PURANA",
-      "TRADITION"
+      "PURANA"
     ],
     "language": [
       "sa",
@@ -11041,13 +12780,14 @@
     "title": "Vyāsasmṛti",
     "aliases": [
       "Vyasa Smriti",
-      "व्यासस्मृति"
+      "Vyasa Smriti",
+      "व्यास स्मृति"
     ],
     "sanskritTitle": "",
-    "description": "A Dharmaśāstra attributed to Vyāsa, covering ritual, penance, and social duties; represented here as a catalogue entry.",
+    "description": "The Vyāsasmṛti, a Dharmaśāstra text attributed to Vyāsa, dealing with ācāra, vyavahāra, and prāyaścitta; its role in the Smṛti tradition is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra"
+      "DHARMASHASTRA"
     ],
     "language": [
       "sa",
@@ -11058,16 +12798,17 @@
   },
   {
     "id": "yajnavalkya-smriti",
-    "title": "Yājñavalkyasmṛti",
+    "title": "Yājñavalkya Smṛti",
     "aliases": [
       "Yajnavalkya Smriti",
-      "याज्ञवल्क्यस्मृति"
+      "Yajnavalkya Smriti",
+      "याज्ञवल्क्य स्मृति"
     ],
     "sanskritTitle": "",
-    "description": "A major Dharmaśāstra noted for its systematic organization of law, procedure, and penance; represented here as a catalogue entry.",
+    "description": "The Yājñavalkya Smṛti, a systematic Dharmaśāstra text in three books (ācāra, vyavahāra, prāyaścitta), more concise and organized than Manusmṛti; its influence on medieval Dharmaśāstra digests is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
-      "Dharmashastra"
+      "DHARMASHASTRA"
     ],
     "language": [
       "sa",
@@ -11253,6 +12994,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "alagar-koil",
+    "title": "Aḻagar Kōyil Temple",
+    "aliases": [
+      "Alagar Koil Temple",
+      "Alagar Temple",
+      "अलगर कोयिल"
+    ],
+    "sanskritTitle": "",
+    "description": "The Aḻagar Kōyil Temple near Madurai (Tamil Nadu), one of the 108 Divya Deśams, dedicated to Kallāḻagar (Viṣṇu as Kallāḻagar); its hill location, the Chitrai festival (Aḻagar entering the Vaigai river), and the connection to the Āḻvārs are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "badrinath",
     "title": "Badrinātha Temple",
     "aliases": [
@@ -11267,6 +13032,30 @@
       "TEMPLE",
       "Pilgrimage",
       "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "baidyanath",
+    "title": "Baidyanath Temple",
+    "aliases": [
+      "Baidyanath Temple",
+      "Baba Baidyanath",
+      "बैद्यनाथ मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Baidyanath Temple at Deoghar (Jharkhand), one of the twelve Jyotirliṅgas, also known as Baba Baidyanath Dham, where Rāvaṇa is said to have worshipped Śiva; its architecture, the Shravani Mela, and the nearby Basukinath Temple are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
     ],
     "language": [
       "sa",
@@ -11328,6 +13117,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "chamunda-devi",
+    "title": "Chamunda Devi Temple",
+    "aliases": [
+      "Chamunda Devi Temple",
+      "Chamunda Devi",
+      "चामुंडा देवी मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Chāmuṇḍā Devī Temple in Himachal Pradesh, one of the fifty-one Śakti Pīṭhas, where the feet of Devī fell, dedicated to the fierce form Chāmuṇḍā; its cliff-side location, the kali temple, and the panoramic views are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "chidambaram-nataraja",
     "title": "Chidambaram Nataraja Temple",
     "aliases": [
@@ -11347,6 +13160,30 @@
       "sa",
       "en",
       "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "dakhineswar",
+    "title": "Dakṣiṇeśvara Kālī Temple",
+    "aliases": [
+      "Dakshineswar Temple",
+      "Dakshineswar Kali Temple",
+      "दक्षिणेश्वर काली मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Dakṣiṇeśvara Kālī Temple near Kolkata (West Bengal), built by Rāṇī Rashmoni, where Rāmakṛṣṇa Paramahaṃsa attained spiritual realization; its twelve shrines of Kālī, the Navaratna architecture, and the Nahabat (music room) are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "bn"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -11420,6 +13257,30 @@
       "sa",
       "en",
       "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "grishneshwar",
+    "title": "Gṛhṇeśvara Temple",
+    "aliases": [
+      "Grishneshwar Temple",
+      "Grishneshwar",
+      "घृष्णेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Gṛhṇeśvara Temple near Ellora (Maharashtra), the twelfth of the twelve Jyotirliṅgas, located near the Ellora Caves (UNESCO World Heritage site); its architecture, the nearby Kailash Temple, and the Shivalay (Śivalaya) tank are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "mr"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -11521,6 +13382,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "jwalamukhi",
+    "title": "Jvālāmukhī Temple",
+    "aliases": [
+      "Jwalamukhi Temple",
+      "Jwalamukhi",
+      "ज्वालामुखी मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Jvālāmukhī Temple in Kangra (Himachal Pradesh), one of the fifty-one Śakti Pīṭhas, where the tongue of Devī fell, famous for the eternal flame (jvālā) emerging from the rock; its architecture, the flame worship, and the nearby Kangra Fort are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "jyotirmath",
     "title": "Jyotir Maṭha",
     "aliases": [
@@ -11546,6 +13431,53 @@
     "relatedEntityIds": []
   },
   {
+    "id": "kalighat",
+    "title": "Kālīghāṭ Temple Kolkata",
+    "aliases": [
+      "Kalighat Temple",
+      "Kalighat",
+      "कालीघाट मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kālīghāṭ Temple in Kolkata (West Bengal), one of the fifty-one Śakti Pīṭhas, where the right toe of Devī fell, a major center of Kālī worship; its iconography, the Adi Ganga, and the daily goat sacrifice are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "bn"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kamakhya",
+    "title": "Kāmākhyā Temple Guwahati",
+    "aliases": [
+      "Kamakhya Temple",
+      "Kamakya Temple",
+      "कामाख्या मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kāmākhyā Temple at Guwahati (Assam), one of the fifty-one Śakti Pīṭhas, where the yoni of Devī fell, a major center of Tantric Śākta worship; its unique yoni worship, the Ambubachi Mela, and the ten Mahāvidyā temples are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "kanchi-kamakoti",
     "title": "Kāñcī Kāmakōṭi Pīṭham",
     "aliases": [
@@ -11561,6 +13493,30 @@
       "PILGRIMAGE",
       "TRADITION",
       "CULTURE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "kanchipuram-divyadesam",
+    "title": "Kāñcīpuram Divya Deśams",
+    "aliases": [
+      "Kanchipuram Divya Desams",
+      "Kanchi Divya Desam",
+      "कांचीपुरम दिव्यदेशम्"
+    ],
+    "sanskritTitle": "",
+    "description": "Kāñcīpuram as a cluster of Divya Deśams: the Varadarāja Perumal Temple (Āḻvār's Tiruvaḍi), the Yathoktakari Temple, the Deepaprakasa Temple, and others; their Āḻvār connections and the Kāñcīpuram pilgrimage circuit are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
     ],
     "language": [
       "sa",
@@ -11713,6 +13669,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "mahakaleshwar-ujjain",
+    "title": "Mahākāleśvara Temple Ujjain",
+    "aliases": [
+      "Mahakaleshwar Temple",
+      "Mahakaleshwar Ujjain",
+      "महाकालेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Mahākāleśvara Temple at Ujjain, Madhya Pradesh, one of the twelve Jyotirliṅgas, unique for its south-facing (dakṣiṇāmukhī) liṅga and the Bhasma Ārati ritual; its history, architecture, and the Simhastha Kumbha Mela are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "meenakshi-amman",
     "title": "Mīnākṣī Amman Temple",
     "aliases": [
@@ -11755,6 +13735,54 @@
     "language": [
       "sa",
       "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nageshwar-dwarka",
+    "title": "Nāgeśvara Temple Dwarka",
+    "aliases": [
+      "Nageshwar Temple",
+      "Nageshwar Dwarka",
+      "नागेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nāgeśvara Temple near Dwarka (Gujarat), one of the twelve Jyotirliṅgas, located near the Dwarkadhish Temple; its architecture, the nearby Gopi Talav, and the legend of Daruka are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "gu"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "omkareshwar",
+    "title": "Omkāreśvara Temple",
+    "aliases": [
+      "Omkareshwar Temple",
+      "Omkareshwar",
+      "ओंकारेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Omkāreśvara Temple on Mandhata Island (Madhya Pradesh), one of the twelve Jyotirliṅgas, situated on the Narmadā river, with the unique Om-shaped island; its architecture, the Mamleshwar Temple on the mainland, and the Narmadā Parikramā are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -11931,6 +13959,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "srirangam-divyadesam",
+    "title": "Śrīraṅgam Divya Deśam",
+    "aliases": [
+      "Srirangam Divya Desam",
+      "Srirangam Divya Desam",
+      "श्रीरंगम दिव्यदेशम्"
+    ],
+    "sanskritTitle": "",
+    "description": "Śrīraṅgam as the first and foremost of the 108 Divya Deśams (Vaiṣṇava holy sites), the abode of Raṅganātha, praised by all twelve Āḻvārs; its seven enclosures (prākāras), the Raṅganātha shrine, and the Āḻvār-maṅgala-mūla are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "srirangam",
     "title": "Śrīraṅgam Temple (Ranganathaswamy)",
     "aliases": [
@@ -11945,6 +13997,54 @@
       "TEMPLE",
       "Pilgrimage",
       "Tradition"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "srivilliputhur",
+    "title": "Śrīvilliputtūr Āṇḍāl Temple",
+    "aliases": [
+      "Srivilliputhur Temple",
+      "Andal Temple",
+      "श्रीविल्लिपुत्तूर आण्डाल मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Śrīvilliputtūr Temple, one of the 108 Divya Deśams, the birthplace of Āṇḍāl (the only female Āḻvār), dedicated to Vaṭapaṭraśāyī Perumal and Āṇḍāl; its towering rājagopuram, the Āṇḍāl shrine, and the Adi Puram festival are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukkoloor",
+    "title": "Tirukkōḷūr Temple",
+    "aliases": [
+      "Tirukkolur Temple",
+      "Tirukkolur",
+      "तिरुक्कोलूर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukkōḷūr Temple (Tamil Nadu), one of the 108 Divya Deśams, the birthplace of Naṭhāmuṉi (the first Āḻvār of the post-Sangam era), dedicated to Viṣṇu as Vaiṭhamanīdhi; its connection to the Āḻvār tradition is represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
     ],
     "language": [
       "sa",
@@ -11981,6 +14081,30 @@
     "relatedEntityIds": []
   },
   {
+    "id": "tirupati-divyadesam",
+    "title": "Tirumala Divya Deśam",
+    "aliases": [
+      "Tirupati Divya Desam",
+      "Tirumala Divya Desam",
+      "तिरुमला दिव्यदेशम्"
+    ],
+    "sanskritTitle": "",
+    "description": "Tirumala as the second of the 108 Divya Deśams, the abode of Veṅkaṭeśvara, praised by nine Āḻvārs; the Ananda Nilayam vimana, the golden gopuram, the laddu prasadam, and the Brahmotsavam are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "tirupati-tirumala",
     "title": "Tirumala Venkateswara Temple",
     "aliases": [
@@ -12001,6 +14125,54 @@
       "sa",
       "en",
       "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "tryambakeshwar",
+    "title": "Tryambakeśvara Temple Nashik",
+    "aliases": [
+      "Trimbakeshwar Temple",
+      "Trimbak",
+      "त्र्यंबकेश्वर मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tryambakeśvara Temple at Nashik (Maharashtra), one of the twelve Jyotirliṅgas, situated near the source of the Godāvarī river, with the unique three-faced liṅga representing Brahmā, Viṣṇu, and Śiva; its architecture, the Kumbha Mela, and the Godāvarī puṣkara are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "mr"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "vaishno-devi",
+    "title": "Vaishno Devi Temple",
+    "aliases": [
+      "Vaishno Devi Temple",
+      "Vaishnodevi",
+      "वैष्णो देवी मंदिर"
+    ],
+    "sanskritTitle": "",
+    "description": "The Vaishno Devi Temple in the Trikuta Mountains (Jammu & Kashmir), one of the fifty-one Śakti Pīṭhas, where the right hand of Devī fell, a major pilgrimage site dedicated to Devī as Vaishno Devi/Mahākālī/Mahālakṣmī/Mahāsarasvatī; its cave shrine, the 13 km trek, and the Bhawan are represented here as a catalogue entry. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE",
+      "TRADITION"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "hi"
     ],
     "tags": [],
     "relatedEntityIds": []

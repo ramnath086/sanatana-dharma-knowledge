@@ -18,6 +18,60 @@
     "recommendation": "Review aliases and canonical identity."
   },
   {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "purana-panchalaksana",
+      "purana-panchalakshana"
+    ],
+    "reason": "Canonical titles normalize to puranapancalaksana.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "purana-panchalaksana",
+      "purana-panchalakshana"
+    ],
+    "reason": "Alias collision: पुराण पञ्चलक्षण.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "purana-sectarian-classification",
+      "purana-sectarian"
+    ],
+    "reason": "Canonical titles normalize to puranasectarianclassification.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "purana-sectarian-classification",
+      "purana-sectarian"
+    ],
+    "reason": "Alias collision: Purana Sectarian.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "purana-sectarian-classification",
+      "purana-sectarian"
+    ],
+    "reason": "Alias collision: Puranic Classification.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "purana-sectarian-classification",
+      "purana-sectarian"
+    ],
+    "reason": "Alias collision: पुराण संप्रदाय वर्गीकरण.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
       "murugan-forms",
@@ -33,6 +87,15 @@
       "skanda-forms"
     ],
     "reason": "Alias collision: Murugan Forms.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "purana-upapurana",
+      "upapurana"
+    ],
+    "reason": "Alias collision: उपपुराण.",
     "recommendation": "Review aliases and canonical identity."
   },
   {
@@ -177,6 +240,33 @@
       "kaushitaki-upanishad"
     ],
     "reason": "Alias collision: कौषीतकि उपनिषद्.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "DUPLICATE_TITLE",
+    "entityIds": [
+      "narasimha-purana",
+      "nrisimha-purana"
+    ],
+    "reason": "Canonical titles normalize to nrsimhapurana.",
+    "recommendation": "Editorial review; do not merge automatically."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "narasimha-purana",
+      "nrisimha-purana"
+    ],
+    "reason": "Alias collision: Narasimha Purana.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "narasimha-purana",
+      "nrisimha-purana"
+    ],
+    "reason": "Alias collision: नृसिंह पुराण.",
     "recommendation": "Review aliases and canonical identity."
   },
   {

@@ -7,7 +7,7 @@ aliases: [Madhva Brahma Sutra Bhashya, Madhva Brahma Sutra Commentary, मध्
 sources: [gretil]
 status: published
 verification: verified
-classifications: [VEDANTA]
+classifications: [VEDANTA, COMMENTARY]
 ---
-Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; represented here as a catalogue entry.
+Madhva's Brahma Sūtra Bhāṣya, the Dvaita commentary on the Brahma Sūtra, establishing the fivefold eternal difference (pañca-bheda) and Viṣṇu as the supreme independent reality; its refutation of Advaita and Viśiṣṭādvaita is represented here as a catalogue entry.
 ---
