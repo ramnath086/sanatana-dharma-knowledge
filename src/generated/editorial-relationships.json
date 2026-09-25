@@ -1,1450 +1,1262 @@
 [
   {
-    "id": "acintyabhedabheda-associated-with-caitanya",
-    "from": "acintyabhedabheda",
-    "relationship": "related-to",
-    "to": "caitanya",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Caitanya's philosophy of acintyabhedābheda was systematized by Jīva Gosvāmī; represented here as a catalogue entry.\n---",
-    "contentHash": "89d39b7b3bf125f4f87f382eb8734bd558194e20f885c6c1cefbcbfa5810cf7f",
-    "sourceFile": "src\\content\\relationships\\acintyabhedabheda-acharya-caitanya.md"
-  },
-  {
-    "id": "advaita-adhyasa-associated-with-shankara",
-    "from": "advaita-adhyasa",
-    "relationship": "related-to",
-    "to": "shankara",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Śaṅkara's theory of adhyāsa (superimposition) is central to Advaita epistemology; represented here as a catalogue entry.\n---",
-    "contentHash": "15e165ca7575cee837bebfe22d061d43cf1b6575b51b6c7d60f275eafd4490a7",
-    "sourceFile": "src\\content\\relationships\\advaita-adhyasa-acharya-shankara.md"
-  },
-  {
-    "id": "advaita-ajativada-associated-with-gaudapada",
-    "from": "advaita-ajativada",
-    "relationship": "related-to",
-    "to": "advaita-vedanta",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Gauḍapāda's Māṇḍūkya Kārikā presents the ajāti-vāda (non-origination) doctrine; represented here as a catalogue entry.\n---",
-    "contentHash": "39fcb30f41fd8e73ba6a49ef6dc0fc58cd8b21a01916d0b2b041ec9be92c1865",
-    "sourceFile": "src\\content\\relationships\\advaita-ajativada-scripture-gaudapada.md"
-  },
-  {
-    "id": "advaita-avidya-associated-with-shankara",
-    "from": "advaita-avidya",
-    "relationship": "related-to",
-    "to": "shankara",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Śaṅkara's theory of avidyā (nescience) is central to Advaita; represented here as a catalogue entry.\n---",
-    "contentHash": "4145cc48881ea6acefc987a09efafdd42384b3229e923cc5fdee79c2ba82522a",
-    "sourceFile": "src\\content\\relationships\\advaita-avidya-acharya-shankara.md"
-  },
-  {
-    "id": "atharvaveda-associated-with-grihya-sutra",
+    "id": "atharvaveda-contains-sakhas",
     "from": "atharvaveda",
     "relationship": "contains",
-    "to": "grihya-sutra",
+    "to": "saunaka-sakha",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Atharvaveda contains hymns for domestic rites (gṛhya) and healing; represented here as a catalogue entry.\n---",
-    "contentHash": "9faf88755feb825cdcf44bf60c70c2bf52380f109adb4b67e003b2bda6659cea",
-    "sourceFile": "src\\content\\relationships\\atharvaveda-concept-grihya.md"
+    "editorialNote": "The Atharvaveda is transmitted in Śaunaka and Paippalāda recensions; represented here as a catalogue entry.\n---",
+    "contentHash": "db1c41751d3b59e9b9519dbe287c40599f4ae2f2af23b3fcff75edb172b59c7c",
+    "sourceFile": "src\\content\\relationships\\atharvaveda-contains-sakhas.md"
   },
   {
-    "id": "atman-associated-with-vedanta",
-    "from": "atman",
-    "relationship": "related-to",
-    "to": "vedanta",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Ātman (the self) is a central concept of Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "e9f169b7c09b41e59bff3ff7e4c5b4155a324acd1fb27253701082bb8a795de6",
-    "sourceFile": "src\\content\\relationships\\atman-tradition-vedanta.md"
-  },
-  {
-    "id": "ayyappan-associated-with-sabarimala",
-    "from": "ayyappan",
-    "relationship": "located-at",
-    "to": "sabarimala",
-    "sourceIds": [
-      "gretil",
-      "kerala-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Sabarimala Temple is the principal shrine of Ayyappan; represented here as a catalogue entry.\n---",
-    "contentHash": "e166598e0ca6ab44efd0f84e072ecc8c3ba710f57df297d799cf2bcaa92293b6",
-    "sourceFile": "src\\content\\relationships\\ayyappan-temple-sabarimala.md"
-  },
-  {
-    "id": "bhagavad-gita-associated-with-bhakti-yoga",
+    "id": "bhagavad-gita-contains-chapter-10",
     "from": "bhagavad-gita",
-    "relationship": "related-to",
-    "to": "gita-bhakti-yoga",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-10",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds bhakti-yoga as the supreme path in chapters 7-12 and 18; represented here as a catalogue entry.\n---",
-    "contentHash": "0ac927935ddbc60a6f70f08e266639d0836fbf657360b2e21ba8ead509ab06d5",
-    "sourceFile": "src\\content\\relationships\\bhagavad-gita-concept-bhakti-yoga.md"
+    "editorialNote": "The Bhagavad Gītā contains chapter 10 (Vibhūti Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "1beb26ef94c42ed3c8a164654981d356f605958ff79ec1d4ef1ec9e6dfaaabfe",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-10.md"
   },
   {
-    "id": "bhagavad-gita-associated-with-jnana-yoga",
+    "id": "bhagavad-gita-contains-chapter-11",
     "from": "bhagavad-gita",
-    "relationship": "related-to",
-    "to": "gita-jnana-yoga",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-11",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds jñāna-yoga in chapters 13-18; represented here as a catalogue entry.\n---",
-    "contentHash": "68af36498b0fc9a813d2adc37ec68ae8d16a8c17b7390d36726e0f41d91ed27f",
-    "sourceFile": "src\\content\\relationships\\bhagavad-gita-concept-jnana-yoga.md"
+    "editorialNote": "The Bhagavad Gītā contains chapter 11 (Viśvarūpa Darśana Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "e882b6eba755310ec12e3018ac95e13ea2b49bbc86f6749a43c8647b74fa3af0",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-11.md"
   },
   {
-    "id": "bhagavad-gita-associated-with-karma-yoga",
+    "id": "bhagavad-gita-contains-chapter-12",
     "from": "bhagavad-gita",
-    "relationship": "related-to",
-    "to": "gita-karma-yoga",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-12",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds karma-yoga in chapters 2-5; represented here as a catalogue entry.\n---",
-    "contentHash": "a4cb82c4a21509ceb6ff6befc089e05431af7fa5402ccdff70b3322433a15049",
-    "sourceFile": "src\\content\\relationships\\bhagavad-gita-concept-karma-yoga.md"
+    "editorialNote": "The Bhagavad Gītā contains chapter 12 (Bhakti Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "efa06bb7953a9ee119a3465f67db387446bad3ab089f1ae2243f34a26fc7a1e6",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-12.md"
   },
   {
-    "id": "bhagavad-gita-associated-with-vedanta",
+    "id": "bhagavad-gita-contains-chapter-13",
     "from": "bhagavad-gita",
-    "relationship": "related-to",
-    "to": "vedanta",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-13",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā is one of the prasthāna-traya (foundational texts) of Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "57f591e7374cb67596a891459292e87ae332ddd883badcbcabde41e5575fcfcb",
-    "sourceFile": "src\\content\\relationships\\bhagavad-gita-tradition-vedanta.md"
+    "editorialNote": "The Bhagavad Gītā contains chapter 13 (Kṣetra Kṣetrajña Vibhāga Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "bfff1680f0c9c0008d548be73eee413b667cfb6df5a3f842de1fbb8b724b7016",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-13.md"
   },
   {
-    "id": "bhakti-associated-with-bhagavad-gita",
-    "from": "bhakti",
-    "relationship": "related-to",
-    "to": "bhagavad-gita",
+    "id": "bhagavad-gita-contains-chapter-14",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-14",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds bhakti-yoga as the supreme path; represented here as a catalogue entry.\n---",
-    "contentHash": "a52355f672c6d0bce37035dbdb16e0fcab05a8ea0d61e93f0a8a7920a027cff0",
-    "sourceFile": "src\\content\\relationships\\bhakti-scripture-bhagavad-gita.md"
+    "editorialNote": "The Bhagavad Gītā contains chapter 14 (Guṇa Traya Vibhāga Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "c56b9d8980426c97d075f14dcf03fc384f6df6faac265c677573f73c9b23e41e",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-14.md"
   },
   {
-    "id": "brahma-sutra-associated-with-vedanta",
+    "id": "bhagavad-gita-contains-chapter-15",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-15",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 15 (Puruṣottama Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "0e8eaa0b5d55e205363c8f55ae21372fcf001665762dd9a1d5215b408e00a9b6",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-15.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-16",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-16",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 16 (Daivāsura Sampad Vibhāga Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "a7cdb887e084d971af9bb5d0051c473831a36b50c761782b1af2ef48ba656626",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-16.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-17",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-17",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 17 (Śraddhā Traya Vibhāga Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "eb6699877220a497a923ff096f491bbe8991e0cdfdc64fc073859e583eb8371d",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-17.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-18",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-18",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 18 (Mokṣa Saṃnyāsa Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "fc930794f2bbed0ef2158ea14324c9769959d654b5cb29b68a459983ddfa253d",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-18.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-2",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-2",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 2 (Sāṅkhya Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "0eaa970b4f17384335a30f0e12bdae7008a5e4c6c0504533e24b6b1d879c3203",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-2.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-3",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-3",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 3 (Karma Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "326ec58afc7f723dc07550b2bb709a20c6c4362043194f788539a6a1415063c2",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-3.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-4",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-4",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 4 (Jñāna Karma Saṃnyāsa Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "e2ac40460d74d89b82bc7702c4af19b7c475e21b871f94ce5e8bc3f3f4bd420d",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-4.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-5",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-5",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 5 (Karma Saṃnyāsa Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "beaa72d15b47590bf9da572d467755677405285008eb197a44f31bc6012d1a58",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-5.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-6",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-6",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 6 (Dhyāna Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "598e955c6feeeccf9fc43b2e63df1aa7ab54ac1de1773fbbecbd9e7e89fb3514",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-6.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-7",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-7",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 7 (Jñāna Vijñāna Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "e2cceaaa94efdbd04c6eef748a0ab2573674de608c7bb02dbb74b8becd837f3d",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-7.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-8",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-8",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 8 (Akṣara Brahma Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "36c6b1ac5463cdd71f7e5ff2cf4493df6680389c5f2d4dd7ae923654431a6daf",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-8.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapter-9",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-9",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains chapter 9 (Rāja Vidyā Rāja Guhya Yoga); represented here as a catalogue entry.\n---",
+    "contentHash": "aec2f5b4048bd9c34dcb23c9cf06fc5b05da93e6ed0aba2b44a11a3a44810585",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapter-9.md"
+  },
+  {
+    "id": "bhagavad-gita-contains-chapters",
+    "from": "bhagavad-gita",
+    "relationship": "contains",
+    "to": "bhagavad-gita-chapter-1",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā contains eighteen chapters; represented here as a catalogue entry.\n---",
+    "contentHash": "b22b9cdebfe9545f94b0f64e1748d9801b00404dbd78b19fa6df6348721ff80a",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapters.md"
+  },
+  {
+    "id": "brahma-sutra-has-commentary-madhva",
     "from": "brahma-sutra",
-    "relationship": "related-to",
-    "to": "vedanta",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-madhva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Brahma Sūtra is the third text of the prasthāna-traya of Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "4ac44689fcdac91818cc78de91caadb9675b4568fa1020d3c7739b24d8f79cf8",
-    "sourceFile": "src\\content\\relationships\\brahma-sutra-tradition-vedanta.md"
+    "editorialNote": "The Brahma Sūtra has Madhva's Brahma Sūtra Bhāṣya (Dvaita); represented here as a catalogue entry.\n---",
+    "contentHash": "d7a1cc820e6b424149c0e19dea9050d305e20adb9711872e5dad7fdeefd745cc",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-madhva.md"
   },
   {
-    "id": "brahman-associated-with-vedanta",
-    "from": "brahman",
-    "relationship": "related-to",
-    "to": "vedanta",
+    "id": "brahma-sutra-has-commentary-nimbarka",
+    "from": "brahma-sutra",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-nimbarka",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Brahman is the central concept of Vedānta philosophy; represented here as a catalogue entry.\n---",
-    "contentHash": "92051de44fa49278242d55d242fef0b7ca4a77fa29c4be9dca6d8a38ec26241d",
-    "sourceFile": "src\\content\\relationships\\brahman-tradition-vedanta.md"
+    "editorialNote": "The Brahma Sūtra has Nimbārka's Vedānta Pārijāta Saurabha (Bhedābheda); represented here as a catalogue entry.\n---",
+    "contentHash": "7258dfc972fb5f19571ba51a8ac63c8f6263be4da74308b622cb50ea045acdee",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-nimbarka.md"
   },
   {
-    "id": "brihadaranyaka-upanishad-associated-with-atman",
-    "from": "brihadaranyaka-upanishad",
-    "relationship": "related-to",
-    "to": "atman",
+    "id": "brahma-sutra-has-commentary-vallabha",
+    "from": "brahma-sutra",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-vallabha",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bṛhadāraṇyaka Upaniṣad contains the Yājñavalkya-Maitreyī dialogue on the ātman; represented here as a catalogue entry.\n---",
-    "contentHash": "eb84759a082b631a67b06a5d038a187674644910425c7b54cfd973502550ec1f",
-    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-concept-atman.md"
+    "editorialNote": "The Brahma Sūtra has Vallabha's Anubhāṣya (Śuddhādvaita); represented here as a catalogue entry.\n---",
+    "contentHash": "e55a9d2129cab4c0e790b6527b3f7f5332b1a655ab278e6a422e5d7111f907d4",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-vallabha.md"
   },
   {
-    "id": "caitanya-associated-with-acintyabhedabheda",
-    "from": "caitanya",
-    "relationship": "related-to",
-    "to": "acintyabhedabheda",
+    "id": "brahma-sutra-contains-adhyaya-2",
+    "from": "brahma-sutra",
+    "relationship": "contains",
+    "to": "brahma-sutra-adhyaya-2",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Caitanya's philosophy of acintyabhedābheda was systematized by Jīva Gosvāmī; represented here as a catalogue entry.\n---",
-    "contentHash": "e3a1d5a54019e188a5a28034866d7b3a1d639e04dac925f90d9b7fef3c51787b",
-    "sourceFile": "src\\content\\relationships\\caitanya-concept-acintyabhedabheda.md"
+    "editorialNote": "The Brahma Sūtra contains adhyāya 2 (Avirodha); represented here as a catalogue entry.\n---",
+    "contentHash": "1271994b9f8d4e29402d35b85604274059073007a88fc8bb07a9ac008b3231d7",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-contains-adhyaya-2.md"
   },
   {
-    "id": "caitanya-associated-with-gaudiya",
-    "from": "caitanya",
-    "relationship": "associated-with",
-    "to": "gaudiya-vaishnava",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Caitanya Mahāprabhu founded the Gauḍīya Vaiṣṇava tradition; represented here as a catalogue entry.\n---",
-    "contentHash": "45b249aab7ef3d5064c52722a3510e5554670aba9b37d57685b1663730a3f3f1",
-    "sourceFile": "src\\content\\relationships\\caitanya-school-gaudiya.md"
-  },
-  {
-    "id": "devi-associated-with-navaratri",
-    "from": "devi",
-    "relationship": "celebrated-during",
-    "to": "navaratri",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Navarātri is the principal festival dedicated to Devī/Durgā; represented here as a catalogue entry.\n---",
-    "contentHash": "68a9d1a26c3a0d72538de10ff5c9864a1752f65e8ce61e4454aab6fbeed3bdfa",
-    "sourceFile": "src\\content\\relationships\\devi-festival-navaratri.md"
-  },
-  {
-    "id": "devi-associated-with-durga",
-    "from": "devi",
-    "relationship": "related-to",
-    "to": "durga",
+    "id": "brahma-sutra-contains-adhyaya-3",
+    "from": "brahma-sutra",
+    "relationship": "contains",
+    "to": "brahma-sutra-adhyaya-3",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Durgā is the warrior form of Devī; represented here as a catalogue entry.\n---",
-    "contentHash": "8f4d9e78d7a205c02f3d075707b1e0074f381b90b412df160aba879d9a55c32a",
-    "sourceFile": "src\\content\\relationships\\devi-form-durga.md"
+    "editorialNote": "The Brahma Sūtra contains adhyāya 3 (Sādhana); represented here as a catalogue entry.\n---",
+    "contentHash": "30465aabdf566d14bcb0477536beee53d0b699898483f32666f4692d11e252ec",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-contains-adhyaya-3.md"
   },
   {
-    "id": "devi-associated-with-lakshmi",
-    "from": "devi",
-    "relationship": "related-to",
-    "to": "lakshmi",
+    "id": "brahma-sutra-contains-adhyaya-4",
+    "from": "brahma-sutra",
+    "relationship": "contains",
+    "to": "brahma-sutra-adhyaya-4",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Lakṣmī is the form of Devī as goddess of prosperity; represented here as a catalogue entry.\n---",
-    "contentHash": "4a424a156a7bff26447747ba80e9787fac58873b19225b6e6ead4ef6725b4965",
-    "sourceFile": "src\\content\\relationships\\devi-form-lakshmi.md"
+    "editorialNote": "The Brahma Sūtra contains adhyāya 4 (Phala); represented here as a catalogue entry.\n---",
+    "contentHash": "76d92a1d6aacc19a0153e25cb61ca44142bac608daebcce122b3182dd224bfc2",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-contains-adhyaya-4.md"
   },
   {
-    "id": "devi-associated-with-parvati",
-    "from": "devi",
-    "relationship": "related-to",
-    "to": "parvati",
+    "id": "brahma-sutra-contains-adhyayas",
+    "from": "brahma-sutra",
+    "relationship": "contains",
+    "to": "brahma-sutra-adhyaya-1",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Pārvatī is the form of Devī as consort of Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "e552ce2523b9710c48465f21357f48d812e376e979bda0a8948837d345cbd615",
-    "sourceFile": "src\\content\\relationships\\devi-form-parvati.md"
+    "editorialNote": "The Brahma Sūtra contains four adhyāyas; represented here as a catalogue entry.\n---",
+    "contentHash": "8dda11a7f6f8b0d2dfe3ee216b754f32b1a2b255b55e7196e7e08af3352c22d2",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-contains-adhyayas.md"
   },
   {
-    "id": "devi-associated-with-shakta",
-    "from": "devi",
-    "relationship": "associated-with",
-    "to": "shakta",
+    "id": "brahma-sutra-has-commentary-shankara",
+    "from": "brahma-sutra",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-shankara",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Devī is the supreme deity of the Śākta tradition; represented here as a catalogue entry.\n---",
-    "contentHash": "eaeab3a7fc291c31a1e92ad024af50988f659bdb96929d390e06e7acb52c8aa2",
-    "sourceFile": "src\\content\\relationships\\devi-tradition-shakta.md"
+    "editorialNote": "The Brahma Sūtra has Śaṅkara's Brahma Sūtra Bhāṣya (Advaita); represented here as a catalogue entry.\n---",
+    "contentHash": "b43f48978bd6bcc672213ad34e34bbe695c10930bae2b533289162428429f393",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-has-commentary-shankara.md"
   },
   {
-    "id": "dharma-associated-with-dharmashastra",
-    "from": "dharma",
-    "relationship": "related-to",
-    "to": "dharmasutra",
+    "id": "mahabharata-contains-anushasana-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-anushasanaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Dharma is the central subject of Dharmaśāstra texts; represented here as a catalogue entry.\n---",
-    "contentHash": "0fc0546f1be33cf7ed23670ae42942585afa748aff76d1460700ba2ad26824b6",
-    "sourceFile": "src\\content\\relationships\\dharma-scripture-dharmashastra.md"
+    "editorialNote": "The Mahābhārata contains the Anuśāsana Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "191dd17a1d817fec760d8a22cdf4d90249b59d0c053241b7e4bd43dc23cff256",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-anushasana-parva.md"
   },
   {
-    "id": "diwali-associated-with-lakshmi",
-    "from": "diwali",
-    "relationship": "associated-with",
-    "to": "lakshmi",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Dīpāvalī includes Lakṣmī Pūjā as a central observance; represented here as a catalogue entry.\n---",
-    "contentHash": "c9d80490100e4d0191b9da5cc9b9b47e8eefbb49e8af94ca38aad7a961981f58",
-    "sourceFile": "src\\content\\relationships\\diwali-deity-lakshmi.md"
-  },
-  {
-    "id": "diwali-associated-with-rama",
-    "from": "diwali",
-    "relationship": "associated-with",
-    "to": "rama",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Dīpāvalī commemorates Rāma's return to Ayodhyā; represented here as a catalogue entry.\n---",
-    "contentHash": "973581b0f7bd020356af0c5c9d00df2e2359f305b8f18ada5575734ab54fa596",
-    "sourceFile": "src\\content\\relationships\\diwali-deity-rama.md"
-  },
-  {
-    "id": "dussehra-associated-with-durga",
-    "from": "dussehra",
-    "relationship": "associated-with",
-    "to": "durga",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Vijayadaśamī/Dussehra also celebrates Durgā's victory over Mahiṣāsura; represented here as a catalogue entry.\n---",
-    "contentHash": "5cd3f8babe7a80caedcecea235e0691b52253698c096d174f9039638a5e650d0",
-    "sourceFile": "src\\content\\relationships\\dussehra-deity-durga.md"
-  },
-  {
-    "id": "dussehra-associated-with-rama",
-    "from": "dussehra",
-    "relationship": "associated-with",
-    "to": "rama",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Vijayadaśamī/Dussehra celebrates Rāma's victory over Rāvaṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "af7cd9a5f0d87be37dc9e3355131eaa429845fb1d0015e601c9e1eb72b920a27",
-    "sourceFile": "src\\content\\relationships\\dussehra-deity-rama.md"
-  },
-  {
-    "id": "dvaita-pancabheda-associated-with-madhva",
-    "from": "dvaita-pancabheda",
-    "relationship": "related-to",
-    "to": "madhva",
+    "id": "mahabharata-contains-ashramavasika-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-ashramavasikaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Madhva's doctrine of pañca-bheda (five eternal differences) is central to Dvaita; represented here as a catalogue entry.\n---",
-    "contentHash": "805048e008cb947aa16dcac87e53057d83c5ddbf740fde9ad5440cbb43348998",
-    "sourceFile": "src\\content\\relationships\\dvaita-pancabheda-acharya-madhva.md"
+    "editorialNote": "The Mahābhārata contains the Āśramavāsika Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "b4b66505f6243f5f13bdc054607cc6d5121e074a28cbd2410d85d787f7d36645",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-ashramavasika-parva.md"
   },
   {
-    "id": "ganesh-chaturthi-associated-with-ganesha",
-    "from": "ganesh-chaturthi",
-    "relationship": "associated-with",
-    "to": "ganesha",
-    "sourceIds": [
-      "gretil",
-      "maharashtra-tourism",
-      "bbc-religions"
-    ],
-    "editorialNote": "Gaṇeśa Caturthī is the principal festival of Gaṇeśa; represented here as a catalogue entry.\n---",
-    "contentHash": "def93d399c107413e302b159ac913ceb78b0feea278df87bb0dd78ded249c6c0",
-    "sourceFile": "src\\content\\relationships\\ganesh-chaturthi-deity-ganesha.md"
-  },
-  {
-    "id": "ganesha-associated-with-ganesh-chaturthi",
-    "from": "ganesha",
-    "relationship": "celebrated-during",
-    "to": "ganesh-chaturthi",
-    "sourceIds": [
-      "gretil",
-      "maharashtra-tourism",
-      "bbc-religions"
-    ],
-    "editorialNote": "Gaṇeśa Caturthī is the principal festival dedicated to Gaṇeśa; represented here as a catalogue entry.\n---",
-    "contentHash": "3ca90f698e702c147c6cb59094d69b83eb102e95df8dd1d6a0c622e6f9b55a35",
-    "sourceFile": "src\\content\\relationships\\ganesha-festival-ganesh-chaturthi.md"
-  },
-  {
-    "id": "ganesha-associated-with-om-ganeshaya-namaha",
-    "from": "ganesha",
-    "relationship": "related-to",
-    "to": "gayatri-mantra",
+    "id": "mahabharata-contains-bhishma-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-bhishmaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Gaṇeśa is invoked with the mantra Oṃ Gaṇeśāya Namaḥ (commonly using Gāyatrī); represented here as a catalogue entry.\n---",
-    "contentHash": "c7616791682e66fe739f8153648bd6f08a8eda623e3813ab12296d870af5410f",
-    "sourceFile": "src\\content\\relationships\\ganesha-mantra-ganesh.md"
+    "editorialNote": "The Mahābhārata contains the Bhīṣma Parva (with Bhagavad Gītā); represented here as a catalogue entry.\n---",
+    "contentHash": "fc4544da597a7209a1ec455ec2e5789c7c9eb64d63f8bee1ae219f5bc1a87a89",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-bhishma-parva.md"
   },
   {
-    "id": "ganesha-associated-with-panchamahayajna",
-    "from": "ganesha",
-    "relationship": "related-to",
-    "to": "panca-mahayajna",
+    "id": "mahabharata-contains-drona-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-dronaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Gaṇeśa is invoked at the start of the five great sacrifices (pañca-mahāyajña); represented here as a catalogue entry.\n---",
-    "contentHash": "6323cd49ada3e45a847e3f3855882a247403e6832a3514e4ae9b4d771a02a8b3",
-    "sourceFile": "src\\content\\relationships\\ganesha-practice-panca-mahayajna.md"
+    "editorialNote": "The Mahābhārata contains the Droṇa Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "a651afb41f4ee9cd89be9458a47ff543c382e1c83e5ced72db481f3985407e81",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-drona-parva.md"
   },
   {
-    "id": "holi-associated-with-krishna",
-    "from": "holi",
-    "relationship": "associated-with",
-    "to": "krishna",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Holī celebrates the divine love of Rādhā and Kṛṣṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "8172824407c0c6a759ecf1bf08aaac5b13c92be9b1a71c6962286391175ef9fa",
-    "sourceFile": "src\\content\\relationships\\holi-deity-krishna.md"
-  },
-  {
-    "id": "jagannath-puri-associated-with-vishnu",
-    "from": "jagannath-puri",
-    "relationship": "associated-with",
-    "to": "vishnu",
-    "sourceIds": [
-      "gretil",
-      "odisha-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Jagannātha Temple is dedicated to Jagannātha (Viṣṇu/Kṛṣṇa); represented here as a catalogue entry.\n---",
-    "contentHash": "5ef91d5bbb9621bca73d444482688b6f729fc30724cfb063c810e54e851af0d5",
-    "sourceFile": "src\\content\\relationships\\jagannath-puri-deity-vishnu.md"
-  },
-  {
-    "id": "jagannath-puri-associated-with-rath-yatra",
-    "from": "jagannath-puri",
-    "relationship": "celebrated-during",
-    "to": "rath-yatra",
-    "sourceIds": [
-      "gretil",
-      "odisha-tourism",
-      "bbc-religions"
-    ],
-    "editorialNote": "The annual Ratha Yātrā is the most famous festival at Jagannātha Temple; represented here as a catalogue entry.\n---",
-    "contentHash": "11ee9c9730c274a0fa30d3a8c9636e0141349a3e51e56a2f4bc6bad8ca1cf735",
-    "sourceFile": "src\\content\\relationships\\jagannath-puri-festival-rath-yatra.md"
-  },
-  {
-    "id": "janmashtami-associated-with-krishna",
-    "from": "janmashtami",
-    "relationship": "associated-with",
-    "to": "krishna",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Kṛṣṇa Janmāṣṭamī celebrates the birth of Kṛṣṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "df07398cbf465d4425e627dc1e922b470ec1de3783cf25065edfec62eeb88011",
-    "sourceFile": "src\\content\\relationships\\janmashtami-deity-krishna.md"
-  },
-  {
-    "id": "japa-associated-with-japa-mala",
-    "from": "japa",
-    "relationship": "related-to",
-    "to": "japa-mala",
+    "id": "mahabharata-contains-karna-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-karnaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The japa-mālā (prayer beads) is used to count mantra repetitions during japa; represented here as a catalogue entry.\n---",
-    "contentHash": "85d28d49f495d2ed96bb59d8268dbf8f4bd1ab8001a81f27288d8a68d13e272e",
-    "sourceFile": "src\\content\\relationships\\japa-associated-with-japa-mala.md"
+    "editorialNote": "The Mahābhārata contains the Karṇa Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "2ee1d24c2411b3c83b946a029dd054e1c156570105f294ae8a38f3a922eba3cc",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-karna-parva.md"
   },
   {
-    "id": "japa-associated-with-gayatri",
-    "from": "japa",
-    "relationship": "related-to",
-    "to": "gayatri-mantra",
+    "id": "mahabharata-contains-mahaprasthanika-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-mahaprasthanikaparva",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Gāyatrī Mantra is the most widely used mantra for japa; represented here as a catalogue entry.\n---",
-    "contentHash": "46f7c5f55f93ba4c290a5ba07b79e26291111de106be72737e6d218a34483f24",
-    "sourceFile": "src\\content\\relationships\\japa-mantra-gayatri.md"
+    "editorialNote": "The Mahābhārata contains the Mahāprasthānika Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "6f845edda9dd1b6d43bfdcff80ceab06301d5ae33a641320510d5f6c24d09b50",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-mahaprasthanika-parva.md"
   },
   {
-    "id": "jiva-gosvami-associated-with-sat-sandarbha",
-    "from": "jiva-gosvami",
-    "relationship": "related-to",
+    "id": "mahabharata-contains-mausala-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-mausalaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Mausala Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "ea47493d3be2f7bdb71f7b0e6c951adeab8b4d8aca848574ce584e8441eb6cb7",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-mausala-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-parvas",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-adiparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Ādi Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "96d1bdc402b1ad377ba09adff777933ec542f0da52df5fde5e0d9b3095b95410",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-parvas.md"
+  },
+  {
+    "id": "mahabharata-contains-sabha-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-sabhaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Sabhā Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "bf12d3dbd09e27dcb479cd5dec969190411235b569fb8499a1112e16045908f6",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-sabha-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-sauptika-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-sauptikaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Sauptika Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "6473dc56f82d7751763a9ab5cd9d8530db62b9e89084a5e23e36b0865f817936",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-sauptika-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-shalya-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-shalyaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Śalya Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "7c7dbf13648d819c9041f6e25fb159ed3e598bdc7b335f3b070b2c2673da5249",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-shalya-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-shanti-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-santiparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Śānti Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "8d7abda70cc30e981e33c4ec4e5184146a31d0d520042ea5d40d669be1871fde",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-shanti-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-stri-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-striparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Strī Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "48638da103d9b843f3ece1068f13722c064f21a0a3419fc348b89a3f6e2151d0",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-stri-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-svargarohana-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-svargarohanaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Svargārohaṇa Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "20664311814cfb1ac68d5c8012c378dc9477163a1f067fe6e8620bf55bda4c21",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-svargarohana-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-udyoga-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-udyogaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Udyoga Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "34550c5067c8020b2cd071abe75cfb1d55f9b8f3e12c449e1b466b284e200df1",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-udyoga-parva.md"
+  },
+  {
+    "id": "mahabharata-contains-vanaparva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-vanaparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Vana Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "e9f561b285a0ef1e20ca4ef1ab8d53e42968f0caf8be80b6c74fa34f180c3967",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-vanaparva.md"
+  },
+  {
+    "id": "mahabharata-contains-virata-parva",
+    "from": "mahabharata",
+    "relationship": "contains",
+    "to": "mahabharata-virataparva",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahābhārata contains the Virāṭa Parva; represented here as a catalogue entry.\n---",
+    "contentHash": "4ce142ccc26cbadba53e7ffd06df1a25fb2dcaaf8f888bcbe8aec53130541d2f",
+    "sourceFile": "src\\content\\relationships\\mahabharata-contains-virata-parva.md"
+  },
+  {
+    "id": "purana-mahapuranas-contains-agni",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "agni-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahāpurāṇas include the Agni Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "c5cfa719af49fb16001af697898d2b79d239f765153d6fb750ff2b3c8ff9bc64",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-agni.md"
+  },
+  {
+    "id": "purana-mahapuranas-contains-bhagavata",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
     "to": "bhagavata-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Jīva Gosvāmī's Ṣaṭ-Sandarbha is the systematic exposition of Gauḍīya theology based on the Bhāgavata Purāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "7521de1bc2533fc9aca964f0cceb75d9f695e0af13f9bf62db7753ff279bc1d0",
-    "sourceFile": "src\\content\\relationships\\jiva-gosvami-work-bhagavata.md"
+    "editorialNote": "The Mahāpurāṇas include the Bhāgavata Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "112ffb36f53ba8cfe20100d09ebe63888c0efa86b814a4f48466673654aef56f",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-bhagavata.md"
   },
   {
-    "id": "jnana-associated-with-bhagavad-gita",
-    "from": "jnana",
-    "relationship": "related-to",
-    "to": "bhagavad-gita",
+    "id": "purana-mahapuranas-contains-bhavishya",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "bhavishya-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds jñāna-yoga; represented here as a catalogue entry.\n---",
-    "contentHash": "9696a7fd4e35078ea4e8046a4916bc16ec313a40e7219a567dea7b0c44854f7b",
-    "sourceFile": "src\\content\\relationships\\jnana-scripture-bhagavad-gita.md"
+    "editorialNote": "The Mahāpurāṇas include the Bhaviṣya Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "14d8dd2337af04b3a687dc62bc124ee6b0b0b86c531dbd3687cdcd564e673ac9",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-bhavishya.md"
   },
   {
-    "id": "karma-associated-with-bhagavad-gita",
-    "from": "karma",
-    "relationship": "related-to",
-    "to": "bhagavad-gita",
+    "id": "purana-mahapuranas-contains-brahma",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "brahma-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Bhagavad Gītā expounds karma-yoga; represented here as a catalogue entry.\n---",
-    "contentHash": "227864ceff4e18207dd2bf4411b37bcc562e6528c497fab32797b0faa4836266",
-    "sourceFile": "src\\content\\relationships\\karma-scripture-bhagavad-gita.md"
+    "editorialNote": "The Mahāpurāṇas include the Brahma Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "25b674cba4b7d118da4004e115b98ec8206722c8f3873821c373db5b779b4769",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-brahma.md"
   },
   {
-    "id": "kashi-vishwanath-associated-with-shiva",
-    "from": "kashi-vishwanath",
-    "relationship": "associated-with",
-    "to": "shiva",
-    "sourceIds": [
-      "gretil",
-      "archaeological-survey-of-india",
-      "uttar-pradesh-tourism"
-    ],
-    "editorialNote": "The Kāśī Viśvanātha Temple is dedicated to Śiva as Viśvanātha; represented here as a catalogue entry.\n---",
-    "contentHash": "524b563c754cd1b245d0e58558f37c82024c2003b560aa3b65402f201b7d89b7",
-    "sourceFile": "src\\content\\relationships\\kashi-vishwanath-deity-shiva.md"
-  },
-  {
-    "id": "kashi-vishwanath-associated-with-mahashivaratri",
-    "from": "kashi-vishwanath",
-    "relationship": "celebrated-during",
-    "to": "mahashivaratri",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Mahāśivarātri is the principal festival at Kāśī Viśvanātha Temple; represented here as a catalogue entry.\n---",
-    "contentHash": "2979ea3fda32be5fea1554cc023d01f6281442db731a082615583b1fe7af8aee",
-    "sourceFile": "src\\content\\relationships\\kashi-vishwanath-festival-mahashivaratri.md"
-  },
-  {
-    "id": "katha-upanishad-associated-with-naciketa",
-    "from": "katha-upanishad",
-    "relationship": "related-to",
-    "to": "atman",
+    "id": "purana-mahapuranas-contains-brahmanda",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "brahmanda-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Kaṭha Upaniṣad features the dialogue between Naciketā and Yama on the self; represented here as a catalogue entry.\n---",
-    "contentHash": "b4c5e5afcdfe90915a47c81cb1f46925852d4c197b11ffe2045254e819961c30",
-    "sourceFile": "src\\content\\relationships\\katha-upanishad-concept-atman.md"
+    "editorialNote": "The Mahāpurāṇas include the Brahmāṇḍa Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "370e4e47cbf4f7b104fc12c52c463a92221095ca837acd9851280a34252b40a1",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-brahmanda.md"
   },
   {
-    "id": "madhva-associated-with-pancabheda",
-    "from": "madhva",
-    "relationship": "related-to",
-    "to": "dvaita-pancabheda",
+    "id": "purana-mahapuranas-contains-garuda",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "garuda-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Madhva's doctrine of pañca-bheda (five eternal differences) is central to Dvaita; represented here as a catalogue entry.\n---",
-    "contentHash": "fd5d05fa038c924a5c0f48225edb712b4aab77ff89c04206d229c46e21c4f50d",
-    "sourceFile": "src\\content\\relationships\\madhva-concept-pancabheda.md"
+    "editorialNote": "The Mahāpurāṇas include the Garuḍa Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "35bcedda54e166099a8db20c7d2f6182fc16d92497b947788c5cfc91ec63b974",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-garuda.md"
   },
   {
-    "id": "madhva-associated-with-dvaita",
-    "from": "madhva",
-    "relationship": "associated-with",
-    "to": "dvaita-vedanta",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Madhva is the founder of Dvaita Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "a241f68a847725150d5daba887e779429a3d0f9b8dc165bfd88c38537f453212",
-    "sourceFile": "src\\content\\relationships\\madhva-school-dvaita.md"
-  },
-  {
-    "id": "madhva-associated-with-brahma-sutra-bhashya",
-    "from": "madhva",
-    "relationship": "related-to",
-    "to": "brahma-sutra",
+    "id": "purana-mahapuranas-contains-kurma",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "kurma-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Madhva's Brahma Sūtra Bhāṣya presents the Dvaita interpretation; represented here as a catalogue entry.\n---",
-    "contentHash": "9b815fed6d170389a8d3dc21d1595ec34a2afaa3c210fd7ff551d39bd714e5d3",
-    "sourceFile": "src\\content\\relationships\\madhva-work-brahma-sutra.md"
+    "editorialNote": "The Mahāpurāṇas include the Kūrma Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "0c6b7368362ee0a7c6673e3785b97ee5f5ae298f1baad149727e05674441a644",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-kurma.md"
   },
   {
-    "id": "mahashivaratri-associated-with-shiva",
-    "from": "mahashivaratri",
-    "relationship": "associated-with",
-    "to": "shiva",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Mahāśivarātri is the principal festival dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "1abcf69e79f3b20bf084b3f8bc2d4778df4305bd68ac8c705a2987847355b35d",
-    "sourceFile": "src\\content\\relationships\\mahashivaratri-deity-shiva.md"
-  },
-  {
-    "id": "moksha-associated-with-vedanta",
-    "from": "moksha",
-    "relationship": "related-to",
-    "to": "vedanta",
+    "id": "purana-mahapuranas-contains-linga",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "linga-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Mokṣa (liberation) is the ultimate goal of Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "83a83ed32254baa446c05d2a8902bdda315e202f6f803d0863803f3081befc7b",
-    "sourceFile": "src\\content\\relationships\\moksha-tradition-vedanta.md"
+    "editorialNote": "The Mahāpurāṇas include the Liṅga Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "0cc0ec2573719a9cbd6d05c938d8bc00b2b84fdeccee2a194d89effa382ee2b2",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-linga.md"
   },
   {
-    "id": "mutthuswami-dikshitar-associated-with-navagraha-kritis",
-    "from": "mutthuswami-dikshitar",
-    "relationship": "related-to",
-    "to": "navagraha",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Muttusvāmi Dīkṣitar's Navagraha Kṛtis are nine compositions on the nine planets; represented here as a catalogue entry.\n---",
-    "contentHash": "f7b2fd15aa0110aa9771c6e0b2446b68342b172f2737016a06669b51d4e3e59c",
-    "sourceFile": "src\\content\\relationships\\mutthuswami-dikshitar-work-navagraha.md"
-  },
-  {
-    "id": "narasimha-associated-with-ahobilam",
-    "from": "narasimha",
-    "relationship": "located-at",
-    "to": "ahobilam",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Ahobilam Temple complex is the principal shrine of Narasiṃha with nine temples (Nava-Narasiṃha); represented here as a catalogue entry.\n---",
-    "contentHash": "a2a65a41618f9acfe94fc2548f6205546187501422b616980c0b83741372f62d",
-    "sourceFile": "src\\content\\relationships\\narasimha-temple-ahobilam.md"
-  },
-  {
-    "id": "narasimha-associated-with-simhachalam",
-    "from": "narasimha",
-    "relationship": "located-at",
-    "to": "simhachalam",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam is a major Narasiṃha shrine; represented here as a catalogue entry.\n---",
-    "contentHash": "6e8676a6defd4d4a9287e22643059b4adb30d7eb033736f0bb237340a1ac8acb",
-    "sourceFile": "src\\content\\relationships\\narasimha-temple-simhachalam.md"
-  },
-  {
-    "id": "navaratri-associated-with-devi",
-    "from": "navaratri",
-    "relationship": "associated-with",
-    "to": "devi",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Navarātri is dedicated to Devī/Durgā in her nine forms; represented here as a catalogue entry.\n---",
-    "contentHash": "ca6b9cf55e1ce9472354169e325c5dc1b91307c470ca8476be89562202e93953",
-    "sourceFile": "src\\content\\relationships\\navaratri-deity-devi.md"
-  },
-  {
-    "id": "nimbarka-associated-with-bhedabheda",
-    "from": "nimbarka",
-    "relationship": "associated-with",
-    "to": "bhedabheda",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Nimbārka founded the Bhedābheda school of Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "6ba6f44ef15da52ee6fb23fdf4b83d5ec74bf97ae7d0495bf9d5bbd842dc7e55",
-    "sourceFile": "src\\content\\relationships\\nimbarka-school-bhedabheda.md"
-  },
-  {
-    "id": "pandharpur-associated-with-vitthal",
-    "from": "pandharpur",
-    "relationship": "associated-with",
-    "to": "vitthal",
-    "sourceIds": [
-      "gretil",
-      "maharashtra-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Pāṇḍharpur Temple is dedicated to Viṭṭhala; represented here as a catalogue entry.\n---",
-    "contentHash": "0f103f9985c0c398e9614375559da54813c3c6bb67cdde46e4d11623dddb96f2",
-    "sourceFile": "src\\content\\relationships\\pandharpur-deity-vitthal.md"
-  },
-  {
-    "id": "puja-associated-with-gayatri",
-    "from": "puja",
-    "relationship": "related-to",
-    "to": "gayatri-mantra",
+    "id": "purana-mahapuranas-contains-matsya",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "matsya-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Gāyatrī Mantra is recited during pūjā and sandhyāvandana; represented here as a catalogue entry.\n---",
-    "contentHash": "8ad35082ebbc63489cedb431dbc1783ffbdc1a4dcb4b69262bdc82b7ac889eb0",
-    "sourceFile": "src\\content\\relationships\\puja-mantra-gayatri.md"
+    "editorialNote": "The Mahāpurāṇas include the Matsya Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "ae645e63effc0202dc9bf34be165540ac88e5e1d83de9a369020c1278ca3f110",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-matsya.md"
   },
   {
-    "id": "puja-associated-with-agama",
-    "from": "puja",
-    "relationship": "related-to",
-    "to": "agamic-tradition",
+    "id": "purana-mahapuranas-contains-narada",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "narada-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Pūjā procedures are prescribed in the Āgama texts; represented here as a catalogue entry.\n---",
-    "contentHash": "51f52d1eb252c50fa4823941836d2eefbac565b2e2dac28d45436fbe132912d7",
-    "sourceFile": "src\\content\\relationships\\puja-scripture-agama.md"
+    "editorialNote": "The Mahāpurāṇas include the Nārada Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "e820ebd368552aeb866efa6ea94db70470ca4aa1297fc2c7d111f3881e8e4157",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-narada.md"
   },
   {
-    "id": "ramanavami-associated-with-rama",
-    "from": "ramanavami",
-    "relationship": "associated-with",
-    "to": "rama",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Rāma Navamī celebrates the birth of Rāma; represented here as a catalogue entry.\n---",
-    "contentHash": "06ec723d317aa271631a77f925ed5355c2785733ccfa891455fff12ce24e62ef",
-    "sourceFile": "src\\content\\relationships\\ramanavami-deity-rama.md"
-  },
-  {
-    "id": "ramanuja-associated-with-prapatti",
-    "from": "ramanuja",
-    "relationship": "related-to",
-    "to": "vishishtadvaita-prapatti",
+    "id": "purana-mahapuranas-contains-padma",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "padma-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Rāmānuja systematized prapatti (śaraṇāgati) as the path of self-surrender; represented here as a catalogue entry.\n---",
-    "contentHash": "fef42d9bdf479e97c65cdf6be2f99b6a1259873e3800985d318e5d64ea7c3258",
-    "sourceFile": "src\\content\\relationships\\ramanuja-concept-prapatti.md"
+    "editorialNote": "The Mahāpurāṇas include the Padma Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "ff4cb900618d44f984bcc6fdc4db894234b423716af8e36c34fcba120b5fd944",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-padma.md"
   },
   {
-    "id": "ramanuja-associated-with-vishishtadvaita",
-    "from": "ramanuja",
-    "relationship": "associated-with",
-    "to": "vishishtadvaita-vedanta",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Rāmānuja is the principal exponent of Viśiṣṭādvaita Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "96ab306d54cd133fb520e23565614ffcb28db190ddcb8338a5780a4e41e0031e",
-    "sourceFile": "src\\content\\relationships\\ramanuja-school-vishishtadvaita.md"
-  },
-  {
-    "id": "ramanuja-associated-with-gita-bhashya",
-    "from": "ramanuja",
-    "relationship": "related-to",
-    "to": "bhagavad-gita",
+    "id": "purana-mahapuranas-contains-shiva",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "shiva-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Rāmānuja's Gītā Bhāṣya presents the Viśiṣṭādvaita interpretation of the Bhagavad Gītā; represented here as a catalogue entry.\n---",
-    "contentHash": "af404aad6ec83e54edcc960edc50f775ba09d895b50188c70136cf390d0f0b2a",
-    "sourceFile": "src\\content\\relationships\\ramanuja-work-gita.md"
+    "editorialNote": "The Mahāpurāṇas include the Śiva Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "83031cacbcacf18424ef4e456c4a23d14ac0e31e7d9c3c60e89c8afbaf5a4dea",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-shiva.md"
   },
   {
-    "id": "ramanuja-associated-with-sri-bhashya",
-    "from": "ramanuja",
-    "relationship": "related-to",
-    "to": "brahma-sutra",
+    "id": "purana-mahapuranas-contains-skanda",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "skanda-purana",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Rāmānuja's Śrī Bhāṣya is the principal Viśiṣṭādvaita commentary on the Brahma Sūtra; represented here as a catalogue entry.\n---",
-    "contentHash": "160b62523b552cba35332fd8b494bbab2869231ebab8e75f41ec8ce7725e2390",
-    "sourceFile": "src\\content\\relationships\\ramanuja-work-sri-bhashya.md"
+    "editorialNote": "The Mahāpurāṇas include the Skanda Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "c03537e804c35c5d1139753c4e3be03050454c7d05202d28edfb867df6d82eeb",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-skanda.md"
   },
   {
-    "id": "rameshwaram-associated-with-shiva",
-    "from": "rameshwaram",
-    "relationship": "associated-with",
-    "to": "shiva",
+    "id": "purana-mahapuranas-contains-vamana",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "vamana-purana",
     "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
+      "gretil"
     ],
-    "editorialNote": "The Rāmeśvaram Temple is dedicated to Śiva as Rāmeśvara; represented here as a catalogue entry.\n---",
-    "contentHash": "7b58ae3c825184d7e7b8e634d53eb80682282cc9132a52dc86de718568841eb9",
-    "sourceFile": "src\\content\\relationships\\rameshwaram-deity-shiva.md"
+    "editorialNote": "The Mahāpurāṇas include the Vāmana Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "906b070f23d353b141d04a36be18a787fffcec59fc738ab4d536873cb5c88f6f",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-vamana.md"
   },
   {
-    "id": "rigveda-associated-with-vedic-deity",
+    "id": "purana-mahapuranas-contains-varaha",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "varaha-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahāpurāṇas include the Varāha Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "e5bd5698b2621efc7d422b501eb28d52b6706f4d8c77512a5c566a7e6bbd0168",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-varaha.md"
+  },
+  {
+    "id": "purana-mahapuranas-contains-vayu",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "vayu-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahāpurāṇas include the Vāyu Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "f9ee85a43b71f8e18e9eabcfbe0e174a6fa633b52c8e64d1bf52d1470c4a8a07",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-vayu.md"
+  },
+  {
+    "id": "purana-mahapuranas-contains-vishnu",
+    "from": "purana-mahapurana-list",
+    "relationship": "contains",
+    "to": "vishnu-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Mahāpurāṇas include the Viṣṇu Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "044af63630c046cfdbd5d3c37622cfa513496597bb9fb10a56b9a4be798add03",
+    "sourceFile": "src\\content\\relationships\\purana-mahapuranas-contains-vishnu.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-aditya",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "aditya-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Āditya Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "84a42dbeb5d43006bb5e239562f1d2f83ee3315f36db4f52cb6eebf18d6f7449",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-aditya.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-ausanasa",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "aushanasa-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Auśanasa Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "96e1c8913fb5e553c3db7b85b50e52fea8a9bbeacc7eb80c8b067449bc02b64b",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-ausanasa.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-bhargava",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "bhargava-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Bhārgava Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "71b9642355830ebbd057aaf6a2b906fc4d4bd218b4ba3aa485aea736ee5020a8",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-bhargava.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-garga",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "garga-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Garga Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "1c46bcce632af8ee2e3d538474c26ca7c8dbc31030ed816433c3609e061b39c7",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-garga.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-kalika",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "kalika-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Kālikā Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "e998e89f894b658f60d3850acda82c42ac181b9dcec16c85882213ca151bb38c",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-kalika.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-kapila",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "kapila-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Kapila Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "237de8ad6068f0e10804255889b7e276455ce8d254e0d00776f930f42d8efb75",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-kapila.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-manava",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "manava-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Mānava Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "81974a0abf86a062485dca409f65d83d0e5184cd5a591c33a0f7f4cd475c17d6",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-manava.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-matsya-upapurana",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "matsya-purana-upapurana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Matsya Upapurāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "0ecf38d408f3cd7441bf3125a8121fa873b0a804f7ef7d4259d63af68c2570cf",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-matsya-upapurana.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-nandi",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "nandi-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Nandi Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "f33a7241d287549507eacdbfc50e39ba7da0bebbd5f2d4ffe7a957c0d91e15a0",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-nandi.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-nrisimha-tapaniya",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "nrisimha-tapaniya-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Nṛsiṃha Tāpanīya Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "b7b888476c514e0df3f81704a455e635aeae85f59b7e6f8e728532730109f918",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-nrisimha-tapaniya.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-nrisimha",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "nrisimha-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Nṛsiṃha Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "b2230212a878675ee9199bc579af43770aca42c355c2556d8bf65acda2fded2d",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-nrisimha.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-samba",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "samba-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Sāmba Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "0316feed8b738c28fb47ac2ce0deebf6da9ef8f530cf6e0428ad8422d65d4e48",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-samba.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-saura",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "saura-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Saura Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "83fb8edbb94913477b65768fb9cdbe55fef3b3198c947de2eb296d43b3894406",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-saura.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-varaha-upapurana",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "varaha-purana-upapurana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Varāha Upapurāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "3ca6fb1a30642c745b9fefddd4e9e87dfc23fbcc00d6258d1bafd147ad029e83",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-varaha-upapurana.md"
+  },
+  {
+    "id": "purana-upapuranas-contains-vishnu-dharmottara",
+    "from": "purana-upapurana",
+    "relationship": "contains",
+    "to": "vishnu-dharmottara-purana",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upapurāṇas include the Viṣṇu Dharmottara Purāṇa; represented here as a catalogue entry.\n---",
+    "contentHash": "b5f4f5e52fc73392f9dc7aca6e6009b1631725b988e41824d3f30ca5330b812d",
+    "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-vishnu-dharmottara.md"
+  },
+  {
+    "id": "ramayana-contains-aranya-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-aranya-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Araṇya Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "e1ad60bc5513d33aa6a3f7bf6fd0f910b77f39061ff26917021ea9e6d7f71ef7",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-aranya-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-ayodhya-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-ayodhya-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Ayodhyā Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "e858669abc2549d7ec2b61600c9ae01c039634d78f95f3057f79ec8f781ddad0",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-ayodhya-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-kandas",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-bala-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Bāla Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "d896aa2a553eb93933593371f4a6f4e99d819428ddeb763315a4c105a8d8a7ad",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-bala-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-kishkindha-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-kishkindha-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Kiṣkindhā Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "c04234a42ffa515a464c822600446e295278b8465e1343a52c772b4058aac78c",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-kishkindha-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-sundara-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-sundara-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Sundara Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "a4e565276340c279f3df726e62a419cc0773ea8e531c53f2f19855b8534d75d3",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-sundara-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-uttara-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-uttara-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Uttara Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "9af913e9bdbe4ebb109711df937c62a2aab1e199171d1146f466903889698df6",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-uttara-kanda.md"
+  },
+  {
+    "id": "ramayana-contains-yuddha-kanda",
+    "from": "ramayana",
+    "relationship": "contains",
+    "to": "ramayana-yuddha-kanda",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Rāmāyaṇa contains the Yuddha Kāṇḍa; represented here as a catalogue entry.\n---",
+    "contentHash": "9aafd531afc0a826afb622a1e2598f13e19678d4e0c6f5b34b123d7cb6bfdf14",
+    "sourceFile": "src\\content\\relationships\\ramayana-contains-yuddha-kanda.md"
+  },
+  {
+    "id": "rigveda-contains-mandala-1",
     "from": "rigveda",
     "relationship": "contains",
-    "to": "vedic-deity",
+    "to": "rigveda-mandala-1",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Ṛgveda contains hymns to principal Vedic deities (Agni, Indra, Varuṇa, etc.); represented here as a catalogue entry.\n---",
-    "contentHash": "3d368209e67ca3a17037012d4c01739658c16854f13319e73fc0b436d58ca279",
-    "sourceFile": "src\\content\\relationships\\rigveda-concept-vedic-deity.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains ten Maṇḍalas; represented here as a catalogue entry.\n---",
+    "contentHash": "987467f49c3cc30ee8e7c998d0fb49662b35077dcd381a716d34f2b398fd9339",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-1.md"
   },
   {
-    "id": "rigveda-associated-with-shakala-sakha",
+    "id": "rigveda-contains-mandala-10",
     "from": "rigveda",
     "relationship": "contains",
-    "to": "rigveda-sakha",
+    "to": "rigveda-mandala-10",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Ṛgveda is transmitted in the Śākalya śākhā (the only complete surviving recension); represented here as a catalogue entry.\n---",
-    "contentHash": "fb71550001d356441b84de71a2dd3dc82a58529b0f12eb6589467c5ba8fd99c4",
-    "sourceFile": "src\\content\\relationships\\rigveda-sakha-scripture.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the tenth Maṇḍala (Puruṣa Sūkta, Nāsadīya Sūkta); represented here as a catalogue entry.\n---",
+    "contentHash": "6cebaa90bf305803e8498977dcc02cb367625991236b80c4eb3c70960f17ac66",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-10.md"
   },
   {
-    "id": "sabarimala-associated-with-ayyappan",
-    "from": "sabarimala",
-    "relationship": "associated-with",
-    "to": "ayyappan",
-    "sourceIds": [
-      "gretil",
-      "kerala-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Sabarimala Temple is dedicated to Ayyappan; represented here as a catalogue entry.\n---",
-    "contentHash": "3e7dbb429e328b5e7d2b7c1680b7fba008822292d327deba9a9c9bbd011e9f48",
-    "sourceFile": "src\\content\\relationships\\sabarimala-deity-ayyappan.md"
-  },
-  {
-    "id": "samskara-associated-with-grihya-sutra",
-    "from": "samskara",
-    "relationship": "related-to",
-    "to": "grihya-sutra",
+    "id": "rigveda-contains-mandala-2",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-2",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The sixteen saṃskāras are prescribed in the Gṛhya Sūtras; represented here as a catalogue entry.\n---",
-    "contentHash": "509b7c89b0fbae2c75f742bf8b2e85b1d479b58f13f7d0e5e2a1a9269ddbe192",
-    "sourceFile": "src\\content\\relationships\\samskara-scripture-grihya-sutra.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the second Maṇḍala; represented here as a catalogue entry.\n---",
+    "contentHash": "fa7319ba7184793816c0c1b823e680effe20a05ae2d9ff6b38f7515d7b986368",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-2.md"
   },
   {
-    "id": "sandhyavandana-associated-with-gayatri",
-    "from": "sandhyavandana",
-    "relationship": "related-to",
-    "to": "gayatri-mantra",
+    "id": "rigveda-contains-mandala-3",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-3",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Sandhyāvandana centers on Gāyatrī Mantra recitation; represented here as a catalogue entry.\n---",
-    "contentHash": "b79dfb9fae87624014883451fc77aeeb6f0a5629b149c3461b882cb5e4a2e798",
-    "sourceFile": "src\\content\\relationships\\sandhyavandana-associated-with-gayatri.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the third Maṇḍala (with Gāyatrī Mantra); represented here as a catalogue entry.\n---",
+    "contentHash": "aca22859963e80512086c4d981222a4a0880e27287389e0f48730c5209777100",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-3.md"
   },
   {
-    "id": "shankara-associated-with-adhyasa",
-    "from": "shankara",
-    "relationship": "related-to",
-    "to": "advaita-adhyasa",
+    "id": "rigveda-contains-mandala-4",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-4",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Śaṅkara's theory of adhyāsa (superimposition) is central to Advaita epistemology; represented here as a catalogue entry.\n---",
-    "contentHash": "3b8bc645663e914590bdc83c0e78172190f05a45813864f13d2202018ccdb4ab",
-    "sourceFile": "src\\content\\relationships\\shankara-concept-adhyasa.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the fourth Maṇḍala; represented here as a catalogue entry.\n---",
+    "contentHash": "619c772de8e562c8d1fbd75d2334c7dc84be6a2383d3d280770c9d17d868988a",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-4.md"
   },
   {
-    "id": "shankara-associated-with-advaita",
-    "from": "shankara",
-    "relationship": "associated-with",
-    "to": "advaita-vedanta",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Śaṅkara is the principal exponent of Advaita Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "df4f0a4dd6deb8e0e8a0796f9ae5efb1a2f8d6f1546db8bd182cfbd182189001",
-    "sourceFile": "src\\content\\relationships\\shankara-school-advaita.md"
-  },
-  {
-    "id": "shankara-associated-with-brahma-sutra-bhashya",
-    "from": "shankara",
-    "relationship": "related-to",
-    "to": "brahma-sutra",
+    "id": "rigveda-contains-mandala-5",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-5",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Śaṅkara's Brahma Sūtra Bhāṣya is the principal Advaita commentary on the Brahma Sūtra; represented here as a catalogue entry.\n---",
-    "contentHash": "4d68b294e4d5a8eae315aefd3f7567bbeafd1ce02456700471fcbbc4f4fdf32b",
-    "sourceFile": "src\\content\\relationships\\shankara-work-brahma-sutra.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the fifth Maṇḍala; represented here as a catalogue entry.\n---",
+    "contentHash": "617e31d151e381add61e2faab4b60e7d3fbe56d2d5778d22cf0a72b891e22a65",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-5.md"
   },
   {
-    "id": "shankara-associated-with-gita-bhashya",
-    "from": "shankara",
-    "relationship": "related-to",
-    "to": "bhagavad-gita",
+    "id": "rigveda-contains-mandala-6",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-6",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Śaṅkara's Bhagavad Gītā Bhāṣya is the earliest surviving Advaita commentary on the Gītā; represented here as a catalogue entry.\n---",
-    "contentHash": "2a86200b228b2e79d1b46dc5c178849c3e1bd1802eea8f9dda0821ab8e1665dc",
-    "sourceFile": "src\\content\\relationships\\shankara-work-gita.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the sixth Maṇḍala; represented here as a catalogue entry.\n---",
+    "contentHash": "a2d3da3a8426bd2e85457fa7a0d8e49d97692a030864bf55af6df5570e881006",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-6.md"
   },
   {
-    "id": "shankara-associated-with-upanishad-bhashya",
-    "from": "shankara",
-    "relationship": "related-to",
-    "to": "upanishads",
+    "id": "rigveda-contains-mandala-7",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-7",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Śaṅkara wrote commentaries on the ten principal Upaniṣads; represented here as a catalogue entry.\n---",
-    "contentHash": "2bda9da4d727a62e7768bd50fc941bc0ca8976c0b009605ff4c8d3d134f47785",
-    "sourceFile": "src\\content\\relationships\\shankara-work-upanishad.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the seventh Maṇḍala (with Mahāmṛtyuñjaya); represented here as a catalogue entry.\n---",
+    "contentHash": "3db8f8d1862d38fa74d9d4bbadbe38090cc21308f5d77873c1aab17f34501341",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-7.md"
   },
   {
-    "id": "shiva-associated-with-mahashivaratri",
-    "from": "shiva",
-    "relationship": "celebrated-during",
-    "to": "mahashivaratri",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Mahāśivarātri is the principal festival dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "546c099e9866bf5bbb068c6862a00a7b6d6cfb5b8b91d3acb36351c654f675c5",
-    "sourceFile": "src\\content\\relationships\\shiva-festival-mahashivaratri.md"
-  },
-  {
-    "id": "shiva-associated-with-brihadeeswara",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "brihadeeswara",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india",
-      "unesco-world-heritage-centre"
-    ],
-    "editorialNote": "The Bṛhadīśvara Temple at Thanjavur is a UNESCO World Heritage site dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "b1918d47cf98d53ea8f816312ff3da95fe33e7de7bf796bc11c96f5b7f97fcb7",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-brihadeeswara.md"
-  },
-  {
-    "id": "shiva-associated-with-chidambaram",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "chidambaram-nataraja",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Chidambaram Naṭarāja Temple is dedicated to Śiva as the cosmic dancer; represented here as a catalogue entry.\n---",
-    "contentHash": "e6a73f7ec87da0676537336b124eb1e529c5a6739cca60b6b1534f6106d079c6",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-chidambaram.md"
-  },
-  {
-    "id": "shiva-associated-with-ekambareswarar",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "ekambareswarar-kanchipuram",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Ekambareśvarar Temple at Kāñcīpuram is one of the Pañcabhūta-sthalas (earth element) dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "ed3e24703769e1d62ea89d632e9159a4461ea232f4ac62df057e169737a88a19",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-ekambareswarar.md"
-  },
-  {
-    "id": "shiva-associated-with-jambukeswarar",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "jambukeswarar-tiruvanaikaval",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Jambukeśvarar Temple at Tiruvanaikaval is one of the Pañcabhūta-sthalas (water element) dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "1bed5963d45f1363a2140c97733d31aefdc7069403425dbd16c05d3aba395242",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-jambukeswarar.md"
-  },
-  {
-    "id": "shiva-associated-with-kashi-vishwanath",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "kashi-vishwanath",
-    "sourceIds": [
-      "gretil",
-      "archaeological-survey-of-india",
-      "uttar-pradesh-tourism"
-    ],
-    "editorialNote": "The Kāśī Viśvanātha Temple in Vārāṇasī is one of the twelve Jyotirliṅgas dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "31b72b1199fd68b84853a5144ff67e30eb63f439a5f47d4bc8561c95158bc5b6",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-kashi-vishwanath.md"
-  },
-  {
-    "id": "shiva-associated-with-kedarnath",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "kedarnath",
-    "sourceIds": [
-      "gretil",
-      "uttarakhand-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Kedārnāth Temple in Uttarakhand is one of the twelve Jyotirliṅgas dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "d71b7d64050f855d137f5c261fdfa3bc8ff6ebccac3be484ef1862a47c90ef59",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-kedarnath.md"
-  },
-  {
-    "id": "shiva-associated-with-rameshwaram",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "rameshwaram",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Rāmeśvaram Temple in Tamil Nadu is one of the twelve Jyotirliṅgas dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "0d46f0729b2b1b368f86b4fc698a566caf4ff654c7c5f25f503ac803bc0083a2",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-ramanathaswamy.md"
-  },
-  {
-    "id": "shiva-associated-with-somnath",
-    "from": "shiva",
-    "relationship": "located-at",
-    "to": "somnath",
-    "sourceIds": [
-      "gretil",
-      "gujarat-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Somnāth Temple in Gujarat is the first of the twelve Jyotirliṅgas dedicated to Śiva; represented here as a catalogue entry.\n---",
-    "contentHash": "027fe12dd669968166d22053432fbf04965b6183000a767424abb16530239566",
-    "sourceFile": "src\\content\\relationships\\shiva-temple-somnath.md"
-  },
-  {
-    "id": "shiva-associated-with-shaiva",
-    "from": "shiva",
-    "relationship": "associated-with",
-    "to": "shaiva",
+    "id": "rigveda-contains-mandala-8",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-8",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Śiva is the supreme deity of the Śaiva tradition; represented here as a catalogue entry.\n---",
-    "contentHash": "aea231999d8caea103bd4821998ad58b448f8755e7a57069947c6275697126d9",
-    "sourceFile": "src\\content\\relationships\\shiva-tradition-shaiva.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the eighth Maṇḍala; represented here as a catalogue entry.\n---",
+    "contentHash": "5971f3fab473e45d5dc282746edd89f820a47e724bd3c273a461b0e01e47f3e8",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-8.md"
   },
   {
-    "id": "shuddhadvaita-pusti-associated-with-vallabha",
-    "from": "shuddhadvaita-pusti",
-    "relationship": "related-to",
-    "to": "vallabha",
+    "id": "rigveda-contains-mandala-9",
+    "from": "rigveda",
+    "relationship": "contains",
+    "to": "rigveda-mandala-9",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Vallabha's concept of puṣṭi (grace) is central to the Puṣṭi-mārga; represented here as a catalogue entry.\n---",
-    "contentHash": "3a018f5585237c1ee7d2c487c27dfa0e27177212373a707960ee7077e1b0021e",
-    "sourceFile": "src\\content\\relationships\\shuddhadvaita-pusti-acharya-vallabha.md"
+    "editorialNote": "The Ṛgveda Saṃhitā contains the ninth Maṇḍala (Soma Pavamāna); represented here as a catalogue entry.\n---",
+    "contentHash": "8d7abe8d2aa7cff554a605efcdaefcf7a406d60266e189374806ae2376c9678e",
+    "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-9.md"
   },
   {
-    "id": "shyama-shastri-associated-with-swarajati",
-    "from": "shyama-shastri",
-    "relationship": "related-to",
-    "to": "carnatic-music",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Śyāma Śāstri's svarajatis (especially in Anandabhairavi) are famous in Carnatic music; represented here as a catalogue entry.\n---",
-    "contentHash": "c6cb03ef29efa37adb29306ccc39a0265e8d18dce2917d1459f20f9d4eb0f7e9",
-    "sourceFile": "src\\content\\relationships\\shyama-shastri-work-swarajati.md"
-  },
-  {
-    "id": "surdas-associated-with-sur-sagar",
-    "from": "surdas",
-    "relationship": "related-to",
-    "to": "bhagavata-purana",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Sūrdās's Sūrsāgar contains poems on Kṛṣṇa-līlā based on the Bhāgavata Purāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "ed81eed42aa3204fbcb3f711661fa8f4a4247972258364d7fdbe9a01134552d2",
-    "sourceFile": "src\\content\\relationships\\surdas-work-sur-sagar.md"
-  },
-  {
-    "id": "surya-associated-with-makar-sankranti",
-    "from": "surya",
-    "relationship": "celebrated-during",
-    "to": "makar-sankranti",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Makara Saṅkrānti marks Sūrya's transition into Capricorn; represented here as a catalogue entry.\n---",
-    "contentHash": "113859fc3e6393811fa7c46d72bad5f6738bb5de8a150f5ffff1e354daa9e7a0",
-    "sourceFile": "src\\content\\relationships\\surya-festival-makar-sankranti.md"
-  },
-  {
-    "id": "tirupati-tirumala-associated-with-vishnu",
-    "from": "tirupati-tirumala",
-    "relationship": "associated-with",
-    "to": "vishnu",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Tirumala Venkateswara Temple is dedicated to Veṅkaṭeśvara (Viṣṇu); represented here as a catalogue entry.\n---",
-    "contentHash": "8362ff96cea035ae6dde6178b8bd4a24d97d722a6bca6adfe172e7c5c9c507f5",
-    "sourceFile": "src\\content\\relationships\\tirupati-tirumala-deity-vishnu.md"
-  },
-  {
-    "id": "tulsidas-associated-with-hanuman-chalisa",
-    "from": "tulsidas",
-    "relationship": "related-to",
-    "to": "hanuman",
+    "id": "samaveda-contains-sakhas",
+    "from": "samaveda",
+    "relationship": "contains",
+    "to": "kauthuma-sakha",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "Tulsīdās's Hanumān Cālīsā is the most popular devotional hymn to Hanumān; represented here as a catalogue entry.\n---",
-    "contentHash": "64e53e987b6273b3053fb0996f4b87367b9d0dc9515a6cb5454af420e1dd99db",
-    "sourceFile": "src\\content\\relationships\\tulsidas-work-hanuman-chalisa.md"
+    "editorialNote": "The Sāmaveda is transmitted in Kauthuma, Rāṇāyanīya, Jaiminīya recensions; represented here as a catalogue entry.\n---",
+    "contentHash": "8659d4c6661d035d3e2e9700e319643d823cda09f63d6eb0a475d765fdf32f8a",
+    "sourceFile": "src\\content\\relationships\\samaveda-contains-sakhas.md"
   },
   {
-    "id": "tulsidas-associated-with-ramcharitmanas",
-    "from": "tulsidas",
-    "relationship": "related-to",
-    "to": "ramayana",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Tulsīdās's Rāmacaritamānasa is the Awadhi retelling of the Rāmāyaṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "c0aad34154e89b5fbee175323d473bd06eba0f4a7f1b5f0d7045e95e41911928",
-    "sourceFile": "src\\content\\relationships\\tulsidas-work-ramcharitmanas.md"
-  },
-  {
-    "id": "tyagaraja-associated-with-pancharatna",
-    "from": "tyagaraja",
-    "relationship": "related-to",
-    "to": "carnatic-music",
-    "sourceIds": [
-      "gretil",
-      "chowkhamba-sanskrit-academy"
-    ],
-    "editorialNote": "Tyāgarāja's Pancharatna Kṛtis are among the greatest compositions in Carnatic music; represented here as a catalogue entry.\n---",
-    "contentHash": "8ad003ddae672b16e62d533c1f354b4f26f84e1cc4d22ae4b3c16b924d956acc",
-    "sourceFile": "src\\content\\relationships\\tyagaraja-work-pancharatna.md"
-  },
-  {
-    "id": "upanishads-associated-with-vedanta",
+    "id": "upanishads-contains-aitareya",
     "from": "upanishads",
-    "relationship": "related-to",
-    "to": "vedanta",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "The Upaniṣads are the primary source texts (śruti-prasthāna) for Vedānta; represented here as a catalogue entry.\n---",
-    "contentHash": "42626fca2ede078ab3f7dca921f490f79d8beb46bc6d0825c6a114aa7964a975",
-    "sourceFile": "src\\content\\relationships\\upanishads-tradition-vedanta.md"
-  },
-  {
-    "id": "vallabha-associated-with-pusti",
-    "from": "vallabha",
-    "relationship": "related-to",
-    "to": "shuddhadvaita-pusti",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Vallabha's concept of puṣṭi (grace) is central to the Puṣṭi-mārga; represented here as a catalogue entry.\n---",
-    "contentHash": "7192bc8a43077d731c1f7ef01e92bbce060d48b36d5a0997e568a5cef221ea4f",
-    "sourceFile": "src\\content\\relationships\\vallabha-concept-pusti.md"
-  },
-  {
-    "id": "vishishtadvaita-prapatti-associated-with-ramanuja",
-    "from": "vishishtadvaita-prapatti",
-    "relationship": "related-to",
-    "to": "ramanuja",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Rāmānuja systematized prapatti (śaraṇāgati) as the path of self-surrender; represented here as a catalogue entry.\n---",
-    "contentHash": "69d2809b5cbfd61859bc247a0d9991a89855e51c1edd7ec227b8221ccb359bb5",
-    "sourceFile": "src\\content\\relationships\\vishishtadvaita-prapatti-acharya-ramanuja.md"
-  },
-  {
-    "id": "vishnu-associated-with-janmashtami",
-    "from": "vishnu",
-    "relationship": "celebrated-during",
-    "to": "janmashtami",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Kṛṣṇa Janmāṣṭamī celebrates the birth of Kṛṣṇa, avatar of Viṣṇu; represented here as a catalogue entry.\n---",
-    "contentHash": "4e85509a984ae9ee3a81e083113e33c23cfdd19baaa67f5d321b6f2110623a93",
-    "sourceFile": "src\\content\\relationships\\vishnu-festival-janmashtami.md"
-  },
-  {
-    "id": "vishnu-associated-with-ramanavami",
-    "from": "vishnu",
-    "relationship": "celebrated-during",
-    "to": "ramanavami",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "editorialNote": "Rāma Navamī celebrates the birth of Rāma, avatar of Viṣṇu; represented here as a catalogue entry.\n---",
-    "contentHash": "2b6fc68280a6b1e51fb63a06045e4584b0a4acbee6e3de1b4fc062799e55c32e",
-    "sourceFile": "src\\content\\relationships\\vishnu-festival-ramanavami.md"
-  },
-  {
-    "id": "vishnu-associated-with-hare-krishna",
-    "from": "vishnu",
-    "relationship": "related-to",
-    "to": "hare-krishna-mahamantra",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "The Hare Kṛṣṇa Mahāmantra is the principal mantra of the Gauḍīya Vaiṣṇava tradition for Kṛṣṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "e7600bfe504ff8e4261117494e8095e22d5b7b38b6ba68ece3ce06069a52b7e5",
-    "sourceFile": "src\\content\\relationships\\vishnu-mantra-hare-krishna.md"
-  },
-  {
-    "id": "vishnu-associated-with-om-namo-narayanaya",
-    "from": "vishnu",
-    "relationship": "related-to",
-    "to": "om-namo-narayanaya",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Oṃ Namo Nārāyaṇāya is the eight-syllable mantra of Viṣṇu/Nārāyaṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "f0923b69129e9299cee50d09faa6be3fb47a8335cdf5c27a3ce78ee3cc63aa51",
-    "sourceFile": "src\\content\\relationships\\vishnu-mantra-om-namo-narayanaya.md"
-  },
-  {
-    "id": "vishnu-associated-with-badrinath",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "badrinath",
-    "sourceIds": [
-      "gretil",
-      "uttarakhand-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Badrinātha Temple in Uttarakhand is one of the Char Dham sites dedicated to Viṣṇu; represented here as a catalogue entry.\n---",
-    "contentHash": "4643be5072af396a70c8436bf6ce3924389070e1fc92ffb50a49612e93e14de6",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-badrinath.md"
-  },
-  {
-    "id": "vishnu-associated-with-dwaraka",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "dwaraka",
-    "sourceIds": [
-      "gretil",
-      "gujarat-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Dvārakādhīśa Temple at Dvārakā is one of the Char Dham sites dedicated to Kṛṣṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "9f703aeaf0e965217425347d9357b57aa9c03f3272a20fb8044c44423e59979f",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-dwaraka.md"
-  },
-  {
-    "id": "vishnu-associated-with-guruvayur",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "guruvayur",
-    "sourceIds": [
-      "gretil",
-      "kerala-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Guruvāyūr Temple is dedicated to Kṛṣṇa as Guruvāyūrappan; represented here as a catalogue entry.\n---",
-    "contentHash": "b25cb729bda8f028d2e69335c83f9eadf1dab2403ca71bb8015d92db955b703f",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-guruvayur.md"
-  },
-  {
-    "id": "vishnu-associated-with-jagannath-puri",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "jagannath-puri",
-    "sourceIds": [
-      "gretil",
-      "odisha-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Jagannātha Temple at Purī is one of the Char Dham sites dedicated to Jagannātha (Viṣṇu/Kṛṣṇa); represented here as a catalogue entry.\n---",
-    "contentHash": "e17076cd43a0493e10745cedfd69ddb4733b0f8aa3fd1d21ec6593814907316d",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-jagannath-puri.md"
-  },
-  {
-    "id": "vishnu-associated-with-srirangam",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "srirangam",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Śrīraṅgam Temple is the largest functioning Viṣṇu temple and first of the 108 Divya Deśams; represented here as a catalogue entry.\n---",
-    "contentHash": "7f35d3a8fc6d2eb2ba509b5ef8f15a81a46b2fe393489a16008e92914e2d074c",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-srirangam.md"
-  },
-  {
-    "id": "vishnu-associated-with-tirupati",
-    "from": "vishnu",
-    "relationship": "located-at",
-    "to": "tirupati-tirumala",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Tirumala Venkateswara Temple is dedicated to Veṅkaṭeśvara (Viṣṇu); represented here as a catalogue entry.\n---",
-    "contentHash": "92ff760ab3218e22763a1fdeb430798b972cf43d1373cb10e1a1bff3a2abf0b1",
-    "sourceFile": "src\\content\\relationships\\vishnu-temple-tirupati.md"
-  },
-  {
-    "id": "vishnu-associated-with-vaishnava",
-    "from": "vishnu",
-    "relationship": "associated-with",
-    "to": "vaishnava",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Viṣṇu is the supreme deity of the Vaiṣṇava tradition; represented here as a catalogue entry.\n---",
-    "contentHash": "c112a47adcfdf3733f0a528bbd8ea1ea2d8dda003f5e1abc13392dc562dbab56",
-    "sourceFile": "src\\content\\relationships\\vishnu-tradition-vaishnava.md"
-  },
-  {
-    "id": "vitthal-associated-with-pandharpur",
-    "from": "vitthal",
-    "relationship": "located-at",
-    "to": "pandharpur",
-    "sourceIds": [
-      "gretil",
-      "maharashtra-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Viṭṭhala Temple at Pāṇḍharpur is the principal shrine of Viṭṭhala; represented here as a catalogue entry.\n---",
-    "contentHash": "41f7ca48e831a20601d164c4f5ff34c409a0cc15f7a851e789b1ff4c4e791c71",
-    "sourceFile": "src\\content\\relationships\\vitthal-temple-pandharpur.md"
-  },
-  {
-    "id": "vrata-associated-with-navaratri",
-    "from": "vrata",
-    "relationship": "related-to",
-    "to": "navaratri",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Navarātri involves various vrata (vowed observances) including fasting; represented here as a catalogue entry.\n---",
-    "contentHash": "4b759ddbc1e414564787817af0acc334f84a81f815358a18637657f3b8a45edb",
-    "sourceFile": "src\\content\\relationships\\vrata-associated-with-navaratri.md"
-  },
-  {
-    "id": "yajna-associated-with-yajurveda",
-    "from": "yajna",
-    "relationship": "related-to",
-    "to": "yajurveda",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Yajña procedures are prescribed in the Yajurveda; represented here as a catalogue entry.\n---",
-    "contentHash": "184ae63d8210ea2472a6686b5076fdf78e3ae7c44791027b1b96d233ca3737ea",
-    "sourceFile": "src\\content\\relationships\\yajna-scripture-yajurveda.md"
-  },
-  {
-    "id": "yajurveda-associated-with-vedic-ritual",
-    "from": "yajurveda",
     "relationship": "contains",
-    "to": "vedic-ritual",
+    "to": "aitareya-upanishad",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Yajurveda contains prose mantras for Vedic rituals (yajña); represented here as a catalogue entry.\n---",
-    "contentHash": "c205181f755751e65e22063fa85d1423b0a9157f7f559779b65aa91dffc18d7d",
-    "sourceFile": "src\\content\\relationships\\yajurveda-concept-vedic-ritual.md"
+    "editorialNote": "The Upaniṣads include the Aitareya Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "b36fca656c7862ff98653495608a423bc0f48fe76d75cf950213e32f64b0de9f",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-aitareya.md"
   },
   {
-    "id": "yajurveda-associated-with-taittiriya-sakha",
+    "id": "upanishads-contains-brihadaranyaka",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "brihadaranyaka-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Bṛhadāraṇyaka Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "3661812e683febfe996dab35fc6a140071a76c6fe6bef07915c23dbdd8a6751b",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-brihadaranyaka.md"
+  },
+  {
+    "id": "upanishads-contains-chandogya",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "chandogya-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Chāndogya Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "8891e78efcd48fe7b751e519cfca76c5de362437dc82f8293a9c0945b64b5225",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-chandogya.md"
+  },
+  {
+    "id": "upanishads-contains-principal",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "isha-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The principal Upaniṣads include Īśa; represented here as a catalogue entry.\n---",
+    "contentHash": "28127ff74f304bb216615715c3214dea1076245a8227dcfe2f6f45086ba81a57",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-isha.md"
+  },
+  {
+    "id": "upanishads-contains-katha",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "katha-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Kaṭha Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "8b72e1cdb00c7a76b166de6a6f8ae40115bd9cbba77e2aeecef92a1fa1564098",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-katha.md"
+  },
+  {
+    "id": "upanishads-contains-kena",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "kena-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Kena Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "827c454c295619f8e928ea44853c49e1baa996f722a19c515e8fbc13daf94e9b",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-kena.md"
+  },
+  {
+    "id": "upanishads-contains-mandukya",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "mandukya-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Māṇḍūkya Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "b88e5a69037e893f591cb3fced191a21e0a01076a388926b23255175af917a02",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-mandukya.md"
+  },
+  {
+    "id": "upanishads-contains-mundaka",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "mundaka-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Muṇḍaka Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "95b1f5fbb7bb22ad0d1eb911c5a32f82485c66bdf2de9db3ef95dd3407feb821",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-mundaka.md"
+  },
+  {
+    "id": "upanishads-contains-prashna",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "prashna-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Praśna Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "003e019304b2af41321f3e92a6c5b3ddc516f2d137a431377dcd6c4a7c518a69",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-prashna.md"
+  },
+  {
+    "id": "upanishads-contains-taittiriya",
+    "from": "upanishads",
+    "relationship": "contains",
+    "to": "taittiriya-upanishad",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Upaniṣads include the Taittirīya Upaniṣad; represented here as a catalogue entry.\n---",
+    "contentHash": "4fb6d3be17f4d6e638052f4151c05087511fa70d2f529ab1684ee64e41eb95c0",
+    "sourceFile": "src\\content\\relationships\\upanishads-contains-taittiriya.md"
+  },
+  {
+    "id": "yajurveda-contains-krishna-sukla",
     "from": "yajurveda",
     "relationship": "contains",
     "to": "yajurveda-sakha",
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Yajurveda has Kṛṣṇa (Taittirīya, Maitrāyaṇīya) and Śukla (Mādhyandina, Kāṇva) recensions; represented here as a catalogue entry.\n---",
-    "contentHash": "eddea1cec0e1122224e16e8fad9e8676b6546177be712cbdb7ea47afff16b48d",
-    "sourceFile": "src\\content\\relationships\\yajurveda-sakha-scripture.md"
-  },
-  {
-    "id": "yoga-ashtanga-associated-with-yoga-sutra",
-    "from": "yoga-ashtanga",
-    "relationship": "related-to",
-    "to": "yoga-sutra",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "The eight limbs (aṣṭāṅga) of Yoga are defined in the Yoga Sūtra of Patañjali; represented here as a catalogue entry.\n---",
-    "contentHash": "a553b6560fef0062b56c48e562be16fa85ce172b1b55750ab51d7f97f7131b8d",
-    "sourceFile": "src\\content\\relationships\\yoga-ashtanga-scripture-yoga-sutra.md"
-  },
-  {
-    "id": "yoga-darshana-associated-with-yoga-sutra",
-    "from": "yoga-darshana",
-    "relationship": "related-to",
-    "to": "yoga-sutra",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "The Yoga Sūtra of Patañjali is the foundational text of Yoga darśana; represented here as a catalogue entry.\n---",
-    "contentHash": "bd3f012b83f0f8e7f91df87e9acb89a7918c1869313b7f62f3d580b00e8872f1",
-    "sourceFile": "src\\content\\relationships\\yoga-darshana-scripture-yoga-sutra.md"
-  },
-  {
-    "id": "yoga-samadhi-associated-with-yoga-sutra",
-    "from": "yoga-samadhi",
-    "relationship": "related-to",
-    "to": "yoga-sutra",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "The stages of samādhi are defined in the Yoga Sūtra of Patañjali; represented here as a catalogue entry.\n---",
-    "contentHash": "41df0f0256479334ab59bd8e4a0a16283636c13b440886c1196fd7e68073bf8a",
-    "sourceFile": "src\\content\\relationships\\yoga-samadhi-scripture-yoga-sutra.md"
-  },
-  {
-    "id": "yoga-viveka-khyati-associated-with-yoga-sutra",
-    "from": "yoga-viveka-khyati",
-    "relationship": "related-to",
-    "to": "yoga-sutra",
-    "sourceIds": [
-      "gretil"
-    ],
-    "editorialNote": "Viveka-khyāti (discriminative knowledge) is the goal of Yoga as per the Yoga Sūtra; represented here as a catalogue entry.\n---",
-    "contentHash": "c8b4511aa16640862d3cc125a7e50c66151c9c8e5c1bc799a0276ffb060f2468",
-    "sourceFile": "src\\content\\relationships\\yoga-viveka-khyati-scripture-yoga-sutra.md"
+    "editorialNote": "The Yajurveda is transmitted in Kṛṣṇa and Śukla recensions; represented here as a catalogue entry.\n---",
+    "contentHash": "5726e91ac813d9ff2168e4913f231722c2713a8cd57ed5ae507ff34064e491d6",
+    "sourceFile": "src\\content\\relationships\\yajurveda-contains-sakhas.md"
   }
 ]
