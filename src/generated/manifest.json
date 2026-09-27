@@ -1,6 +1,6 @@
 {
-  "entities": 653,
-  "published": 650,
+  "entities": 694,
+  "published": 691,
   "draft": 3,
   "entitiesByType": {
     "article": [
@@ -739,36 +739,6 @@
         "body": "The traditional Bharatanatyam performance repertoire (mārgam): alarippu (invocation), jatisvaram (pure dance), śabdam (lyric dance), varṇam (centerpiece), padam (abhinaya), tillāṇa (finale), and ślokam/maṅgalam (conclusion); the role of nattuvanār, the mridangam, violin, and flute accompaniment are represented here as a catalogue entry.\n---",
         "contentHash": "9d4d57c22cc0ee7819a60cdfc8560eb4385965ebb4f6cc632c2a1e1a85bb0d8e",
         "sourceFile": "src\\content\\concepts\\bharatanatyam-repertoire.md"
-      },
-      {
-        "id": "bhavishya-purana",
-        "title": "Bhaviṣya Purāṇa",
-        "type": "concept",
-        "language": [
-          "sa",
-          "en"
-        ],
-        "aliases": [
-          "Bhavishya Purana",
-          "भविष्य पुराण"
-        ],
-        "sources": [
-          "gretil"
-        ],
-        "status": "published",
-        "verification": "verified",
-        "classifications": [
-          "PURANA",
-          "CONCEPT"
-        ],
-        "description": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry. ---",
-        "sourceIds": [
-          "gretil"
-        ],
-        "relationshipIds": [],
-        "body": "The Bhaviṣya Purāṇa, a Mahāpurāṇa in four parts (Brāhma, Madhyama, Pratisarga, Uttara), containing prophecies (bhaviṣya) about future dynasties, the coming of various religious figures, and the Kali Yuga; its historical layers and textual complexity are represented here as a catalogue entry.\n---",
-        "contentHash": "616d141df8347872bc808a5d1553da928f63046439a835e22ed89f170bff4673",
-        "sourceFile": "src\\content\\concepts\\bhavishya-purana.md"
       },
       {
         "id": "bhedabheda-avibhaga",
@@ -7501,29 +7471,34 @@
         "aliases": [
           "Carnatic Music",
           "Carnatic",
-          "कर्नाटक संगीत"
+          "कर्नाटक संगीत",
+          "கர்நாடக சங்கீதம்",
+          "కర్నాటక సంగీతం",
+          "കർണാടക സംഗീതം"
         ],
         "sources": [
           "gretil",
           "kalakshetra-foundation",
-          "tamil-nadu-tourism-department"
+          "tamil-nadu-tourism-department",
+          "sangeet-natak-akademi"
         ],
         "status": "published",
         "verification": "verified",
         "classifications": [
           "CONCEPT",
-          "Culture",
-          "Music"
+          "CULTURE",
+          "MUSIC"
         ],
-        "description": "The classical music tradition of South India, with its rāga, tāḷa, and compositional forms (kṛti, varṇam, tillāṇa); its history, composers (Tyāgarāja, Muttusvāmi Dīkṣitar, Śyāma Śāstri), and pedagogy are represented here as a catalogue entry.",
+        "description": "Karnāṭaka Saṅgīta (कर्नाटक संगीत / கர்நாடக சங்கீதம் / കർണാടക സംഗീതం), the classical music tradition of South India (Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, Telangana). Core: rāga (melodic framework), tāḷa (rhythmic cycle), and compositional forms — varṇam, kṛti, tillāṇa, javali, padam, svarajati. The Trinity (18th-19th c.): Tyāgarāja (kṛti perfection, bhakti), Muttusvāmi Dīkṣitar (Sanskrit, śrī vidyā, western notes), Śyāma Śāstri (Svarajati, Kāmākṣi). Pedagogy: sarali varisai, jaṇṭai varisai, daṭṭu varisai, alankāram, gītaṃ, svarajati, varṇam, kṛti. The 72 melakarta rāga system (Venkatamakhin). Instruments: vīṇā, veṇu, violin, mṛdaṅgam, ghaṭam, kanjira, morsing. The December Music Season (Chennai) is the world's largest classical music festival. --- The classical music tradition of South India, with its rāga, tāḷa, and compositional forms (kṛti, varṇam, tillāṇa); its history, composers (Tyāgarāja, Muttusvāmi Dīkṣitar, Śyāma Śāstri), and pedagogy are represented here as a catalogue entry.",
         "sourceIds": [
           "gretil",
           "kalakshetra-foundation",
-          "tamil-nadu-tourism-department"
+          "tamil-nadu-tourism-department",
+          "sangeet-natak-akademi"
         ],
         "relationshipIds": [],
-        "body": "The classical music tradition of South India, with its rāga, tāḷa, and compositional forms (kṛti, varṇam, tillāṇa); its history, composers (Tyāgarāja, Muttusvāmi Dīkṣitar, Śyāma Śāstri), and pedagogy are represented here as a catalogue entry.",
-        "contentHash": "c4641f75afc5b272297d8f33c583080f44f81becd05bb5b32032644ddfae4ec8",
+        "body": "Karnāṭaka Saṅgīta (कर्नाटक संगीत / கர்நாடக சங்கீதம் / കർണാടക സംഗീതం), the classical music tradition of South India (Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, Telangana). Core: rāga (melodic framework), tāḷa (rhythmic cycle), and compositional forms — varṇam, kṛti, tillāṇa, javali, padam, svarajati. The Trinity (18th-19th c.): Tyāgarāja (kṛti perfection, bhakti), Muttusvāmi Dīkṣitar (Sanskrit, śrī vidyā, western notes), Śyāma Śāstri (Svarajati, Kāmākṣi). Pedagogy: sarali varisai, jaṇṭai varisai, daṭṭu varisai, alankāram, gītaṃ, svarajati, varṇam, kṛti. The 72 melakarta rāga system (Venkatamakhin). Instruments: vīṇā, veṇu, violin, mṛdaṅgam, ghaṭam, kanjira, morsing. The December Music Season (Chennai) is the world's largest classical music festival.\n---\nThe classical music tradition of South India, with its rāga, tāḷa, and compositional forms (kṛti, varṇam, tillāṇa); its history, composers (Tyāgarāja, Muttusvāmi Dīkṣitar, Śyāma Śāstri), and pedagogy are represented here as a catalogue entry.",
+        "contentHash": "2c30ab4b41d40cedc4a92b9e0c52b5b79f5af5d85ad6f3938c2ce8ed4ad3ae0f",
         "sourceFile": "src\\content\\culture\\carnatic-music.md"
       },
       {
@@ -7747,7 +7722,7 @@
       },
       {
         "id": "kathakali",
-        "title": "Kathakali",
+        "title": "Kāṭhakaḷi",
         "type": "concept",
         "language": [
           "sa",
@@ -7756,29 +7731,32 @@
         ],
         "aliases": [
           "Kathakali",
-          "कथकली"
+          "कथकली",
+          "കഥകളി"
         ],
         "sources": [
           "gretil",
           "kalakshetra-foundation",
-          "kerala-tourism"
+          "kerala-tourism",
+          "sangeet-natak-akademi"
         ],
         "status": "published",
         "verification": "verified",
         "classifications": [
           "CONCEPT",
-          "Culture",
-          "Art"
+          "CULTURE",
+          "ART"
         ],
-        "description": "The classical dance-drama tradition of Kerala, with elaborate costume, makeup, and facial expressions; its repertoire (āṭṭakathās), music, and training system are represented here as a catalogue entry.",
+        "description": "Kāṭhakaḷi (കഥകളി), Kerala's classical dance-drama (17th century synthesis of Kṛṣṇanāṭṭam, Rāmanāṭṭam, and folk traditions). Key elements: elaborate vesham (makeup/costume) — paccā (green, noble), kaṭṭi (knife, anti-hero), kari (black, demoness), taṭi (beard: white=divine, red=evil, black=hunter), minukku (radiant, female/sage); the navarasas (nine emotions) through facial muscles (netrābhinaya); the āṭṭakathās (scripts) from Mahābhārata, Rāmāyaṇa, Bhāgavata (e.g., Nalacaritam, Kalyāṇasaugandhikam); sopāna-saṅgīta (Sopana music) with ceṇḍa, maṭalam, elathāḷam; rigorous gurukula training (8-10 years) at Kala Mandalam, Kottakkal. Recognized by UNESCO as Intangible Cultural Heritage. A synthesis of nṛtya (dance), nṛtta (pure movement), and nāṭya (drama). --- The classical dance-drama tradition of Kerala, with elaborate costume, makeup, and facial expressions; its repertoire (āṭṭakathās), music, and training system are represented here as a catalogue entry.",
         "sourceIds": [
           "gretil",
           "kalakshetra-foundation",
-          "kerala-tourism"
+          "kerala-tourism",
+          "sangeet-natak-akademi"
         ],
         "relationshipIds": [],
-        "body": "The classical dance-drama tradition of Kerala, with elaborate costume, makeup, and facial expressions; its repertoire (āṭṭakathās), music, and training system are represented here as a catalogue entry.",
-        "contentHash": "aa683dc13229ca188744c213cefd5719b3fa8d72d87a858c7427e299a4765cd7",
+        "body": "Kāṭhakaḷi (കഥകളി), Kerala's classical dance-drama (17th century synthesis of Kṛṣṇanāṭṭam, Rāmanāṭṭam, and folk traditions). Key elements: elaborate vesham (makeup/costume) — paccā (green, noble), kaṭṭi (knife, anti-hero), kari (black, demoness), taṭi (beard: white=divine, red=evil, black=hunter), minukku (radiant, female/sage); the navarasas (nine emotions) through facial muscles (netrābhinaya); the āṭṭakathās (scripts) from Mahābhārata, Rāmāyaṇa, Bhāgavata (e.g., Nalacaritam, Kalyāṇasaugandhikam); sopāna-saṅgīta (Sopana music) with ceṇḍa, maṭalam, elathāḷam; rigorous gurukula training (8-10 years) at Kala Mandalam, Kottakkal. Recognized by UNESCO as Intangible Cultural Heritage. A synthesis of nṛtya (dance), nṛtta (pure movement), and nāṭya (drama).\n---\nThe classical dance-drama tradition of Kerala, with elaborate costume, makeup, and facial expressions; its repertoire (āṭṭakathās), music, and training system are represented here as a catalogue entry.",
+        "contentHash": "9da38231cc5b17a1f1c483cb1dcc3bfab53659b647170ae44046f5e7b22c672e",
         "sourceFile": "src\\content\\culture\\kathakali.md"
       },
       {
@@ -7934,29 +7912,32 @@
         ],
         "aliases": [
           "Mohiniyattam",
-          "मोहिनीयट्टम्"
+          "मोहिनीयट्टम्",
+          "മോഹിനിയാട്ടം"
         ],
         "sources": [
           "gretil",
           "kalakshetra-foundation",
-          "kerala-tourism"
+          "kerala-tourism",
+          "sangeet-natak-akademi"
         ],
         "status": "published",
         "verification": "verified",
         "classifications": [
           "CONCEPT",
-          "Culture",
-          "Art"
+          "CULTURE",
+          "ART"
         ],
-        "description": "The classical solo dance tradition of Kerala, characterized by graceful circular movements and feminine expression; its repertoire and historical reconstruction are represented here as a catalogue entry.",
+        "description": "Mohiniyāṭṭam (മോഹിനിയാട്ടം), Kerala's classical solo dance (lasya style), traditionally performed by women. Reconstructed in the 1930s by V.N. Menon and Kala Mandalam (Vallathol Narayana Menon, Mukundraj). Key elements: graceful circular movements (cuzhippu), swaying gait (gamana), subtle facial expressions (sāttvika abhinaya), white/cream costume with gold border (kasavu), jasmine hair adornment. The repertoire: colkeṭṭu (invocation), jati-svaram, varṇam, padam, tillānā. Music: Sopana style, Carnatic rāgas (Tōḍi, Bhairavi, Kalyāṇi), accompaniment: veena, veṇu, maddaḷam, eḷattāḷam. Themes: Śṛṅgāra (love), Bhakti (devotion to Viṣṇu/Kṛṣṇa). Mohinī = Viṣṇu's enchantress form (distributing amṛta). Recognized by Sangeet Natak Akademi. --- The classical solo dance tradition of Kerala, characterized by graceful circular movements and feminine expression; its repertoire and historical reconstruction are represented here as a catalogue entry.",
         "sourceIds": [
           "gretil",
           "kalakshetra-foundation",
-          "kerala-tourism"
+          "kerala-tourism",
+          "sangeet-natak-akademi"
         ],
         "relationshipIds": [],
-        "body": "The classical solo dance tradition of Kerala, characterized by graceful circular movements and feminine expression; its repertoire and historical reconstruction are represented here as a catalogue entry.",
-        "contentHash": "5f7788149dd70a6e43ab66adda6f99852a96422cf0c9442b3abe2180157f78c2",
+        "body": "Mohiniyāṭṭam (മോഹിനിയാട്ടം), Kerala's classical solo dance (lasya style), traditionally performed by women. Reconstructed in the 1930s by V.N. Menon and Kala Mandalam (Vallathol Narayana Menon, Mukundraj). Key elements: graceful circular movements (cuzhippu), swaying gait (gamana), subtle facial expressions (sāttvika abhinaya), white/cream costume with gold border (kasavu), jasmine hair adornment. The repertoire: colkeṭṭu (invocation), jati-svaram, varṇam, padam, tillānā. Music: Sopana style, Carnatic rāgas (Tōḍi, Bhairavi, Kalyāṇi), accompaniment: veena, veṇu, maddaḷam, eḷattāḷam. Themes: Śṛṅgāra (love), Bhakti (devotion to Viṣṇu/Kṛṣṇa). Mohinī = Viṣṇu's enchantress form (distributing amṛta). Recognized by Sangeet Natak Akademi.\n---\nThe classical solo dance tradition of Kerala, characterized by graceful circular movements and feminine expression; its repertoire and historical reconstruction are represented here as a catalogue entry.",
+        "contentHash": "c07e678581c9469d833498ef6dc46d9c201eee2387273674e93aa1077c3a25c1",
         "sourceFile": "src\\content\\culture\\mohiniyattam.md"
       },
       {
@@ -8253,17 +8234,21 @@
         "language": [
           "sa",
           "en",
-          "ml"
+          "ml",
+          "ta"
         ],
         "aliases": [
           "Ayyappan",
           "Ayyappa",
           "Sastha",
-          "अय्यप्पन"
+          "अय्यप्पन",
+          "അയ്യപ്പന്‍",
+          "ஐயப்பன்"
         ],
         "sources": [
           "gretil",
-          "kerala-tourism"
+          "kerala-tourism",
+          "archaeological-survey-of-india"
         ],
         "status": "published",
         "verification": "verified",
@@ -8272,14 +8257,15 @@
           "TRADITION",
           "CONCEPT"
         ],
-        "description": "Ayyappan (Śāstā, Hariharaputra), the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī); his celibacy (naiṣṭhika brahmacarya), the 18 holy steps (patinettampadi), the 41-day vrata (maṇḍala kālam), the pilgrimage to Sabarimala; his syncretic Śaiva-Vaiṣṇava nature and pan-South Indian popularity are represented here as a catalogue entry. ---",
+        "description": "Ayyappan (അയ്യപ്പന്‍ / ஐயப்பன்), also Śāstā, Hariharaputra, Dharma-Śāstā — the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī). Embodies the synthesis of Śaiva and Vaiṣṇava traditions. Key attributes: celibacy (naiṣṭhika brahmacarya), the 18 holy steps (paṭinēṭṭāmpaṭi / பதினெட்டாம்படி), the 41-day vrata (maṇḍala kālam / மண்டல காலம்) with strict observances (black/blue clothes, no shaving, brahmacarya, daily bath). The pilgrimage to Sabarimala (Kerala) draws 40-50 million annually (Nov-Jan). The Makaravilakku (Makara Jyoti) on Makara Saṅkrānti is the climax. Worshipped across Kerala, Tamil Nadu, Karnataka, and beyond. The Vāvaru (Muslim devotee) shrine at Erumeli exemplifies communal harmony. ---",
         "sourceIds": [
           "gretil",
-          "kerala-tourism"
+          "kerala-tourism",
+          "archaeological-survey-of-india"
         ],
         "relationshipIds": [],
-        "body": "Ayyappan (Śāstā, Hariharaputra), the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī); his celibacy (naiṣṭhika brahmacarya), the 18 holy steps (patinettampadi), the 41-day vrata (maṇḍala kālam), the pilgrimage to Sabarimala; his syncretic Śaiva-Vaiṣṇava nature and pan-South Indian popularity are represented here as a catalogue entry.\n---",
-        "contentHash": "d010320e12aa0b7e59a1b83c89d943940e2416068490301fff4409bca86c2b43",
+        "body": "Ayyappan (അയ്യപ്പന്‍ / ஐயப்பன்), also Śāstā, Hariharaputra, Dharma-Śāstā — the deity of Sabarimala, born from the union of Śiva and Viṣṇu (as Mohinī). Embodies the synthesis of Śaiva and Vaiṣṇava traditions. Key attributes: celibacy (naiṣṭhika brahmacarya), the 18 holy steps (paṭinēṭṭāmpaṭi / பதினெட்டாம்படி), the 41-day vrata (maṇḍala kālam / மண்டல காலம்) with strict observances (black/blue clothes, no shaving, brahmacarya, daily bath). The pilgrimage to Sabarimala (Kerala) draws 40-50 million annually (Nov-Jan). The Makaravilakku (Makara Jyoti) on Makara Saṅkrānti is the climax. Worshipped across Kerala, Tamil Nadu, Karnataka, and beyond. The Vāvaru (Muslim devotee) shrine at Erumeli exemplifies communal harmony.\n---",
+        "contentHash": "7469668a3e289519fa839e6ee7fdb7553354f794a0d417cb1e57090196527eeb",
         "sourceFile": "src\\content\\deities\\ayyappan.md"
       },
       {
@@ -8288,10 +8274,25 @@
         "type": "deity",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
+          "bn",
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Devi",
+          "देवी",
+          "தேவி",
+          "దేవీ",
+          "ದೇವಿ",
+          "ദേവി",
+          "দেবী",
+          "દેવી",
           "देवी"
         ],
         "sources": [
@@ -8303,13 +8304,13 @@
           "DEITY",
           "TRADITION"
         ],
-        "description": "The Goddess in her manifold forms; this record represents the broad category of Devī-centered traditions without collapsing their distinct textual and ritual expressions.",
+        "description": "Devī (देवी / தேவி / ਦੇਵੀ / ദേവি / দেবী), the Goddess, Śakti, Ambikā, Durgā, Pārvatī, Kālī, Lakṣmī, Sarasvatī, Mahiṣāsuramardinī, Caṇḍikā, Annapūrṇā, Kāmākṣī, Mīnākṣī. Central to Śākta traditions (Śrīvidyā, Kālikā, Durgā Pūjā). The Devī Māhātmya (Durgā Saptashatī, Caṇḍī-pāṭha) is the foundational text. Manifestations: Navadurgā (9 forms), Daśamahāvidyā (10 wisdom goddesses), Aṣṭalakṣmī (8 Lakṣmīs). Consort of Śiva (Pārvatī), Viṣṇu (Lakṣmī), Brahmā (Sarasvatī). Festivals: Navarātrī/Durgā Pūjā, Vasanta Navarātrī, Kālī Pūjā, Lakṣmī Pūjā, Sarasvatī Pūjā. Śākta Pīṭhas: 51/108 sites (Kāmākhyā, Kālikā, Jvālāmukhī, Viśālākṣī). --- The Goddess in her manifold forms; this record represents the broad category of Devī-centered traditions without collapsing their distinct textual and ritual expressions.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Goddess in her manifold forms; this record represents the broad category of Devī-centered traditions without collapsing their distinct textual and ritual expressions.",
-        "contentHash": "d537843af72c9b8eb1c09e5df01b58abb324c0cc40b7a7dfabf247e006927332",
+        "body": "Devī (देवी / தேவி / ਦੇਵੀ / ദേവি / দেবী), the Goddess, Śakti, Ambikā, Durgā, Pārvatī, Kālī, Lakṣmī, Sarasvatī, Mahiṣāsuramardinī, Caṇḍikā, Annapūrṇā, Kāmākṣī, Mīnākṣī. Central to Śākta traditions (Śrīvidyā, Kālikā, Durgā Pūjā). The Devī Māhātmya (Durgā Saptashatī, Caṇḍī-pāṭha) is the foundational text. Manifestations: Navadurgā (9 forms), Daśamahāvidyā (10 wisdom goddesses), Aṣṭalakṣmī (8 Lakṣmīs). Consort of Śiva (Pārvatī), Viṣṇu (Lakṣmī), Brahmā (Sarasvatī). Festivals: Navarātrī/Durgā Pūjā, Vasanta Navarātrī, Kālī Pūjā, Lakṣmī Pūjā, Sarasvatī Pūjā. Śākta Pīṭhas: 51/108 sites (Kāmākhyā, Kālikā, Jvālāmukhī, Viśālākṣī).\n---\nThe Goddess in her manifold forms; this record represents the broad category of Devī-centered traditions without collapsing their distinct textual and ritual expressions.",
+        "contentHash": "a344cd58c77b76b4065e22fefad36ace88998515368921377f24f812e07cc64a",
         "sourceFile": "src\\content\\deities\\devi.md"
       },
       {
@@ -8318,10 +8319,25 @@
         "type": "deity",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
+          "bn",
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Ganesha",
+          "गणेश",
+          "விநாயகர்",
+          "గణేశుడు",
+          "ಗಣೇಶ",
+          "ഗണപതി",
+          "গণেশ",
+          "ગણેશ",
           "गणेश"
         ],
         "sources": [
@@ -8334,13 +8350,13 @@
           "TRADITION",
           "PRACTICE"
         ],
-        "description": "A widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.",
+        "description": "Gaṇeśa (गणेश / விநாயகர் / గణేష్ / ಗಣೇಶ / ഗണപതി / গণেশ / ગણેશ), Vināyaka, Piḷḷaiyār, Vighneśvara, Gajānanā — the elephant-headed deity, remover of obstacles (Vighnahartā), lord of beginnings. Son of Śiva and Pārvatī. Consorts: Siddhi (success), Buddhi (wisdom); or Ṛddhi/Siddhi. Vehicle: Mūṣaka (mouse). Attributes: broken tusk (ekadanta), modaka (sweet), axe, noose. Key texts: Gaṇeśa Purāṇa, Mudgala Purāṇa, Gaṇeśa Atharvaśīrṣa. Worshipped first in all rituals. Festivals: Gaṇeśa Caturthī (Bhādrapada Śukla Caturthī), Vināyaka Caturthī, Saṅkaṣṭī Caturthī (monthly). Regional: Mumbai's Lalbaugcha Raja, Pune's Dagdusheth, Tamil Nadu's Piḷḷaiyārpatti, Kerala's Koṭṭārakkara. --- A widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "A widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.",
-        "contentHash": "c54934f70b5f2356735953fffece9075ebe208bd1758716c1d375b707ccf67d1",
+        "body": "Gaṇeśa (गणेश / விநாயகர் / గణేష్ / ಗಣೇಶ / ഗണപതി / গণেশ / ગણેશ), Vināyaka, Piḷḷaiyār, Vighneśvara, Gajānanā — the elephant-headed deity, remover of obstacles (Vighnahartā), lord of beginnings. Son of Śiva and Pārvatī. Consorts: Siddhi (success), Buddhi (wisdom); or Ṛddhi/Siddhi. Vehicle: Mūṣaka (mouse). Attributes: broken tusk (ekadanta), modaka (sweet), axe, noose. Key texts: Gaṇeśa Purāṇa, Mudgala Purāṇa, Gaṇeśa Atharvaśīrṣa. Worshipped first in all rituals. Festivals: Gaṇeśa Caturthī (Bhādrapada Śukla Caturthī), Vināyaka Caturthī, Saṅkaṣṭī Caturthī (monthly). Regional: Mumbai's Lalbaugcha Raja, Pune's Dagdusheth, Tamil Nadu's Piḷḷaiyārpatti, Kerala's Koṭṭārakkara.\n---\nA widely revered deity whose iconography, narratives, and ritual roles vary across regions, texts, and devotional communities.",
+        "contentHash": "43c07b6660743fc9b7ae15246597a3f259a76c36b135f7f6c2b8ab941a1196bd",
         "sourceFile": "src\\content\\deities\\ganesha.md"
       },
       {
@@ -8412,10 +8428,25 @@
         "type": "deity",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
+          "bn",
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Shiva",
+          "शिव",
+          "சிவன்",
+          "శివుడు",
+          "ಶಿವ",
+          "ശിവന്‍",
+          "শিব",
+          "શિવ",
           "शिव"
         ],
         "sources": [
@@ -8427,13 +8458,13 @@
           "DEITY",
           "TRADITION"
         ],
-        "description": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.",
+        "description": "Śiva (शिव / சிவன் / ಶಿವ / ശിവന്‍ / শিব / શિવ), the Auspicious One, Maheśvara, Rudra, Paśupati, Nīlakaṇṭha, Naṭarāja (cosmic dancer), Dakṣiṇāmūrti (guru), Ardhanārīśvara (half-female). Central to Śaiva traditions (Śaiva Siddhānta, Kashmir Śaivism, Vīraśaivism, Liṅgāyat). The liṅga (aniconic form) is the primary worship focus. Twelve Jyotirliṅgas. Consort: Pārvatī/Śakti. Sons: Gaṇeśa, Skanda. Vāhana: Nandi (bull). Abode: Kailāsa. Key texts: Śiva Purāṇa, Liṅga Purāṇa, Śaiva Āgamas, Tirumuṟai (Tamil). Festivals: Mahāśivarātri, Pradosha, Kārttikai Tīpam. --- A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.",
-        "contentHash": "e713d943d9d7fc5904495762979fab847b3c6473049b9707dbb1b174c4fb78d1",
+        "body": "Śiva (शिव / சிவன் / ಶಿವ / ശിവന്‍ / শিব / શિવ), the Auspicious One, Maheśvara, Rudra, Paśupati, Nīlakaṇṭha, Naṭarāja (cosmic dancer), Dakṣiṇāmūrti (guru), Ardhanārīśvara (half-female). Central to Śaiva traditions (Śaiva Siddhānta, Kashmir Śaivism, Vīraśaivism, Liṅgāyat). The liṅga (aniconic form) is the primary worship focus. Twelve Jyotirliṅgas. Consort: Pārvatī/Śakti. Sons: Gaṇeśa, Skanda. Vāhana: Nandi (bull). Abode: Kailāsa. Key texts: Śiva Purāṇa, Liṅga Purāṇa, Śaiva Āgamas, Tirumuṟai (Tamil). Festivals: Mahāśivarātri, Pradosha, Kārttikai Tīpam.\n---\nA major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Śiva.",
+        "contentHash": "ac5a71fa9791d180e026dd898af14e7ba8e0a2dacc327226b4a45e4c533b74c7",
         "sourceFile": "src\\content\\deities\\shiva.md"
       },
       {
@@ -8504,10 +8535,25 @@
         "type": "deity",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
+          "bn",
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Vishnu",
+          "विष्णु",
+          "விஷ்ணு",
+          "విష్ణు",
+          "ವಿಷ್ಣು",
+          "വിഷ്ണു",
+          "বিষ্ণু",
+          "વિષ્ણુ",
           "विष्णु"
         ],
         "sources": [
@@ -8519,13 +8565,13 @@
           "DEITY",
           "TRADITION"
         ],
-        "description": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
+        "description": "Viṣṇu (विष्णु / விஷ்ணு / ವಿಷ್ಣು / വിഷ്ണു / বিষ্ণુ / વિષ્ણು), the All-Pervading One, Nārāyaṇa, Hari, Kṛṣṇa, Rāma, Vāsudeva, Govinda, Madhava, Keśava. Central to Vaiṣṇava traditions (Śrīvaiṣṇavism, Gauḍīya, Puṣṭimārga, Nimbārka, Madhva). Ten principal avatāras (daśāvatāra): Matsya, Kūrma, Varāha, Narasiṃha, Vāmana, Paraśurāma, Rāma, Kṛṣṇa, Buddha, Kalki. Consort: Lakṣmī/Śrī. Abode: Vaikuṇṭha. Vāhana: Garuḍa. Attributes: Śaṅkha (conch), Cakra (discus), Gada (mace), Padma (lotus). Key texts: Viṣṇu Purāṇa, Bhāgavata Purāṇa, Nārāyaṇīya, Pāñcarātra Āgamas, Nālāyira Divya Prabandham (Tamil). Festivals: Janmāṣṭamī, Rāma-navamī, Vaikuṇṭha Ekādaśī, Onam (Vāmana), Dīpāvalī. --- A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "A major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
-        "contentHash": "013289ea7445d324df8421639c17a8e42c759e5961f0266295c1283652b20685",
+        "body": "Viṣṇu (विष्णु / விஷ்ணு / ವಿಷ್ಣು / വിഷ്ണു / বিষ্ণુ / વિષ્ણು), the All-Pervading One, Nārāyaṇa, Hari, Kṛṣṇa, Rāma, Vāsudeva, Govinda, Madhava, Keśava. Central to Vaiṣṇava traditions (Śrīvaiṣṇavism, Gauḍīya, Puṣṭimārga, Nimbārka, Madhva). Ten principal avatāras (daśāvatāra): Matsya, Kūrma, Varāha, Narasiṃha, Vāmana, Paraśurāma, Rāma, Kṛṣṇa, Buddha, Kalki. Consort: Lakṣmī/Śrī. Abode: Vaikuṇṭha. Vāhana: Garuḍa. Attributes: Śaṅkha (conch), Cakra (discus), Gada (mace), Padma (lotus). Key texts: Viṣṇu Purāṇa, Bhāgavata Purāṇa, Nārāyaṇīya, Pāñcarātra Āgamas, Nālāyira Divya Prabandham (Tamil). Festivals: Janmāṣṭamī, Rāma-navamī, Vaikuṇṭha Ekādaśī, Onam (Vāmana), Dīpāvalī.\n---\nA major deity with diverse textual, ritual, and regional forms; this record does not impose a single theology on the many traditions that center on Viṣṇu.",
+        "contentHash": "f596cc5c90eb6f0cdbb2a5d0b3262df813b8361159ced224bdea478959974773",
         "sourceFile": "src\\content\\deities\\vishnu.md"
       },
       {
@@ -8770,14 +8816,30 @@
         "type": "festival",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
+          "bn",
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Diwali",
-          "दीपावली"
+          "दीपावली",
+          "தீபாவளி",
+          "దీపావళి",
+          "ದೀಪಾವಳಿ",
+          "ദീപാവലി",
+          "দীপাবলি",
+          "દિવાળી",
+          "दिवाळी"
         ],
         "sources": [
-          "gretil"
+          "gretil",
+          "bbc-religions"
         ],
         "status": "published",
         "verification": "verified",
@@ -8786,13 +8848,14 @@
           "CULTURE",
           "REGIONAL_TRADITION"
         ],
-        "description": "A festival of lights observed across regions and communities with varied narratives, rituals, and historical associations.",
+        "description": "Dīpāvalī (दीपावली / தீபாவளி / ദീപാവലি / दिवाळी), the Festival of Lights (dīpa-āvalī = row of lamps). Five days: Dhanteras (wealth, Dhanvantarī), Narka Caturdashī (Kṛṣṇa slays Narakāsura), Amāvasyā (main day, Lakṣmī Pūjā, Rāma's return to Ayodhyā), Govardhan Pūjā (Kṛṣṇa lifts Govardhan), Bhāi Dooj (sibling bond). Lighting dīpas (oil lamps), rangoli, fireworks, sweets, new clothes. Regional: Kālī Pūjā (Bengal, same night), Bandi Chhor Divas (Sikh, Guru Hargobind's release), Bestu Varas (Gujarati New Year), Balipratipada (Maharashtra). Jain: Mahāvīra's nirvāṇa. The universal celebration of light over darkness, knowledge over ignorance. --- A festival of lights observed across regions and communities with varied narratives, rituals, and historical associations.",
         "sourceIds": [
-          "gretil"
+          "gretil",
+          "bbc-religions"
         ],
         "relationshipIds": [],
-        "body": "A festival of lights observed across regions and communities with varied narratives, rituals, and historical associations.",
-        "contentHash": "c3cb3f2d8c3c5edf7a7ca79d316f1c6f125878b159b51b452537350222d809be",
+        "body": "Dīpāvalī (दीपावली / தீபாவளி / ദീപാവലি / दिवाळी), the Festival of Lights (dīpa-āvalī = row of lamps). Five days: Dhanteras (wealth, Dhanvantarī), Narka Caturdashī (Kṛṣṇa slays Narakāsura), Amāvasyā (main day, Lakṣmī Pūjā, Rāma's return to Ayodhyā), Govardhan Pūjā (Kṛṣṇa lifts Govardhan), Bhāi Dooj (sibling bond). Lighting dīpas (oil lamps), rangoli, fireworks, sweets, new clothes. Regional: Kālī Pūjā (Bengal, same night), Bandi Chhor Divas (Sikh, Guru Hargobind's release), Bestu Varas (Gujarati New Year), Balipratipada (Maharashtra). Jain: Mahāvīra's nirvāṇa. The universal celebration of light over darkness, knowledge over ignorance.\n---\nA festival of lights observed across regions and communities with varied narratives, rituals, and historical associations.",
+        "contentHash": "d28a06fe18157b3fcfbf0cc485b098cb4079ce5ff6382cb8b966ad13b7b0c23d",
         "sourceFile": "src\\content\\festivals\\dipavali.md"
       },
       {
@@ -9394,13 +9457,25 @@
           "sa",
           "en",
           "hi",
+          "ta",
+          "te",
+          "kn",
+          "ml",
           "bn",
-          "gu"
+          "gu",
+          "mr"
         ],
         "aliases": [
           "Navaratri",
           "Navratri",
-          "नवरात्रि"
+          "नवरात्रि",
+          "நவராத்திரி",
+          "నవరాత్రి",
+          "ನವರಾತ್ರಿ",
+          "നവരാത്രി",
+          "নৰরাত্রি",
+          "નવરાત્રી",
+          "नवरात्री"
         ],
         "sources": [
           "gretil",
@@ -9413,26 +9488,30 @@
           "REGIONAL_TRADITION",
           "CULTURE"
         ],
-        "description": "The nine-night festival of Navarātri (Navarātri) dedicated to the Goddess (Devī/Durgā) in her various forms; observed in autumn (Śarad Navarātri) and spring (Vasanta Navarātri); regional variations include Durgā Pūjā (Bengal), Golu (Tamil Nadu), Garbā (Gujarat), and Rāmalīlā (North India); its culmination in Vijayadaśamī/Dussehra is represented here as a catalogue entry. ---",
+        "description": "Navarātri (नवरात्रि / நவராத்திரி / നവരാത്രि / নৰরাত্রি / नवरात्री), the nine nights (nava-rātri) dedicated to the Goddess in her three guṇa-forms: Durgā (tamas, days 1-3), Lakṣmī (rajas, days 4-6), Sarasvatī (sattva, days 7-9). Autumn (Śarad, Sept-Oct) and Spring (Vasanta, Mar-Apr). Regional expressions: Durgā Pūjā (Bengal, pandals, immersion), Golu/Kolu (Tamil Nadu/Kerala, doll displays), Bathukamma (Telangana, flower stacks), Garbā/Dāṇḍiyā (Gujarat, circle dances), Mysore Dasara (royal procession), Ramlila (North, Rāma enactment), Ayudha Pūjā (tools/vehicles worship, day 9). Vijayadaśamī (day 10) = Dussehra (Rāma's victory) / Vidyarambha (initiation of learning). Fasting, devī-māhātmya recitation, kanya-pūjana (girls worshipped). ---",
         "sourceIds": [
           "gretil",
           "bbc-religions"
         ],
         "relationshipIds": [],
-        "body": "The nine-night festival of Navarātri (Navarātri) dedicated to the Goddess (Devī/Durgā) in her various forms; observed in autumn (Śarad Navarātri) and spring (Vasanta Navarātri); regional variations include Durgā Pūjā (Bengal), Golu (Tamil Nadu), Garbā (Gujarat), and Rāmalīlā (North India); its culmination in Vijayadaśamī/Dussehra is represented here as a catalogue entry.\n---",
-        "contentHash": "ce951722dc627330516dd4fba24889d85ce39f4293ea4ae4529c8c10b860a6c2",
+        "body": "Navarātri (नवरात्रि / நவராத்திரி / നവരാത്രि / নৰরাত্রি / नवरात्री), the nine nights (nava-rātri) dedicated to the Goddess in her three guṇa-forms: Durgā (tamas, days 1-3), Lakṣmī (rajas, days 4-6), Sarasvatī (sattva, days 7-9). Autumn (Śarad, Sept-Oct) and Spring (Vasanta, Mar-Apr). Regional expressions: Durgā Pūjā (Bengal, pandals, immersion), Golu/Kolu (Tamil Nadu/Kerala, doll displays), Bathukamma (Telangana, flower stacks), Garbā/Dāṇḍiyā (Gujarat, circle dances), Mysore Dasara (royal procession), Ramlila (North, Rāma enactment), Ayudha Pūjā (tools/vehicles worship, day 9). Vijayadaśamī (day 10) = Dussehra (Rāma's victory) / Vidyarambha (initiation of learning). Fasting, devī-māhātmya recitation, kanya-pūjana (girls worshipped).\n---",
+        "contentHash": "83c56d914372118300a6839056ec900feae8375b4fa597d5df0acd9567b275fe",
         "sourceFile": "src\\content\\festivals\\navaratri.md"
       },
       {
         "id": "onam",
-        "title": "Onam",
+        "title": "Oṇam",
         "type": "festival",
         "language": [
           "ml",
-          "en"
+          "en",
+          "sa",
+          "hi"
         ],
         "aliases": [
-          "ഓണം"
+          "Onam",
+          "ഓണം",
+          "ओणम्"
         ],
         "sources": [
           "gretil",
@@ -9446,15 +9525,15 @@
           "REGIONAL_TRADITION",
           "CULTURE"
         ],
-        "description": "A Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.",
+        "description": "Oṇam (ഓണം), the state festival of Kerala, celebrated for ten days in the month of Ciṅgam (Aug-Sep). Commemorates the annual visit of Mahābali (Māvēli), the benevolent asura king, who was sent to Pātāla by Vāmana (Viṣṇu's dwarf avatāra) but granted a yearly return. Key elements: Pukkalam (floral rangoli), Oṇasadhya (feast on banana leaf with 20+ dishes), Vallam-kaḷi (snake boat races), Pulikkali (tiger dance), Tiruvaṭira (women's dance). The festival unites communities across religious lines. Glorified in the Nālāyira Divya Prabandham and associated with the Tṛkkākkāra Vāmana Temple. --- A Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.",
         "sourceIds": [
           "gretil",
           "kerala-tourism",
           "bbc-religions"
         ],
         "relationshipIds": [],
-        "body": "A Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.",
-        "contentHash": "8891f93b5a690de27339ee86c3c981105834ac7b32373609149ab2bee9e7d5d7",
+        "body": "Oṇam (ഓണം), the state festival of Kerala, celebrated for ten days in the month of Ciṅgam (Aug-Sep). Commemorates the annual visit of Mahābali (Māvēli), the benevolent asura king, who was sent to Pātāla by Vāmana (Viṣṇu's dwarf avatāra) but granted a yearly return. Key elements: Pukkalam (floral rangoli), Oṇasadhya (feast on banana leaf with 20+ dishes), Vallam-kaḷi (snake boat races), Pulikkali (tiger dance), Tiruvaṭira (women's dance). The festival unites communities across religious lines. Glorified in the Nālāyira Divya Prabandham and associated with the Tṛkkākkāra Vāmana Temple.\n---\nA Kerala festival combining harvest commemoration with the mythological narrative of Mahabali and Vamana; its practices and narratives vary across communities and are represented here with attention to regional grounding.",
+        "contentHash": "afe72e4348cd6230df5223ab440ca0f016c28afd4f8449907c57b276e5577386",
         "sourceFile": "src\\content\\festivals\\onam.md"
       },
       {
@@ -9749,11 +9828,14 @@
         "type": "festival",
         "language": [
           "ml",
-          "en"
+          "en",
+          "sa",
+          "hi"
         ],
         "aliases": [
           "Vishu",
-          "വിഷു"
+          "വിഷു",
+          "विषु"
         ],
         "sources": [
           "gretil",
@@ -9764,18 +9846,18 @@
         "verification": "verified",
         "classifications": [
           "FESTIVAL",
-          "Festival",
-          "Culture"
+          "REGIONAL_TRADITION",
+          "CULTURE"
         ],
-        "description": "The Malayalam New Year in Kerala, marking the sun's transit into Meda Rāśi; observed with the Vishukkani (auspicious first sight), money gifts (kaineettam), and feasting.",
+        "description": "Viṣu (വിഷു), the Malayalam New Year (Kolla Varṣam), observed on the first day of Meḍam (mid-April) when the Sun enters Meṣa Rāśi. The central ritual is Viṣukkaṇi (വിഷുക്കണി) — the auspicious first sight arranged the night before: a kaṇikonna (golden shower) flowers, rice, coconut, fruits, gold coins, mirror, and the Bhagavad Gītā or Rāmāyaṇa placed before Kṛṣṇa's image. Elders give Kaiṇeṭṭam (money gifts) to younger members. The Sādya feast includes viṣu-kaṭṭu (banana chips), māṅgā-caru (mango curry), and pāyaśam. Fireworks and the Viṣu-veḷḷa (boat race) at Aranmula. Marks the agricultural new year in Kerala. --- The Malayalam New Year in Kerala, marking the sun's transit into Meda Rāśi; observed with the Vishukkani (auspicious first sight), money gifts (kaineettam), and feasting.",
         "sourceIds": [
           "gretil",
           "kerala-tourism",
           "bbc-religions"
         ],
         "relationshipIds": [],
-        "body": "The Malayalam New Year in Kerala, marking the sun's transit into Meda Rāśi; observed with the Vishukkani (auspicious first sight), money gifts (kaineettam), and feasting.",
-        "contentHash": "698eb8614e518268f2787afed9c9fa71cd090c73338d1272d8eabe254e8fe4a9",
+        "body": "Viṣu (വിഷു), the Malayalam New Year (Kolla Varṣam), observed on the first day of Meḍam (mid-April) when the Sun enters Meṣa Rāśi. The central ritual is Viṣukkaṇi (വിഷുക്കണി) — the auspicious first sight arranged the night before: a kaṇikonna (golden shower) flowers, rice, coconut, fruits, gold coins, mirror, and the Bhagavad Gītā or Rāmāyaṇa placed before Kṛṣṇa's image. Elders give Kaiṇeṭṭam (money gifts) to younger members. The Sādya feast includes viṣu-kaṭṭu (banana chips), māṅgā-caru (mango curry), and pāyaśam. Fireworks and the Viṣu-veḷḷa (boat race) at Aranmula. Marks the agricultural new year in Kerala.\n---\nThe Malayalam New Year in Kerala, marking the sun's transit into Meda Rāśi; observed with the Vishukkani (auspicious first sight), money gifts (kaineettam), and feasting.",
+        "contentHash": "36ff45997e0c722b73b30d3db84e353a1043f712e8ff1ce96542b40990cba281",
         "sourceFile": "src\\content\\festivals\\vishu.md"
       }
     ],
@@ -12247,11 +12329,13 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Agni Purana",
-          "अग्नि पुराण"
+          "अग्नि पुराण",
+          "अग्निपुराण"
         ],
         "sources": [
           "gretil"
@@ -12261,13 +12345,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Agni Purāṇa, one of the eighteen Mahāpurāṇas, its encyclopedic scope covering cosmology, geography, iconography, medicine, polity, and Dharmaśāstra; its role as a compendium of traditional knowledge is represented here as a catalogue entry. ---",
+        "description": "The Agni Purāṇa, one of the eighteen Mahāpurāṇas in approximately 383 chapters, transmitted as a discourse of Agni to the sage Vasiṣṭha. Its encyclopedic scope covers cosmology (sarga, pratisarga), geography (dvīpa, varṣa), temple architecture and iconography (pratimā-lakṣaṇa), medicine (Āyurveda), polity (rāja-dharma), Dharmaśāstra topics (saṃskāras, vrata, dāna), and yoga. It preserves the Lakṣmī-kalpa and the Śiva-rātra sections. A key source for traditional Indian knowledge systems. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Agni Purāṇa, one of the eighteen Mahāpurāṇas, its encyclopedic scope covering cosmology, geography, iconography, medicine, polity, and Dharmaśāstra; its role as a compendium of traditional knowledge is represented here as a catalogue entry.\n---",
-        "contentHash": "c1b1e778a5f8a9231a1d4b3c0e14b7fdf3cc70bc82e06ea34b1ece97125a16ad",
+        "body": "The Agni Purāṇa, one of the eighteen Mahāpurāṇas in approximately 383 chapters, transmitted as a discourse of Agni to the sage Vasiṣṭha. Its encyclopedic scope covers cosmology (sarga, pratisarga), geography (dvīpa, varṣa), temple architecture and iconography (pratimā-lakṣaṇa), medicine (Āyurveda), polity (rāja-dharma), Dharmaśāstra topics (saṃskāras, vrata, dāna), and yoga. It preserves the Lakṣmī-kalpa and the Śiva-rātra sections. A key source for traditional Indian knowledge systems.\n---",
+        "contentHash": "f007f986209342cc8fc408a4fa0602db195df6b3df1336434e971c53fbb96060",
         "sourceFile": "src\\content\\scriptures\\agni-purana.md"
       },
       {
@@ -12453,6 +12537,70 @@
         "body": "The Akṣi Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of the eye (akṣi) as a symbol of knowledge and the means to realize the inner self through vidyā; its text is represented here as a catalogue entry.\n---",
         "contentHash": "396c74847681deb4457581dc5fd659bc432da250f1c8444ffc9ee7114db84fbe",
         "sourceFile": "src\\content\\scriptures\\akshi-upanishad.md"
+      },
+      {
+        "id": "amsuman-agama",
+        "title": "Aṃśumān Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Amsuman Agama",
+          "Amsumanagama",
+          "अंशुमान् आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Aṃśumān Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the radiant (aṃśumān) aspect of Śiva as the source of all light and knowledge; its treatment of the solar symbolism in Śaiva theology is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Aṃśumān Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the radiant (aṃśumān) aspect of Śiva as the source of all light and knowledge; its treatment of the solar symbolism in Śaiva theology is represented here as a catalogue entry.\n---",
+        "contentHash": "bc85ed251df4f2853c089a2a95eb277518cc2b766f8e3a52c036bc418a00ff13",
+        "sourceFile": "src\\content\\scriptures\\amsuman-agama.md"
+      },
+      {
+        "id": "anka-agama",
+        "title": "Aṅka Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Anka Agama",
+          "Ankagama",
+          "अङ्क आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Aṅka Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the distinguishing marks (aṅka) of Śiva's various forms and the iconographic prescriptions for temple images; its contribution to Śaiva iconography is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Aṅka Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the distinguishing marks (aṅka) of Śiva's various forms and the iconographic prescriptions for temple images; its contribution to Śaiva iconography is represented here as a catalogue entry.\n---",
+        "contentHash": "24e7a1db22d3d5324bc0796846d626a968d1bceb14377a0054fbc31c2cb1b28a",
+        "sourceFile": "src\\content\\scriptures\\anka-agama.md"
       },
       {
         "id": "apastamba-dharmasutra",
@@ -13453,12 +13601,21 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "bn",
+          "gu",
+          "ta",
+          "te",
+          "ml"
         ],
         "aliases": [
           "Bhagavata Purana",
           "Srimad Bhagavatam",
-          "भागवत पुराण"
+          "भागवत पुराण",
+          "শ্রীমদ্ভাগবতম্",
+          "श्रीमद्भागवतम्",
+          "ഭാഗവതം"
         ],
         "sources": [
           "gretil"
@@ -13468,13 +13625,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), one of the eighteen Mahāpurāṇas in twelve skandhas, focusing on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry. ---",
+        "description": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), one of the eighteen Mahāpurāṇas in twelve skandhas (books) and ~18,000 verses. Composed as a dialogue between Śuka and King Parīkṣit on the banks of the Gaṅgā. Skandha 1-2: creation, cosmology, and the avatāras; Skandha 3-4: Kapila's Sāṅkhya, Dhruva, Prahlāda; Skandha 5: Bharata, Ṛṣabha, cosmic geography; Skandha 6: Ajāmila, Vaivasvata, Nṛsiṃha; Skandha 7: Prahlāda, Nṛsiṃha; Skandha 8: Vāmana, churning of the ocean; Skandha 9: genealogies; Skandha 10: Kṛṣṇa's līlā (Vṛndāvana, Mathurā, Dvārakā); Skandha 11: Uddhava-gītā, Yadu dynasty; Skandha 12: future, Kali age, Māhātmya. Central to Gauḍīya Vaiṣṇavism and bhakti traditions across India. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), one of the eighteen Mahāpurāṇas in twelve skandhas, focusing on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry.\n---",
-        "contentHash": "c55a1ef297a89b4e8f3fb672c617e9137cb112cd85e97c389dfa79c265660ac7",
+        "body": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), one of the eighteen Mahāpurāṇas in twelve skandhas (books) and ~18,000 verses. Composed as a dialogue between Śuka and King Parīkṣit on the banks of the Gaṅgā. Skandha 1-2: creation, cosmology, and the avatāras; Skandha 3-4: Kapila's Sāṅkhya, Dhruva, Prahlāda; Skandha 5: Bharata, Ṛṣabha, cosmic geography; Skandha 6: Ajāmila, Vaivasvata, Nṛsiṃha; Skandha 7: Prahlāda, Nṛsiṃha; Skandha 8: Vāmana, churning of the ocean; Skandha 9: genealogies; Skandha 10: Kṛṣṇa's līlā (Vṛndāvana, Mathurā, Dvārakā); Skandha 11: Uddhava-gītā, Yadu dynasty; Skandha 12: future, Kali age, Māhātmya. Central to Gauḍīya Vaiṣṇavism and bhakti traditions across India.\n---",
+        "contentHash": "2a7e89c166bfd21b445f510090996cc498661c18d86e18d6975b2eb432682f29",
         "sourceFile": "src\\content\\scriptures\\bhagavata-purana.md"
       },
       {
@@ -13507,12 +13664,75 @@
         "sourceFile": "src\\content\\scriptures\\bhargava-purana.md"
       },
       {
+        "id": "bhavishya-purana",
+        "title": "Bhaviṣya Purāṇa",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Bhavishya Purana",
+          "भविष्य पुराण"
+        ],
+        "sources": [
+          "gretil"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "PURANA"
+        ],
+        "description": "The Bhaviṣya Purāṇa, one of the eighteen Mahāpurāṇas in four parts (Brāhma, Madhyama, Pratisarga, Uttara) and ~28,000 verses, narrated by Sūta to the sages at Naimiṣāraṇya. Known for its \"future\" (bhaviṣya) orientation — prophecies, royal genealogies of future dynasties (Maurya, Gupta, Harsha, medieval Indian rulers, and even British period references), the Sūrya-vaṃśa and Candra-vaṃśa lineages, the Sāyaṇācārya's solar worship, the Kṛṣṇa-līlā, the Tulasī-māhātmya, the Rāma-nāma-māhātmya, the Kāśī-māhātmya, the Gayā-śrāddha, and numerous vrata-kathās. The only Purāṇa with extensive historical/prophetic content on post-Vedic Indian dynasties. Controversial for its late interpolations; the Pratisargaparvan is considered a later addition. ---",
+        "sourceIds": [
+          "gretil"
+        ],
+        "relationshipIds": [],
+        "body": "The Bhaviṣya Purāṇa, one of the eighteen Mahāpurāṇas in four parts (Brāhma, Madhyama, Pratisarga, Uttara) and ~28,000 verses, narrated by Sūta to the sages at Naimiṣāraṇya. Known for its \"future\" (bhaviṣya) orientation — prophecies, royal genealogies of future dynasties (Maurya, Gupta, Harsha, medieval Indian rulers, and even British period references), the Sūrya-vaṃśa and Candra-vaṃśa lineages, the Sāyaṇācārya's solar worship, the Kṛṣṇa-līlā, the Tulasī-māhātmya, the Rāma-nāma-māhātmya, the Kāśī-māhātmya, the Gayā-śrāddha, and numerous vrata-kathās. The only Purāṇa with extensive historical/prophetic content on post-Vedic Indian dynasties. Controversial for its late interpolations; the Pratisargaparvan is considered a later addition.\n---",
+        "contentHash": "f1ef33a523995a1f212b8444c987cec6b75d2296f6f252d0150f12105e53fbc3",
+        "sourceFile": "src\\content\\scriptures\\bhavishya-purana.md"
+      },
+      {
+        "id": "bimbamb-agama",
+        "title": "Bimbāmbikā Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Bimbambika Agama",
+          "Bimbambikagama",
+          "बिम्बाम्बिका आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Bimbāmbikā Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the Goddess Bimbāmbikā (a form of Śakti) and the Śaiva-Śākta synthesis in temple worship; its unique Śakti-oriented perspective is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Bimbāmbikā Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the Goddess Bimbāmbikā (a form of Śakti) and the Śaiva-Śākta synthesis in temple worship; its unique Śakti-oriented perspective is represented here as a catalogue entry.\n---",
+        "contentHash": "984b354680c1f810dc1ef623209b757866a5bc5bfb66759fe9c98dca0782f4de",
+        "sourceFile": "src\\content\\scriptures\\bimbambika-agama.md"
+      },
+      {
         "id": "brahma-purana",
         "title": "Brahma Purāṇa",
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Brahma Purana",
@@ -13526,13 +13746,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Brahma Purāṇa, one of the eighteen Mahāpurāṇas, focusing on creation, geography, and the glory of Viṣṇu and Śiva; its traditional attribution to Brahma and its role in Vaiṣṇava and Śaiva traditions are represented here as a catalogue entry. ---",
+        "description": "The Brahma Purāṇa, one of the eighteen Mahāpurāṇas in ~10,000 verses, traditionally ascribed to Brahmā and narrated to the sages at Naimiṣāraṇya. Covers creation (sarga), the solar and lunar dynasties, the geography of Bhārata-varṣa, the seven dvīpas, the glory of the Godāvarī and other rivers, the Śiva and Viṣṇu kṣetras (Ekāmra, Purī, Koṇārka, Kāśī), the Purī Jagannātha temple, the Ratha-yātrā, and the Saura and Gāṇapatya traditions. Contains the Gautamī-māhātmya (Godāvarī pilgrimage) and the Koṇārka-māhātmya. Bridges Vaiṣṇava, Śaiva, and Saura traditions; especially important for Odisha and Andhra temple mythology. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Brahma Purāṇa, one of the eighteen Mahāpurāṇas, focusing on creation, geography, and the glory of Viṣṇu and Śiva; its traditional attribution to Brahma and its role in Vaiṣṇava and Śaiva traditions are represented here as a catalogue entry.\n---",
-        "contentHash": "ef21e5cba7cef0bd0ee37e75877596089e3154daf234ece34d476aeb35b3bf02",
+        "body": "The Brahma Purāṇa, one of the eighteen Mahāpurāṇas in ~10,000 verses, traditionally ascribed to Brahmā and narrated to the sages at Naimiṣāraṇya. Covers creation (sarga), the solar and lunar dynasties, the geography of Bhārata-varṣa, the seven dvīpas, the glory of the Godāvarī and other rivers, the Śiva and Viṣṇu kṣetras (Ekāmra, Purī, Koṇārka, Kāśī), the Purī Jagannātha temple, the Ratha-yātrā, and the Saura and Gāṇapatya traditions. Contains the Gautamī-māhātmya (Godāvarī pilgrimage) and the Koṇārka-māhātmya. Bridges Vaiṣṇava, Śaiva, and Saura traditions; especially important for Odisha and Andhra temple mythology.\n---",
+        "contentHash": "8546da9aa3eb508f8dc776da1ac7656beed4d8923bd4499655502f6b1fce74a8",
         "sourceFile": "src\\content\\scriptures\\brahma-purana.md"
       },
       {
@@ -14032,7 +14252,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Brahmanda Purana",
@@ -14046,13 +14267,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Brahmāṇḍa Purāṇa, one of the eighteen Mahāpurāṇas in four parts, detailing the cosmic egg (brahmāṇḍa), the Lalitopākhyāna (narrative of Lalitā Tripurasundarī), and the Aṣṭādaśa-śakti-pīṭhas; its relationship to the Vāyu Purāṇa and its significance for Śākta tradition are represented here as a catalogue entry. ---",
+        "description": "The Brahmāṇḍa Purāṇa, one of the eighteen Mahāpurāṇas in four parts (prakriyā, anuṣaṅga, upodghāta, upasaṃhāra) and ~12,000 verses. Details the cosmic egg (brahmāṇḍa), creation cycles, geography of the seven dvīpas, the Aṣṭādaśa-śakti-pīṭhas (eighteen Goddess shrines), and the Lalitopākhyāna (narrative of Lalitā Tripurasundarī) in the Uttarārdha. Contains the Āditya-hṛdaya, the Navagraha-stotras, and detailed pilgrimage (tīrtha) sections for Kāñcī, Śrīśaila, and other Śākta sites. Closely related to the Vāyu Purāṇa; together they preserve the Āditya and Śaiva-Śākta cosmologies. Key for Śākta tradition and South Indian temple mythology. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Brahmāṇḍa Purāṇa, one of the eighteen Mahāpurāṇas in four parts, detailing the cosmic egg (brahmāṇḍa), the Lalitopākhyāna (narrative of Lalitā Tripurasundarī), and the Aṣṭādaśa-śakti-pīṭhas; its relationship to the Vāyu Purāṇa and its significance for Śākta tradition are represented here as a catalogue entry.\n---",
-        "contentHash": "ebeb7fb910f954cc2dc7749d9a25141867e2866dca26ce309f28717013bca6ea",
+        "body": "The Brahmāṇḍa Purāṇa, one of the eighteen Mahāpurāṇas in four parts (prakriyā, anuṣaṅga, upodghāta, upasaṃhāra) and ~12,000 verses. Details the cosmic egg (brahmāṇḍa), creation cycles, geography of the seven dvīpas, the Aṣṭādaśa-śakti-pīṭhas (eighteen Goddess shrines), and the Lalitopākhyāna (narrative of Lalitā Tripurasundarī) in the Uttarārdha. Contains the Āditya-hṛdaya, the Navagraha-stotras, and detailed pilgrimage (tīrtha) sections for Kāñcī, Śrīśaila, and other Śākta sites. Closely related to the Vāyu Purāṇa; together they preserve the Āditya and Śaiva-Śākta cosmologies. Key for Śākta tradition and South Indian temple mythology.\n---",
+        "contentHash": "8316788638942c6303ad605940ead2ec8ca30f550af4fe9040404e8b9beeb814",
         "sourceFile": "src\\content\\scriptures\\brahmanda-purana.md"
       },
       {
@@ -14207,16 +14428,51 @@
         "sourceFile": "src\\content\\scriptures\\chandogya-upanishad.md"
       },
       {
-        "id": "devi-bhagavata-purana",
-        "title": "Devī Bhāgavata Purāṇa",
+        "id": "cintya-agama",
+        "title": "Cintya Āgama",
         "type": "scripture",
         "language": [
           "sa",
           "en"
         ],
         "aliases": [
+          "Cintya Agama",
+          "Cintyagama",
+          "चिन्त्य आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Cintya Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the jñāna pāda and the contemplative (cintya) knowledge of Śiva as the supreme consciousness; its treatment of the thirty-six tattvas and the path of knowledge is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Cintya Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the jñāna pāda and the contemplative (cintya) knowledge of Śiva as the supreme consciousness; its treatment of the thirty-six tattvas and the path of knowledge is represented here as a catalogue entry.\n---",
+        "contentHash": "80ae13bf7d5b8376c6142a68b215c3c8ba8a682a3c522d8c5590cfdb2f3a69fb",
+        "sourceFile": "src\\content\\scriptures\\cintya-agama.md"
+      },
+      {
+        "id": "devi-bhagavata-purana",
+        "title": "Devī Bhāgavata Purāṇa",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en",
+          "hi",
+          "bn"
+        ],
+        "aliases": [
           "Devi Bhagavatam",
-          "देवी भागवतम्"
+          "देवी भागवतम्",
+          "দেবী भागবতম্"
         ],
         "sources": [
           "gretil"
@@ -14224,17 +14480,80 @@
         "status": "published",
         "verification": "verified",
         "classifications": [
-          "PURANA",
-          "TRADITION"
+          "PURANA"
         ],
-        "description": "A major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
+        "description": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), a major Śākta Mahāpurāṇa in 12 skandhas and ~18,000 verses, modeled on the Bhāgavata Purāṇa's structure but centered on the Goddess. Skandha 1: creation, the Goddess as śakti; Skandha 2-3: the Devī's forms, the battle with Mahiṣāsura; Skandha 4: the Devī-gītā (the Goddess's teaching on jñāna, yoga, bhakti); Skandha 5: the Śākta cosmology, the Śrī-cakra, the nine nityās; Skandha 6: the Kālī-krama, the ten Mahāvidyās; Skandha 7: the Navarātrī vrata, the Caṇḍī-pāṭha procedure; Skandha 8-9: the glories of Śākta pīṭhas (Kāmākhyā, Kālikā, Tārāpīṭha); Skandha 10-11: the Rāma and Kṛṣṇa narratives retold from the Śākta perspective; Skandha 12: liberation through Devī-bhakti. The primary text for the Devī-gītā and Śākta theology, influential in Bengal and Assam. --- A major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "A major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
-        "contentHash": "cdddf80812ab73263c70016f77d717d44dbbe0005fc808494faac4970d6611c1",
+        "body": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), a major Śākta Mahāpurāṇa in 12 skandhas and ~18,000 verses, modeled on the Bhāgavata Purāṇa's structure but centered on the Goddess. Skandha 1: creation, the Goddess as śakti; Skandha 2-3: the Devī's forms, the battle with Mahiṣāsura; Skandha 4: the Devī-gītā (the Goddess's teaching on jñāna, yoga, bhakti); Skandha 5: the Śākta cosmology, the Śrī-cakra, the nine nityās; Skandha 6: the Kālī-krama, the ten Mahāvidyās; Skandha 7: the Navarātrī vrata, the Caṇḍī-pāṭha procedure; Skandha 8-9: the glories of Śākta pīṭhas (Kāmākhyā, Kālikā, Tārāpīṭha); Skandha 10-11: the Rāma and Kṛṣṇa narratives retold from the Śākta perspective; Skandha 12: liberation through Devī-bhakti. The primary text for the Devī-gītā and Śākta theology, influential in Bengal and Assam.\n---\nA major Śākta Purāṇa centered on the Goddess; represented here as a catalogue entry without reproducing translations.",
+        "contentHash": "29f35403a6dd646d9d194ead5ad2b6cdd52a1fc37edfc78381a99e85fe8d90da",
         "sourceFile": "src\\content\\scriptures\\devi-bhagavata-purana.md"
+      },
+      {
+        "id": "dipta-agama",
+        "title": "Dīpta Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Dipta Agama",
+          "Diptagama",
+          "दीप्त आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Dīpta Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its treatment of the caryā pāda (conduct) and the radiant (dīpta) manifestation of Śiva in the world; its emphasis on the guru-śiṣya paramparā and the initiation lineage is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Dīpta Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its treatment of the caryā pāda (conduct) and the radiant (dīpta) manifestation of Śiva in the world; its emphasis on the guru-śiṣya paramparā and the initiation lineage is represented here as a catalogue entry.\n---",
+        "contentHash": "5e32ac7cb1d313efb108aee4921efd5cabe280d611bc65f5cd24bf8df1e9943d",
+        "sourceFile": "src\\content\\scriptures\\dipta-agama.md"
+      },
+      {
+        "id": "dviyaj-agama",
+        "title": "Dvijaja Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Dvijaja Agama",
+          "Dvijajagama",
+          "द्विजज आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Dvijaja Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the twice-born (dvija) tradition of Śaiva initiation and the transmission of mantras through the guru-śiṣya lineage; its emphasis on dīkṣā is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Dvijaja Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the twice-born (dvija) tradition of Śaiva initiation and the transmission of mantras through the guru-śiṣya lineage; its emphasis on dīkṣā is represented here as a catalogue entry.\n---",
+        "contentHash": "2897f376d1284982c2f60fd27c1fd42dbff0e568bbf51804805717daaa1be288",
+        "sourceFile": "src\\content\\scriptures\\dvijaja-agama.md"
       },
       {
         "id": "garbha-upanishad",
@@ -14301,11 +14620,13 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Garuda Purana",
-          "गरुड पुराण"
+          "गरुड पुराण",
+          "गरुड़ पुराण"
         ],
         "sources": [
           "gretil"
@@ -14315,13 +14636,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Garuḍa Purāṇa, one of the eighteen Mahāpurāṇas, its focus on Viṣṇu worship, funeral rites (antyeṣṭi), gemology, and the afterlife journey (pretakalpā); its role in death rituals is represented here as a catalogue entry. ---",
+        "description": "The Garuḍa Purāṇa, one of the eighteen Mahāpurāṇas in ~19,000 verses, narrated by Garuḍa to Kaśyapa (or Viṣṇu to Garuḍa). Two main parts: Pūrvakhanda (Ācāra-kāṇḍa, Dharma-kāṇḍa, Preta-kāṇḍa) and Uttarakhanda (Brahma-kāṇḍa). Covers Viṣṇu worship, saṃskāras, vrata, dāna, temple construction, iconography, gemology (ratna-śāstra), astrology, medicine (Āyurveda), the afterlife journey (pretakalpā), the realms of Yama, funeral rites (antyeṣṭi), śrāddha, and the path to liberation through Viṣṇu-bhakti. Authoritative for death rituals and śrāddha procedures across Hindu traditions. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Garuḍa Purāṇa, one of the eighteen Mahāpurāṇas, its focus on Viṣṇu worship, funeral rites (antyeṣṭi), gemology, and the afterlife journey (pretakalpā); its role in death rituals is represented here as a catalogue entry.\n---",
-        "contentHash": "22094b59946cc2025bb0ed3efbc54e0028a3650b7dcd67585e912f05e4396496",
+        "body": "The Garuḍa Purāṇa, one of the eighteen Mahāpurāṇas in ~19,000 verses, narrated by Garuḍa to Kaśyapa (or Viṣṇu to Garuḍa). Two main parts: Pūrvakhanda (Ācāra-kāṇḍa, Dharma-kāṇḍa, Preta-kāṇḍa) and Uttarakhanda (Brahma-kāṇḍa). Covers Viṣṇu worship, saṃskāras, vrata, dāna, temple construction, iconography, gemology (ratna-śāstra), astrology, medicine (Āyurveda), the afterlife journey (pretakalpā), the realms of Yama, funeral rites (antyeṣṭi), śrāddha, and the path to liberation through Viṣṇu-bhakti. Authoritative for death rituals and śrāddha procedures across Hindu traditions.\n---",
+        "contentHash": "5d56898c5b3d72a26a9a72c1e18afc68ef9af470e92587e460c51a04df7b5f9e",
         "sourceFile": "src\\content\\scriptures\\garuda-purana.md"
       },
       {
@@ -14783,6 +15104,38 @@
         "sourceFile": "src\\content\\scriptures\\kapila-purana.md"
       },
       {
+        "id": "karana-agama",
+        "title": "Karaṇa Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Karana Agama",
+          "Karanagama",
+          "करण आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Karaṇa Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the kriyā pāda with emphasis on temple rituals, the consecration of liṅgas, and the daily worship sequence (nitya-pūjā); its architectural and iconographic prescriptions are represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Karaṇa Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the kriyā pāda with emphasis on temple rituals, the consecration of liṅgas, and the daily worship sequence (nitya-pūjā); its architectural and iconographic prescriptions are represented here as a catalogue entry.\n---",
+        "contentHash": "7cc56a97149f715937a212b6bcd28d09e059c8c837b240a1dd0fc584a25c71e1",
+        "sourceFile": "src\\content\\scriptures\\karana-agama.md"
+      },
+      {
         "id": "katha-aranyaka",
         "title": "Kaṭha Āraṇyaka",
         "type": "scripture",
@@ -15033,7 +15386,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Kurma Purana",
@@ -15047,13 +15401,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Kūrma Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrva and Uttara), narrated by Kūrma (Viṣṇu's tortoise avatar) to the sages, focusing on the four goals of life (puruṣārtha), Śiva-Viṣṇu unity, and the Lakṣmī-Nārāyaṇa-hṛdaya; its philosophical synthesis is represented here as a catalogue entry. ---",
+        "description": "The Kūrma Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrvabhāga and Uttarabhāga) and ~17,000 verses, narrated by Kūrma (Viṣṇu's tortoise avatar) to the sages at Naimiṣāraṇya. Pūrvabhāga: creation, the four puruṣārthas (dharma, artha, kāma, mokṣa), the glory of the Lakṣmī-Nārāyaṇa-hṛdaya, the unity of Śiva and Viṣṇu, the ṛṣi genealogies; Uttarabhāga: the Īśvara-gītā (Śiva's teaching on yoga and jñāna), the Vyāsa-gītā, the Śiva-gītā, pilgrimage to Kāśī, Prayāga, Gayā, and the Śiva kṣetras. A synthesis text emphasizing Śiva-Viṣṇu non-difference (abheda) and the yoga of knowledge and devotion. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Kūrma Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrva and Uttara), narrated by Kūrma (Viṣṇu's tortoise avatar) to the sages, focusing on the four goals of life (puruṣārtha), Śiva-Viṣṇu unity, and the Lakṣmī-Nārāyaṇa-hṛdaya; its philosophical synthesis is represented here as a catalogue entry.\n---",
-        "contentHash": "a5175d8604aca9ec67806ad3314cfb63efa8e372663619395ea44bf530ee5f52",
+        "body": "The Kūrma Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrvabhāga and Uttarabhāga) and ~17,000 verses, narrated by Kūrma (Viṣṇu's tortoise avatar) to the sages at Naimiṣāraṇya. Pūrvabhāga: creation, the four puruṣārthas (dharma, artha, kāma, mokṣa), the glory of the Lakṣmī-Nārāyaṇa-hṛdaya, the unity of Śiva and Viṣṇu, the ṛṣi genealogies; Uttarabhāga: the Īśvara-gītā (Śiva's teaching on yoga and jñāna), the Vyāsa-gītā, the Śiva-gītā, pilgrimage to Kāśī, Prayāga, Gayā, and the Śiva kṣetras. A synthesis text emphasizing Śiva-Viṣṇu non-difference (abheda) and the yoga of knowledge and devotion.\n---",
+        "contentHash": "786f32cb30c6713ea132d6b9103f381c62c3a2942539bee1f2704985e3c1fe58",
         "sourceFile": "src\\content\\scriptures\\kurma-purana.md"
       },
       {
@@ -15090,16 +15444,51 @@
         "sourceFile": "src\\content\\scriptures\\lakulisha-pashupata.md"
       },
       {
-        "id": "linga-purana",
-        "title": "Liṅga Purāṇa",
+        "id": "lalita-agama",
+        "title": "Lalitā Āgama",
         "type": "scripture",
         "language": [
           "sa",
           "en"
         ],
         "aliases": [
+          "Lalita Agama",
+          "Lalitagama",
+          "ललिता आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Lalitā Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the playful (lalita) aspect of Śiva-Śakti union, integrating Śaiva and Śākta ritual streams in the worship of the Divine Couple; its synthesis orientation is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Lalitā Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the playful (lalita) aspect of Śiva-Śakti union, integrating Śaiva and Śākta ritual streams in the worship of the Divine Couple; its synthesis orientation is represented here as a catalogue entry.\n---",
+        "contentHash": "88a8a30ae9a5f251976615b1db512838d77de6d70605f8f2917844a9def6fc81",
+        "sourceFile": "src\\content\\scriptures\\lalita-agama.md"
+      },
+      {
+        "id": "linga-purana",
+        "title": "Liṅga Purāṇa",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en",
+          "hi",
+          "ta"
+        ],
+        "aliases": [
           "Linga Purana",
-          "लिङ्ग पुराण"
+          "लिङ्ग पुराण",
+          "லிங்க புராணம்"
         ],
         "sources": [
           "gretil"
@@ -15109,13 +15498,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Liṅga Purāṇa, one of the eighteen Mahāpurāṇas, focusing on the worship of Śiva in the form of the liṅga, the origin of the liṅga, and the glory of Śiva's various forms; its role in Śaiva ritual and temple worship is represented here as a catalogue entry. ---",
+        "description": "The Liṅga Purāṇa, one of the eighteen Mahāpurāṇas in ~11,000 verses and two parts (Pūrvabhāga and Uttarabhāga). Pūrvabhāga: the origin of the liṅga (liṅgodbhava), the glory of the liṅga, the twenty-eight Śaiva Āgamas, the five faces of Śiva (Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa, Īśāna), the eight forms (aṣṭamūrti), the twelve jyotirliṅgas; Uttarabhāga: the Liṅga-gītā (Śiva's teaching to the sages), the story of Dhruva, the Puṣkara-māhātmya, the glory of Kāśī, the Śiva-rātra vrata, the rites of liṅga-pratiṣṭhā and daily worship (nitya-pūjā). The definitive textual authority for liṅga worship in Śaiva temple tradition. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Liṅga Purāṇa, one of the eighteen Mahāpurāṇas, focusing on the worship of Śiva in the form of the liṅga, the origin of the liṅga, and the glory of Śiva's various forms; its role in Śaiva ritual and temple worship is represented here as a catalogue entry.\n---",
-        "contentHash": "e076006d4bdf8f5c2a307b4d526a00198fcc0ada75344841cd57d503446e5dfc",
+        "body": "The Liṅga Purāṇa, one of the eighteen Mahāpurāṇas in ~11,000 verses and two parts (Pūrvabhāga and Uttarabhāga). Pūrvabhāga: the origin of the liṅga (liṅgodbhava), the glory of the liṅga, the twenty-eight Śaiva Āgamas, the five faces of Śiva (Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa, Īśāna), the eight forms (aṣṭamūrti), the twelve jyotirliṅgas; Uttarabhāga: the Liṅga-gītā (Śiva's teaching to the sages), the story of Dhruva, the Puṣkara-māhātmya, the glory of Kāśī, the Śiva-rātra vrata, the rites of liṅga-pratiṣṭhā and daily worship (nitya-pūjā). The definitive textual authority for liṅga worship in Śaiva temple tradition.\n---",
+        "contentHash": "64b84985467af79da547842b9e5330aed113c96ce296dde7bc407931f1c87c48",
         "sourceFile": "src\\content\\scriptures\\linga-purana.md"
       },
       {
@@ -15740,6 +16129,38 @@
         "sourceFile": "src\\content\\scriptures\\maitri-upanishad.md"
       },
       {
+        "id": "makuta-agama",
+        "title": "Makuṭa Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Makuta Agama",
+          "Makutagama",
+          "मकुट आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Makuṭa Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the crown (makuṭa) of Śiva as the symbol of supreme sovereignty and the coronation rites of the liṅga; its royal and ritual symbolism is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Makuṭa Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the crown (makuṭa) of Śiva as the symbol of supreme sovereignty and the coronation rites of the liṅga; its royal and ritual symbolism is represented here as a catalogue entry.\n---",
+        "contentHash": "81290b7ab0cb433dec965a5cbbd73c0d5ff8fb32d706f8b8c9448242ccb7b159",
+        "sourceFile": "src\\content\\scriptures\\makuta-agama.md"
+      },
+      {
         "id": "manava-purana",
         "title": "Mānava Purāṇa",
         "type": "scripture",
@@ -15835,11 +16256,14 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "bn"
         ],
         "aliases": [
           "Markandeya Purana",
-          "मार्कण्डेय पुराण"
+          "मार्कण्डेय पुराण",
+          "মার্কণ্ডেয় পুরাণ"
         ],
         "sources": [
           "gretil"
@@ -15849,13 +16273,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters, containing the Devī Māhātmya (Durgā Saptashatī) in chapters 81-93; its dialogue format between Mārkaṇḍeya and Jaimini, and its importance for Śākta tradition are represented here as a catalogue entry. ---",
+        "description": "The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters and ~9,000 verses, narrated as a dialogue between the sage Mārkaṇḍeya and Jaimini. Chapters 1-42: cosmology, creation, genealogies, the manvantaras; Chapters 43-80: the glory of the Sun (Sūrya), the legend of King Harishchandra; Chapters 81-93: the Devī Māhātmya (Durgā Saptashatī / Caṇḍī-pāṭha) — the Goddess's battles against Madhu-Kaiṭabha, Mahiṣāsura, and Śumbha-Niśumbha, the foundation of Śākta worship and Navarātrī; Chapters 94-137: the story of Dama, the glories of the Goddess, liberation through Devī-bhakti. The primary textual source for the Caṇḍī-pāṭha recited during Durgā Pūjā and Navarātrī across India, especially Bengal. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters, containing the Devī Māhātmya (Durgā Saptashatī) in chapters 81-93; its dialogue format between Mārkaṇḍeya and Jaimini, and its importance for Śākta tradition are represented here as a catalogue entry.\n---",
-        "contentHash": "0cfd3581d11b2a22bde05290b0060ed8bf8c0a8a6b80ba68f158dca0344016a1",
+        "body": "The Mārkaṇḍeya Purāṇa, one of the eighteen Mahāpurāṇas in 137 chapters and ~9,000 verses, narrated as a dialogue between the sage Mārkaṇḍeya and Jaimini. Chapters 1-42: cosmology, creation, genealogies, the manvantaras; Chapters 43-80: the glory of the Sun (Sūrya), the legend of King Harishchandra; Chapters 81-93: the Devī Māhātmya (Durgā Saptashatī / Caṇḍī-pāṭha) — the Goddess's battles against Madhu-Kaiṭabha, Mahiṣāsura, and Śumbha-Niśumbha, the foundation of Śākta worship and Navarātrī; Chapters 94-137: the story of Dama, the glories of the Goddess, liberation through Devī-bhakti. The primary textual source for the Caṇḍī-pāṭha recited during Durgā Pūjā and Navarātrī across India, especially Bengal.\n---",
+        "contentHash": "9f2da230082c0862feef54b42c08186b998704dae15109db9630dd7851058052",
         "sourceFile": "src\\content\\scriptures\\markandeya-purana.md"
       },
       {
@@ -15894,7 +16318,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Matsya Purana",
@@ -15908,13 +16333,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Matsya Purāṇa, one of the eighteen Mahāpurāṇas, its focus on the Matsya avatāra of Viṣṇu, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry. ---",
+        "description": "The Matsya Purāṇa, one of the eighteen Mahāpurāṇas in ~14,000 verses and 291 chapters, narrated by Matsya (Viṣṇu's fish avatar) to Manu. Covers the Matsya avatāra and the flood legend, the seven Manus, royal genealogies (Sūryavaṃśa, Candravaṃśa), the five characteristics of a Purāṇa (pañca-lakṣaṇa), temple architecture (vāstu-śāstra: prāsāda, maṇḍapa, gopura, pratimā-lakṣaṇa), iconography of major deities, vrata rituals (Śivarātri, Caturmāsya, Ekādaśī), the Śrāddha-vidhi, the Prayāga-māhātmya, the Kāśī-māhātmya, and the Narmadā-māhātmya. The earliest Purāṇic source for Hindu temple architecture and iconography. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Matsya Purāṇa, one of the eighteen Mahāpurāṇas, its focus on the Matsya avatāra of Viṣṇu, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry.\n---",
-        "contentHash": "8a24a29783913c3d00475d48d5090ba08efc7415fba206f2b087c4ccc7bfb759",
+        "body": "The Matsya Purāṇa, one of the eighteen Mahāpurāṇas in ~14,000 verses and 291 chapters, narrated by Matsya (Viṣṇu's fish avatar) to Manu. Covers the Matsya avatāra and the flood legend, the seven Manus, royal genealogies (Sūryavaṃśa, Candravaṃśa), the five characteristics of a Purāṇa (pañca-lakṣaṇa), temple architecture (vāstu-śāstra: prāsāda, maṇḍapa, gopura, pratimā-lakṣaṇa), iconography of major deities, vrata rituals (Śivarātri, Caturmāsya, Ekādaśī), the Śrāddha-vidhi, the Prayāga-māhātmya, the Kāśī-māhātmya, and the Narmadā-māhātmya. The earliest Purāṇic source for Hindu temple architecture and iconography.\n---",
+        "contentHash": "cdb8fea1b2df45aa98867d5c2d0b0678439bd9a8b185b0e5fc246d343be9408b",
         "sourceFile": "src\\content\\scriptures\\matsya-purana.md"
       },
       {
@@ -16014,7 +16439,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Narada Purana",
@@ -16028,13 +16454,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Nārada Purāṇa, one of the eighteen Mahāpurāṇas, attributed to the sage Nārada, covering pilgrimage sites, vrata, and the tenets of Vaiṣṇava dharma; its encyclopedic scope is represented here as a catalogue entry. ---",
+        "description": "The Nārada Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrvabhāga and Uttarabhāga) and ~25,000 verses, attributed to Nārada and narrated to the sages. Pūrvabhāga: the glory of Viṣṇu, the ten avatāras, the Gāyatrī-māhātmya, the Ekādaśī-vrata, the Śrāvaṇa-māsa-māhātmya, pilgrimage to Badarī, Dvārakā, Prayāga, Kāśī, Gayā; Uttarabhāga: the Bhakti-sūtras, the Nārada-bhakti-sūtra context, the Viṣṇu-sahasranāma, the Rāma-nāma-māhātmya, the glories of the Tulasī and Śālagrāma, the rules for Vaiṣṇava conduct (samayācāra). A comprehensive Vaiṣṇava dharma-śāstra and tīrtha-māhātmya text. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Nārada Purāṇa, one of the eighteen Mahāpurāṇas, attributed to the sage Nārada, covering pilgrimage sites, vrata, and the tenets of Vaiṣṇava dharma; its encyclopedic scope is represented here as a catalogue entry.\n---",
-        "contentHash": "09d438fa2bbd7a376225f7a9516e465e15e7a39f1091bdfe2c156dadfcd0bfa9",
+        "body": "The Nārada Purāṇa, one of the eighteen Mahāpurāṇas in two parts (Pūrvabhāga and Uttarabhāga) and ~25,000 verses, attributed to Nārada and narrated to the sages. Pūrvabhāga: the glory of Viṣṇu, the ten avatāras, the Gāyatrī-māhātmya, the Ekādaśī-vrata, the Śrāvaṇa-māsa-māhātmya, pilgrimage to Badarī, Dvārakā, Prayāga, Kāśī, Gayā; Uttarabhāga: the Bhakti-sūtras, the Nārada-bhakti-sūtra context, the Viṣṇu-sahasranāma, the Rāma-nāma-māhātmya, the glories of the Tulasī and Śālagrāma, the rules for Vaiṣṇava conduct (samayācāra). A comprehensive Vaiṣṇava dharma-śāstra and tīrtha-māhātmya text.\n---",
+        "contentHash": "fe59ee2077749283f76483fcf1b04f3d6e43b4228770563e40b05447ac9caad2",
         "sourceFile": "src\\content\\scriptures\\narada-purana.md"
       },
       {
@@ -16190,6 +16616,38 @@
         "sourceFile": "src\\content\\scriptures\\nighantu.md"
       },
       {
+        "id": "nihshvasa-agama",
+        "title": "Niḥśvāsa Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Nihshvasa Agama",
+          "Nihshvasagama",
+          "निःश्वास आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Niḥśvāsa Āgama, one of the twenty-eight principal Śaiva Āgamas, named for the \"exhalation\" (niḥśvāsa) of Śiva as the creative breath of the universe; its cosmogonic focus and the emanation of tattvas from Śiva is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Niḥśvāsa Āgama, one of the twenty-eight principal Śaiva Āgamas, named for the \"exhalation\" (niḥśvāsa) of Śiva as the creative breath of the universe; its cosmogonic focus and the emanation of tattvas from Śiva is represented here as a catalogue entry.\n---",
+        "contentHash": "358d9a81e43e64eb57bf1eff5130240ebc878d58ad630a43a4a1adedb59aa406",
+        "sourceFile": "src\\content\\scriptures\\nihshvasa-agama.md"
+      },
+      {
         "id": "nrisimha-purana",
         "title": "Nṛsiṃha Purāṇa",
         "type": "scripture",
@@ -16285,7 +16743,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Padma Purana",
@@ -16297,16 +16756,15 @@
         "status": "published",
         "verification": "verified",
         "classifications": [
-          "PURANA",
-          "TRADITION"
+          "PURANA"
         ],
-        "description": "One of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
+        "description": "The Padma Purāṇa, one of the eighteen Mahāpurāṇas, among the largest at ~55,000 verses in six khaṇḍas (Sṛṣṭi, Bhūmi, Svarga, Pātāla, Uttara, Kriyā-yoga). Organized around the lotus (padma) cosmology. Sṛṣṭi-khaṇḍa: creation, the glory of Puṣkara and other tīrthas; Bhūmi-khaṇḍa: earth geography, rivers, mountains, the Bhārata-varṣa; Svarga-khaṇḍa: heavens, the story of Rāma (Rāmāyaṇa summary), the glory of Ekādaśī; Pātāla-khaṇḍa: netherworlds, the story of Śeṣa, Viṣṇu's yoga-nidrā; Uttara-khaṇḍa: the essence of bhakti, the glory of Viṣṇu's names (Viṣṇu-sahasranāma context), pilgrimage to Brahmāvarta, Kāśī, Prayāga; Kriyā-yoga-khaṇḍa: temple rituals, vrata, dāna, the Puruṣottama-māhātmya (Jagannātha). Major source for tīrtha-māhātmya and Vaiṣṇava ritual. --- One of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "One of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
-        "contentHash": "93a8e0ac50445f676c8505856a9de7fba4e38d1e2da0a4514176fe3a61f88a7c",
+        "body": "The Padma Purāṇa, one of the eighteen Mahāpurāṇas, among the largest at ~55,000 verses in six khaṇḍas (Sṛṣṭi, Bhūmi, Svarga, Pātāla, Uttara, Kriyā-yoga). Organized around the lotus (padma) cosmology. Sṛṣṭi-khaṇḍa: creation, the glory of Puṣkara and other tīrthas; Bhūmi-khaṇḍa: earth geography, rivers, mountains, the Bhārata-varṣa; Svarga-khaṇḍa: heavens, the story of Rāma (Rāmāyaṇa summary), the glory of Ekādaśī; Pātāla-khaṇḍa: netherworlds, the story of Śeṣa, Viṣṇu's yoga-nidrā; Uttara-khaṇḍa: the essence of bhakti, the glory of Viṣṇu's names (Viṣṇu-sahasranāma context), pilgrimage to Brahmāvarta, Kāśī, Prayāga; Kriyā-yoga-khaṇḍa: temple rituals, vrata, dāna, the Puruṣottama-māhātmya (Jagannātha). Major source for tīrtha-māhātmya and Vaiṣṇava ritual.\n---\nOne of the largest Mahāpurāṇas, organized around the lotus (padma) cosmology with extensive pilgrimage and ritual sections; represented here as a catalogue entry.",
+        "contentHash": "770950f1efbd529c031defdb9ff60ea077bc66e5bfd353601767dceb79342cfb",
         "sourceFile": "src\\content\\scriptures\\padma-purana.md"
       },
       {
@@ -16524,6 +16982,38 @@
         "body": "An Upaniṣad organized around six questions, represented here through an original catalogue description.",
         "contentHash": "50f0429cf283ade0b4d3f6fe4461cbdca8afc32fe29b1458e825a4c61e0947d3",
         "sourceFile": "src\\content\\scriptures\\prashna-upanishad.md"
+      },
+      {
+        "id": "prodgita-agama",
+        "title": "Prodgītā Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Prodgita Agama",
+          "Prodgitagama",
+          "प्रोद्गीता आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Prodgītā Āgama, one of the twenty-eight principal Śaiva Āgamas, containing the \"emerged song\" (prodgītā) of Śiva, emphasizing the gītā (teaching song) format for conveying the highest Śaiva philosophy; its literary form is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Prodgītā Āgama, one of the twenty-eight principal Śaiva Āgamas, containing the \"emerged song\" (prodgītā) of Śiva, emphasizing the gītā (teaching song) format for conveying the highest Śaiva philosophy; its literary form is represented here as a catalogue entry.\n---",
+        "contentHash": "75d475cd5f04d7111f40c375c54d035ccef6bc323df8d237c9c5f908c9dcf47f",
+        "sourceFile": "src\\content\\scriptures\\prodgita-agama.md"
       },
       {
         "id": "ramayana-aranya-kanda",
@@ -17180,6 +17670,38 @@
         "sourceFile": "src\\content\\scriptures\\rigveda.md"
       },
       {
+        "id": "rudra-agama",
+        "title": "Rudra Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Rudra Agama",
+          "Rudragama",
+          "रुद्र आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Rudra Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on Rudra as the fierce and transformative aspect of Śiva, with detailed rites for the pacification (śānti) and propitiation of Rudra; its ritual orientation is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Rudra Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on Rudra as the fierce and transformative aspect of Śiva, with detailed rites for the pacification (śānti) and propitiation of Rudra; its ritual orientation is represented here as a catalogue entry.\n---",
+        "contentHash": "26f894580aa386451760640f5abda4790622e488d58fff795bf0d90d73f0c7a2",
+        "sourceFile": "src\\content\\scriptures\\rudra-agama.md"
+      },
+      {
         "id": "rudra-yamala-tantra",
         "title": "Rudrayāmala Tantra",
         "type": "scripture",
@@ -17270,6 +17792,38 @@
         "body": "The Ṣaḍviṃśa Brāhmaṇa, the twenty-sixth book supplementing the Pañcaviṃśa Brāhmaṇa, contains additional ritual material for Sāma Vedic sacrifices; its content is represented here as a catalogue entry.\n---",
         "contentHash": "562e491e093d2632168e70aa2cee7545654008146b9c2e4e0cbcb2a154c84edc",
         "sourceFile": "src\\content\\scriptures\\sadvimsha-brahmana.md"
+      },
+      {
+        "id": "sahasra-agama",
+        "title": "Sahasra Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Sahasra Agama",
+          "Sahasragama",
+          "सहस्र आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Sahasra Āgama, one of the twenty-eight principal Śaiva Āgamas, named for its thousand (sahasra) verses or topics, covering all four pādas with emphasis on the thousand names and forms of Śiva; its comprehensive scope is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Sahasra Āgama, one of the twenty-eight principal Śaiva Āgamas, named for its thousand (sahasra) verses or topics, covering all four pādas with emphasis on the thousand names and forms of Śiva; its comprehensive scope is represented here as a catalogue entry.\n---",
+        "contentHash": "3d2f0a4c4f73474cc0b2eef7f5b19fd3207004a4c9c01914e606985a128cff50",
+        "sourceFile": "src\\content\\scriptures\\sahasra-agama.md"
       },
       {
         "id": "samaveda-aranyaka",
@@ -17579,11 +18133,16 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta",
+          "te"
         ],
         "aliases": [
           "Shiva Purana",
-          "शिव पुराण"
+          "शिव पुराण",
+          "சிவ புராணம்",
+          "శివ పురాణం"
         ],
         "sources": [
           "gretil"
@@ -17593,13 +18152,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Śiva Purāṇa, one of the eighteen Mahāpurāṇas, in seven saṃhitās, focusing on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry. ---",
+        "description": "The Śiva Purāṇa, one of the eighteen Mahāpurāṇas in seven saṃhitās (Vidyeśvara, Rudra, Śatarudra, Koṭirudra, Umā, Kailāsa, Vāyavīya) and ~24,000 verses. Saṃhitā 1 (Vidyeśvara): glory of Śiva, liṅga worship, jyotirliṅgas; Saṃhitā 2 (Rudra): Rudra's forms, the eleven Rudras; Saṃhitā 3 (Śatarudra): hundred names of Rudra, Śiva's cosmic dance; Saṃhitā 4 (Koṭirudra): twelve jyotirliṅgas (Somnath, Mallikārjuna, Mahākāleśvara, Omkāreśvara, Kedārnāth, Bhīmaśaṅkar, Viśvanāth, Tryambakeśvara, Vaidyanāth, Nāgeśvara, Rāmeśvara, Ghṛṣṇeśvara); Saṃhitā 5 (Umā): Pārvatī's birth, marriage, Gaṇeśa, Skanda; Saṃhitā 6 (Kailāsa): Kailāsa, the yoga of Śiva, the five faces; Saṃhitā 7 (Vāyavīya): Vāyu's narration, the Śiva-gītā, liberation through Śiva-bhakti. Central to Śaiva Siddhānta and temple traditions. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Śiva Purāṇa, one of the eighteen Mahāpurāṇas, in seven saṃhitās, focusing on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry.\n---",
-        "contentHash": "93874d4a5334f80faaf37459e74407e8ed05524acc754f2d88d9427c3b4a09b5",
+        "body": "The Śiva Purāṇa, one of the eighteen Mahāpurāṇas in seven saṃhitās (Vidyeśvara, Rudra, Śatarudra, Koṭirudra, Umā, Kailāsa, Vāyavīya) and ~24,000 verses. Saṃhitā 1 (Vidyeśvara): glory of Śiva, liṅga worship, jyotirliṅgas; Saṃhitā 2 (Rudra): Rudra's forms, the eleven Rudras; Saṃhitā 3 (Śatarudra): hundred names of Rudra, Śiva's cosmic dance; Saṃhitā 4 (Koṭirudra): twelve jyotirliṅgas (Somnath, Mallikārjuna, Mahākāleśvara, Omkāreśvara, Kedārnāth, Bhīmaśaṅkar, Viśvanāth, Tryambakeśvara, Vaidyanāth, Nāgeśvara, Rāmeśvara, Ghṛṣṇeśvara); Saṃhitā 5 (Umā): Pārvatī's birth, marriage, Gaṇeśa, Skanda; Saṃhitā 6 (Kailāsa): Kailāsa, the yoga of Śiva, the five faces; Saṃhitā 7 (Vāyavīya): Vāyu's narration, the Śiva-gītā, liberation through Śiva-bhakti. Central to Śaiva Siddhānta and temple traditions.\n---",
+        "contentHash": "ff30cdaf7749ad1d4d3b29d1814729f1dcfd0247e4dde65ffd6e78c7b589193d",
         "sourceFile": "src\\content\\scriptures\\shiva-purana.md"
       },
       {
@@ -17639,11 +18198,15 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "ta"
         ],
         "aliases": [
           "Skanda Purana",
-          "स्कन्द पुराण"
+          "स्कन्द पुराण",
+          "स्कंद पुराण",
+          "ச கந ட ப ர ணம்"
         ],
         "sources": [
           "gretil"
@@ -17653,13 +18216,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Skanda Purāṇa, the largest Mahāpurāṇa with over 81,000 verses in seven khaṇḍas (Māheśvara, Viṣṇu, Brahma, Kāśī, Āvantya, Nāgara, Prabhāsa), focusing on Śiva, Skanda/Kārttikeya, and pilgrimage sites (tīrthas) across India; its role in Śaiva tradition and temple mythology are represented here as a catalogue entry. ---",
+        "description": "The Skanda Purāṇa, the largest Mahāpurāṇa at ~81,000+ verses in seven khaṇḍas (Māheśvara, Viṣṇu, Brahma, Kāśī, Āvantya, Nāgara, Prabhāsa). Māheśvara-khaṇḍa: Śiva's glory, the twelve jyotirliṅgas, Kedāra-khaṇḍa (Himalayan tīrthas); Viṣṇu-khaṇḍa: Viṣṇu avatāras, Badarī, Puruṣottama (Jagannātha); Brahma-khaṇḍa: creation, Brahmā's life, Puṣkara, Gayā; Kāśī-khaṇḍa: Kāśī/Avimiukta, the glory of Kāśī, the Annapūrṇā temple; Āvantya-khaṇḍa: Avantī/Ujjayinī, Mahākāleśvara, the Siṃhastha Kumbha; Nāgara-khaṇḍa: Gujarat tīrthas, Dvārakā, Prabhāsa; Prabhāsa-khaṇḍa: Somnāth, the Yādava dynasty, the end of Kṛṣṇa's līlā. The definitive tīrtha-māhātmya text for Śaiva and pan-Hindu pilgrimage. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Skanda Purāṇa, the largest Mahāpurāṇa with over 81,000 verses in seven khaṇḍas (Māheśvara, Viṣṇu, Brahma, Kāśī, Āvantya, Nāgara, Prabhāsa), focusing on Śiva, Skanda/Kārttikeya, and pilgrimage sites (tīrthas) across India; its role in Śaiva tradition and temple mythology are represented here as a catalogue entry.\n---",
-        "contentHash": "5e7f854a46aeed474f1c4c36dfbb971ca1ef4da120d23e7e645fa235cd228bd0",
+        "body": "The Skanda Purāṇa, the largest Mahāpurāṇa at ~81,000+ verses in seven khaṇḍas (Māheśvara, Viṣṇu, Brahma, Kāśī, Āvantya, Nāgara, Prabhāsa). Māheśvara-khaṇḍa: Śiva's glory, the twelve jyotirliṅgas, Kedāra-khaṇḍa (Himalayan tīrthas); Viṣṇu-khaṇḍa: Viṣṇu avatāras, Badarī, Puruṣottama (Jagannātha); Brahma-khaṇḍa: creation, Brahmā's life, Puṣkara, Gayā; Kāśī-khaṇḍa: Kāśī/Avimiukta, the glory of Kāśī, the Annapūrṇā temple; Āvantya-khaṇḍa: Avantī/Ujjayinī, Mahākāleśvara, the Siṃhastha Kumbha; Nāgara-khaṇḍa: Gujarat tīrthas, Dvārakā, Prabhāsa; Prabhāsa-khaṇḍa: Somnāth, the Yādava dynasty, the end of Kṛṣṇa's līlā. The definitive tīrtha-māhātmya text for Śaiva and pan-Hindu pilgrimage.\n---",
+        "contentHash": "fa911828031d4c0517a5a4e531f6f65bbfb32efb7aac54eef2545e131f66f4d9",
         "sourceFile": "src\\content\\scriptures\\skanda-purana.md"
       },
       {
@@ -17693,6 +18256,38 @@
         "sourceFile": "src\\content\\scriptures\\subala-upanishad.md"
       },
       {
+        "id": "suksma-agama",
+        "title": "Sūkṣma Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Suksma Agama",
+          "Suksma Agama",
+          "सूक्ष्म आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Sūkṣma Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the subtle (sūkṣma) body, the nāḍīs, cakras, and the kuṇḍalinī yoga leading to Śiva-realization; its detailed yogic physiology is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Sūkṣma Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the subtle (sūkṣma) body, the nāḍīs, cakras, and the kuṇḍalinī yoga leading to Śiva-realization; its detailed yogic physiology is represented here as a catalogue entry.\n---",
+        "contentHash": "c722a7cb0d4dbbf0428b3856b6b3423a372e745021813b448778651df80221f9",
+        "sourceFile": "src\\content\\scriptures\\suksma-agama.md"
+      },
+      {
         "id": "suprabheda-agama",
         "title": "Suprabheda Āgama",
         "type": "scripture",
@@ -17723,6 +18318,38 @@
         "body": "The Suprabheda Āgama, one of the twenty-eight principal Śaiva Āgamas, covering jñāna, yoga, kriyā, and caryā pādas with emphasis on temple construction and iconography; represented here as a catalogue entry.\n---",
         "contentHash": "6799741ef727b17232d5a751b4cc31a796013486f49251679dbcd68a37d5ca01",
         "sourceFile": "src\\content\\scriptures\\suprabheda-agama.md"
+      },
+      {
+        "id": "svayambhuva-agama",
+        "title": "Svāyambhuva Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Svayambhuva Agama",
+          "Svayambhuvagama",
+          "स्वायम्भुव आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Svāyambhuva Āgama, one of the twenty-eight principal Śaiva Āgamas, attributed to Svāyambhuva Manu, emphasizing the self-born (svayambhu) nature of Śiva as the uncreated source; its treatment of the primordial tradition is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Svāyambhuva Āgama, one of the twenty-eight principal Śaiva Āgamas, attributed to Svāyambhuva Manu, emphasizing the self-born (svayambhu) nature of Śiva as the uncreated source; its treatment of the primordial tradition is represented here as a catalogue entry.\n---",
+        "contentHash": "2f8f8e7c738ab9fbab0a4839c0a2c888673c5333945e250116daecd84b76dfbd",
+        "sourceFile": "src\\content\\scriptures\\svayambhuva-agama.md"
       },
       {
         "id": "taittiriya-aranyaka",
@@ -18102,7 +18729,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Vamana Purana",
@@ -18116,13 +18744,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Vāmana Purāṇa, one of the eighteen Mahāpurāṇas in 95 chapters, narrated by Pulastya to Nārada, focusing on Viṣṇu's Vāmana avatar, the Bali-Vāmana narrative, and the tīrthas of Kurukṣetra; its role in Vaiṣṇava pilgrimage traditions is represented here as a catalogue entry. ---",
+        "description": "The Vāmana Purāṇa, one of the eighteen Mahāpurāṇas in 95 chapters and ~10,000 verses, narrated by Pulastya to Nārada. Focuses on Viṣṇu's Vāmana avatāra, the Bali-Vāmana narrative (three strides covering the three worlds), and the tīrthas of Kurukṣetra. Also covers: the Dakṣa-yajña and Śiva's destruction of it, the birth of Gaṅgā, the Sarasvatī-māhātmya, the Yamunā-māhātmya, the Gayā-śrāddha, the Prayāga-māhātmya, the Kāśī-māhātmya, and the glories of the Nṛsiṃha avatāra. A key text for Kurukṣetra pilgrimage and the Vāmana-Nṛsiṃha dual focus of Viṣṇu worship. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Vāmana Purāṇa, one of the eighteen Mahāpurāṇas in 95 chapters, narrated by Pulastya to Nārada, focusing on Viṣṇu's Vāmana avatar, the Bali-Vāmana narrative, and the tīrthas of Kurukṣetra; its role in Vaiṣṇava pilgrimage traditions is represented here as a catalogue entry.\n---",
-        "contentHash": "df7e4ccd529376d6fa7b3ea5c2e3e16877563005390a9db92180c941470ea410",
+        "body": "The Vāmana Purāṇa, one of the eighteen Mahāpurāṇas in 95 chapters and ~10,000 verses, narrated by Pulastya to Nārada. Focuses on Viṣṇu's Vāmana avatāra, the Bali-Vāmana narrative (three strides covering the three worlds), and the tīrthas of Kurukṣetra. Also covers: the Dakṣa-yajña and Śiva's destruction of it, the birth of Gaṅgā, the Sarasvatī-māhātmya, the Yamunā-māhātmya, the Gayā-śrāddha, the Prayāga-māhātmya, the Kāśī-māhātmya, and the glories of the Nṛsiṃha avatāra. A key text for Kurukṣetra pilgrimage and the Vāmana-Nṛsiṃha dual focus of Viṣṇu worship.\n---",
+        "contentHash": "5de6de766e378120e355b2df1d85a29aced64a805950d565eaa6f85ebfff759e",
         "sourceFile": "src\\content\\scriptures\\vamana-purana.md"
       },
       {
@@ -18161,7 +18789,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Varaha Purana",
@@ -18175,13 +18804,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī, focusing on tīrthas, vrata, and Viṣṇu-bhakti; its detailed tīrtha-māhātmya sections are represented here as a catalogue entry. ---",
+        "description": "The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters and ~24,000 verses, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī. Focuses on tīrthas (pilgrimage sites), vrata (vows), and Viṣṇu-bhakti. Major sections: the rescue of Bhūdevī, the Varāha-kṣetra (Tirupati), the Śrīveṅkaṭeśa-māhātmya, the Badarī-kṣetra, the Puṣkara-māhātmya, the Gayā-śrāddha-vidhi, the Mathurā-māhātmya, the Dvārakā-māhātmya, the Kāśī-māhātmya, the Prayāga-māhātmya, and numerous vrata-kathās (Śrāvaṇa, Kārtika, Mārgaśīrṣa). The most detailed tīrtha-māhātmya text among the Purāṇas for North and Central Indian Vaiṣṇava sites. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī, focusing on tīrthas, vrata, and Viṣṇu-bhakti; its detailed tīrtha-māhātmya sections are represented here as a catalogue entry.\n---",
-        "contentHash": "8b4ec4953e9c07511a448d021280e636c1612b8eb4423e97b8b9f2b4742effbe",
+        "body": "The Varāha Purāṇa, one of the eighteen Mahāpurāṇas in 217 chapters and ~24,000 verses, narrated by Varāha (Viṣṇu's boar avatar) to Bhūdevī. Focuses on tīrthas (pilgrimage sites), vrata (vows), and Viṣṇu-bhakti. Major sections: the rescue of Bhūdevī, the Varāha-kṣetra (Tirupati), the Śrīveṅkaṭeśa-māhātmya, the Badarī-kṣetra, the Puṣkara-māhātmya, the Gayā-śrāddha-vidhi, the Mathurā-māhātmya, the Dvārakā-māhātmya, the Kāśī-māhātmya, the Prayāga-māhātmya, and numerous vrata-kathās (Śrāvaṇa, Kārtika, Mārgaśīrṣa). The most detailed tīrtha-māhātmya text among the Purāṇas for North and Central Indian Vaiṣṇava sites.\n---",
+        "contentHash": "0a05e3f4495866d1b5bb3cb90713bef939a848bad8b4e1844c32ab7daca40131",
         "sourceFile": "src\\content\\scriptures\\varaha-purana.md"
       },
       {
@@ -18312,7 +18941,8 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi"
         ],
         "aliases": [
           "Vayu Purana",
@@ -18326,14 +18956,46 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas, focusing on cosmology, genealogies, and the glory of Śiva; its relationship to the Brahmāṇḍa Purāṇa and its detailed tīrtha-māhātmya sections are represented here as a catalogue entry. ---",
+        "description": "The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas (prakriyā, anuṣaṅga, upodghāta, upasaṃhāra) and ~24,000 verses, narrated by Vāyu to the sages. Covers creation cycles, the kalpas and manvantaras, the genealogies of kings and sages (sūryavaṃśa, candravaṃśa), the geography of the seven dvīpas and Bhārata-varṣa, the Śiva kṣetras (Kāśī, Gayā, Puṣkara, Śrīśaila, Kedāra), the Aṣṭādaśa-śakti-pīṭhas, the Gayā-māhātmya and the Śrāddha-vidhi. Closely related to the Brahmāṇḍa Purāṇa (shares the Lalitopākhyāna and Āditya-hṛdaya). Preserves the early Śaiva cosmology and the genealogical tradition of the Purāṇas. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas, focusing on cosmology, genealogies, and the glory of Śiva; its relationship to the Brahmāṇḍa Purāṇa and its detailed tīrtha-māhātmya sections are represented here as a catalogue entry.\n---",
-        "contentHash": "0555a54411049d4575d254de7ed0f78e4be20765e06e50662ae01bae84036fde",
+        "body": "The Vāyu Purāṇa, a Śaiva Mahāpurāṇa in four padas (prakriyā, anuṣaṅga, upodghāta, upasaṃhāra) and ~24,000 verses, narrated by Vāyu to the sages. Covers creation cycles, the kalpas and manvantaras, the genealogies of kings and sages (sūryavaṃśa, candravaṃśa), the geography of the seven dvīpas and Bhārata-varṣa, the Śiva kṣetras (Kāśī, Gayā, Puṣkara, Śrīśaila, Kedāra), the Aṣṭādaśa-śakti-pīṭhas, the Gayā-māhātmya and the Śrāddha-vidhi. Closely related to the Brahmāṇḍa Purāṇa (shares the Lalitopākhyāna and Āditya-hṛdaya). Preserves the early Śaiva cosmology and the genealogical tradition of the Purāṇas.\n---",
+        "contentHash": "ad5924e3a719c2ee448348370e6b2065ee30fde1e419c17acf22ba94127b157a",
         "sourceFile": "src\\content\\scriptures\\vayu-purana.md"
+      },
+      {
+        "id": "vijaya-agama",
+        "title": "Vijaya Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Vijaya Agama",
+          "Vijayagama",
+          "विजय आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Vijaya Āgama, one of the twenty-eight principal Śaiva Āgamas, emphasizing the victorious (vijaya) path of Śiva-worship leading to liberation, with detailed kriyā and caryā sections for temple and home worship; its practical orientation is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Vijaya Āgama, one of the twenty-eight principal Śaiva Āgamas, emphasizing the victorious (vijaya) path of Śiva-worship leading to liberation, with detailed kriyā and caryā sections for temple and home worship; its practical orientation is represented here as a catalogue entry.\n---",
+        "contentHash": "457f9a9ad5c82f70d73d3a96ea111069ee74a83b91a39bdebe2e01fa00bf659f",
+        "sourceFile": "src\\content\\scriptures\\vijaya-agama.md"
       },
       {
         "id": "vira-agama",
@@ -18402,11 +19064,14 @@
         "type": "scripture",
         "language": [
           "sa",
-          "en"
+          "en",
+          "hi",
+          "bn"
         ],
         "aliases": [
           "Vishnu Purana",
-          "विष्णु पुराण"
+          "विष्णु पुराण",
+          "বিষ্ণু পুরাণ"
         ],
         "sources": [
           "gretil"
@@ -18416,13 +19081,13 @@
         "classifications": [
           "PURANA"
         ],
-        "description": "The Viṣṇu Purāṇa, one of the eighteen Mahāpurāṇas in six aṃśas, focusing on Viṣṇu's avatāras, cosmology, and the genealogy of the solar and lunar dynasties; its influence on later Vaiṣṇava theology is represented here as a catalogue entry. ---",
+        "description": "The Viṣṇu Purāṇa, one of the eighteen Mahāpurāṇas in six aṃśas (parts) and ~23,000 verses, attributed to Parāśara and narrated to Maitreya. Aṃśa 1: creation (sarga), cosmology, the varṇāśrama system; Aṃśa 2: geography (dvīpas, varṣas), Pātāla, hells, the seven dvīpas; Aṃśa 3: Manus, manvantaras, the solar and lunar dynasties (Sūryavaṃśa, Candravaṃśa); Aṃśa 4: detailed genealogies of kings through the ages; Aṃśa 5: Kṛṣṇa's life (Mathurā, Vṛndāvana, Dvārakā, Jarāsandha, Kālayavana, the Pāṇḍavas); Aṃśa 6: dissolution (pralaya), the path of liberation, the glories of Viṣṇu-bhakti. The earliest and most systematic Vaiṣṇava Purāṇa, foundational for later bhakti traditions. ---",
         "sourceIds": [
           "gretil"
         ],
         "relationshipIds": [],
-        "body": "The Viṣṇu Purāṇa, one of the eighteen Mahāpurāṇas in six aṃśas, focusing on Viṣṇu's avatāras, cosmology, and the genealogy of the solar and lunar dynasties; its influence on later Vaiṣṇava theology is represented here as a catalogue entry.\n---",
-        "contentHash": "a34cd8475f270e688acda9a8fc0dbe91aa15d9e9ccad0fc157b89efcd9bebc83",
+        "body": "The Viṣṇu Purāṇa, one of the eighteen Mahāpurāṇas in six aṃśas (parts) and ~23,000 verses, attributed to Parāśara and narrated to Maitreya. Aṃśa 1: creation (sarga), cosmology, the varṇāśrama system; Aṃśa 2: geography (dvīpas, varṣas), Pātāla, hells, the seven dvīpas; Aṃśa 3: Manus, manvantaras, the solar and lunar dynasties (Sūryavaṃśa, Candravaṃśa); Aṃśa 4: detailed genealogies of kings through the ages; Aṃśa 5: Kṛṣṇa's life (Mathurā, Vṛndāvana, Dvārakā, Jarāsandha, Kālayavana, the Pāṇḍavas); Aṃśa 6: dissolution (pralaya), the path of liberation, the glories of Viṣṇu-bhakti. The earliest and most systematic Vaiṣṇava Purāṇa, foundational for later bhakti traditions.\n---",
+        "contentHash": "8e465a980eaf79d203292425ee4fbc2c98c87af9b6996479fd889250c8df9d48",
         "sourceFile": "src\\content\\scriptures\\vishnu-purana.md"
       },
       {
@@ -18667,6 +19332,38 @@
         "sourceFile": "src\\content\\scriptures\\yogachudamani-upanishad.md"
       },
       {
+        "id": "yogaja-agama",
+        "title": "Yogajā Āgama",
+        "type": "scripture",
+        "language": [
+          "sa",
+          "en"
+        ],
+        "aliases": [
+          "Yogaja Agama",
+          "Yogajagama",
+          "योगज आगम"
+        ],
+        "sources": [
+          "gretil",
+          "muktabodha"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "AGAMA"
+        ],
+        "description": "The Yogajā Āgama, one of the twenty-eight principal Śaiva Āgamas, emphasizing the yoga pāda and the union of the individual soul (paśu) with Śiva through the eight limbs of yoga; its treatment of kuṇḍalinī, nāḍīs, and the ṣaṭ-cakra is represented here as a catalogue entry. ---",
+        "sourceIds": [
+          "gretil",
+          "muktabodha"
+        ],
+        "relationshipIds": [],
+        "body": "The Yogajā Āgama, one of the twenty-eight principal Śaiva Āgamas, emphasizing the yoga pāda and the union of the individual soul (paśu) with Śiva through the eight limbs of yoga; its treatment of kuṇḍalinī, nāḍīs, and the ṣaṭ-cakra is represented here as a catalogue entry.\n---",
+        "contentHash": "f6b75748c1d4d8efcc04c647bdd45614771c83f075c4064f905aa4c57ecae69b",
+        "sourceFile": "src\\content\\scriptures\\yogaja-agama.md"
+      },
+      {
         "id": "yogattva-upanishad",
         "title": "Yogatattva Upaniṣad",
         "type": "scripture",
@@ -18734,6 +19431,42 @@
       }
     ],
     "temple": [
+      {
+        "id": "ahobilam-divyadesam",
+        "title": "Ahobilam Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "te"
+        ],
+        "aliases": [
+          "Ahobilam Temple",
+          "Nava Narasimha Temple",
+          "అహోబిలం నవ నరసింహ svem poderes"
+        ],
+        "sources": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Nava Narasiṃha Temple complex at Ahobilam (Nandyal district, Andhra Pradesh), a Divya Deśam with nine shrines for the nine forms of Narasiṃha (Nava Narasiṃha): Ahobila, Bhārgava, Yogananda, Chatravata, Krodha, Malola, Jvālā, Pavana, and Karanja. Spread across the Nallamala Hills. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Brahmotsavam and the Narasiṃha-jayantī attract thousands. Unique for the nine distinct Narasiṃha forms in one pilgrimage circuit. ---",
+        "sourceIds": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Nava Narasiṃha Temple complex at Ahobilam (Nandyal district, Andhra Pradesh), a Divya Deśam with nine shrines for the nine forms of Narasiṃha (Nava Narasiṃha): Ahobila, Bhārgava, Yogananda, Chatravata, Krodha, Malola, Jvālā, Pavana, and Karanja. Spread across the Nallamala Hills. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Brahmotsavam and the Narasiṃha-jayantī attract thousands. Unique for the nine distinct Narasiṃha forms in one pilgrimage circuit.\n---",
+        "contentHash": "e2dad224d38d6adefc27d64d46877f55065ec81b8f1308c0e21c5fbde3160a15",
+        "sourceFile": "src\\content\\temples\\ahobilam-divyadesam.md"
+      },
       {
         "id": "ahobilam",
         "title": "Ahobilam Temple",
@@ -18842,6 +19575,80 @@
         "body": "The Aḻagar Kōyil Temple near Madurai (Tamil Nadu), one of the 108 Divya Deśams, dedicated to Kallāḻagar (Viṣṇu as Kallāḻagar); its hill location, the Chitrai festival (Aḻagar entering the Vaigai river), and the connection to the Āḻvārs are represented here as a catalogue entry.\n---",
         "contentHash": "425670319965d40517b71a6be4d868567fa80f86f44c7467f53a1a3790e65190",
         "sourceFile": "src\\content\\temples\\alagar-koil.md"
+      },
+      {
+        "id": "ashtabuyakaram-divyadesam",
+        "title": "Aṣṭabhujākaram Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Ashtabhujakaram Temple",
+          "Ashtabhuja Perumal Temple",
+          "அஷ்டபுஜாக்கரம் கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Aṣṭabhujākaram Temple (Eight-armed Viṣṇu) at Kāñcīpuram (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu with eight arms (aṣṭa-bhuja) holding the conch, discus, mace, lotus, bow, arrow, sword, and shield. The Cōḷa-period temple where Viṣṇu appeared to the sage Bhṛgu. Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Bhṛgu-pūjā are celebrated. One of the cluster of Kāñcī Divya Deśams. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Aṣṭabhujākaram Temple (Eight-armed Viṣṇu) at Kāñcīpuram (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu with eight arms (aṣṭa-bhuja) holding the conch, discus, mace, lotus, bow, arrow, sword, and shield. The Cōḷa-period temple where Viṣṇu appeared to the sage Bhṛgu. Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Bhṛgu-pūjā are celebrated. One of the cluster of Kāñcī Divya Deśams.\n---",
+        "contentHash": "dd6ccf7834856106fadbc9e2f1c6950165b1fe28b4a898789fa6656615fd2ce2",
+        "sourceFile": "src\\content\\temples\\ashtabuyakaram-divyadesam.md"
+      },
+      {
+        "id": "badrinath-divyadesam",
+        "title": "Badrinath Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Badrinath Temple",
+          "Badri Narayan Temple",
+          "बद्रीनाथ मन्दिर"
+        ],
+        "sources": [
+          "gretil",
+          "unesco-world-heritage-centre",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Badrinath Temple (Badarīnātha), a Divya Deśam in the Garhwal Himalayas (Uttarakhand) at 3,133 m, dedicated to Viṣṇu as Badarīnārāyaṇa. One of the four Char Dham pilgrimage sites and one of the 108 Divya Deśams glorified by the Āḻvārs (Nammāḻvār, Tirumaṅgai Āḻvār). The temple houses a 1m black stone image of Viṣṇu in padmāsana. Open only six months a year (Apr-Nov); the idol is moved to Joshimath in winter. Mentioned in the Nālāyira Divya Prabandham. ---",
+        "sourceIds": [
+          "gretil",
+          "unesco-world-heritage-centre",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Badrinath Temple (Badarīnātha), a Divya Deśam in the Garhwal Himalayas (Uttarakhand) at 3,133 m, dedicated to Viṣṇu as Badarīnārāyaṇa. One of the four Char Dham pilgrimage sites and one of the 108 Divya Deśams glorified by the Āḻvārs (Nammāḻvār, Tirumaṅgai Āḻvār). The temple houses a 1m black stone image of Viṣṇu in padmāsana. Open only six months a year (Apr-Nov); the idol is moved to Joshimath in winter. Mentioned in the Nālāyira Divya Prabandham.\n---",
+        "contentHash": "022807e0a0ccf97bd6b82a13e4d80f8a07d047ea425fc9f91511fadac8833d50",
+        "sourceFile": "src\\content\\temples\\badrinath-divyadesam.md"
       },
       {
         "id": "badrinath",
@@ -19102,6 +19909,42 @@
         "sourceFile": "src\\content\\temples\\dakshineswar.md"
       },
       {
+        "id": "devaprayag-divyadesam",
+        "title": "Devaprayāga Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Devprayag Temple",
+          "Raghunathji Temple Devprayag",
+          "देवप्रयाग मन्दिर"
+        ],
+        "sources": [
+          "gretil",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Raghunāthajī Temple at Devaprayāga (Tehri Garhwal, Uttarakhand), a Divya Deśam at the confluence of the Alaknandā and Bhāgīrathī (forming the Gaṅgā). Dedicated to Viṣṇu as Raghunāthajī (Rāma). The legendary spot where Rāma performed penance after the Rāvaṇa war. The temple was rebuilt by the Garhwal kings. Glorified by Tirumaṅgai Āḻvār. The annual Rāma-navamī and the Gaṅgā-avataraṇa (Gaṅgā descent) festivals are celebrated. One of the five Prayāga confluences. ---",
+        "sourceIds": [
+          "gretil",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Raghunāthajī Temple at Devaprayāga (Tehri Garhwal, Uttarakhand), a Divya Deśam at the confluence of the Alaknandā and Bhāgīrathī (forming the Gaṅgā). Dedicated to Viṣṇu as Raghunāthajī (Rāma). The legendary spot where Rāma performed penance after the Rāvaṇa war. The temple was rebuilt by the Garhwal kings. Glorified by Tirumaṅgai Āḻvār. The annual Rāma-navamī and the Gaṅgā-avataraṇa (Gaṅgā descent) festivals are celebrated. One of the five Prayāga confluences.\n---",
+        "contentHash": "9046dfe05a6322e1079dde1dfb21f6f4543245b2de846291e4494469a7533915",
+        "sourceFile": "src\\content\\temples\\devaprayag-divyadesam.md"
+      },
+      {
         "id": "dwaraka",
         "title": "Dvārakā Temple (Dvārakādhīśa)",
         "type": "temple",
@@ -19137,6 +19980,43 @@
         "body": "The Dvārakādhīśa Temple at Dvārakā, Gujarat, one of the four Dhāmas and a major Kṛṣṇa pilgrimage site; its history and submerged city traditions are represented here as a catalogue entry.",
         "contentHash": "d265044633557e155e90ccf7226e8e50879cd97bc058697a64851e204fa4c608",
         "sourceFile": "src\\content\\temples\\dwaraka.md"
+      },
+      {
+        "id": "dwarka-divyadesam",
+        "title": "Dvārakā Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "gu"
+        ],
+        "aliases": [
+          "Dwarka Temple",
+          "Dwarakadhish Temple",
+          "द्वारकाधीश मन्दिर",
+          "દ્વારકાધીશ મંદિર"
+        ],
+        "sources": [
+          "gretil",
+          "gujarat-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Dvārakādhīśa Temple (Dvārakā), a Divya Deśam on the Gujarat coast, dedicated to Viṣṇu as Dvārakādhīśa (Lord of Dvārakā). One of the four Char Dham and one of the 108 Divya Deśams. The original temple is attributed to Vajranābha (Kṛṣṇa's great-grandson); the current structure dates to 15th-16th century. The five-storey śikhara rises 78m. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār in the Nālāyira Divya Prabandham. The Kṛṣṇa janmabhūmi and the nearby Bet Dwarka (Śāṇṭipura) are associated sites. ---",
+        "sourceIds": [
+          "gretil",
+          "gujarat-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Dvārakādhīśa Temple (Dvārakā), a Divya Deśam on the Gujarat coast, dedicated to Viṣṇu as Dvārakādhīśa (Lord of Dvārakā). One of the four Char Dham and one of the 108 Divya Deśams. The original temple is attributed to Vajranābha (Kṛṣṇa's great-grandson); the current structure dates to 15th-16th century. The five-storey śikhara rises 78m. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār in the Nālāyira Divya Prabandham. The Kṛṣṇa janmabhūmi and the nearby Bet Dwarka (Śāṇṭipura) are associated sites.\n---",
+        "contentHash": "9d232912aff0edf03a66594b126e2b8bbd34320fc8b67a3603b2192df557e2f8",
+        "sourceFile": "src\\content\\temples\\dwarka-divyadesam.md"
       },
       {
         "id": "dwarka-matha",
@@ -19255,12 +20135,15 @@
         "language": [
           "sa",
           "en",
-          "ml"
+          "ml",
+          "ta"
         ],
         "aliases": [
           "Guruvayur",
           "Guruvayoor",
-          "गुरुवायुर"
+          "गुरुवायुर",
+          "ഗുരുവായൂര്‍",
+          "குருவாயூர்"
         ],
         "sources": [
           "gretil",
@@ -19271,18 +20154,18 @@
         "verification": "verified",
         "classifications": [
           "TEMPLE",
-          "Pilgrimage",
-          "Tradition"
+          "PILGRIMAGE",
+          "TRADITION"
         ],
-        "description": "The Guruvāyūr Temple in Kerala, a major Kṛṣṇa pilgrimage site with distinctive Kerala architecture and elephant traditions; its daily rituals and festival calendar are represented here as a catalogue entry.",
+        "description": "The Guruvāyūr Temple (ഗുരുവായൂര്‍ / குருவாயூர்) in Thrissur district, Kerala — \"Bhūloka Vaikuṇṭha\" (Vaikuṇṭha on Earth). Dedicated to Kṛṣṇa as Guruvāyūrapurṇan (the Lord of Guruvāyūr), a four-armed standing Viṣṇu with conch, discus, mace, lotus. The idol is said to be worshipped by Vāyu and Bṛhaspati (hence Guru-vāyūr). Kerala architecture: copper-plated roof, golden flagstaff (dvaja-stambha), the Chuttambalam (circumambulatory). Famous for elephants (Punnathur Kotta — elephant sanctuary), the daily uṣa-pūjā (3:30 AM), and the Guruvāyūr Śrī Kṛṣṇa Suprabhātam. The annual Ekādaśī (Vṛścika Ekādaśī, Nov-Dec) and the Utsavam (festival, Feb-Mar) with the Āna-yoṭṭam (elephant race) draw millions. The temple's unique appam-prasādam (rice cake) and the Guruvāyūr Devaswom management. --- The Guruvāyūr Temple in Kerala, a major Kṛṣṇa pilgrimage site with distinctive Kerala architecture and elephant traditions; its daily rituals and festival calendar are represented here as a catalogue entry.",
         "sourceIds": [
           "gretil",
           "kerala-tourism",
           "archaeological-survey-of-india"
         ],
         "relationshipIds": [],
-        "body": "The Guruvāyūr Temple in Kerala, a major Kṛṣṇa pilgrimage site with distinctive Kerala architecture and elephant traditions; its daily rituals and festival calendar are represented here as a catalogue entry.",
-        "contentHash": "d7b53d85d46c49e4d16bc1625c3f845374c80be44af8248f2664de4af0c2d5ff",
+        "body": "The Guruvāyūr Temple (ഗുരുവായൂര്‍ / குருவாயூர்) in Thrissur district, Kerala — \"Bhūloka Vaikuṇṭha\" (Vaikuṇṭha on Earth). Dedicated to Kṛṣṇa as Guruvāyūrapurṇan (the Lord of Guruvāyūr), a four-armed standing Viṣṇu with conch, discus, mace, lotus. The idol is said to be worshipped by Vāyu and Bṛhaspati (hence Guru-vāyūr). Kerala architecture: copper-plated roof, golden flagstaff (dvaja-stambha), the Chuttambalam (circumambulatory). Famous for elephants (Punnathur Kotta — elephant sanctuary), the daily uṣa-pūjā (3:30 AM), and the Guruvāyūr Śrī Kṛṣṇa Suprabhātam. The annual Ekādaśī (Vṛścika Ekādaśī, Nov-Dec) and the Utsavam (festival, Feb-Mar) with the Āna-yoṭṭam (elephant race) draw millions. The temple's unique appam-prasādam (rice cake) and the Guruvāyūr Devaswom management.\n---\nThe Guruvāyūr Temple in Kerala, a major Kṛṣṇa pilgrimage site with distinctive Kerala architecture and elephant traditions; its daily rituals and festival calendar are represented here as a catalogue entry.",
+        "contentHash": "69717bee082f327a20ff5c89a5b8dba37b44619b29bf3862217fde975d39d326",
         "sourceFile": "src\\content\\temples\\guruvayur.md"
       },
       {
@@ -19322,6 +20205,44 @@
         "body": "The Hoysaleswara Temple at Halebidu, Karnataka, a twin Hoysala temple dedicated to Śiva, renowned for its extensive sculptural program; its architecture, iconography, and UNESCO World Heritage nomination are represented here as a catalogue entry.\n---",
         "contentHash": "06fd8fa1a78f79f62b55cba2b8e77b6f638c07ac14898a82ff843a46bef0add4",
         "sourceFile": "src\\content\\temples\\halebidu-hoysaleswara.md"
+      },
+      {
+        "id": "jagannath-puri-divyadesam",
+        "title": "Jagannātha Purī Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Jagannath Temple Puri",
+          "जगन्नाथ मन्दिर पुरी",
+          "ଜଗନ୍ନାଥ ମନ୍ଦିର ପୁରୀ"
+        ],
+        "sources": [
+          "gretil",
+          "odisha-tourism",
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Jagannātha Temple at Purī (Odisha), a Divya Deśam and one of the four Char Dham, dedicated to Viṣṇu as Jagannātha (Lord of the Universe) with Balabhadra and Subhadrā. The iconic wooden deities are renewed every 12-19 years (Nabakalebara). The massive Ratha-yātrā festival draws millions. Glorified by all twelve Āḻvārs in the Nālāyira Divya Prabandham. The temple kitchen (Mahāprasāda) serves 10,000+ daily. The Govardhana-maṭha of Śaṅkara is located here. ---",
+        "sourceIds": [
+          "gretil",
+          "odisha-tourism",
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
+        ],
+        "relationshipIds": [],
+        "body": "The Jagannātha Temple at Purī (Odisha), a Divya Deśam and one of the four Char Dham, dedicated to Viṣṇu as Jagannātha (Lord of the Universe) with Balabhadra and Subhadrā. The iconic wooden deities are renewed every 12-19 years (Nabakalebara). The massive Ratha-yātrā festival draws millions. Glorified by all twelve Āḻvārs in the Nālāyira Divya Prabandham. The temple kitchen (Mahāprasāda) serves 10,000+ daily. The Govardhana-maṭha of Śaṅkara is located here.\n---",
+        "contentHash": "6a879312bd2b098f3dbbaa14ab58f2b940955543f8377bc109a5d735e25410bd",
+        "sourceFile": "src\\content\\temples\\jagannath-puri-divyadesam.md"
       },
       {
         "id": "jagannath-puri",
@@ -19395,6 +20316,43 @@
         "body": "The Jambukeśvarar Temple at Tiruvanaikaval (near Tiruchirappalli), Tamil Nadu, one of the Pañcabhūta-sthalas representing water (āpas/jala); its subterranean water stream in the sanctum, the Appu Liṅga, and its association with the goddess Akhilāṇḍeśvarī are represented here as a catalogue entry.\n---",
         "contentHash": "95067020c0d54f023eb16f21a7bdf41b35723cca13a796f8ece24b87ea5594b4",
         "sourceFile": "src\\content\\temples\\jambukeswarar-tiruvanaikaval.md"
+      },
+      {
+        "id": "joshimath-divyadesam",
+        "title": "Jyotirmaṭha Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "hi"
+        ],
+        "aliases": [
+          "Joshimath Temple",
+          "Jyotirmath Temple",
+          "Narasimha Temple Joshimath",
+          "ज्योतिर्मठ मन्दिर"
+        ],
+        "sources": [
+          "gretil",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Narasiṃha Temple at Jyotirmaṭha (Joshimath, Uttarakhand), a Divya Deśam and the winter seat of the Badrinath deity. Dedicated to Viṣṇu as Narasiṃha (the man-lion avatāra). One of the four Maṭhas established by Ādi Śaṅkara (the Uttara Maṭha). The deity is believed to be self-manifested (svayambhū). The temple is at 1,890m elevation. Glorified by Tirumaṅgai Āḻvār. The annual Narasiṃha-jayantī and the Badrinath opening/closing ceremonies are centered here. The nearby Kalpavṛkṣa and the cave of Ādi Śaṅkara are pilgrimage sites. ---",
+        "sourceIds": [
+          "gretil",
+          "uttarakhand-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Narasiṃha Temple at Jyotirmaṭha (Joshimath, Uttarakhand), a Divya Deśam and the winter seat of the Badrinath deity. Dedicated to Viṣṇu as Narasiṃha (the man-lion avatāra). One of the four Maṭhas established by Ādi Śaṅkara (the Uttara Maṭha). The deity is believed to be self-manifested (svayambhū). The temple is at 1,890m elevation. Glorified by Tirumaṅgai Āḻvār. The annual Narasiṃha-jayantī and the Badrinath opening/closing ceremonies are centered here. The nearby Kalpavṛkṣa and the cave of Ādi Śaṅkara are pilgrimage sites.\n---",
+        "contentHash": "1ff129442d26ec0e69c572c2a962d0e27e9c127c4679d7717af53fed8a4fa937",
+        "sourceFile": "src\\content\\temples\\joshimath-divyadesam.md"
       },
       {
         "id": "jwalamukhi",
@@ -19577,8 +20535,8 @@
         "sourceFile": "src\\content\\temples\\kanchi-kamakoti.md"
       },
       {
-        "id": "kanchipuram-divyadesam",
-        "title": "Kāñcīpuram Divya Deśams",
+        "id": "kanchipuram-varadaraja-divyadesam",
+        "title": "Kāñcī Varadarāja Perumal Divya Deśam",
         "type": "temple",
         "language": [
           "sa",
@@ -19586,9 +20544,10 @@
           "ta"
         ],
         "aliases": [
-          "Kanchipuram Divya Desams",
-          "Kanchi Divya Desam",
-          "कांचीपुरम दिव्यदेशम्"
+          "Varadaraja Perumal Temple Kanchipuram",
+          "Varadaraja Temple",
+          "வீதிவித்தன் மாலை",
+          "வரதராஜ பெருமாள் கோவில்"
         ],
         "sources": [
           "gretil",
@@ -19599,19 +20558,18 @@
         "verification": "verified",
         "classifications": [
           "TEMPLE",
-          "PILGRIMAGE",
-          "TRADITION"
+          "PILGRIMAGE"
         ],
-        "description": "Kāñcīpuram as a cluster of Divya Deśams: the Varadarāja Perumal Temple (Āḻvār's Tiruvaḍi), the Yathoktakari Temple, the Deepaprakasa Temple, and others; their Āḻvār connections and the Kāñcīpuram pilgrimage circuit are represented here as a catalogue entry. ---",
+        "description": "The Varadarāja Perumal Temple (Devarāja-svāmī) at Kāñcīpuram (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Varadarāja (the King who grants boons). The 11th-century Cōḷa structure with a 100-pillar mandapa and the Athi Varadar (the original wooden deity) preserved in the temple tank. Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Poygai Āḻvār, and Bhūta Āḻvār. One of the Kāñcī Divya Deśams along with Yathothkāri, Ulagalantha Perumal, and others. The Garuḍa-sevā festival is famous. ---",
         "sourceIds": [
           "gretil",
           "tamil-nadu-tourism-department",
           "archaeological-survey-of-india"
         ],
         "relationshipIds": [],
-        "body": "Kāñcīpuram as a cluster of Divya Deśams: the Varadarāja Perumal Temple (Āḻvār's Tiruvaḍi), the Yathoktakari Temple, the Deepaprakasa Temple, and others; their Āḻvār connections and the Kāñcīpuram pilgrimage circuit are represented here as a catalogue entry.\n---",
-        "contentHash": "2393c927798e1ebd0753c7bdaa2fbf54bfe681311cd20650d9b650734c9f7aa0",
-        "sourceFile": "src\\content\\temples\\kanchipuram-divyadesam.md"
+        "body": "The Varadarāja Perumal Temple (Devarāja-svāmī) at Kāñcīpuram (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Varadarāja (the King who grants boons). The 11th-century Cōḷa structure with a 100-pillar mandapa and the Athi Varadar (the original wooden deity) preserved in the temple tank. Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Poygai Āḻvār, and Bhūta Āḻvār. One of the Kāñcī Divya Deśams along with Yathothkāri, Ulagalantha Perumal, and others. The Garuḍa-sevā festival is famous.\n---",
+        "contentHash": "69cc183f60f4a8fc53527b00d8d938890c4730b6d6d39637ada19aab01e7a53b",
+        "sourceFile": "src\\content\\temples\\kanchipuram-varadaraja-divyadesam.md"
       },
       {
         "id": "kanchipuram",
@@ -19948,6 +20906,44 @@
         "sourceFile": "src\\content\\temples\\mukteshwar-bhubaneswar.md"
       },
       {
+        "id": "nachiyar-koil-divyadesam",
+        "title": "Nācciyār Kōyil Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Nachiyar Koil",
+          "Tirunaraiyur",
+          "Thirunaraiyur",
+          "நாச்சியார் கோயில்",
+          "திருநறையூர்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Nācciyār Kōyil (Tirunāṟaiyūr) at Tiruppanandal near Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Śrīnivāsa Perumāl with Goddess Nācciyār (Lakṣmī). The Cōḷa-period temple where Lakṣmī is enshrined as the primary deity (Nācciyār) — unique among Divya Deśams. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Garuḍa-sevā and the Tiruppāvai festival (Mārgaḻi) are celebrated. The temple architecture follows the madhyama (medium) type. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Nācciyār Kōyil (Tirunāṟaiyūr) at Tiruppanandal near Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Śrīnivāsa Perumāl with Goddess Nācciyār (Lakṣmī). The Cōḷa-period temple where Lakṣmī is enshrined as the primary deity (Nācciyār) — unique among Divya Deśams. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Garuḍa-sevā and the Tiruppāvai festival (Mārgaḻi) are celebrated. The temple architecture follows the madhyama (medium) type.\n---",
+        "contentHash": "fa6147e3fb40fe68bfc59f0a36ad24eb1f4da898693b8c80ceb16bee3ce33a13",
+        "sourceFile": "src\\content\\temples\\nachiyar-koil-divyadesam.md"
+      },
+      {
         "id": "nageshwar-dwarka",
         "title": "Nāgeśvara Temple Dwarka",
         "type": "temple",
@@ -19985,6 +20981,42 @@
         "sourceFile": "src\\content\\temples\\nageshwar-dwarka.md"
       },
       {
+        "id": "nanguneri-divyadesam",
+        "title": "Naṅguṇeri Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Nanguneri Temple",
+          "Vanamamalai Temple",
+          "நங்குணேரி வானமாமலை கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Vanamāmalai (Tōṭādṛ) Temple at Naṅguṇeri (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Vaṉamāmalai (the Lord of the forest garland). The headquarters of the Vaṉamāmalai Maṭha (a Śrīvaiṣṇava monastery). The 15th-century temple with a 100-pillar mandapa and beautiful bronzes. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Vaṉamāmalai Maṭha's festivals are celebrated. An important center for Śrīvaiṣṇava theology and Sanskrit learning. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Vanamāmalai (Tōṭādṛ) Temple at Naṅguṇeri (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Vaṉamāmalai (the Lord of the forest garland). The headquarters of the Vaṉamāmalai Maṭha (a Śrīvaiṣṇava monastery). The 15th-century temple with a 100-pillar mandapa and beautiful bronzes. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Vaṉamāmalai Maṭha's festivals are celebrated. An important center for Śrīvaiṣṇava theology and Sanskrit learning.\n---",
+        "contentHash": "c49c82900eefab7a54c0f65f98bb292c73b4c1602abf5dceaeddd17624692fe1",
+        "sourceFile": "src\\content\\temples\\nanguneri-divyadesam.md"
+      },
+      {
         "id": "omkareshwar",
         "title": "Omkāreśvara Temple",
         "type": "temple",
@@ -20020,6 +21052,43 @@
         "body": "The Omkāreśvara Temple on Mandhata Island (Madhya Pradesh), one of the twelve Jyotirliṅgas, situated on the Narmadā river, with the unique Om-shaped island; its architecture, the Mamleshwar Temple on the mainland, and the Narmadā Parikramā are represented here as a catalogue entry.\n---",
         "contentHash": "9709ed022dd14ceef6ed98380f9c46aaf030201548e049a26490485ad8098647",
         "sourceFile": "src\\content\\temples\\omkareshwar.md"
+      },
+      {
+        "id": "oppiliappan-divyadesam",
+        "title": "Oppiliappan Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Oppiliappan Temple",
+          "Uppiliappan Temple",
+          "Kumbakonam Oppiliappan",
+          "உப்பிலியப்பன் கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Oppiliappan Temple (Uppiliappan) near Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Oppiliappan (the Lord who accepts even saltless offerings). The legend: Lakṣmī as Bhūmidevi offered food without salt; Viṣṇu accepted it, hence \"Uppu-illa-appan\" (Lord without salt). No salt is used in the temple kitchen. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple tank (Tula-puṣkariṇī) and the annual Pavitrotsavam are notable. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Oppiliappan Temple (Uppiliappan) near Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Oppiliappan (the Lord who accepts even saltless offerings). The legend: Lakṣmī as Bhūmidevi offered food without salt; Viṣṇu accepted it, hence \"Uppu-illa-appan\" (Lord without salt). No salt is used in the temple kitchen. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple tank (Tula-puṣkariṇī) and the annual Pavitrotsavam are notable.\n---",
+        "contentHash": "0ee7ab29a96583da578cbc78f346db66738f2a1cd5f5ce5f5e2a4c9dda71f4b0",
+        "sourceFile": "src\\content\\temples\\oppiliappan-divyadesam.md"
       },
       {
         "id": "pandharpur",
@@ -20098,6 +21167,44 @@
         "sourceFile": "src\\content\\temples\\puri-govardhana-matha.md"
       },
       {
+        "id": "rameshwaram-divyadesam",
+        "title": "Rāmeśvaram Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Ramanathaswamy Temple",
+          "Ramanathaswamy Temple Rameshwaram",
+          "இராமநாதசுவாமி கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Rāmanāthasvāmī Temple at Rāmeśvaram (Tamil Nadu), a Divya Deśam and one of the four Char Dham, dedicated to Viṣṇu as Rāmanātha (Rāma's Lord) — here Viṣṇu and Śiva are worshipped together. One of the twelve Jyotirliṅgas (Rāmanāthaliṅga). The longest temple corridor in India (1,220m with 1,212 pillars). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, and Kulasekhara Āḻvār. The sacred tīrthas (22 wells) within the complex. The Sethu (Adam's Bridge) to Śrī Lanka is nearby. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
+        ],
+        "relationshipIds": [],
+        "body": "The Rāmanāthasvāmī Temple at Rāmeśvaram (Tamil Nadu), a Divya Deśam and one of the four Char Dham, dedicated to Viṣṇu as Rāmanātha (Rāma's Lord) — here Viṣṇu and Śiva are worshipped together. One of the twelve Jyotirliṅgas (Rāmanāthaliṅga). The longest temple corridor in India (1,220m with 1,212 pillars). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, and Kulasekhara Āḻvār. The sacred tīrthas (22 wells) within the complex. The Sethu (Adam's Bridge) to Śrī Lanka is nearby.\n---",
+        "contentHash": "201c200b2139e7efb600443774452b4598eb7f2286f25a02dfbfd9f09f2089f0",
+        "sourceFile": "src\\content\\temples\\rameshwaram-divyadesam.md"
+      },
+      {
         "id": "rameshwaram",
         "title": "Rāmeśvaram Temple",
         "type": "temple",
@@ -20141,12 +21248,15 @@
         "language": [
           "sa",
           "en",
-          "ml"
+          "ml",
+          "ta"
         ],
         "aliases": [
           "Sabarimala",
           "Ayyappa Temple",
-          "शबरीमला"
+          "शबरीमला",
+          "ശബരിമല",
+          "சபரிமலை"
         ],
         "sources": [
           "gretil",
@@ -20157,19 +21267,55 @@
         "verification": "verified",
         "classifications": [
           "TEMPLE",
-          "Pilgrimage",
-          "Tradition"
+          "PILGRIMAGE",
+          "TRADITION"
         ],
-        "description": "The Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
+        "description": "The Ayyappa Temple at Sabarimala (ശബരിമല / சபரிமலை), Kerala, in the Periyar Tiger Reserve (Western Ghats) at 914m elevation. A major pilgrimage site (40-50 million annually, Nov-Jan) with a distinctive 41-day vrata (maṇḍala kālam / മണ്ഡല കാലം): black/blue clothes, brahmacarya, daily bath, no shaving, no footwear, vegetarian diet. The 18 holy steps (paṭinēṭṭāmpaṭi / பதினெட்டாம்படி) represent the 18 purāṇas/18 guṇas; only those carrying the irumuḍi (sacred bundle) may ascend. The deity is a yogic Śāstā in chin-mudrā. Makaravilakku (Makara Jyoti) on Makara Saṅkrānti (Jan 14/15) is the climax. The Vāvaru (Muslim devotee) shrine at Erumeli and the Peta (Petty) shrine en route exemplify communal harmony. The river Pampa is the sacred bathing ghāṭ. Managed by the Travancore Devaswom Board. --- The Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
         "sourceIds": [
           "gretil",
           "kerala-tourism",
           "archaeological-survey-of-india"
         ],
         "relationshipIds": [],
-        "body": "The Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
-        "contentHash": "b32693f28460632e67893104e764554dc1c12016afc09a32d5374185e7c547db",
+        "body": "The Ayyappa Temple at Sabarimala (ശബരിമല / சபரிமலை), Kerala, in the Periyar Tiger Reserve (Western Ghats) at 914m elevation. A major pilgrimage site (40-50 million annually, Nov-Jan) with a distinctive 41-day vrata (maṇḍala kālam / മണ്ഡല കാലം): black/blue clothes, brahmacarya, daily bath, no shaving, no footwear, vegetarian diet. The 18 holy steps (paṭinēṭṭāmpaṭi / பதினெட்டாம்படி) represent the 18 purāṇas/18 guṇas; only those carrying the irumuḍi (sacred bundle) may ascend. The deity is a yogic Śāstā in chin-mudrā. Makaravilakku (Makara Jyoti) on Makara Saṅkrānti (Jan 14/15) is the climax. The Vāvaru (Muslim devotee) shrine at Erumeli and the Peta (Petty) shrine en route exemplify communal harmony. The river Pampa is the sacred bathing ghāṭ. Managed by the Travancore Devaswom Board.\n---\nThe Ayyappa Temple at Sabarimala, Kerala, a major pilgrimage site with a distinctive 41-day vrata and seasonal opening; its history, forest setting, and Makaravilakku are represented here as a catalogue entry.",
+        "contentHash": "9fa9e3405d544097b6f528b0e7882256ad88a7262b4078aabb5540a1cab8ab83",
         "sourceFile": "src\\content\\temples\\sabarimala.md"
+      },
+      {
+        "id": "sarangapani-divyadesam",
+        "title": "Śrīraṅgam Sāraṅgāpani Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Sarangapani Temple Kumbakonam",
+          "Sarangapani Temple",
+          "சரங்கபாணி பெருமாள் கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Sāraṅgāpani Temple at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Sāraṅgāpani (holding the bow Sāraṅga). The 12th-century Cōḷa temple with a 50m tall gopura and the unique chariot-shaped (ratha) sanctum. The chariot festival (Rathotsava) is famous. Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Poygai Āḻvār, and Periyalvār. The temple tank (Hema-puṣkariṇī) is sacred. One of the five Pañcarātra temples (with Śrīraṅgam, Tirupati, Kāñcī, and Badrinath). ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Sāraṅgāpani Temple at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Sāraṅgāpani (holding the bow Sāraṅga). The 12th-century Cōḷa temple with a 50m tall gopura and the unique chariot-shaped (ratha) sanctum. The chariot festival (Rathotsava) is famous. Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Poygai Āḻvār, and Periyalvār. The temple tank (Hema-puṣkariṇī) is sacred. One of the five Pañcarātra temples (with Śrīraṅgam, Tirupati, Kāñcī, and Badrinath).\n---",
+        "contentHash": "54610d74f1cb9e3ae9afae41583ce611266bae749cd7b8e7b85f2a12ff4ccc7c",
+        "sourceFile": "src\\content\\temples\\sarangapani-divyadesam.md"
       },
       {
         "id": "shrngeri-matha",
@@ -20208,6 +21354,42 @@
         "body": "The Śṛṅgerī Śāradā Pīṭham (Śṛṅgerī Maṭha) in Karnataka, the first of the four Ādi Śaṅkara maṭhas, dedicated to Śāradā (Sarasvatī); its unbroken guru-paramparā, the Vidyāśaṅkara Temple, the Śāradā Temple, and its role in Advaita Vedānta preservation are represented here as a catalogue entry.\n---",
         "contentHash": "85cbbb2c65534a9274ee8f25881e64ca296d90ba763d776acfd4df6400c56f90",
         "sourceFile": "src\\content\\temples\\shrngeri-matha.md"
+      },
+      {
+        "id": "simhachalam-divyadesam",
+        "title": "Simhācalam Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "te"
+        ],
+        "aliases": [
+          "Simhachalam Temple",
+          "Varaha Narasimha Temple",
+          "సింహాచలం వరాహ నరసింహ స 이끗"
+        ],
+        "sources": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Varāha Narasiṃha Temple at Simhācalam (Visakhapatnam, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varāha Narasiṃha (the boar-man-lion form). The deity is covered in sandalwood paste year-round (revealed only on Akṣaya Tritīyā). The Kalinga-style architecture with a 96-pillar mandapa. Glorified by Tirumaṅgai Āḻvār. The annual Candana-yātrā (sandalwood procession) and the Narasiṃha-jayantī are major festivals. One of the few Divya Deśams with a Narasiṃha primary deity. ---",
+        "sourceIds": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Varāha Narasiṃha Temple at Simhācalam (Visakhapatnam, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varāha Narasiṃha (the boar-man-lion form). The deity is covered in sandalwood paste year-round (revealed only on Akṣaya Tritīyā). The Kalinga-style architecture with a 96-pillar mandapa. Glorified by Tirumaṅgai Āḻvār. The annual Candana-yātrā (sandalwood procession) and the Narasiṃha-jayantī are major festivals. One of the few Divya Deśams with a Narasiṃha primary deity.\n---",
+        "contentHash": "139771e40854fa4f8eef13bbb1ecd2aca6569599d5385995303b0c0197a83f0b",
+        "sourceFile": "src\\content\\temples\\simhachalam-divyadesam.md"
       },
       {
         "id": "simhachalam",
@@ -20286,8 +21468,8 @@
         "sourceFile": "src\\content\\temples\\somnath.md"
       },
       {
-        "id": "srirangam-divyadesam",
-        "title": "Śrīraṅgam Divya Deśam",
+        "id": "srirangam-divyadesam-full",
+        "title": "Śrīraṅgam Ranganatha Divya Deśam",
         "type": "temple",
         "language": [
           "sa",
@@ -20295,32 +21477,34 @@
           "ta"
         ],
         "aliases": [
-          "Srirangam Divya Desam",
-          "Srirangam Divya Desam",
-          "श्रीरंगम दिव्यदेशम्"
+          "Srirangam Temple",
+          "Ranganathaswamy Temple",
+          "Sri Ranganathaswamy",
+          "அரங்கநாதன் கோவில்"
         ],
         "sources": [
           "gretil",
           "tamil-nadu-tourism-department",
-          "archaeological-survey-of-india"
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
         ],
         "status": "published",
         "verification": "verified",
         "classifications": [
           "TEMPLE",
-          "PILGRIMAGE",
-          "TRADITION"
+          "PILGRIMAGE"
         ],
-        "description": "Śrīraṅgam as the first and foremost of the 108 Divya Deśams (Vaiṣṇava holy sites), the abode of Raṅganātha, praised by all twelve Āḻvārs; its seven enclosures (prākāras), the Raṅganātha shrine, and the Āḻvār-maṅgala-mūla are represented here as a catalogue entry. ---",
+        "description": "The Śrī Raṅganātha Temple at Śrīraṅgam (Tiruchirappalli, Tamil Nadu), the foremost Divya Deśam and the largest functioning Hindu temple complex (156 acres). Dedicated to Viṣṇu as Raṅganātha (reclining on Ādiśeṣa). Seven concentric prākāras, 21 gopuras (the Rājagopuram is 73m, Asia's tallest). The Āḻvār tradition: all twelve Āḻvārs glorified it; Nammāḻvār's Tiruvāymoḻi was first recited here. The annual Vaikuṇṭha Ekādaśī (21-day festival) draws millions. The temple houses the Āḻvār sannidhis and the Rāmānuja's sanctum. ---",
         "sourceIds": [
           "gretil",
           "tamil-nadu-tourism-department",
-          "archaeological-survey-of-india"
+          "archaeological-survey-of-india",
+          "unesco-world-heritage-centre"
         ],
         "relationshipIds": [],
-        "body": "Śrīraṅgam as the first and foremost of the 108 Divya Deśams (Vaiṣṇava holy sites), the abode of Raṅganātha, praised by all twelve Āḻvārs; its seven enclosures (prākāras), the Raṅganātha shrine, and the Āḻvār-maṅgala-mūla are represented here as a catalogue entry.\n---",
-        "contentHash": "d2747c882a5a1654ad85939711966285cc6153af037bb8c1fa9ff976e11590bd",
-        "sourceFile": "src\\content\\temples\\srirangam-divyadesam.md"
+        "body": "The Śrī Raṅganātha Temple at Śrīraṅgam (Tiruchirappalli, Tamil Nadu), the foremost Divya Deśam and the largest functioning Hindu temple complex (156 acres). Dedicated to Viṣṇu as Raṅganātha (reclining on Ādiśeṣa). Seven concentric prākāras, 21 gopuras (the Rājagopuram is 73m, Asia's tallest). The Āḻvār tradition: all twelve Āḻvārs glorified it; Nammāḻvār's Tiruvāymoḻi was first recited here. The annual Vaikuṇṭha Ekādaśī (21-day festival) draws millions. The temple houses the Āḻvār sannidhis and the Rāmānuja's sanctum.\n---",
+        "contentHash": "ad4cb6c5e5b8920362b9b1df21f583c694991095e5f759ee6d6dd1cd13433a01",
+        "sourceFile": "src\\content\\temples\\srirangam-divyadesam-full.md"
       },
       {
         "id": "srirangam",
@@ -20397,6 +21581,42 @@
         "sourceFile": "src\\content\\temples\\srivilliputhur.md"
       },
       {
+        "id": "thiruchitra-divyadesam",
+        "title": "Tirucitra Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Thiruchitrakoodal Temple",
+          "Chitragupta Temple",
+          "திருச்சிற்றூர்த்தி கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tirucitrakoodal Temple (Citra-kūṭal) at Tiruninravur (near Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Viṣṇu (Citra-kūṭa Perumāl). The Cōḷa-period temple with beautiful bronze icons. The temple tank (Citra-puṣkariṇī) is associated with the legend of Citragupta. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Citragupta-pūjā are celebrated. A smaller but historically significant Divya Deśam. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tirucitrakoodal Temple (Citra-kūṭal) at Tiruninravur (near Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Viṣṇu (Citra-kūṭa Perumāl). The Cōḷa-period temple with beautiful bronze icons. The temple tank (Citra-puṣkariṇī) is associated with the legend of Citragupta. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Citragupta-pūjā are celebrated. A smaller but historically significant Divya Deśam.\n---",
+        "contentHash": "5452a0481f44b1de339e12a4d6e2c46004b0ec7024f8e1db1e7e3f974b4acb83",
+        "sourceFile": "src\\content\\temples\\thiruchitra-divyadesam.md"
+      },
+      {
         "id": "thirukkoloor",
         "title": "Tirukkōḷūr Temple",
         "type": "temple",
@@ -20430,6 +21650,368 @@
         "body": "The Tirukkōḷūr Temple (Tamil Nadu), one of the 108 Divya Deśams, the birthplace of Naṭhāmuṉi (the first Āḻvār of the post-Sangam era), dedicated to Viṣṇu as Vaiṭhamanīdhi; its connection to the Āḻvār tradition is represented here as a catalogue entry.\n---",
         "contentHash": "cec3b02f98a620d53ed734c1b53dfa4880c2822a77f580a1be67df50717d77ed",
         "sourceFile": "src\\content\\temples\\thirukkolur.md"
+      },
+      {
+        "id": "thirukoshtiyur-divyadesam",
+        "title": "Tirukkoṣṭiyūr Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Tirukoshtiyur Temple",
+          "Sowriraja Perumal Temple",
+          "திருக்கோஷ்டியூர் கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tirukkoṣṭiyūr Temple (Sowrīrāja Perumāl) in Sivaganga district (Tamil Nadu), a Divya Deśam where Viṣṇu taught the Tirumantra (Oṃ Namo Nārāyaṇāya) to Tirumaṅgai Āḻvār. The deity is Sowrīrāja Perumāl with Śrīdevi and Bhūdevi. The temple is the birthplace of Tirumaṅgai Āḻvār's guru (Nampiḷḷai). Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Tirumantra-upadeśa festival commemorates the teaching. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tirukkoṣṭiyūr Temple (Sowrīrāja Perumāl) in Sivaganga district (Tamil Nadu), a Divya Deśam where Viṣṇu taught the Tirumantra (Oṃ Namo Nārāyaṇāya) to Tirumaṅgai Āḻvār. The deity is Sowrīrāja Perumāl with Śrīdevi and Bhūdevi. The temple is the birthplace of Tirumaṅgai Āḻvār's guru (Nampiḷḷai). Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Tirumantra-upadeśa festival commemorates the teaching.\n---",
+        "contentHash": "ec2b744d85708bc0934f5d655f0318bb55ccab4214aa1fc1c8877968ada81a32",
+        "sourceFile": "src\\content\\temples\\thirukoshtiyur-divyadesam.md"
+      },
+      {
+        "id": "thirukurungudi-divyadesam",
+        "title": "Tirukkurunkudi Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Tirukkurungudi Temple",
+          "Nambi Temple",
+          "திருக்குருங்குடி நம்பி கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Nambi Temple at Tirukkurunkudi (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord) in a standing posture with Śrīdevi and Bhūdevi. At the foot of the Western Ghats (Mahendragiri Hills). The Cōḷa-period temple with a beautiful vimāna and the Tirupparkadal (milk ocean) tank. Glorified by Nammāḻvār (who was born nearby) and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Nammāḻvār-avatāra-utsavam are major festivals. One of the southernmost Divya Deśams. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Nambi Temple at Tirukkurunkudi (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord) in a standing posture with Śrīdevi and Bhūdevi. At the foot of the Western Ghats (Mahendragiri Hills). The Cōḷa-period temple with a beautiful vimāna and the Tirupparkadal (milk ocean) tank. Glorified by Nammāḻvār (who was born nearby) and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Nammāḻvār-avatāra-utsavam are major festivals. One of the southernmost Divya Deśams.\n---",
+        "contentHash": "7adf5d33ed267053c2c71c6f9c637f3c86ce8228f09fda5ec7945f93a2edb3ee",
+        "sourceFile": "src\\content\\temples\\thirukurungudi-divyadesam.md"
+      },
+      {
+        "id": "thirumalai-divyadesam",
+        "title": "Tirumalai Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Tirumalai Temple",
+          "Tirumalai Nambi Temple",
+          "திருமலை கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tirumalai Temple (Tirumalai Nambi) near Tirupati (Andhra Pradesh/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord). A hill temple at 600m elevation with 600 steps. The deity is in standing posture with Śrīdevi and Bhūdevi. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Tiruppāvai festival are celebrated. One of the lesser-known but historically important Divya Deśams near the Tirupati complex. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tirumalai Temple (Tirumalai Nambi) near Tirupati (Andhra Pradesh/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord). A hill temple at 600m elevation with 600 steps. The deity is in standing posture with Śrīdevi and Bhūdevi. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Tiruppāvai festival are celebrated. One of the lesser-known but historically important Divya Deśams near the Tirupati complex.\n---",
+        "contentHash": "e1fec0aed118db32a82bb94726d99a220bac878e3b7a766dd5844dd7fa463bc7",
+        "sourceFile": "src\\content\\temples\\thirumalai-divyadesam.md"
+      },
+      {
+        "id": "thirunavaya-divyadesam",
+        "title": "Tirunāvāya Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ml"
+        ],
+        "aliases": [
+          "Thirunavaya Temple",
+          "Navamukunda Temple",
+          "തിരുനാവായ നവമുകുന്ദ ക്ഷേത്രം"
+        ],
+        "sources": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Navamukunda Temple at Tirunāvāya (Malappuram, Kerala), a Divya Deśam dedicated to Viṣṇu as Navamukunda (nine-faced). On the banks of the Bhāratappuzha (Nīlā) river. The annual Karkkaṭaka-vāvu (ancestor rites) draws thousands. The temple is associated with the Māmāṅkam festival (medieval trade fair). Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The Kerala-style architecture with a round sanctum (vṛtta-śikhara). One of the few Divya Deśams in Kerala. ---",
+        "sourceIds": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Navamukunda Temple at Tirunāvāya (Malappuram, Kerala), a Divya Deśam dedicated to Viṣṇu as Navamukunda (nine-faced). On the banks of the Bhāratappuzha (Nīlā) river. The annual Karkkaṭaka-vāvu (ancestor rites) draws thousands. The temple is associated with the Māmāṅkam festival (medieval trade fair). Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The Kerala-style architecture with a round sanctum (vṛtta-śikhara). One of the few Divya Deśams in Kerala.\n---",
+        "contentHash": "7044a87272f7e2202f2dda96b85d8e9c62e9c412321afbba95942a92fcbef4df",
+        "sourceFile": "src\\content\\temples\\thirunavaya-divyadesam.md"
+      },
+      {
+        "id": "thiruparkadal-divyadesam",
+        "title": "Tiruppāṟkaṭal Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Tirupparkadal Temple",
+          "Parakala Mutt Temple",
+          "திருப்பாற்கடல் கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tiruppāṟkaṭal Temple (the Ocean of Milk) at Kāñcīpuram (Tamil Nadu), a Divya Deśam where Viṣṇu reclines on Ādiśeṣa in the Kṣīrasāgara (ocean of milk). The temple is associated with the Pāṟkaṭal (the milk ocean) where the Devas and Asuras churned for amṛta. Glorified by Poygai Āḻvār, Bhūta Āḻvār, and Tirumaṅgai Āḻvār. The annual Kṣīrābdhi-navamī festival celebrates the churning. A small but theologically important Divya Deśam representing the cosmic ocean. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tiruppāṟkaṭal Temple (the Ocean of Milk) at Kāñcīpuram (Tamil Nadu), a Divya Deśam where Viṣṇu reclines on Ādiśeṣa in the Kṣīrasāgara (ocean of milk). The temple is associated with the Pāṟkaṭal (the milk ocean) where the Devas and Asuras churned for amṛta. Glorified by Poygai Āḻvār, Bhūta Āḻvār, and Tirumaṅgai Āḻvār. The annual Kṣīrābdhi-navamī festival celebrates the churning. A small but theologically important Divya Deśam representing the cosmic ocean.\n---",
+        "contentHash": "111e80375150656441e1dfc88585ac25e3dfce74380ffe7796f6a6aeb8bff4c7",
+        "sourceFile": "src\\content\\temples\\thirupparkadal-divyadesam.md"
+      },
+      {
+        "id": "thiruppullani-divyadesam",
+        "title": "Tiruppullāṇi Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Thirupullani Temple",
+          "Adi Jagannatha Temple",
+          "திருப்புல்லாணி கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Ādi Jagannātha Temple at Tiruppullāṇi (near Rameswaram, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Ādi Jagannātha (the original Jagannātha) in a reclining posture. The legend: Rāma performed śrāddha for his father Daśaratha here; the temple marks the spot where Rāma prayed to Viṣṇu before crossing to Lanka. The sacred tīrtha (Darbha-śayana-tīrtha) is famous. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Rāma-navamī and the Ādi-amāvāsyā festivals are celebrated. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Ādi Jagannātha Temple at Tiruppullāṇi (near Rameswaram, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Ādi Jagannātha (the original Jagannātha) in a reclining posture. The legend: Rāma performed śrāddha for his father Daśaratha here; the temple marks the spot where Rāma prayed to Viṣṇu before crossing to Lanka. The sacred tīrtha (Darbha-śayana-tīrtha) is famous. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Rāma-navamī and the Ādi-amāvāsyā festivals are celebrated.\n---",
+        "contentHash": "a2feacad4a7e9f2350f500cdfc5b13ed63c41d5364b3c51bda36501f01d51014",
+        "sourceFile": "src\\content\\temples\\thiruppullani-divyadesam.md"
+      },
+      {
+        "id": "thiruvadari-divyadesam",
+        "title": "Tiruvāṭi Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ml"
+        ],
+        "aliases": [
+          "Tiruvadi Temple",
+          "Thiruvadi Temple",
+          "തിരുവാടി ക്ഷേത്രം"
+        ],
+        "sources": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tiruvāṭi Temple at Tiruvāṭi (near Thiruvalla, Kerala), a Divya Deśam dedicated to Viṣṇu as Tiruvāṭi Perumāl. The temple is associated with the sage Durvāsa and the river Maṇimala. The annual festival coincides with the Makara-saṅkrāmaṇa. Glorified by Nammāḻvār. The Kerala-style architecture with a nalukettu layout. One of the Divya Deśams in the Travancore region. ---",
+        "sourceIds": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tiruvāṭi Temple at Tiruvāṭi (near Thiruvalla, Kerala), a Divya Deśam dedicated to Viṣṇu as Tiruvāṭi Perumāl. The temple is associated with the sage Durvāsa and the river Maṇimala. The annual festival coincides with the Makara-saṅkrāmaṇa. Glorified by Nammāḻvār. The Kerala-style architecture with a nalukettu layout. One of the Divya Deśams in the Travancore region.\n---",
+        "contentHash": "2621383a4644c4d741a7ed1278efbeff6e4850557eb5e1c0e73b983d75d1c6d5",
+        "sourceFile": "src\\content\\temples\\thiruvadi-divyadesam.md"
+      },
+      {
+        "id": "thiruvallikeni-divyadesam",
+        "title": "Tiruvallikēṇi Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ta"
+        ],
+        "aliases": [
+          "Parthasarathy Temple Chennai",
+          "Triplicane Temple",
+          "திருவல்லிக்கேணி பரதசாரதி கோவில்"
+        ],
+        "sources": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Pārthasārathi Temple at Tiruvallikēṇi (Triplicane, Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pārthasārathi (Kṛṣṇa as Arjuna's charioteer). The 8th-century Pallava temple, expanded by the Cōḷas and Vijayanagara. Five sancta: Pārthasārathi, Ranganātha, Rāma, Narasiṃha, and Varāha. The temple tank (Kairavinī) is famous for the float festival (Teppa-utsavam). Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, Tirumaṅgai Āḻvār, and Nammāḻvār. One of the oldest Divya Deśams in an urban setting. ---",
+        "sourceIds": [
+          "gretil",
+          "tamil-nadu-tourism-department",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Pārthasārathi Temple at Tiruvallikēṇi (Triplicane, Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pārthasārathi (Kṛṣṇa as Arjuna's charioteer). The 8th-century Pallava temple, expanded by the Cōḷas and Vijayanagara. Five sancta: Pārthasārathi, Ranganātha, Rāma, Narasiṃha, and Varāha. The temple tank (Kairavinī) is famous for the float festival (Teppa-utsavam). Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, Tirumaṅgai Āḻvār, and Nammāḻvār. One of the oldest Divya Deśams in an urban setting.\n---",
+        "contentHash": "ae1e585d9d3d2bdceae7520b9ddbbffdc456e5ae52e177a4991b47ec7cdb02c9",
+        "sourceFile": "src\\content\\temples\\thiruvallikeni-divyadesam.md"
+      },
+      {
+        "id": "thrikkakara-divyadesam",
+        "title": "Tṛkkākkāra Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "ml"
+        ],
+        "aliases": [
+          "Thrikkakara Temple",
+          "Vamana Temple Kochi",
+          "തൃക്കാക്കര മഹാദേവ ക്ഷേത്രം"
+        ],
+        "sources": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Tṛkkākkāra Temple (Vāmana Mūrti) at Tṛkkākkāra near Kochi (Kerala), a Divya Deśam dedicated to Viṣṇu as Vāmana (the dwarf avatāra). The only Divya Deśam in Kerala proper. The legend: Vāmana placed his third step on Mahābali's head here. The annual Onam festival (ten days) celebrates Mahābali's visit, culminating in the Vāmana-jayantī. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple follows the Kerala architectural style with a copper-plated roof. ---",
+        "sourceIds": [
+          "gretil",
+          "kerala-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Tṛkkākkāra Temple (Vāmana Mūrti) at Tṛkkākkāra near Kochi (Kerala), a Divya Deśam dedicated to Viṣṇu as Vāmana (the dwarf avatāra). The only Divya Deśam in Kerala proper. The legend: Vāmana placed his third step on Mahābali's head here. The annual Onam festival (ten days) celebrates Mahābali's visit, culminating in the Vāmana-jayantī. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple follows the Kerala architectural style with a copper-plated roof.\n---",
+        "contentHash": "8401a53174317cf497c01160d710279390d593f5380903cb35916b37799115a3",
+        "sourceFile": "src\\content\\temples\\thrikkakara-divyadesam.md"
+      },
+      {
+        "id": "tirumala-tirupati-divyadesam",
+        "title": "Tirumala Tirupati Divya Deśam",
+        "type": "temple",
+        "language": [
+          "sa",
+          "en",
+          "te",
+          "ta"
+        ],
+        "aliases": [
+          "Tirumala Venkateswara Temple",
+          "Tirupati Balaji",
+          "Sri Venkateswara Temple",
+          "తిరుమల వేంకటేశ్వర స్ధలం"
+        ],
+        "sources": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "status": "published",
+        "verification": "verified",
+        "classifications": [
+          "TEMPLE",
+          "PILGRIMAGE"
+        ],
+        "description": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous. ---",
+        "sourceIds": [
+          "gretil",
+          "andhra-pradesh-tourism",
+          "archaeological-survey-of-india"
+        ],
+        "relationshipIds": [],
+        "body": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous.\n---",
+        "contentHash": "316060e347181d601fef8ba9a74cfd57ce84f7c3e9c2072c456919777e25f521",
+        "sourceFile": "src\\content\\temples\\tirumala-tirupati-divyadesam.md"
       },
       {
         "id": "tirupati-balaji",
@@ -20471,18 +22053,20 @@
         "sourceFile": "src\\content\\temples\\tirupati-balaji.md"
       },
       {
-        "id": "tirupati-divyadesam",
-        "title": "Tirumala Divya Deśam",
+        "id": "tirupati-divyadesam-full",
+        "title": "Tirupati Veṅkaṭeśvara Divya Deśam",
         "type": "temple",
         "language": [
           "sa",
           "en",
-          "te"
+          "te",
+          "ta"
         ],
         "aliases": [
-          "Tirupati Divya Desam",
-          "Tirumala Divya Desam",
-          "तिरुमला दिव्यदेशम्"
+          "Tirumala Venkateswara Temple",
+          "Tirupati Balaji",
+          "Sri Venkateswara Temple",
+          "తిరుమల వేంకటేశ్వర స్ధలం"
         ],
         "sources": [
           "gretil",
@@ -20493,19 +22077,18 @@
         "verification": "verified",
         "classifications": [
           "TEMPLE",
-          "PILGRIMAGE",
-          "TRADITION"
+          "PILGRIMAGE"
         ],
-        "description": "Tirumala as the second of the 108 Divya Deśams, the abode of Veṅkaṭeśvara, praised by nine Āḻvārs; the Ananda Nilayam vimana, the golden gopuram, the laddu prasadam, and the Brahmotsavam are represented here as a catalogue entry. ---",
+        "description": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous. ---",
         "sourceIds": [
           "gretil",
           "andhra-pradesh-tourism",
           "archaeological-survey-of-india"
         ],
         "relationshipIds": [],
-        "body": "Tirumala as the second of the 108 Divya Deśams, the abode of Veṅkaṭeśvara, praised by nine Āḻvārs; the Ananda Nilayam vimana, the golden gopuram, the laddu prasadam, and the Brahmotsavam are represented here as a catalogue entry.\n---",
-        "contentHash": "8ba9312f233b0673e5c5547b0ac58cd7054b1700f6721701c51751f69fdcd4d0",
-        "sourceFile": "src\\content\\temples\\tirupati-divyadesam.md"
+        "body": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous.\n---",
+        "contentHash": "2ba9d162ab6a50c62ef6a91a5d53d50a56a77634f12b6a28eaf738535f9d792c",
+        "sourceFile": "src\\content\\temples\\tirupati-divyadesam-full.md"
       },
       {
         "id": "tirupati-tirumala",
@@ -21043,7 +22626,7 @@
     ]
   },
   "sources": 42,
-  "relationships": 150,
+  "relationships": 188,
   "languages": [
     "bn",
     "en",
@@ -21056,5 +22639,5 @@
     "ta",
     "te"
   ],
-  "compiledAt": "2026-09-26T16:20:20.876Z"
+  "compiledAt": "2026-09-27T16:56:10.523Z"
 }

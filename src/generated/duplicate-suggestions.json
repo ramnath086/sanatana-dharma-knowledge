@@ -281,10 +281,91 @@
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
+      "ahobilam-divyadesam",
+      "ahobilam"
+    ],
+    "reason": "Alias collision: Ahobilam Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "badrinath-divyadesam",
+      "badrinath"
+    ],
+    "reason": "Alias collision: Badrinath Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
       "vitthal",
       "pandharpur"
     ],
     "reason": "Alias collision: Vithoba.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "rameshwaram-divyadesam",
+      "rameshwaram"
+    ],
+    "reason": "Alias collision: Ramanathaswamy Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "simhachalam-divyadesam",
+      "simhachalam"
+    ],
+    "reason": "Alias collision: Simhachalam Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "srirangam-divyadesam-full",
+      "srirangam"
+    ],
+    "reason": "Alias collision: Ranganathaswamy Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirumala-tirupati-divyadesam",
+      "tirupati-divyadesam-full"
+    ],
+    "reason": "Alias collision: Tirumala Venkateswara Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirumala-tirupati-divyadesam",
+      "tirupati-divyadesam-full"
+    ],
+    "reason": "Alias collision: Tirupati Balaji.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirumala-tirupati-divyadesam",
+      "tirupati-divyadesam-full"
+    ],
+    "reason": "Alias collision: Sri Venkateswara Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
+      "tirumala-tirupati-divyadesam",
+      "tirupati-divyadesam-full"
+    ],
+    "reason": "Alias collision: తిరుమల వేంకటేశ్వర స్ధలం.",
     "recommendation": "Review aliases and canonical identity."
   },
   {

@@ -1,5 +1,32 @@
 [
   {
+    "id": "ahobilam-divyadesam-associated-with-vishnu",
+    "from": "ahobilam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Ahobilam Divya Deśam is associated with Viṣṇu as Nava Narasiṃha (nine forms).",
+    "contentHash": "becae2754063c52ca63efb39183b2fbec10599207064c895b3b7d447d0cad55d",
+    "sourceFile": "src\\content\\relationships\\ahobilam-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "aitareya-upanishad-commentary-on-by-shankara",
+    "from": "aitareya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Aitareya Upaniṣad, teaching the creation of the world from the ātman, the three births of the jīva, and the prajñānaṃ brahma mahāvākya.",
+    "contentHash": "623d966355737c5e2493aa0444a3b3ec8c76d920dfa5cb49cc333734b8285274",
+    "sourceFile": "src\\content\\relationships\\aitareya-upanishad-commentary-on-by-shankara.md"
+  },
+  {
     "id": "atharvaveda-contains-sakhas",
     "from": "atharvaveda",
     "relationship": "contains",
@@ -10,6 +37,33 @@
     "editorialNote": "The Atharvaveda is transmitted in Śaunaka and Paippalāda recensions; represented here as a catalogue entry.\n---",
     "contentHash": "db1c41751d3b59e9b9519dbe287c40599f4ae2f2af23b3fcff75edb172b59c7c",
     "sourceFile": "src\\content\\relationships\\atharvaveda-contains-sakhas.md"
+  },
+  {
+    "id": "badrinath-divyadesam-associated-with-vishnu",
+    "from": "badrinath-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "uttarakhand-tourism"
+    ],
+    "editorialNote": "The Badrinath Divya Deśam is associated with Viṣṇu as Badarīnārāyaṇa, the presiding deity.",
+    "contentHash": "a9f7eb3f70282a68fc8356742ca6edf79864d203b1b05467ead55b4289a88214",
+    "sourceFile": "src\\content\\relationships\\badrinath-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "badrinath-divyadesam-celebrated-during-ramanavami",
+    "from": "badrinath-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "ramanavami",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism"
+    ],
+    "editorialNote": "The Badrinath Temple celebrates Rāma-navamī as a major festival.",
+    "contentHash": "6f38e169edd7cb661f2727be44d86b84485a3f7501ac2f600ed44212943bc1f7",
+    "sourceFile": "src\\content\\relationships\\badrinath-divyadesam-celebrated-during-ramanavami.md"
   },
   {
     "id": "bhagavad-gita-bhashya-madhva-authored-by-madhva",
@@ -520,6 +574,73 @@
     "sourceFile": "src\\content\\relationships\\brahma-sutra-related-to-brahman.md"
   },
   {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-madhva",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Madhva's Bhāṣya on the Bṛhadāraṇyaka Upaniṣad from the Dvaita perspective, maintaining the eternal distinction (bheda) between the independent (svatantra) Viṣṇu and the dependent (paratantra) jīvas and matter; the neti-neti negates the world's independence, not its reality as Viṣṇu's creation.",
+    "contentHash": "0c952a107dd880ede79bea0a27d78885838d10f21020ee39593e2431bfdeb547",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-madhva.md"
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-nimbarka",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Nimbārka's commentary tradition on the Bṛhadāraṇyaka Upaniṣad from the Bhedābheda (Dvaitādvaita) perspective, teaching the simultaneous difference and non-difference of the jīva and Brahman, with Rādhā-Kṛṣṇa as the supreme couple.",
+    "contentHash": "da2fe7ae817db117f3371397d4f0b5f1f8312dc5748117e9a99742cd18d129d7",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-nimbarka.md"
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-ramanuja",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "Rāmānuja's Bhāṣya on the Bṛhadāraṇyaka Upaniṣad from the Viśiṣṭādvaita perspective, interpreting the neti-neti as denying upādhi (limiting adjuncts) not Brahman's attributes, and emphasizing the qualified non-duality of Brahman with cit and acit.",
+    "contentHash": "2065fc3f3c0e43154f88b0230fb5d6c4c47d20b6ff5c07d9cff54de58f7d53a4",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-ramanuja.md"
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-shankara",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Bṛhadāraṇyaka Upaniṣad, the largest and one of the principal Upaniṣads, covering the madhu-vidyā, the yājñavalkya-maitreyī dialogue, and the neti-neti teaching.",
+    "contentHash": "b84a7adf31f63e7a7797541592b7b0f1e9c4b0d9c933696eb311b1da1ff38a5c",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-vallabha",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Vallabha's Bhāṣya on the Bṛhadāraṇyaka Upaniṣad from the Śuddhādvaita perspective, emphasizing the pure non-duality of Kṛṣṇa as Brahman, the world as His real manifestation (not māyā), and the path of puṣṭi-mārga (grace) through Kṛṣṇa-bhakti.",
+    "contentHash": "d083119c68e549cf4d553390145065f01009d615f16bdd698bd59a0255db8657",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-vallabha.md"
+  },
+  {
     "id": "brihadeeswara-associated-with-shiva",
     "from": "brihadeeswara",
     "relationship": "associated-with",
@@ -547,6 +668,47 @@
     "editorialNote": "The Bṛhadīśvara Temple celebrates Mahāśivarātri as a major festival.",
     "contentHash": "54db420ea739967925a2b123b508cb0f7ca1d6c5e80a71b1cd598481bda22cff",
     "sourceFile": "src\\content\\relationships\\brihadeeswara-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-madhva",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Madhva's Bhāṣya on the Chāndogya Upaniṣad, interpreting tat tvam asi as \"you are that (servant of Viṣṇu)\" — the jīva is a distinct reflection (pratibimba) of Viṣṇu, never identical; the sat-vidyā establishes Viṣṇu as the only independent reality.",
+    "contentHash": "b1fa776dc4eefecda6ba2f5b1050037fb130846be942f3c94ed80b9572aedc45",
+    "sourceFile": "src\\content\\relationships\\chandogya-upanishad-commentary-on-by-madhva.md"
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-ramanuja",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "Rāmānuja's Bhāṣya on the Chāndogya Upaniṣad, interpreting tat tvam asi as the identity of the individual self (jīva) as a mode (prakāra) of Brahman, not absolute identity; the sat-vidyā as establishing Viṣṇu as the supreme Brahman qualified by the world.",
+    "contentHash": "8cb283b337736fc82c4aaf712f68be15c2772900cabc145f965279799e9cd3a5",
+    "sourceFile": "src\\content\\relationships\\chandogya-upanishad-commentary-on-by-ramanuja.md"
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-shankara",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Chāndogya Upaniṣad, famous for the sat-vidyā (being), the uddālaka-śvetaketu dialogue (tat tvam asi), and the dahara-vidyā (heart-space).",
+    "contentHash": "07e4abd8f4a3abe4bc3442fb4e37ede37348f5b27b8eecff184f6a5171f00983",
+    "sourceFile": "src\\content\\relationships\\chandogya-upanishad-commentary-on-by-shankara.md"
   },
   {
     "id": "chidambaram-nataraja-associated-with-shiva",
@@ -587,6 +749,33 @@
     "editorialNote": "The Divine Mother (Devī/Durgā) is celebrated during Navaratri.",
     "contentHash": "c1efb7fec7511b5c3070d8094f0e85ea290db36f6a6e105f23407481ef51acd7",
     "sourceFile": "src\\content\\relationships\\devi-celebrated-during-navaratri.md"
+  },
+  {
+    "id": "dwarka-divyadesam-associated-with-vishnu",
+    "from": "dwarka-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism"
+    ],
+    "editorialNote": "The Dvārakā Divya Deśam is associated with Viṣṇu as Dvārakādhīśa.",
+    "contentHash": "bfaeb3eade73d040ee0914987ee1acbf2ef415808832e996409fa854619a004d",
+    "sourceFile": "src\\content\\relationships\\dwarka-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "dwarka-divyadesam-celebrated-during-janmashtami",
+    "from": "dwarka-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "janmashtami",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Dvārakā Temple celebrates Janmāṣṭamī (Kṛṣṇa's birth) as its most important festival.",
+    "contentHash": "7d16220d3ce8efe1c56c6c4b6dcf82ba3c9b553a6604f421a9e72b0074b74fa1",
+    "sourceFile": "src\\content\\relationships\\dwarka-divyadesam-celebrated-during-janmashtami.md"
   },
   {
     "id": "ekambareswarar-kanchipuram-associated-with-shiva",
@@ -644,6 +833,20 @@
     "sourceFile": "src\\content\\relationships\\guruvayur-celebrated-during-onam.md"
   },
   {
+    "id": "isha-upanishad-commentary-on-by-shankara",
+    "from": "isha-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Īśa Upaniṣad, the shortest principal Upaniṣad (18 verses), teaching the Īśāvāsyam idam sarvam (all this is pervaded by the Lord) and the balance of karma and jñāna.",
+    "contentHash": "b5e1410fbc644b92a1984d8ebca8c64b9c44fbe25f7353b66faa510186f2e01a",
+    "sourceFile": "src\\content\\relationships\\isha-upanishad-commentary-on-by-shankara.md"
+  },
+  {
     "id": "jagannath-puri-associated-with-vishnu",
     "from": "jagannath-puri",
     "relationship": "associated-with",
@@ -672,6 +875,33 @@
     "sourceFile": "src\\content\\relationships\\jagannath-puri-celebrated-during-rath-yatra.md"
   },
   {
+    "id": "jagannath-puri-divyadesam-associated-with-vishnu",
+    "from": "jagannath-puri-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism"
+    ],
+    "editorialNote": "The Jagannātha Purī Divya Deśam is associated with Viṣṇu as Jagannātha.",
+    "contentHash": "d21165680eff3d1a476076521d33c956f08586b74d8070525dd7fb3af8d6d192",
+    "sourceFile": "src\\content\\relationships\\jagannath-puri-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "jagannath-puri-divyadesam-celebrated-during-rath-yatra",
+    "from": "jagannath-puri-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "rath-yatra",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Jagannātha Temple celebrates the Ratha-yātrā as its most famous festival.",
+    "contentHash": "f8f0c4b3f7d233f6a5359184767e4448abf32640dd2fa21439f59acc6c36d856",
+    "sourceFile": "src\\content\\relationships\\jagannath-puri-divyadesam-celebrated-during-rath-yatra.md"
+  },
+  {
     "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
     "from": "jambukeswarar-tiruvanaikaval",
     "relationship": "associated-with",
@@ -684,6 +914,32 @@
     "editorialNote": "The Jambukeswarar Temple in Tiruvanaikaval is associated with Lord Shiva as Jambukeswarar.",
     "contentHash": "dfcd9f5c88cfcda0e758ab23d216c51c178951bf53144577acfe50071d3efe5e",
     "sourceFile": "src\\content\\relationships\\jambukeswarar-tiruvanaikaval-associated-with-shiva.md"
+  },
+  {
+    "id": "joshimath-divyadesam-associated-with-vishnu",
+    "from": "joshimath-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism"
+    ],
+    "editorialNote": "The Jyotirmaṭha Divya Deśam is associated with Viṣṇu as Narasiṃha.",
+    "contentHash": "131e92bd9a329ed2d238b2a9c048fac0ff5efcfbc8fb02050cbb3c4938cf5c24",
+    "sourceFile": "src\\content\\relationships\\joshimath-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "kanchipuram-varadaraja-divyadesam-associated-with-vishnu",
+    "from": "kanchipuram-varadaraja-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Varadarāja Perumal Divya Deśam is associated with Viṣṇu as Varadarāja.",
+    "contentHash": "c7cd831fb216b81ab92dc548342220ea0c9923eeffd6e2d5cf5271039c028794",
+    "sourceFile": "src\\content\\relationships\\kanchipuram-varadaraja-divyadesam-associated-with-vishnu.md"
   },
   {
     "id": "kashi-vishwanath-associated-with-shiva",
@@ -713,6 +969,20 @@
     "sourceFile": "src\\content\\relationships\\kashi-vishwanath-celebrated-during-mahashivaratri.md"
   },
   {
+    "id": "katha-upanishad-commentary-on-by-shankara",
+    "from": "katha-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Kaṭha Upaniṣad, the dialogue between Naciketā and Yama, teaching the distinction between śreyaḥ and preyaḥ, the chariot analogy (body-chariot, senses-horses, mind-reins, intellect-charioteer, ātman-master), and the na jāyate mriyate vā verse.",
+    "contentHash": "d2e54a76d46561432dd84941ed5a05526dc163250bf0654b4e395ed843c88cee",
+    "sourceFile": "src\\content\\relationships\\katha-upanishad-commentary-on-by-shankara.md"
+  },
+  {
     "id": "kedarnath-associated-with-shiva",
     "from": "kedarnath",
     "relationship": "associated-with",
@@ -725,6 +995,20 @@
     "editorialNote": "The Kedarnath Temple in the Himalayas is associated with Lord Shiva as one of the twelve Jyotirlinga sites and one of the Char Dham pilgrimage sites.",
     "contentHash": "fa026139682e23735a88b91a62e0ff186f008a9871626c2506fc4fc524308528",
     "sourceFile": "src\\content\\relationships\\kedarnath-associated-with-shiva.md"
+  },
+  {
+    "id": "kena-upanishad-commentary-on-by-shankara",
+    "from": "kena-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Kena Upaniṣad, teaching the paradox of the Brahman that cannot be known by the senses/mind but is the knower behind them (pratibodha-viditam).",
+    "contentHash": "ca707f096baea9a58b03a85083ee6c0b60ccb4d1969a7144db7eb373e0338066",
+    "sourceFile": "src\\content\\relationships\\kena-upanishad-commentary-on-by-shankara.md"
   },
   {
     "id": "konark-sun-temple-associated-with-surya",
@@ -946,6 +1230,20 @@
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-virata-parva.md"
   },
   {
+    "id": "mandukya-upanishad-commentary-on-by-shankara",
+    "from": "mandukya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Māṇḍūkya Upaniṣad (with Gauḍapāda's Kārikā), the shortest Upaniṣad (12 verses), analyzing the four states (waking, dreaming, deep sleep, turīya) and the Oṃkāra as the symbol of Brahman.",
+    "contentHash": "9aa19af588b9e4c70e76590f6c54251c3f10d9ff3d9ae36bbea7db968e2b6288",
+    "sourceFile": "src\\content\\relationships\\mandukya-upanishad-commentary-on-by-shankara.md"
+  },
+  {
     "id": "meenakshi-amman-associated-with-devi",
     "from": "meenakshi-amman",
     "relationship": "associated-with",
@@ -972,6 +1270,34 @@
     "editorialNote": "The Meenakshi Amman Temple celebrates Navaratri as a major festival with the Golu display.",
     "contentHash": "4ce7dd716ba9d1717b0756ed29af8a0b4ee393fa2e2a7eea9b7ea18fe5074fed",
     "sourceFile": "src\\content\\relationships\\meenakshi-amman-celebrated-during-navaratri.md"
+  },
+  {
+    "id": "mundaka-upanishad-commentary-on-by-shankara",
+    "from": "mundaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Muṇḍaka Upaniṣad, distinguishing parā and aparā vidyā, the two birds on a tree (jīvātman and paramātman), and the famous satyam eva jayate mahāvākya.",
+    "contentHash": "c13e253951b7897477f8be0d5a3b9dfd5be5e8324356f7ed740211996b32effb",
+    "sourceFile": "src\\content\\relationships\\mundaka-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "prashna-upanishad-commentary-on-by-shankara",
+    "from": "prashna-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Praśna Upaniṣad, structured as six questions (praśnas) from students to Pippalāda, covering prāṇa, the senses, the ātman, sleep/dreams, Oṃ, and the sixteen parts of the puruṣa.",
+    "contentHash": "af2263c3c2dfe055719c697bf5ef001f1608d53a4ac9f39e10825fdc5e072308",
+    "sourceFile": "src\\content\\relationships\\prashna-upanishad-commentary-on-by-shankara.md"
   },
   {
     "id": "purana-mahapuranas-contains-agni",
@@ -1456,6 +1782,32 @@
     "sourceFile": "src\\content\\relationships\\rameshwaram-associated-with-shiva.md"
   },
   {
+    "id": "rameshwaram-divyadesam-associated-with-shiva",
+    "from": "rameshwaram-divyadesam",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Rāmeśvaram Temple also houses the Rāmanāthaliṅga (Śiva), one of the twelve Jyotirliṅgas.",
+    "contentHash": "2c67488332244d92f9f49ec78c22e5aa37c3e9fc53d284c7988eb7f24bd0f5d2",
+    "sourceFile": "src\\content\\relationships\\rameshwaram-divyadesam-associated-with-shiva.md"
+  },
+  {
+    "id": "rameshwaram-divyadesam-associated-with-vishnu",
+    "from": "rameshwaram-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Rāmeśvaram Divya Deśam is associated with Viṣṇu as Rāmanātha.",
+    "contentHash": "8a9e7bac1daceb85e8d023de82a4b43698751e3ce1413f53534291fa7150636e",
+    "sourceFile": "src\\content\\relationships\\rameshwaram-divyadesam-associated-with-vishnu.md"
+  },
+  {
     "id": "rigveda-contains-mandala-1",
     "from": "rigveda",
     "relationship": "contains",
@@ -1628,6 +1980,33 @@
     "sourceFile": "src\\content\\relationships\\shiva-celebrated-during-mahashivaratri.md"
   },
   {
+    "id": "shvetashvatara-upanishad-commentary-on-by-shankara",
+    "from": "shvetashvatara-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Śvetāśvatara Upaniṣad, a later Upaniṣad with strong Śaiva orientation, teaching the unity of Rudra and Brahman, the three guṇas, the wheel of saṃsāra, and the path of devotion (bhakti) to Śiva as the supreme.",
+    "contentHash": "57727f54cf027be07c7641f5597cfb4c9b0b7be90b084bc69435cd60815b7f42",
+    "sourceFile": "src\\content\\relationships\\shvetashvatara-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "simhachalam-divyadesam-associated-with-vishnu",
+    "from": "simhachalam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Simhācalam Divya Deśam is associated with Viṣṇu as Varāha Narasiṃha.",
+    "contentHash": "301fa79a714d4f4fdfb98eb38448cce83c9c71810c41c4e463f3f45514f3a705",
+    "sourceFile": "src\\content\\relationships\\simhachalam-divyadesam-associated-with-vishnu.md"
+  },
+  {
     "id": "somnath-associated-with-shiva",
     "from": "somnath",
     "relationship": "associated-with",
@@ -1640,6 +2019,138 @@
     "editorialNote": "The Somnath Temple in Gujarat is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
     "contentHash": "e5e7686d68beef90a374e1198303af0eafdf70dca0c00794d8c91c91f6c14f6d",
     "sourceFile": "src\\content\\relationships\\somnath-associated-with-shiva.md"
+  },
+  {
+    "id": "srirangam-divyadesam-full-associated-with-vishnu",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Śrīraṅgam Divya Deśam is associated with Viṣṇu as Raṅganātha.",
+    "contentHash": "c21809a283e13b37e52eaa3ba7d76bfddd19fd2e2b8f0c40bbc43b2b4cab1a12",
+    "sourceFile": "src\\content\\relationships\\srirangam-divyadesam-full-associated-with-vishnu.md"
+  },
+  {
+    "id": "srirangam-divyadesam-full-celebrated-during-vaikunta-ekadashi",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "celebrated-during",
+    "to": "deva-uthani-ekadashi",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Śrīraṅgam Temple celebrates Vaikuṇṭha Ekādaśī (Deva Uthani Ekadashi) as its most important 21-day festival.",
+    "contentHash": "c971da6f89edbd337477147066436bcbfe7e19fa0f8cea7aa1fac8f8e02ff305",
+    "sourceFile": "src\\content\\relationships\\srirangam-divyadesam-full-celebrated-during-vaikunta-ekadashi.md"
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-madhva",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Madhva's Bhāṣya on the Taittirīya Upaniṣad, interpreting the five kośas as real gradations of being under Viṣṇu's control, the ānanda-mīmāṃsā as establishing hierarchical bliss, and the bhṛgu-vallī as the jīva's progressive service to Viṣṇu.",
+    "contentHash": "46632d5a59d8c95eec80b1c924fedcee6253d21017728548ad11abaffad48cd8",
+    "sourceFile": "src\\content\\relationships\\taittiriya-upanishad-commentary-on-by-madhva.md"
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-ramanuja",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "Rāmānuja's Bhāṣya on the Taittirīya Upaniṣad, interpreting the five kośas as real attributes of Brahman, the ānanda-mīmāṃsā as establishing graded bliss in Brahman's manifestations, and the bhṛgu-vallī as the progressive realization of Viṣṇu as the supreme.",
+    "contentHash": "ea84c7e1da6fced87426b5de633a12ef877bfcc197753504bf85535798e6faff",
+    "sourceFile": "src\\content\\relationships\\taittiriya-upanishad-commentary-on-by-ramanuja.md"
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-shankara",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "Śaṅkara's Bhāṣya on the Taittirīya Upaniṣad, structured in three vallīs (śikṣā, brahmānanda, bhṛgu), teaching the five sheaths (pañca-kośa) and the ānanda-mīmāṃsā.",
+    "contentHash": "caaab6af2becb1888746a5d84349fa53420be8bc21166e23ad6738f2081ca229",
+    "sourceFile": "src\\content\\relationships\\taittiriya-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "thirunavaya-divyadesam-associated-with-vishnu",
+    "from": "thirunavaya-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Tirunāvāya Divya Deśam is associated with Viṣṇu as Navamukunda.",
+    "contentHash": "35c20e48a7428f02d9c2f4f2971f0a5b5d8a99810001a9d0041aec341510a5c2",
+    "sourceFile": "src\\content\\relationships\\thirunavaya-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thirunavaya-divyadesam-celebrated-during-karkkataka-vavu",
+    "from": "thirunavaya-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "adhika-masa",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Tirunāvāya Temple celebrates Karkkaṭaka-vāvu (ancestor rites during Adhika Māsa).",
+    "contentHash": "9be4d2d7dba7f9243b894c8e35f258a49fd937a09c20967ed5444aadbdd20e58",
+    "sourceFile": "src\\content\\relationships\\thirunavaya-divyadesam-celebrated-during-karkkataka-vavu.md"
+  },
+  {
+    "id": "thrikkakara-divyadesam-associated-with-vishnu",
+    "from": "thrikkakara-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Tṛkkākkāra Divya Deśam is associated with Viṣṇu as Vāmana.",
+    "contentHash": "2eac283e7ba51f38395e9ed2974a06547d56189ae122701c7b4529944d26a2d8",
+    "sourceFile": "src\\content\\relationships\\thrikkakara-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thrikkakara-divyadesam-celebrated-during-onam",
+    "from": "thrikkakara-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "onam",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Tṛkkākkāra Temple celebrates Onam (Vāmana-jayantī) as its primary festival.",
+    "contentHash": "1b772df29e8447fdf97dbb740b3a73f2d3e63eaa59913ff63c109ca982ba3d57",
+    "sourceFile": "src\\content\\relationships\\thrikkakara-divyadesam-celebrated-during-onam.md"
+  },
+  {
+    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "from": "tirumala-tirupati-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Tirumala Tirupati Divya Deśam is associated with Viṣṇu as Veṅkaṭeśvara.",
+    "contentHash": "ecbbe79bb58c4e721e1409c0092673109198f569758024c84536d00122c6f706",
+    "sourceFile": "src\\content\\relationships\\tirumala-tirupati-divyadesam-associated-with-vishnu.md"
   },
   {
     "id": "tirupati-balaji-associated-with-vishnu",

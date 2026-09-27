@@ -209,7 +209,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 10,
+    "relationshipCount": 11,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -237,7 +237,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 4,
+    "relationshipCount": 16,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -250,7 +250,7 @@
     "title": "Dīpāvalī",
     "type": "festival",
     "status": "published",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "relationshipCount": 0,
     "claimCount": 1,
     "evidenceCount": 1,
@@ -294,7 +294,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -332,11 +332,11 @@
   },
   {
     "entityId": "onam",
-    "title": "Onam",
+    "title": "Oṇam",
     "type": "festival",
     "status": "published",
     "sourceCount": 3,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -350,13 +350,12 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -694,7 +693,7 @@
     "type": "scripture",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 2,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [

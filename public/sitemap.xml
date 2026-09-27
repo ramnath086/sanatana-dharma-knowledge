@@ -71,7 +71,6 @@
   <url><loc>/concept/bhakti-movement</loc></url>
   <url><loc>/concept/bhakti</loc></url>
   <url><loc>/concept/bharata-natyam</loc></url>
-  <url><loc>/concept/bhavishya-purana</loc></url>
   <url><loc>/concept/bhedabheda-avibhaga</loc></url>
   <url><loc>/concept/bhedabheda</loc></url>
   <url><loc>/concept/bhishma</loc></url>
@@ -429,6 +428,8 @@
   <url><loc>/scripture/aitareya-upanishad</loc></url>
   <url><loc>/scripture/ajita-agama</loc></url>
   <url><loc>/scripture/akshi-upanishad</loc></url>
+  <url><loc>/scripture/amsuman-agama</loc></url>
+  <url><loc>/scripture/anka-agama</loc></url>
   <url><loc>/scripture/apastamba-dharmasutra</loc></url>
   <url><loc>/scripture/aranyaka</loc></url>
   <url><loc>/scripture/aruni-upanishad</loc></url>
@@ -464,6 +465,8 @@
   <url><loc>/text/bhagavad-gita</loc></url>
   <url><loc>/scripture/bhagavata-purana</loc></url>
   <url><loc>/scripture/bhargava-purana</loc></url>
+  <url><loc>/scripture/bhavishya-purana</loc></url>
+  <url><loc>/scripture/bimbamb-agama</loc></url>
   <url><loc>/scripture/brahma-purana</loc></url>
   <url><loc>/scripture/brahma-sutra-adhyaya-1</loc></url>
   <url><loc>/scripture/brahma-sutra-adhyaya-2</loc></url>
@@ -487,7 +490,10 @@
   <url><loc>/scripture/chandas-sutra</loc></url>
   <url><loc>/scripture/chandogya-brahmana</loc></url>
   <url><loc>/scripture/chandogya-upanishad</loc></url>
+  <url><loc>/scripture/cintya-agama</loc></url>
   <url><loc>/scripture/devi-bhagavata-purana</loc></url>
+  <url><loc>/scripture/dipta-agama</loc></url>
+  <url><loc>/scripture/dviyaj-agama</loc></url>
   <url><loc>/scripture/garbha-upanishad</loc></url>
   <url><loc>/scripture/garga-purana</loc></url>
   <url><loc>/scripture/garuda-purana</loc></url>
@@ -506,6 +512,7 @@
   <url><loc>/scripture/kalika-purana</loc></url>
   <url><loc>/scripture/kamika-agama</loc></url>
   <url><loc>/scripture/kapila-purana</loc></url>
+  <url><loc>/scripture/karana-agama</loc></url>
   <url><loc>/scripture/katha-aranyaka</loc></url>
   <url><loc>/scripture/katha-upanishad</loc></url>
   <url><loc>/scripture/katyayana-smriti</loc></url>
@@ -516,6 +523,7 @@
   <url><loc>/scripture/kularnava-tantra</loc></url>
   <url><loc>/scripture/kurma-purana</loc></url>
   <url><loc>/scripture/lakulisha-pashupata</loc></url>
+  <url><loc>/scripture/lalita-agama</loc></url>
   <url><loc>/scripture/linga-purana</loc></url>
   <url><loc>/scripture/mahabharata-adiparva</loc></url>
   <url><loc>/scripture/mahabharata-anushasanaparva</loc></url>
@@ -537,6 +545,7 @@
   <url><loc>/scripture/mahabharata</loc></url>
   <url><loc>/scripture/maitrayaniya-aranyaka</loc></url>
   <url><loc>/scripture/maitri-upanishad</loc></url>
+  <url><loc>/scripture/makuta-agama</loc></url>
   <url><loc>/scripture/manava-purana</loc></url>
   <url><loc>/scripture/mandukya-upanishad</loc></url>
   <url><loc>/scripture/manu-smriti</loc></url>
@@ -552,6 +561,7 @@
   <url><loc>/scripture/narayana-upanishad</loc></url>
   <url><loc>/scripture/natya-shastra</loc></url>
   <url><loc>/scripture/nighantu</loc></url>
+  <url><loc>/scripture/nihshvasa-agama</loc></url>
   <url><loc>/scripture/nrisimha-purana</loc></url>
   <url><loc>/scripture/nrisimha-tapaniya-purana</loc></url>
   <url><loc>/scripture/nrisimha-upanishad</loc></url>
@@ -563,6 +573,7 @@
   <url><loc>/scripture/parashara-smriti</loc></url>
   <url><loc>/scripture/paushkara-samhita</loc></url>
   <url><loc>/scripture/prashna-upanishad</loc></url>
+  <url><loc>/scripture/prodgita-agama</loc></url>
   <url><loc>/scripture/ramayana-aranya-kanda</loc></url>
   <url><loc>/scripture/ramayana-ayodhya-kanda</loc></url>
   <url><loc>/scripture/ramayana-bala-kanda</loc></url>
@@ -584,9 +595,11 @@
   <url><loc>/scripture/rigveda-mandala-9</loc></url>
   <url><loc>/scripture/rigveda-samhita</loc></url>
   <url><loc>/scripture/rigveda</loc></url>
+  <url><loc>/scripture/rudra-agama</loc></url>
   <url><loc>/scripture/rudra-yamala-tantra</loc></url>
   <url><loc>/scripture/rudrahridaya-upanishad</loc></url>
   <url><loc>/scripture/sadvimsha-brahmana</loc></url>
+  <url><loc>/scripture/sahasra-agama</loc></url>
   <url><loc>/scripture/samaveda-aranyaka</loc></url>
   <url><loc>/scripture/samaveda-samhita</loc></url>
   <url><loc>/scripture/samaveda</loc></url>
@@ -601,7 +614,9 @@
   <url><loc>/scripture/shvetashvatara-upanishad</loc></url>
   <url><loc>/scripture/skanda-purana</loc></url>
   <url><loc>/scripture/subala-upanishad</loc></url>
+  <url><loc>/scripture/suksma-agama</loc></url>
   <url><loc>/scripture/suprabheda-agama</loc></url>
+  <url><loc>/scripture/svayambhuva-agama</loc></url>
   <url><loc>/scripture/taittiriya-aranyaka</loc></url>
   <url><loc>/scripture/taittiriya-brahmana</loc></url>
   <url><loc>/scripture/taittiriya-samhita</loc></url>
@@ -622,6 +637,7 @@
   <url><loc>/scripture/vasudeva-upanishad</loc></url>
   <url><loc>/scripture/vatula-agama</loc></url>
   <url><loc>/scripture/vayu-purana</loc></url>
+  <url><loc>/scripture/vijaya-agama</loc></url>
   <url><loc>/scripture/vira-agama</loc></url>
   <url><loc>/scripture/vishnu-dharmottara-purana</loc></url>
   <url><loc>/scripture/vishnu-purana</loc></url>
@@ -633,10 +649,14 @@
   <url><loc>/scripture/yaska-nirukta</loc></url>
   <url><loc>/scripture/yoga-sutra</loc></url>
   <url><loc>/scripture/yogachudamani-upanishad</loc></url>
+  <url><loc>/scripture/yogaja-agama</loc></url>
   <url><loc>/scripture/yogattva-upanishad</loc></url>
+  <url><loc>/temple/ahobilam-divyadesam</loc></url>
   <url><loc>/temple/ahobilam</loc></url>
   <url><loc>/temple/akshardham-delhi</loc></url>
   <url><loc>/temple/alagar-koil</loc></url>
+  <url><loc>/temple/ashtabuyakaram-divyadesam</loc></url>
+  <url><loc>/temple/badrinath-divyadesam</loc></url>
   <url><loc>/temple/badrinath</loc></url>
   <url><loc>/temple/baidyanath</loc></url>
   <url><loc>/temple/belur-chennakesava</loc></url>
@@ -644,20 +664,24 @@
   <url><loc>/temple/chamunda-devi</loc></url>
   <url><loc>/temple/chidambaram-nataraja</loc></url>
   <url><loc>/temple/dakhineswar</loc></url>
+  <url><loc>/temple/devaprayag-divyadesam</loc></url>
   <url><loc>/temple/dwaraka</loc></url>
+  <url><loc>/temple/dwarka-divyadesam</loc></url>
   <url><loc>/temple/dwarka-matha</loc></url>
   <url><loc>/temple/ekambareswarar-kanchipuram</loc></url>
   <url><loc>/temple/grishneshwar</loc></url>
   <url><loc>/temple/guruvayur</loc></url>
   <url><loc>/temple/halebidu-hoysaleswara</loc></url>
+  <url><loc>/temple/jagannath-puri-divyadesam</loc></url>
   <url><loc>/temple/jagannath-puri</loc></url>
   <url><loc>/temple/jambukeswarar-tiruvanaikaval</loc></url>
+  <url><loc>/temple/joshimath-divyadesam</loc></url>
   <url><loc>/temple/jwalamukhi</loc></url>
   <url><loc>/temple/jyotirmath</loc></url>
   <url><loc>/temple/kalighat</loc></url>
   <url><loc>/temple/kamakhya</loc></url>
   <url><loc>/temple/kanchi-kamakoti</loc></url>
-  <url><loc>/temple/kanchipuram-divyadesam</loc></url>
+  <url><loc>/temple/kanchipuram-varadaraja-divyadesam</loc></url>
   <url><loc>/temple/kanchipuram</loc></url>
   <url><loc>/temple/kashi-vishwanath</loc></url>
   <url><loc>/temple/kedarnath</loc></url>
@@ -667,21 +691,38 @@
   <url><loc>/temple/mahakaleshwar-ujjain</loc></url>
   <url><loc>/temple/meenakshi-amman</loc></url>
   <url><loc>/temple/mukteshwar-bhubaneswar</loc></url>
+  <url><loc>/temple/nachiyar-koil-divyadesam</loc></url>
   <url><loc>/temple/nageshwar-dwarka</loc></url>
+  <url><loc>/temple/nanguneri-divyadesam</loc></url>
   <url><loc>/temple/omkareshwar</loc></url>
+  <url><loc>/temple/oppiliappan-divyadesam</loc></url>
   <url><loc>/temple/pandharpur</loc></url>
   <url><loc>/temple/puri-govardhana-matha</loc></url>
+  <url><loc>/temple/rameshwaram-divyadesam</loc></url>
   <url><loc>/temple/rameshwaram</loc></url>
   <url><loc>/temple/sabarimala</loc></url>
+  <url><loc>/temple/sarangapani-divyadesam</loc></url>
   <url><loc>/temple/shrngeri-matha</loc></url>
+  <url><loc>/temple/simhachalam-divyadesam</loc></url>
   <url><loc>/temple/simhachalam</loc></url>
   <url><loc>/temple/somnath</loc></url>
-  <url><loc>/temple/srirangam-divyadesam</loc></url>
+  <url><loc>/temple/srirangam-divyadesam-full</loc></url>
   <url><loc>/temple/srirangam</loc></url>
   <url><loc>/temple/srivilliputhur</loc></url>
+  <url><loc>/temple/thiruchitra-divyadesam</loc></url>
   <url><loc>/temple/thirukkoloor</loc></url>
+  <url><loc>/temple/thirukoshtiyur-divyadesam</loc></url>
+  <url><loc>/temple/thirukurungudi-divyadesam</loc></url>
+  <url><loc>/temple/thirumalai-divyadesam</loc></url>
+  <url><loc>/temple/thirunavaya-divyadesam</loc></url>
+  <url><loc>/temple/thiruparkadal-divyadesam</loc></url>
+  <url><loc>/temple/thiruppullani-divyadesam</loc></url>
+  <url><loc>/temple/thiruvadari-divyadesam</loc></url>
+  <url><loc>/temple/thiruvallikeni-divyadesam</loc></url>
+  <url><loc>/temple/thrikkakara-divyadesam</loc></url>
+  <url><loc>/temple/tirumala-tirupati-divyadesam</loc></url>
   <url><loc>/temple/tirupati-balaji</loc></url>
-  <url><loc>/temple/tirupati-divyadesam</loc></url>
+  <url><loc>/temple/tirupati-divyadesam-full</loc></url>
   <url><loc>/temple/tirupati-tirumala</loc></url>
   <url><loc>/temple/tryambakeshwar</loc></url>
   <url><loc>/temple/vaishno-devi</loc></url>

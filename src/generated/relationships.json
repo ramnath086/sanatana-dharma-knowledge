@@ -1,11 +1,53 @@
 [
   {
+    "id": "ahobilam-divyadesam-associated-with-vishnu",
+    "from": "ahobilam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ]
+  },
+  {
+    "id": "aitareya-upanishad-commentary-on-by-shankara",
+    "from": "aitareya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
     "id": "atharvaveda-contains-sakhas",
     "from": "atharvaveda",
     "relationship": "contains",
     "to": "saunaka-sakha",
     "sourceIds": [
       "gretil"
+    ]
+  },
+  {
+    "id": "badrinath-divyadesam-associated-with-vishnu",
+    "from": "badrinath-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "uttarakhand-tourism"
+    ]
+  },
+  {
+    "id": "badrinath-divyadesam-celebrated-during-ramanavami",
+    "from": "badrinath-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "ramanavami",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism"
     ]
   },
   {
@@ -394,6 +436,58 @@
     ]
   },
   {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-madhva",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-nimbarka",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "brahma-sutra-bhashya-nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-ramanuja",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-shankara",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "brihadaranyaka-upanishad-commentary-on-by-vallabha",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
     "id": "brihadeeswara-associated-with-shiva",
     "from": "brihadeeswara",
     "relationship": "associated-with",
@@ -414,6 +508,38 @@
       "gretil",
       "tamil-nadu-tourism-department",
       "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-madhva",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-ramanuja",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "chandogya-upanishad-commentary-on-by-shankara",
+    "from": "chandogya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
     ]
   },
   {
@@ -444,6 +570,27 @@
     "to": "navaratri",
     "sourceIds": [
       "gretil",
+      "bbc-religions"
+    ]
+  },
+  {
+    "id": "dwarka-divyadesam-associated-with-vishnu",
+    "from": "dwarka-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism"
+    ]
+  },
+  {
+    "id": "dwarka-divyadesam-celebrated-during-janmashtami",
+    "from": "dwarka-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "janmashtami",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
       "bbc-religions"
     ]
   },
@@ -491,6 +638,17 @@
     ]
   },
   {
+    "id": "isha-upanishad-commentary-on-by-shankara",
+    "from": "isha-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
     "id": "jagannath-puri-associated-with-vishnu",
     "from": "jagannath-puri",
     "relationship": "associated-with",
@@ -513,6 +671,27 @@
     ]
   },
   {
+    "id": "jagannath-puri-divyadesam-associated-with-vishnu",
+    "from": "jagannath-puri-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism"
+    ]
+  },
+  {
+    "id": "jagannath-puri-divyadesam-celebrated-during-rath-yatra",
+    "from": "jagannath-puri-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "rath-yatra",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "bbc-religions"
+    ]
+  },
+  {
     "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
     "from": "jambukeswarar-tiruvanaikaval",
     "relationship": "associated-with",
@@ -521,6 +700,26 @@
       "gretil",
       "tamil-nadu-tourism",
       "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "joshimath-divyadesam-associated-with-vishnu",
+    "from": "joshimath-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism"
+    ]
+  },
+  {
+    "id": "kanchipuram-varadaraja-divyadesam-associated-with-vishnu",
+    "from": "kanchipuram-varadaraja-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
     ]
   },
   {
@@ -545,6 +744,17 @@
     ]
   },
   {
+    "id": "katha-upanishad-commentary-on-by-shankara",
+    "from": "katha-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
     "id": "kedarnath-associated-with-shiva",
     "from": "kedarnath",
     "relationship": "associated-with",
@@ -553,6 +763,17 @@
       "gretil",
       "uttarakhand-tourism",
       "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kena-upanishad-commentary-on-by-shankara",
+    "from": "kena-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
     ]
   },
   {
@@ -721,6 +942,17 @@
     ]
   },
   {
+    "id": "mandukya-upanishad-commentary-on-by-shankara",
+    "from": "mandukya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
     "id": "meenakshi-amman-associated-with-devi",
     "from": "meenakshi-amman",
     "relationship": "associated-with",
@@ -740,6 +972,28 @@
       "gretil",
       "tamil-nadu-tourism-department",
       "bbc-religions"
+    ]
+  },
+  {
+    "id": "mundaka-upanishad-commentary-on-by-shankara",
+    "from": "mundaka-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "prashna-upanishad-commentary-on-by-shankara",
+    "from": "prashna-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
     ]
   },
   {
@@ -1105,6 +1359,26 @@
     ]
   },
   {
+    "id": "rameshwaram-divyadesam-associated-with-shiva",
+    "from": "rameshwaram-divyadesam",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "rameshwaram-divyadesam-associated-with-vishnu",
+    "from": "rameshwaram-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
     "id": "rigveda-contains-mandala-1",
     "from": "rigveda",
     "relationship": "contains",
@@ -1235,6 +1509,27 @@
     ]
   },
   {
+    "id": "shvetashvatara-upanishad-commentary-on-by-shankara",
+    "from": "shvetashvatara-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "simhachalam-divyadesam-associated-with-vishnu",
+    "from": "simhachalam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ]
+  },
+  {
     "id": "somnath-associated-with-shiva",
     "from": "somnath",
     "relationship": "associated-with",
@@ -1243,6 +1538,108 @@
       "gretil",
       "gujarat-tourism",
       "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "srirangam-divyadesam-full-associated-with-vishnu",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "srirangam-divyadesam-full-celebrated-during-vaikunta-ekadashi",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "celebrated-during",
+    "to": "deva-uthani-ekadashi",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-madhva",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-ramanuja",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "taittiriya-upanishad-commentary-on-by-shankara",
+    "from": "taittiriya-upanishad",
+    "relationship": "commentary-on",
+    "to": "upanishad-bhashya-shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "thirunavaya-divyadesam-associated-with-vishnu",
+    "from": "thirunavaya-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
+    "id": "thirunavaya-divyadesam-celebrated-during-karkkataka-vavu",
+    "from": "thirunavaya-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "adhika-masa",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
+    "id": "thrikkakara-divyadesam-associated-with-vishnu",
+    "from": "thrikkakara-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
+    "id": "thrikkakara-divyadesam-celebrated-during-onam",
+    "from": "thrikkakara-divyadesam",
+    "relationship": "celebrated-during",
+    "to": "onam",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
+    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "from": "tirumala-tirupati-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
     ]
   },
   {
