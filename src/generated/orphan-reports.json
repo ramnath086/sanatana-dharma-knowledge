@@ -39,9 +39,7 @@
     "entityId": "advaita-avidya",
     "title": "Advaita Avidyā",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -244,9 +242,7 @@
     "entityId": "brahman",
     "title": "Brahman",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -514,9 +510,7 @@
     "entityId": "gita-bhakti-yoga",
     "title": "Gītā Bhakti-yoga",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -532,18 +526,14 @@
     "entityId": "gita-jnana-yoga",
     "title": "Gītā Jñāna-yoga",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "gita-karma-yoga",
     "title": "Gītā Karma-yoga",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2286,18 +2276,14 @@
     "entityId": "ayyappan",
     "title": "Ayyappan",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "devi",
     "title": "Devī",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2331,9 +2317,7 @@
     "entityId": "shiva",
     "title": "Śiva",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2349,18 +2333,14 @@
     "entityId": "surya",
     "title": "Sūrya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "vishnu",
     "title": "Viṣṇu",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2520,9 +2500,7 @@
     "entityId": "janmashtami",
     "title": "Kṛṣṇa Janmāṣṭamī",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2565,9 +2543,7 @@
     "entityId": "mahashivaratri",
     "title": "Mahāśivarātri",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2592,18 +2568,14 @@
     "entityId": "navaratri",
     "title": "Navarātri",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "onam",
     "title": "Onam",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2637,9 +2609,7 @@
     "entityId": "rath-yatra",
     "title": "Ratha Yātrā",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2772,9 +2742,7 @@
     "entityId": "madhva",
     "title": "Madhva",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2799,9 +2767,7 @@
     "entityId": "nimbarka",
     "title": "Nimbārka",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2844,18 +2810,14 @@
     "entityId": "ramanuja",
     "title": "Rāmānuja",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "shankara",
     "title": "Śaṅkara",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2907,9 +2869,7 @@
     "entityId": "vallabha",
     "title": "Vallabha",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3500,36 +3460,28 @@
     "entityId": "bhagavad-gita-bhashya-madhva",
     "title": "Madhva Bhagavad Gītā Bhāṣya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "bhagavad-gita-bhashya-nimbarka",
     "title": "Nimbārka Bhagavad Gītā Bhāṣya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "bhagavad-gita-bhashya-ramanuja",
     "title": "Rāmānuja Bhagavad Gītā Bhāṣya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "bhagavad-gita-bhashya-shankara",
     "title": "Śaṅkara Bhagavad Gītā Bhāṣya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3545,9 +3497,7 @@
     "entityId": "bhagavad-gita-bhashya-vallabha",
     "title": "Vallabha Bhagavad Gītā Bhāṣya",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -3759,9 +3709,7 @@
     "entityId": "brahma-sutra-bhashya-ramanuja-sri-bhashya",
     "title": "Rāmānuja Śrī Bhāṣya on Brahma Sūtra",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5119,9 +5067,7 @@
     "entityId": "brihadeeswara",
     "title": "Bṛhadīśvara Temple (Tanjore)",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5137,9 +5083,7 @@
     "entityId": "chidambaram-nataraja",
     "title": "Chidambaram Nataraja Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5173,27 +5117,21 @@
     "entityId": "ekambareswarar-kanchipuram",
     "title": "Ekambareswarar Temple Kanchipuram",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "grishneshwar",
     "title": "Gṛhṇeśvara Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "guruvayur",
     "title": "Guruvāyūr Temple (Kṛṣṇa)",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5209,18 +5147,14 @@
     "entityId": "jagannath-puri",
     "title": "Jagannātha Temple, Purī",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "jambukeswarar-tiruvanaikaval",
     "title": "Jambukeswarar Temple Tiruvanaikaval",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5290,18 +5224,14 @@
     "entityId": "kashi-vishwanath",
     "title": "Kāśī Viśvanātha Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "kedarnath",
     "title": "Kedārnātha Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5317,9 +5247,7 @@
     "entityId": "konark-sun-temple",
     "title": "Konark Sun Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5344,9 +5272,7 @@
     "entityId": "meenakshi-amman",
     "title": "Mīnākṣī Amman Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5398,18 +5324,14 @@
     "entityId": "rameshwaram",
     "title": "Rāmeśvaram Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "sabarimala",
     "title": "Sabarimala Temple (Ayyappa)",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5434,9 +5356,7 @@
     "entityId": "somnath",
     "title": "Somnāth Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5479,9 +5399,7 @@
     "entityId": "tirupati-balaji",
     "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5515,9 +5433,7 @@
     "entityId": "vaishno-devi",
     "title": "Vaishno Devi Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

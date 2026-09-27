@@ -12,6 +12,74 @@
     "sourceFile": "src\\content\\relationships\\atharvaveda-contains-sakhas.md"
   },
   {
+    "id": "bhagavad-gita-bhashya-madhva-authored-by-madhva",
+    "from": "bhagavad-gita-bhashya-madhva",
+    "relationship": "authored-by",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Madhva's Bhagavad Gītā Bhāṣya is traditionally attributed to Madhva.",
+    "contentHash": "258c89fe2b6fb5b6cd4e8823f5269fa0a5f16a8f68334e6c5f5eebfdc2666bc4",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-bhashya-madhva-authored-by-madhva.md"
+  },
+  {
+    "id": "bhagavad-gita-bhashya-nimbarka-authored-by-nimbarka",
+    "from": "bhagavad-gita-bhashya-nimbarka",
+    "relationship": "authored-by",
+    "to": "nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Nimbārka's Bhagavad Gītā Bhāṣya is traditionally attributed to Nimbārka.",
+    "contentHash": "2493dead8b11b338d378a2d5e2d9b88f08c0b2d0d538b032ee240696b806835f",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-bhashya-nimbarka-authored-by-nimbarka.md"
+  },
+  {
+    "id": "bhagavad-gita-bhashya-ramanuja-authored-by-ramanuja",
+    "from": "bhagavad-gita-bhashya-ramanuja",
+    "relationship": "authored-by",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "Rāmānuja's Bhagavad Gītā Bhāṣya is traditionally attributed to Rāmānuja.",
+    "contentHash": "ad22de5be36de612d94b86176e24acab0a661a32041cad62f72cc1a40de45664",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-bhashya-ramanuja-authored-by-ramanuja.md"
+  },
+  {
+    "id": "bhagavad-gita-bhashya-shankara-authored-by-shankara",
+    "from": "bhagavad-gita-bhashya-shankara",
+    "relationship": "authored-by",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press",
+      "soas-university-london"
+    ],
+    "editorialNote": "Śaṅkara's Bhagavad Gītā Bhāṣya is traditionally attributed to Ādi Śaṅkara.",
+    "contentHash": "44e0492ad6d34fae81511b3e98d0403d319c28658d3e9a501869b251f2b14122",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-bhashya-shankara-authored-by-shankara.md"
+  },
+  {
+    "id": "bhagavad-gita-bhashya-vallabha-authored-by-vallabha",
+    "from": "bhagavad-gita-bhashya-vallabha",
+    "relationship": "authored-by",
+    "to": "vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Vallabha's Bhagavad Gītā Bhāṣya is traditionally attributed to Vallabha.",
+    "contentHash": "d7085b76efc71323ff90ae02d593ff3ac01a7dace75e13fb081f52c575eb280d",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-bhashya-vallabha-authored-by-vallabha.md"
+  },
+  {
     "id": "bhagavad-gita-contains-chapter-10",
     "from": "bhagavad-gita",
     "relationship": "contains",
@@ -228,6 +296,110 @@
     "sourceFile": "src\\content\\relationships\\bhagavad-gita-contains-chapters.md"
   },
   {
+    "id": "bhagavad-gita-teaches-gita-bhakti-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-bhakti-yoga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā teaches bhakti-yoga as a principal path, particularly in chapters 7 and 12.",
+    "contentHash": "fb1779e77e996a25276d44430c966a8e192d81c62dbca6df45c85099d8ca1a63",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-teaches-gita-bhakti-yoga.md"
+  },
+  {
+    "id": "bhagavad-gita-teaches-gita-jnana-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-jnana-yoga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā teaches jñāna-yoga, particularly in chapters 2 and 13.",
+    "contentHash": "b0d90762d0c492fb21c22ebfc509748bba94d1f82e12b394289a02afd44ea4db",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-teaches-gita-jnana-yoga.md"
+  },
+  {
+    "id": "bhagavad-gita-teaches-gita-karma-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-karma-yoga",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Bhagavad Gītā teaches karma-yoga as a principal path, particularly in chapters 2-3.",
+    "contentHash": "8fad5815375d3d372bbf0b45adaa7b6189bc90f35a373801586daa41e529153a",
+    "sourceFile": "src\\content\\relationships\\bhagavad-gita-teaches-gita-karma-yoga.md"
+  },
+  {
+    "id": "brahma-sutra-bhashya-madhva-authored-by-madhva",
+    "from": "brahma-sutra-bhashya-madhva",
+    "relationship": "authored-by",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Madhva's Brahma Sūtra Bhāṣya is traditionally attributed to Madhva.",
+    "contentHash": "b6141c4f2d854d9365210e85188b8f3f004b5f184b4588f8bdbc24cb630c30d4",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-bhashya-madhva-authored-by-madhva.md"
+  },
+  {
+    "id": "brahma-sutra-bhashya-nimbarka-authored-by-nimbarka",
+    "from": "brahma-sutra-bhashya-nimbarka",
+    "relationship": "authored-by",
+    "to": "nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Nimbārka's Brahma Sūtra Bhāṣya is traditionally attributed to Nimbārka.",
+    "contentHash": "10b7f31ae11b54335f2b6a11390b072d42f49d5b0a2601adde024afe192595e0",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-bhashya-nimbarka-authored-by-nimbarka.md"
+  },
+  {
+    "id": "brahma-sutra-bhashya-ramanuja-authored-by-ramanuja",
+    "from": "brahma-sutra-bhashya-ramanuja-sri-bhashya",
+    "relationship": "authored-by",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "Rāmānuja's Śrī Bhāṣya on the Brahma Sūtra is traditionally attributed to Rāmānuja.",
+    "contentHash": "cf3c2290a8b97cd8b1111056dd75b49265e9e71e729c0075426c8d554251d79b",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-bhashya-ramanuja-authored-by-ramanuja.md"
+  },
+  {
+    "id": "brahma-sutra-bhashya-shankara-authored-by-shankara",
+    "from": "brahma-sutra-bhashya-shankara",
+    "relationship": "authored-by",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press",
+      "soas-university-london"
+    ],
+    "editorialNote": "Śaṅkara's Brahma Sūtra Bhāṣya is traditionally attributed to Ādi Śaṅkara.",
+    "contentHash": "502a9181d4297e10a0c1e693b26ac53cac50066c70a6c999be012bda157d2b0e",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-bhashya-shankara-authored-by-shankara.md"
+  },
+  {
+    "id": "brahma-sutra-bhashya-vallabha-authored-by-vallabha",
+    "from": "brahma-sutra-bhashya-vallabha",
+    "relationship": "authored-by",
+    "to": "vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "Vallabha's Brahma Sūtra Bhāṣya is traditionally attributed to Vallabha.",
+    "contentHash": "24c4a056ef6973d75d09f730de5e17314cdb516576ba9e37bc7e984eccfddbd5",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-bhashya-vallabha-authored-by-vallabha.md"
+  },
+  {
     "id": "brahma-sutra-has-commentary-madhva",
     "from": "brahma-sutra",
     "relationship": "commentary-on",
@@ -322,6 +494,252 @@
     "editorialNote": "The Brahma Sūtra has Śaṅkara's Brahma Sūtra Bhāṣya (Advaita); represented here as a catalogue entry.\n---",
     "contentHash": "b43f48978bd6bcc672213ad34e34bbe695c10930bae2b533289162428429f393",
     "sourceFile": "src\\content\\relationships\\brahma-sutra-has-commentary-shankara.md"
+  },
+  {
+    "id": "brahma-sutra-related-to-advaita-avidya",
+    "from": "brahma-sutra",
+    "relationship": "related-to",
+    "to": "advaita-avidya",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Brahma Sūtras discuss the concept of avidyā (nescience) in relation to Brahman.",
+    "contentHash": "60c83b1bcec07996c13b5ef98d3b920633006e8f4f13b973b51b02debf4a0ee0",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-related-to-advaita-avidya.md"
+  },
+  {
+    "id": "brahma-sutra-related-to-brahman",
+    "from": "brahma-sutra",
+    "relationship": "related-to",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil"
+    ],
+    "editorialNote": "The Brahma Sūtras systematically discuss the nature of Brahman as the ultimate reality.",
+    "contentHash": "ea977acbba5dff23094ecd10c0fa3cb5d38933e8b49c344a74c123252f5bef5d",
+    "sourceFile": "src\\content\\relationships\\brahma-sutra-related-to-brahman.md"
+  },
+  {
+    "id": "brihadeeswara-associated-with-shiva",
+    "from": "brihadeeswara",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Bṛhadīśvara Temple at Thanjavur is associated with Lord Shiva as its presiding deity.",
+    "contentHash": "369c72c0c01b9d743397f71e4067f59b0d743e391361d65b0bc6d05323447af5",
+    "sourceFile": "src\\content\\relationships\\brihadeeswara-associated-with-shiva.md"
+  },
+  {
+    "id": "brihadeeswara-celebrated-during-mahashivaratri",
+    "from": "brihadeeswara",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre"
+    ],
+    "editorialNote": "The Bṛhadīśvara Temple celebrates Mahāśivarātri as a major festival.",
+    "contentHash": "54db420ea739967925a2b123b508cb0f7ca1d6c5e80a71b1cd598481bda22cff",
+    "sourceFile": "src\\content\\relationships\\brihadeeswara-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "chidambaram-nataraja-associated-with-shiva",
+    "from": "chidambaram-nataraja",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "unesco-world-heritage-centre"
+    ],
+    "editorialNote": "The Chidambaram Nataraja Temple is associated with Lord Shiva as Nataraja (the cosmic dancer).",
+    "contentHash": "31000b6c642ade262143432505aa374ed00ef43c6ef4dd52272e1666acba2537",
+    "sourceFile": "src\\content\\relationships\\chidambaram-nataraja-associated-with-shiva.md"
+  },
+  {
+    "id": "chidambaram-nataraja-celebrated-during-mahashivaratri",
+    "from": "chidambaram-nataraja",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism"
+    ],
+    "editorialNote": "The Chidambaram Nataraja Temple celebrates Mahāśivarātri with the Ananda Tandava festival.",
+    "contentHash": "ed707c234baff7037577f71875826e54011ec32882b570766397a9137c785ee5",
+    "sourceFile": "src\\content\\relationships\\chidambaram-nataraja-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "devi-celebrated-during-navaratri",
+    "from": "devi",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Divine Mother (Devī/Durgā) is celebrated during Navaratri.",
+    "contentHash": "c1efb7fec7511b5c3070d8094f0e85ea290db36f6a6e105f23407481ef51acd7",
+    "sourceFile": "src\\content\\relationships\\devi-celebrated-during-navaratri.md"
+  },
+  {
+    "id": "ekambareswarar-kanchipuram-associated-with-shiva",
+    "from": "ekambareswarar-kanchipuram",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Ekambareswarar Temple in Kanchipuram is associated with Lord Shiva as Ekambareswarar.",
+    "contentHash": "881ddeb562c8ac0141c2bdbd3531ca34ef2427616dabdec1519e042c4625f2a5",
+    "sourceFile": "src\\content\\relationships\\ekambareswarar-kanchipuram-associated-with-shiva.md"
+  },
+  {
+    "id": "grishneshwar-associated-with-shiva",
+    "from": "grishneshwar",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "maharashtra-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Grishneshwar Temple in Maharashtra is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
+    "contentHash": "b8a2ec375f1239b08d61d7f6da4b45aae97857da911de063a5c14be0a6e69f93",
+    "sourceFile": "src\\content\\relationships\\grishneshwar-associated-with-shiva.md"
+  },
+  {
+    "id": "guruvayur-associated-with-vishnu",
+    "from": "guruvayur",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Guruvayur Krishna Temple is associated with Lord Krishna (an avatar of Vishnu) as its presiding deity.",
+    "contentHash": "77961768e4cda936dbd10fb1a65ae30bcb6862fadf7f789be1cd42ae554a8343",
+    "sourceFile": "src\\content\\relationships\\guruvayur-associated-with-vishnu.md"
+  },
+  {
+    "id": "guruvayur-celebrated-during-onam",
+    "from": "guruvayur",
+    "relationship": "celebrated-during",
+    "to": "onam",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Guruvayur Temple is associated with the Onam festival celebrations.",
+    "contentHash": "115e5802aee4d8b72a2eb01d56e7e9763b520931282b84f8c87dde547ab13eb0",
+    "sourceFile": "src\\content\\relationships\\guruvayur-celebrated-during-onam.md"
+  },
+  {
+    "id": "jagannath-puri-associated-with-vishnu",
+    "from": "jagannath-puri",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Jagannath Temple in Puri is associated with Lord Jagannath (a form of Vishnu) as its presiding deity.",
+    "contentHash": "31f5de66fa03ce7b5171678908c343ca23cf2dc4372044b561928d683e45a740",
+    "sourceFile": "src\\content\\relationships\\jagannath-puri-associated-with-vishnu.md"
+  },
+  {
+    "id": "jagannath-puri-celebrated-during-rath-yatra",
+    "from": "jagannath-puri",
+    "relationship": "celebrated-during",
+    "to": "rath-yatra",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Jagannath Temple in Puri celebrates the Ratha Yatra as its most famous festival.",
+    "contentHash": "6852a0949920c31fd65d83237fda41fab001485a3c5f415b00b21991a1497572",
+    "sourceFile": "src\\content\\relationships\\jagannath-puri-celebrated-during-rath-yatra.md"
+  },
+  {
+    "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
+    "from": "jambukeswarar-tiruvanaikaval",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Jambukeswarar Temple in Tiruvanaikaval is associated with Lord Shiva as Jambukeswarar.",
+    "contentHash": "dfcd9f5c88cfcda0e758ab23d216c51c178951bf53144577acfe50071d3efe5e",
+    "sourceFile": "src\\content\\relationships\\jambukeswarar-tiruvanaikaval-associated-with-shiva.md"
+  },
+  {
+    "id": "kashi-vishwanath-associated-with-shiva",
+    "from": "kashi-vishwanath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Kashi Vishwanath Temple is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
+    "contentHash": "a6e419cda90dcf5554b9d4ab987628f5b33cc183e4d06fea601648cfd381df67",
+    "sourceFile": "src\\content\\relationships\\kashi-vishwanath-associated-with-shiva.md"
+  },
+  {
+    "id": "kashi-vishwanath-celebrated-during-mahashivaratri",
+    "from": "kashi-vishwanath",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre"
+    ],
+    "editorialNote": "The Kashi Vishwanath Temple celebrates Mahāśivarātri as a major festival.",
+    "contentHash": "91fa2c2c0e0bdc66720e855193502df49ba869e1d1105af6b3d912fbb4e5b23f",
+    "sourceFile": "src\\content\\relationships\\kashi-vishwanath-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "kedarnath-associated-with-shiva",
+    "from": "kedarnath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Kedarnath Temple in the Himalayas is associated with Lord Shiva as one of the twelve Jyotirlinga sites and one of the Char Dham pilgrimage sites.",
+    "contentHash": "fa026139682e23735a88b91a62e0ff186f008a9871626c2506fc4fc524308528",
+    "sourceFile": "src\\content\\relationships\\kedarnath-associated-with-shiva.md"
+  },
+  {
+    "id": "konark-sun-temple-associated-with-surya",
+    "from": "konark-sun-temple",
+    "relationship": "associated-with",
+    "to": "surya",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Konark Sun Temple is associated with Surya, the Sun God.",
+    "contentHash": "6cdc2df649bd53306cd0d261244bff84995b9e361346e0321f53d195a4be1ce7",
+    "sourceFile": "src\\content\\relationships\\konark-sun-temple-associated-with-surya.md"
   },
   {
     "id": "mahabharata-contains-anushasana-parva",
@@ -526,6 +944,34 @@
     "editorialNote": "The Mahābhārata contains the Virāṭa Parva; represented here as a catalogue entry.\n---",
     "contentHash": "4ce142ccc26cbadba53e7ffd06df1a25fb2dcaaf8f888bcbe8aec53130541d2f",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-virata-parva.md"
+  },
+  {
+    "id": "meenakshi-amman-associated-with-devi",
+    "from": "meenakshi-amman",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Meenakshi Amman Temple is associated with Goddess Meenakshi (a form of Devī/Durgā) as its presiding deity.",
+    "contentHash": "22c56640fc73676c53bd01ab7be63fc97a7226bf21a29e88baa9fc5bab54a667",
+    "sourceFile": "src\\content\\relationships\\meenakshi-amman-associated-with-devi.md"
+  },
+  {
+    "id": "meenakshi-amman-celebrated-during-navaratri",
+    "from": "meenakshi-amman",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Meenakshi Amman Temple celebrates Navaratri as a major festival with the Golu display.",
+    "contentHash": "4ce7dd716ba9d1717b0756ed29af8a0b4ee393fa2e2a7eea9b7ea18fe5074fed",
+    "sourceFile": "src\\content\\relationships\\meenakshi-amman-celebrated-during-navaratri.md"
   },
   {
     "id": "purana-mahapuranas-contains-agni",
@@ -996,6 +1442,20 @@
     "sourceFile": "src\\content\\relationships\\ramayana-contains-yuddha-kanda.md"
   },
   {
+    "id": "rameshwaram-associated-with-shiva",
+    "from": "rameshwaram",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Ramanathaswamy Temple at Rameshwaram is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
+    "contentHash": "3df16f407e2e56e411ce226c50ece0b7541c1d35013b890e458751d95bf030bf",
+    "sourceFile": "src\\content\\relationships\\rameshwaram-associated-with-shiva.md"
+  },
+  {
     "id": "rigveda-contains-mandala-1",
     "from": "rigveda",
     "relationship": "contains",
@@ -1116,6 +1576,33 @@
     "sourceFile": "src\\content\\relationships\\rigveda-contains-mandala-9.md"
   },
   {
+    "id": "sabarimala-associated-with-ayyappan",
+    "from": "sabarimala",
+    "relationship": "associated-with",
+    "to": "ayyappan",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Sabarimala Temple is associated with Lord Ayyappa as its presiding deity.",
+    "contentHash": "3da1ca799641d3566c3289ef1f50f69030712813d30098cd1ddc938e529a2daa",
+    "sourceFile": "src\\content\\relationships\\sabarimala-associated-with-ayyappan.md"
+  },
+  {
+    "id": "sabarimala-celebrated-during-mahashivaratri",
+    "from": "sabarimala",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ],
+    "editorialNote": "The Sabarimala Temple pilgrimage season begins with Mahāśivarātri.",
+    "contentHash": "3af5c30066eb72ee578a6f4b0de73fe35a4bad6634feb2f44314ee6a8fe2e52c",
+    "sourceFile": "src\\content\\relationships\\sabarimala-celebrated-during-mahashivaratri.md"
+  },
+  {
     "id": "samaveda-contains-sakhas",
     "from": "samaveda",
     "relationship": "contains",
@@ -1126,6 +1613,88 @@
     "editorialNote": "The Sāmaveda is transmitted in Kauthuma, Rāṇāyanīya, Jaiminīya recensions; represented here as a catalogue entry.\n---",
     "contentHash": "8659d4c6661d035d3e2e9700e319643d823cda09f63d6eb0a475d765fdf32f8a",
     "sourceFile": "src\\content\\relationships\\samaveda-contains-sakhas.md"
+  },
+  {
+    "id": "shiva-celebrated-during-mahashivaratri",
+    "from": "shiva",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "editorialNote": "Lord Shiva is celebrated during Mahāśivarātri, the great night of Shiva.",
+    "contentHash": "3d75b7e0371161d805c528abd2ed3a83cee51338f8feb12e845fcd2ea115aa88",
+    "sourceFile": "src\\content\\relationships\\shiva-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "somnath-associated-with-shiva",
+    "from": "somnath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Somnath Temple in Gujarat is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
+    "contentHash": "e5e7686d68beef90a374e1198303af0eafdf70dca0c00794d8c91c91f6c14f6d",
+    "sourceFile": "src\\content\\relationships\\somnath-associated-with-shiva.md"
+  },
+  {
+    "id": "tirupati-balaji-associated-with-vishnu",
+    "from": "tirupati-balaji",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Tirumala Venkateswara Temple is associated with Lord Vishnu (Venkateswara) as its presiding deity.",
+    "contentHash": "e2e1b05555c7f71f985a56754b564e6273901f5c840537845be89bf6acd3fad9",
+    "sourceFile": "src\\content\\relationships\\tirupati-balaji-associated-with-vishnu.md"
+  },
+  {
+    "id": "upanishads-commentary-on-by-madhva",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "The principal Upaniṣads have commentaries by Madhva from the Dvaita perspective.",
+    "contentHash": "527e771e981cda3739c92edcfaced2b2563d3e4c0d10d82530f7a7fe4c2f1544",
+    "sourceFile": "src\\content\\relationships\\upanishads-commentary-on-by-madhva.md"
+  },
+  {
+    "id": "upanishads-commentary-on-by-ramanuja",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ],
+    "editorialNote": "The principal Upaniṣads have commentaries by Rāmānuja from the Viśiṣṭādvaita perspective.",
+    "contentHash": "327bd9e890d294ee436d4b468c0032871653df5b10fb577310c0cc74f4f32cfa",
+    "sourceFile": "src\\content\\relationships\\upanishads-commentary-on-by-ramanuja.md"
+  },
+  {
+    "id": "upanishads-commentary-on-by-shankara",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
+    ],
+    "editorialNote": "The principal Upaniṣads have commentaries by Ādi Śaṅkara, foundational to Advaita Vedānta.",
+    "contentHash": "947c86ee2c83c7d72580cc69488a02b7989f8b6a629972ffad36a74e61a00888",
+    "sourceFile": "src\\content\\relationships\\upanishads-commentary-on-by-shankara.md"
   },
   {
     "id": "upanishads-contains-aitareya",
@@ -1246,6 +1815,46 @@
     "editorialNote": "The Upaniṣads include the Taittirīya Upaniṣad; represented here as a catalogue entry.\n---",
     "contentHash": "4fb6d3be17f4d6e638052f4151c05087511fa70d2f529ab1684ee64e41eb95c0",
     "sourceFile": "src\\content\\relationships\\upanishads-contains-taittiriya.md"
+  },
+  {
+    "id": "vaishno-devi-associated-with-devi",
+    "from": "vaishno-devi",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre"
+    ],
+    "editorialNote": "The Vaishno Devi Temple in Jammu is associated with Goddess Vaishno Devi (a form of Devī/Durgā).",
+    "contentHash": "07421ae0bc8bd8e12d272d8b3ddc8911de1aee2fdc56caadb6cbc93b2349a426",
+    "sourceFile": "src\\content\\relationships\\vaishno-devi-associated-with-devi.md"
+  },
+  {
+    "id": "vaishno-devi-celebrated-during-navaratri",
+    "from": "vaishno-devi",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "bbc-religions"
+    ],
+    "editorialNote": "The Vaishno Devi Temple celebrates Navaratri as its most important festival.",
+    "contentHash": "17aa70e736b339c0c07dcffb0f89d960d66cc480d750fc48fa753af55755cf61",
+    "sourceFile": "src\\content\\relationships\\vaishno-devi-celebrated-during-navaratri.md"
+  },
+  {
+    "id": "vishnu-celebrated-during-janmashtami",
+    "from": "vishnu",
+    "relationship": "celebrated-during",
+    "to": "janmashtami",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ],
+    "editorialNote": "Lord Vishnu's avatar Krishna is celebrated during Janmashtami.",
+    "contentHash": "1b3b8bf30aafb55e4b36c0bc56184ef4eef60583d2bfc2eb149a8c6aad99871a",
+    "sourceFile": "src\\content\\relationships\\vishnu-celebrated-during-janmashtami.md"
   },
   {
     "id": "yajurveda-contains-krishna-sukla",

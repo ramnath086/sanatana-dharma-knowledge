@@ -9,6 +9,59 @@
     ]
   },
   {
+    "id": "bhagavad-gita-bhashya-madhva-authored-by-madhva",
+    "from": "bhagavad-gita-bhashya-madhva",
+    "relationship": "authored-by",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-bhashya-nimbarka-authored-by-nimbarka",
+    "from": "bhagavad-gita-bhashya-nimbarka",
+    "relationship": "authored-by",
+    "to": "nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-bhashya-ramanuja-authored-by-ramanuja",
+    "from": "bhagavad-gita-bhashya-ramanuja",
+    "relationship": "authored-by",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-bhashya-shankara-authored-by-shankara",
+    "from": "bhagavad-gita-bhashya-shankara",
+    "relationship": "authored-by",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-bhashya-vallabha-authored-by-vallabha",
+    "from": "bhagavad-gita-bhashya-vallabha",
+    "relationship": "authored-by",
+    "to": "vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
     "id": "bhagavad-gita-contains-chapter-10",
     "from": "bhagavad-gita",
     "relationship": "contains",
@@ -171,6 +224,86 @@
     ]
   },
   {
+    "id": "bhagavad-gita-teaches-gita-bhakti-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-bhakti-yoga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-teaches-gita-jnana-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-jnana-yoga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "bhagavad-gita-teaches-gita-karma-yoga",
+    "from": "bhagavad-gita",
+    "relationship": "teaches",
+    "to": "gita-karma-yoga",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "brahma-sutra-bhashya-madhva-authored-by-madhva",
+    "from": "brahma-sutra-bhashya-madhva",
+    "relationship": "authored-by",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brahma-sutra-bhashya-nimbarka-authored-by-nimbarka",
+    "from": "brahma-sutra-bhashya-nimbarka",
+    "relationship": "authored-by",
+    "to": "nimbarka",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brahma-sutra-bhashya-ramanuja-authored-by-ramanuja",
+    "from": "brahma-sutra-bhashya-ramanuja-sri-bhashya",
+    "relationship": "authored-by",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brahma-sutra-bhashya-shankara-authored-by-shankara",
+    "from": "brahma-sutra-bhashya-shankara",
+    "relationship": "authored-by",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "brahma-sutra-bhashya-vallabha-authored-by-vallabha",
+    "from": "brahma-sutra-bhashya-vallabha",
+    "relationship": "authored-by",
+    "to": "vallabha",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
     "id": "brahma-sutra-has-commentary-madhva",
     "from": "brahma-sutra",
     "relationship": "commentary-on",
@@ -240,6 +373,198 @@
     "to": "brahma-sutra-bhashya-shankara",
     "sourceIds": [
       "gretil"
+    ]
+  },
+  {
+    "id": "brahma-sutra-related-to-advaita-avidya",
+    "from": "brahma-sutra",
+    "relationship": "related-to",
+    "to": "advaita-avidya",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "brahma-sutra-related-to-brahman",
+    "from": "brahma-sutra",
+    "relationship": "related-to",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil"
+    ]
+  },
+  {
+    "id": "brihadeeswara-associated-with-shiva",
+    "from": "brihadeeswara",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "brihadeeswara-celebrated-during-mahashivaratri",
+    "from": "brihadeeswara",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "chidambaram-nataraja-associated-with-shiva",
+    "from": "chidambaram-nataraja",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "chidambaram-nataraja-celebrated-during-mahashivaratri",
+    "from": "chidambaram-nataraja",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism"
+    ]
+  },
+  {
+    "id": "devi-celebrated-during-navaratri",
+    "from": "devi",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ]
+  },
+  {
+    "id": "ekambareswarar-kanchipuram-associated-with-shiva",
+    "from": "ekambareswarar-kanchipuram",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "grishneshwar-associated-with-shiva",
+    "from": "grishneshwar",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "maharashtra-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "guruvayur-associated-with-vishnu",
+    "from": "guruvayur",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "guruvayur-celebrated-during-onam",
+    "from": "guruvayur",
+    "relationship": "celebrated-during",
+    "to": "onam",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
+    "id": "jagannath-puri-associated-with-vishnu",
+    "from": "jagannath-puri",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "jagannath-puri-celebrated-during-rath-yatra",
+    "from": "jagannath-puri",
+    "relationship": "celebrated-during",
+    "to": "rath-yatra",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "bbc-religions"
+    ]
+  },
+  {
+    "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
+    "from": "jambukeswarar-tiruvanaikaval",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kashi-vishwanath-associated-with-shiva",
+    "from": "kashi-vishwanath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kashi-vishwanath-celebrated-during-mahashivaratri",
+    "from": "kashi-vishwanath",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "kedarnath-associated-with-shiva",
+    "from": "kedarnath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "uttarakhand-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "konark-sun-temple-associated-with-surya",
+    "from": "konark-sun-temple",
+    "relationship": "associated-with",
+    "to": "surya",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -393,6 +718,28 @@
     "to": "mahabharata-virataparva",
     "sourceIds": [
       "gretil"
+    ]
+  },
+  {
+    "id": "meenakshi-amman-associated-with-devi",
+    "from": "meenakshi-amman",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "meenakshi-amman-celebrated-during-navaratri",
+    "from": "meenakshi-amman",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "bbc-religions"
     ]
   },
   {
@@ -747,6 +1094,17 @@
     ]
   },
   {
+    "id": "rameshwaram-associated-with-shiva",
+    "from": "rameshwaram",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "rigveda-contains-mandala-1",
     "from": "rigveda",
     "relationship": "contains",
@@ -837,12 +1195,97 @@
     ]
   },
   {
+    "id": "sabarimala-associated-with-ayyappan",
+    "from": "sabarimala",
+    "relationship": "associated-with",
+    "to": "ayyappan",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "sabarimala-celebrated-during-mahashivaratri",
+    "from": "sabarimala",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism"
+    ]
+  },
+  {
     "id": "samaveda-contains-sakhas",
     "from": "samaveda",
     "relationship": "contains",
     "to": "kauthuma-sakha",
     "sourceIds": [
       "gretil"
+    ]
+  },
+  {
+    "id": "shiva-celebrated-during-mahashivaratri",
+    "from": "shiva",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
+    ]
+  },
+  {
+    "id": "somnath-associated-with-shiva",
+    "from": "somnath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "tirupati-balaji-associated-with-vishnu",
+    "from": "tirupati-balaji",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "upanishads-commentary-on-by-madhva",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "madhva",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "upanishads-commentary-on-by-ramanuja",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "ramanuja",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "soas-university-london"
+    ]
+  },
+  {
+    "id": "upanishads-commentary-on-by-shankara",
+    "from": "upanishads",
+    "relationship": "commentary-on",
+    "to": "shankara",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy",
+      "cambridge-university-press"
     ]
   },
   {
@@ -933,6 +1376,37 @@
     "to": "taittiriya-upanishad",
     "sourceIds": [
       "gretil"
+    ]
+  },
+  {
+    "id": "vaishno-devi-associated-with-devi",
+    "from": "vaishno-devi",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "vaishno-devi-celebrated-during-navaratri",
+    "from": "vaishno-devi",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "bbc-religions"
+    ]
+  },
+  {
+    "id": "vishnu-celebrated-during-janmashtami",
+    "from": "vishnu",
+    "relationship": "celebrated-during",
+    "to": "janmashtami",
+    "sourceIds": [
+      "gretil",
+      "bbc-religions"
     ]
   },
   {
