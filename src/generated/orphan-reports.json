@@ -145,9 +145,7 @@
     "entityId": "atman",
     "title": "Ātman",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -686,9 +684,7 @@
     "entityId": "karma",
     "title": "Karma",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2292,9 +2288,7 @@
     "entityId": "narasimha",
     "title": "Narasiṃha",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5366,6 +5360,13 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "kailasagiri-divyadesam",
+    "title": "Kailāsa Giri Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "kalighat",
     "title": "Kālīghāṭ Temple Kolkata",
     "status": "published",
@@ -5623,8 +5624,44 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "thirucherapally-divyadesam",
+    "title": "Tiruccherapalli Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "thiruchitra-divyadesam",
     "title": "Tirucitra Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukadambari-divyadesam",
+    "title": "Tirukāmākṣaṇa Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukadgal-divyadesam",
+    "title": "Tirukkalga Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukannapur-divyadesam",
+    "title": "Tirukkannapura Divya Deśam",
     "status": "published",
     "issues": [
       "No relationships"
@@ -5641,8 +5678,8 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "thirukoshtiyur-divyadesam",
-    "title": "Tirukkoṣṭiyūr Divya Deśam",
+    "entityId": "thirukollapalli-divyadesam",
+    "title": "Tirukolla-paḍi Divya Deśam",
     "status": "published",
     "issues": [
       "No relationships"
@@ -5650,8 +5687,47 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "thirukoshtiyur-divyadesam",
+    "title": "Tirukkoṣṭiyūr Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukottaram-divyadesam",
+    "title": "Tirukkoṭṭaṇam Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukovalur-divyadesam",
+    "title": "Tirukovilur Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "thirukurungudi-divyadesam",
     "title": "Tirukkurunkudi Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirukuttalapadi-divyadesam",
+    "title": "Tirukuttaḷapādi Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirumalagiri-divyadesam",
+    "title": "Tirumalāgiri Divya Deśam",
     "status": "published",
     "issues": [
       "No relationships"
@@ -5668,10 +5744,98 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
+    "entityId": "thirumanikundram-divyadesam",
+    "title": "Tirumanikūṇḍa Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirumukkudal-divyadesam",
+    "title": "Tirumukkūḍal Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
     "entityId": "thirunavaya-divyadesam",
     "title": "Tirunāvāya Divya Deśam",
     "status": "published",
     "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruparimala-divyadesam",
+    "title": "Tirupariśrīmala Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppaingala-divyadesam",
+    "title": "Tiruppaṅkala Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppanaiyur-divyadesam",
+    "title": "Tiruppaṇṇiyūr Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirupparamakudi-divyadesam",
+    "title": "Tirupparāṅkuḍi Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirupparankalam-divyadesam",
+    "title": "Tirupparāṅkaḷam Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirupparanthasar-divyadesam",
+    "title": "Tirupparāntasar Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thirupparava-saram-divyadesam",
+    "title": "Tirupparavasaram Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppariyalur-divyadesam",
+    "title": "Tiruppariyālūr Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5684,12 +5848,63 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "thiruppullani-divyadesam",
-    "title": "Tiruppullāṇi Divya Deśam",
+    "entityId": "thiruppattanam-divyadesam",
+    "title": "Tiruppaṭṭanam Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppattinam-divyadesam",
+    "title": "Tiruppattinam Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppattipuliyur-divyadesam",
+    "title": "Tiruppaṭṭi-puliyūr Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppernamal-divyadesam",
+    "title": "Tiruppernamal Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppugalur-divyadesam",
+    "title": "Tiruppugal-ūr Divya Deśam",
     "status": "published",
     "issues": [
       "No relationships"
     ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppuliyur-divyadesam",
+    "title": "Tiruppuliyūr Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppullabootham-divyadesam",
+    "title": "Tiruppulla-bhūta Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruppullani-divyadesam",
+    "title": "Tiruppullāṇi Divya Deśam",
+    "status": "published",
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5704,6 +5919,68 @@
   {
     "entityId": "thiruvallikeni-divyadesam",
     "title": "Tiruvallikēṇi Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvananpuram-divyadesam",
+    "title": "Tiruvānana-pura Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvanmiyur-divyadesam",
+    "title": "Tiruvaramudreśvara Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvannamalai-divyadesam",
+    "title": "Tiruvāṇṇamalai Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvanthamalai-divyadesam",
+    "title": "Tiruvānthamālai Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvaraha-kota-divyadesam",
+    "title": "Tiruvarāha Koṭṭa Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvarasagaram-divyadesam",
+    "title": "Tiruvarasagara Divya Deśam",
+    "status": "published",
+    "issues": [
+      "No relationships"
+    ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvaymar-divyadesam",
+    "title": "Tiruvāy-mara Divya Deśam",
+    "status": "published",
+    "issues": [],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "thiruvellankanni-divyadesam",
+    "title": "Tiru-Vellāṅkaṇṇi Divya Deśam",
     "status": "published",
     "issues": [
       "No relationships"
@@ -5832,18 +6109,14 @@
     "entityId": "shaiva",
     "title": "Śaiva traditions",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "shakta",
     "title": "Śākta traditions",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5859,9 +6132,7 @@
     "entityId": "sri-vaishnava",
     "title": "Śrī Vaiṣṇava tradition",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5875,9 +6146,7 @@
     "entityId": "vaishnava",
     "title": "Vaiṣṇava traditions",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

@@ -7,4 +7,4 @@ sources: [gretil, andhra-pradesh-tourism]
 status: published
 verification: verified
 ---
-The Simhācalam Divya Deśam is associated with Viṣṇu as Varāha Narasiṃha.
+The Varāha Narasiṃha Temple at Simhācalam is associated with Viṣṇu as Narasiṃha.

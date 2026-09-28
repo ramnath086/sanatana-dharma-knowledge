@@ -14097,6 +14097,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "kailasagiri-divyadesam",
+    "title": "Kailāsa Giri Divya Deśam",
+    "aliases": [
+      "Kailasagiri Temple",
+      "Kailasa Hill Temple",
+      "కైలాస గిరి కోవిలு"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kailāsa Giri Temple at Kailāsa Giri hills (Chittoor district, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Nārāyaṇa in a reclining posture (aśṭāṅgābhiṣeka form). The temple is built into the hillside. The annual Brahmotsavam and the Nārāyaṇa Ekādaśī are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple offers panoramic views of the surrounding hills and plains. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "kalighat",
     "title": "Kālīghāṭ Temple Kolkata",
     "aliases": [
@@ -14841,6 +14864,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thirucherapally-divyadesam",
+    "title": "Tiruccherapalli Divya Deśam",
+    "aliases": [
+      "Thirucherapally Temple",
+      "Tiruchirappalli",
+      "திருச்செரப்பள்ளி கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruccherapalli Temple at Tiruchirappalli (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruccherapalli Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sacred place and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "thiruchitra-divyadesam",
     "title": "Tirucitra Divya Deśam",
     "aliases": [
@@ -14850,6 +14896,75 @@
     ],
     "sanskritTitle": "",
     "description": "The Tirucitrakoodal Temple (Citra-kūṭal) at Tiruninravur (near Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Viṣṇu (Citra-kūṭa Perumāl). The Cōḷa-period temple with beautiful bronze icons. The temple tank (Citra-puṣkariṇī) is associated with the legend of Citragupta. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Citragupta-pūjā are celebrated. A smaller but historically significant Divya Deśam. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukadambari-divyadesam",
+    "title": "Tirukāmākṣaṇa Divya Deśam",
+    "aliases": [
+      "Thirukadambari Temple",
+      "Kamakshi Temple",
+      "திருக்காமாட்சி கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukāmākṣaṇa Temple (Thirukadambari) at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirukāmākṣaṇa Perumāl. The temple name derives from \"Tirukāmā\" (beloved Lord) and \"aṣa\" (to praise). The annual Brahmotsavam and the Aṣṭa-dala-pūjā are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is known for its ancient architecture and the annual float festival (Theppam). ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukadgal-divyadesam",
+    "title": "Tirukkalga Divya Deśam",
+    "aliases": [
+      "Thirukkadgal Temple",
+      "Thirukalagam",
+      "திருக்கடல் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukkalga Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kalga Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the battle (yuddha) and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukannapur-divyadesam",
+    "title": "Tirukkannapura Divya Deśam",
+    "aliases": [
+      "Thirukannapur Temple",
+      "Kannapur",
+      "திருக்கன்னப்பூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukkannapura Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kannapura Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the town of Kannapura and the divine intervention. ---",
     "type": "temple",
     "classification": [
       "TEMPLE",
@@ -14888,6 +15003,29 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thirukollapalli-divyadesam",
+    "title": "Tirukolla-paḍi Divya Deśam",
+    "aliases": [
+      "Thirukollapalli Temple",
+      "Kollapadu",
+      "திருக்கோல்லப்பளி கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukolla-paḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kollam-Paḍi Perumāl (the Lord of the collection/harvest). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Agastya and the Kollam era. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "thirukoshtiyur-divyadesam",
     "title": "Tirukkoṣṭiyūr Divya Deśam",
     "aliases": [
@@ -14906,6 +15044,54 @@
       "sa",
       "en",
       "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukottaram-divyadesam",
+    "title": "Tirukkoṭṭaṇam Divya Deśam",
+    "aliases": [
+      "Thirukottaram Temple",
+      "Thirukottanam",
+      "திருக்கோட்டணம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukkoṭṭaṇam Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Koṭṭaṇam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the fort (koṭṭam) and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirukovalur-divyadesam",
+    "title": "Tirukovilur Divya Deśam",
+    "aliases": [
+      "Tirukkovilur Temple",
+      "Tirukoilur",
+      "Kovilur Temple",
+      "திருக்கோவிலூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Kāmeshvara Temple at Tirukkovilur (Tiruvannamalai district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Aparājiteśvara/Kāmeśvara. The Pallava-Chola temple with a 7th-century origin. The annual Maha Śivarātri and the Brahmotsavam are major festivals. Glorified by Tirumaṅgai Āḻvār. The nearby Tiruvōndrēśvara (Tiruvannamalai) temple of Śiva is part of the same complex. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta",
+      "te"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -14934,6 +15120,52 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thirukuttalapadi-divyadesam",
+    "title": "Tirukuttaḷapādi Divya Deśam",
+    "aliases": [
+      "Thirukottaram Temple",
+      "Kutralam",
+      "திருக்கோட்டாரம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirukuttaḷapādi Temple at Kutralam (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kutralan/Kūṭṭalai Perumāl. Located on the banks of the Tambraparni River near the famous Kutralam waterfalls. The annual Brahmotsavam and the Kudamuzhala festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the Kutralam region (the \"land of the bow\" from Sanskrit kodaṁ-lam). ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirumalagiri-divyadesam",
+    "title": "Tirumalāgiri Divya Deśam",
+    "aliases": [
+      "Tirumalagiri Temple",
+      "Tirumalagiri",
+      "తిరుమలగిరి కోవిలు"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirumalāgiri Temple in Karimnagar district (Telangana/Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Tirumalāgiri Perumāl. Located on a hilltop with panoramic views. The annual Brahmotsavam and the Maṅgapraśana festival are celebrated. Glorified by Tiruppaṇ Āḻvār and Tirumāldevar. The temple is associated with the story of the sage Gautama and the divine tank (Pushkarinī). ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "thirumalai-divyadesam",
     "title": "Tirumalai Divya Deśam",
     "aliases": [
@@ -14943,6 +15175,52 @@
     ],
     "sanskritTitle": "",
     "description": "The Tirumalai Temple (Tirumalai Nambi) near Tirupati (Andhra Pradesh/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord). A hill temple at 600m elevation with 600 steps. The deity is in standing posture with Śrīdevi and Bhūdevi. Glorified by Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Tiruppāvai festival are celebrated. One of the lesser-known but historically important Divya Deśams near the Tirupati complex. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirumanikundram-divyadesam",
+    "title": "Tirumanikūṇḍa Divya Deśam",
+    "aliases": [
+      "Thirumanikundram Temple",
+      "Manimandira",
+      "திருமணிகுண்ட் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirumanikūṇḍa Temple at Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirumanikūṇḍa Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the precious stone (mani) and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirumukkudal-divyadesam",
+    "title": "Tirumukkūḍal Divya Deśam",
+    "aliases": [
+      "Thirumukkudal Temple",
+      "Mukkudal",
+      "திருமுக்கூடல் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirumukkūḍal Temple at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to the three deities in one: Viṣṇu (Nārāyaṇa), Brahmā, and Rudra (Śiva). The unique trinity (tri-devata) temple representing the Trimūrti in one sanctum. The annual Brahmotsavam and the Maha Shivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The temple represents the concept of Trimūrti in one form (Tirumukkūḍal = \"three-joined\"). ---",
     "type": "temple",
     "classification": [
       "TEMPLE",
@@ -14980,6 +15258,190 @@
     "relatedEntityIds": []
   },
   {
+    "id": "thiruparimala-divyadesam",
+    "title": "Tirupariśrīmala Divya Deśam",
+    "aliases": [
+      "Tiruparimala Temple",
+      "Parimala Temple",
+      "తిరుపరిమల కోవిలు"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirupariśrīmala Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Pariśrīmala Perumāl (the fully auspicious Lord). The temple is known for its fine sculpture and architecture. The annual Parikrama and the Brahmotsavam are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple tank (Pushkarinī) is associated with the story of the sage Agastya. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppaingala-divyadesam",
+    "title": "Tiruppaṅkala Divya Deśam",
+    "aliases": [
+      "Thiruppaingala Temple",
+      "Tiruppangala",
+      "திருப்பங்கல கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppaṅkala Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṅkala Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the bamboo grove (paṅkala) and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppanaiyur-divyadesam",
+    "title": "Tiruppaṇṇiyūr Divya Deśam",
+    "aliases": [
+      "Thiruppaniyur Temple",
+      "Paniyur",
+      "திருப்பணியூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppaṇṇiyūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pāṇiyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pāṇi and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirupparamakudi-divyadesam",
+    "title": "Tirupparāṅkuḍi Divya Deśam",
+    "aliases": [
+      "Thirupparamakudi Temple",
+      "Parankusha Temple",
+      "திருப்பரங்குடி கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirupparāṅkuḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Azhimukham (the face of the Lord). Located near the Courtallam waterfalls. The annual Brahmotsavam and the Theppam (float festival) are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the Western Ghats. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirupparankalam-divyadesam",
+    "title": "Tirupparāṅkaḷam Divya Deśam",
+    "aliases": [
+      "Thirupparankalam Temple",
+      "Parankalam",
+      "திருப்பரங்களம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirupparāṅkaḷam Temple at Thiruvananthapuram district (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Parāṅkaḷam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Para and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirupparanthasar-divyadesam",
+    "title": "Tirupparāntasar Divya Deśam",
+    "aliases": [
+      "Thirupparantasar Temple",
+      "Paranthasar",
+      "திருப்பரந்தசர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirupparāntasar Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Parāntasar Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Parāntara and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thirupparava-saram-divyadesam",
+    "title": "Tirupparavasaram Divya Deśam",
+    "aliases": [
+      "Thirupparavasaram Temple",
+      "Paravasaram",
+      "திருப்பரவசரம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tirupparavasaram Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paravasara Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Paravasara and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppariyalur-divyadesam",
+    "title": "Tiruppariyālūr Divya Deśam",
+    "aliases": [
+      "Thiruppariyalur Temple",
+      "Thiruppariyalur",
+      "திருப்பரியாலூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppariyālūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pariyālūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pariyāla. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
     "id": "thiruparkadal-divyadesam",
     "title": "Tiruppāṟkaṭal Divya Deśam",
     "aliases": [
@@ -14989,6 +15451,167 @@
     ],
     "sanskritTitle": "",
     "description": "The Tiruppāṟkaṭal Temple (the Ocean of Milk) at Kāñcīpuram (Tamil Nadu), a Divya Deśam where Viṣṇu reclines on Ādiśeṣa in the Kṣīrasāgara (ocean of milk). The temple is associated with the Pāṟkaṭal (the milk ocean) where the Devas and Asuras churned for amṛta. Glorified by Poygai Āḻvār, Bhūta Āḻvār, and Tirumaṅgai Āḻvār. The annual Kṣīrābdhi-navamī festival celebrates the churning. A small but theologically important Divya Deśam representing the cosmic ocean. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppattanam-divyadesam",
+    "title": "Tiruppaṭṭanam Divya Deśam",
+    "aliases": [
+      "Thiruppattanam Temple",
+      "Thiruppattanam",
+      "திருப்பட்டனம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppaṭṭanam Temple near Thiruvananthapuram (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Thiruppaṭṭanam Perumāl. Located in the ancient port town of Pāṇṭyāṅkal. The annual festival is celebrated during the Tamil month of Āvaḻpōcchai. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the maritime trade of the ancient Tamil coast. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppattinam-divyadesam",
+    "title": "Tiruppattinam Divya Deśam",
+    "aliases": [
+      "Thiruppattinam Temple",
+      "Thiruppattinam",
+      "திருப்பட்டிணம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppattinam Temple in Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Perumāl. Located on the southern tip of the Tamil coast, near the sea. The annual Brahmotsavam and the Navaratri festivals are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the southern boundary of the ancient Tamil land (Tamilakam). ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppattipuliyur-divyadesam",
+    "title": "Tiruppaṭṭi-puliyūr Divya Deśam",
+    "aliases": [
+      "Thiruppattipuliyur Temple",
+      "Padipuliyur",
+      "திருப்பட்டிப்புலியூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppaṭṭi-puliyūr Temple near Cuddalore (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṭṭi-puliyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the tiger (puli) and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppernamal-divyadesam",
+    "title": "Tiruppernamal Divya Deśam",
+    "aliases": [
+      "Tiruppernamal Temple",
+      "Thiruppernamal",
+      "திருப்பெர்நமல் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppernamal Temple (Thiruppernamal) near Tiruvannamalai, Tamil Nadu, a Divya Deśam dedicated to Viṣṇu as Tiruppernamal Perumāl. Associated with the story of Pṛthu (the first king to perform yajña) and the giving-up of the kingdom. The annual Aṅga-dwādashi festival is celebrated. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple is also associated with the sage Durvāsa and the Swayambhū (self-manifested) deity. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppugalur-divyadesam",
+    "title": "Tiruppugal-ūr Divya Deśam",
+    "aliases": [
+      "Thiruppugalur Temple",
+      "Thirupugalur",
+      "திருப்புகலூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppugalūr Temple at Tiruppugalūr (Tiruvarur district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppugalūr Perumāl. Located near the historical battlefield of Kalinga-pattinam. The annual festival is celebrated during the Tamil month of Aṅgaḻirai. Glorified by Tirumazhisai Āḻvār and Tirumaṅgai Āḻvār. The temple has a beautiful gopuram and a large temple tank. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppuliyur-divyadesam",
+    "title": "Tiruppuliyūr Divya Deśam",
+    "aliases": [
+      "Thiruppuliyur Temple",
+      "Pulicat Temple",
+      "திருப்புலியூர் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppuliyūr Temple at Cuddalore district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppuliyūr Perumāl. Located near the Pulicat Lake. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the story of the tiger (puli) and the devotee. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruppullabootham-divyadesam",
+    "title": "Tiruppulla-bhūta Divya Deśam",
+    "aliases": [
+      "Thiruppullabootham Temple",
+      "Pullabootham",
+      "திருப்புல்லபூதம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruppulla-bhūta Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pulla-bhūta Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the grass (pulla) and the divine intervention. ---",
     "type": "temple",
     "classification": [
       "TEMPLE",
@@ -15058,6 +15681,190 @@
     ],
     "sanskritTitle": "",
     "description": "The Pārthasārathi Temple at Tiruvallikēṇi (Triplicane, Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pārthasārathi (Kṛṣṇa as Arjuna's charioteer). The 8th-century Pallava temple, expanded by the Cōḷas and Vijayanagara. Five sancta: Pārthasārathi, Ranganātha, Rāma, Narasiṃha, and Varāha. The temple tank (Kairavinī) is famous for the float festival (Teppa-utsavam). Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, Tirumaṅgai Āḻvār, and Nammāḻvār. One of the oldest Divya Deśams in an urban setting. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvananpuram-divyadesam",
+    "title": "Tiruvānana-pura Divya Deśam",
+    "aliases": [
+      "Thiruvananthapuram Temple",
+      "Ananthasayana Temple",
+      "திருவானந்தபுரம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Anantasayana Temple at Tiruvānana-pura (Thiruvananthapuram, Kerala), a Divya Deśam dedicated to Viṣṇu as Anantasayana (reclining on the cosmic serpent). The deity is in reclining posture on Ādiśeṣa, with the hill temple offering a panoramic view. The annual Anavasyava Ekādaśī and the annual temple car festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple gives its name to the city of Thiruvananthapuram. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvanmiyur-divyadesam",
+    "title": "Tiruvaramudreśvara Divya Deśam",
+    "aliases": [
+      "Tiruvanmiyur Temple",
+      "Muthu Pillai Temple",
+      "திருவாரண்முத்தம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvaramudreśvara Temple at Tiruvanmiyur (Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvaramudreśvara (the Lord of the fragrant place). A 7th-century Pallava temple with beautiful early Chola bronzes. The annual Brahmotsavam and the Aṅga-pūrṇa festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the legend of the sage Agastya. The nearby Parthasarathy Temple (Triplicane) is another Divya Deśam. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvannamalai-divyadesam",
+    "title": "Tiruvāṇṇamalai Divya Deśam",
+    "aliases": [
+      "Thiruvannamalai Temple",
+      "Arunachaleswarar Temple",
+      "திருவண்ணமலை கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvāṇṇamalai Temple at Tiruvāṇṇamalai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Arunachalesvara (the Lord of the red hill). The temple is associated with the sacred hill (Arunachala) worshipped by Śaṅkara and Ramana Maharshi. The annual Brahmotsavam and the Mahashivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is also a major Śaiva pilgrimage site. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvanthamalai-divyadesam",
+    "title": "Tiruvānthamālai Divya Deśam",
+    "aliases": [
+      "Thiruvanthamalai Temple",
+      "Vannmalai",
+      "திருவாந்தமாலை கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvānthamālai Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Vānthamālai Perumāl (the Lord with garlands of flowers). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the flower garlands and the divine intervention. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvaraha-kota-divyadesam",
+    "title": "Tiruvarāha Koṭṭa Divya Deśam",
+    "aliases": [
+      "Tiruvarada Kota",
+      "Varada Temple",
+      "తిరువరహ కోట"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvarāha Koṭṭa Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Vārāha (boar avatāra). Located near the Tirumala hills. The temple is associated with the rescue of Bhūmi-devī (the Earth goddess) by Vārāha. The annual Vāsudeva Ekādaśī is the main festival. Glorified by Tiruppaṇ Āḻvār, Periyāḻvār, and Tirumāldevar. The nearby cave of Bāṇa is associated with the story. The sanctum houses a 12-foot Vārāha deity. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvarasagaram-divyadesam",
+    "title": "Tiruvarasagara Divya Deśam",
+    "aliases": [
+      "Thiruvarasagaram Temple",
+      "Varasagaram",
+      "తిరువరసగరం కోవిలు"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvarasagara Temple at Guntur district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varasagara Perumāl. The temple is associated with the legend of the sage Agastya and the divine tank. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tiruppaṇ Āḻvār. The temple architecture follows the local style with a modest gopuram. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvaymar-divyadesam",
+    "title": "Tiruvāy-mara Divya Deśam",
+    "aliases": [
+      "Thiruvaimar Temple",
+      "Thiruvaymar",
+      "திருவாய்மரம் கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiruvāy-mara Temple near Chennai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvāy-mara Perumāl (the Lord under the banyan tree). Associated with the banyan tree (vāy-tree) where Viṣṇu rested. The annual festival coincides with the Tamil month of Āvaḻpōcchai (mid-Feb). Glorified by Tirumaṅgai Āḻvār. The temple is in a rural setting near Tambaram. ---",
+    "type": "temple",
+    "classification": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "thiruvellankanni-divyadesam",
+    "title": "Tiru-Vellāṅkaṇṇi Divya Deśam",
+    "aliases": [
+      "Vellankanni Temple",
+      "Our Lady of Good Health",
+      "வேலாங்கண்ணி கோவில்"
+    ],
+    "sanskritTitle": "",
+    "description": "The Tiru-Vellāṅkaṇṇi Temple (Vellankanni) at Tiru-Vellāṅkaṇṇi (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiru-Vellāṅkaṇṇi Perumāl. The temple is associated with the legend of the sage Agastya and the goddess. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is also known as the \"Rome of India\" for the basilica church built later by Portuguese missionaries. ---",
     "type": "temple",
     "classification": [
       "TEMPLE",

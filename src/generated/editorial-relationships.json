@@ -1,5 +1,18 @@
 [
   {
+    "id": "ahobilam-divyadesam-associated-with-narasimha",
+    "from": "ahobilam-divyadesam",
+    "relationship": "associated-with",
+    "to": "narasimha",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Ahobilam Temple is associated with Narasiṃha, the man-lion avatar of Viṣṇu.",
+    "contentHash": "9e69aa0b59e561174ad06df43dc27f30ddccfdf05a9f8a0d76f4d11b1b46c161",
+    "sourceFile": "src\\content\\relationships\\ahobilam-divyadesam-associated-with-narasimha.md"
+  },
+  {
     "id": "ahobilam-divyadesam-associated-with-vishnu",
     "from": "ahobilam-divyadesam",
     "relationship": "associated-with",
@@ -8,8 +21,8 @@
       "gretil",
       "andhra-pradesh-tourism"
     ],
-    "editorialNote": "The Ahobilam Divya Deśam is associated with Viṣṇu as Nava Narasiṃha (nine forms).",
-    "contentHash": "becae2754063c52ca63efb39183b2fbec10599207064c895b3b7d447d0cad55d",
+    "editorialNote": "The Nava Narasiṃha Temple at Ahobilam is associated with Viṣṇu as Narasiṃha (nine forms).",
+    "contentHash": "ba97db04a1bddc6085c7cc6f0b122845965b4c593a26b60092cfe376f276dbbf",
     "sourceFile": "src\\content\\relationships\\ahobilam-divyadesam-associated-with-vishnu.md"
   },
   {
@@ -641,6 +654,19 @@
     "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-commentary-on-by-vallabha.md"
   },
   {
+    "id": "brihadaranyaka-upanishad-teaches-atonement",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "teaches",
+    "to": "karma",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "editorialNote": "The Bṛhadāraṇyaka Upaniṣad discusses the law of karma and the path of action through the famous \"karmaṇy akarmaā\" teaching in the later sections (Chapter 5-6).",
+    "contentHash": "cbcb8d7936d912fefe476c31476fe63b7651b9b111a63546a090def4aef72cac",
+    "sourceFile": "src\\content\\relationships\\brihadaranyaka-upanishad-teaches-karma.md"
+  },
+  {
     "id": "brihadeeswara-associated-with-shiva",
     "from": "brihadeeswara",
     "relationship": "associated-with",
@@ -668,6 +694,20 @@
     "editorialNote": "The Bṛhadīśvara Temple celebrates Mahāśivarātri as a major festival.",
     "contentHash": "54db420ea739967925a2b123b508cb0f7ca1d6c5e80a71b1cd598481bda22cff",
     "sourceFile": "src\\content\\relationships\\brihadeeswara-celebrated-during-mahashivaratri.md"
+  },
+  {
+    "id": "brihadeeswara-tradition-of-shaiva",
+    "from": "brihadeeswara",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre"
+    ],
+    "editorialNote": "The Brihadeeswar Temple at Thanjavur belongs to the Śaiva tradition, dedicated to Nataraja (Śiva as cosmic dancer).",
+    "contentHash": "9f7d641a26a805809fd04f7b7b113ba5ea7f91907fd7fb512002dc85f3317d49",
+    "sourceFile": "src\\content\\relationships\\brihadeeswara-tradition-of-shaiva.md"
   },
   {
     "id": "chandogya-upanishad-commentary-on-by-madhva",
@@ -709,6 +749,19 @@
     "editorialNote": "Śaṅkara's Bhāṣya on the Chāndogya Upaniṣad, famous for the sat-vidyā (being), the uddālaka-śvetaketu dialogue (tat tvam asi), and the dahara-vidyā (heart-space).",
     "contentHash": "07e4abd8f4a3abe4bc3442fb4e37ede37348f5b27b8eecff184f6a5171f00983",
     "sourceFile": "src\\content\\relationships\\chandogya-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "chandogya-upanishad-teaches-unity",
+    "from": "chandogya-upanishad",
+    "relationship": "teaches",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "editorialNote": "The Chāndogya Upaniṣad teaches the unity of the individual self (jīvātman) with the ultimate (paramātman) through the \"tat tvam asi\" mahāvākya.",
+    "contentHash": "9d7cc3cf3617c363ea1c6110684ab8fedc29b0967281168068f12278b724e00c",
+    "sourceFile": "src\\content\\relationships\\chandogya-upanishad-teaches-unity.md"
   },
   {
     "id": "chidambaram-nataraja-associated-with-shiva",
@@ -776,6 +829,20 @@
     "editorialNote": "The Dvārakā Temple celebrates Janmāṣṭamī (Kṛṣṇa's birth) as its most important festival.",
     "contentHash": "7d16220d3ce8efe1c56c6c4b6dcf82ba3c9b553a6604f421a9e72b0074b74fa1",
     "sourceFile": "src\\content\\relationships\\dwarka-divyadesam-celebrated-during-janmashtami.md"
+  },
+  {
+    "id": "dwarka-divyadesam-tradition-of-vaishnava",
+    "from": "dwarka-divyadesam",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Dvārakādhīśa Temple belongs to the Vaiṣṇava tradition, dedicated to Viṣṇu as Dvārkādhīśa.",
+    "contentHash": "8b7afbaf6c3f87af57d9f321bfbcb18766dfc997d70313d5fa5bb38fc000a6ed",
+    "sourceFile": "src\\content\\relationships\\dwarka-divyadesam-tradition-of-vaishnava.md"
   },
   {
     "id": "ekambareswarar-kanchipuram-associated-with-shiva",
@@ -902,6 +969,20 @@
     "sourceFile": "src\\content\\relationships\\jagannath-puri-divyadesam-celebrated-during-rath-yatra.md"
   },
   {
+    "id": "jagannath-puri-tradition-of-vaishnava",
+    "from": "jagannath-puri",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Jagannath Temple at Puri belongs to the Vaiṣṇava tradition, dedicated to Viṣṇu as Jagannātha.",
+    "contentHash": "c5c6544f69eb5c181414bbeb61594f2d26f84609bef685e1c9b2ce24ca6c9921",
+    "sourceFile": "src\\content\\relationships\\jagannath-puri-tradition-of-vaishnava.md"
+  },
+  {
     "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
     "from": "jambukeswarar-tiruvanaikaval",
     "relationship": "associated-with",
@@ -927,6 +1008,19 @@
     "editorialNote": "The Jyotirmaṭha Divya Deśam is associated with Viṣṇu as Narasiṃha.",
     "contentHash": "131e92bd9a329ed2d238b2a9c048fac0ff5efcfbc8fb02050cbb3c4938cf5c24",
     "sourceFile": "src\\content\\relationships\\joshimath-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "kailasagiri-divyadesam-associated-with-vishnu",
+    "from": "kailasagiri-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Kailāsa Giri Temple is associated with Viṣṇu as Nārāyaṇa.",
+    "contentHash": "528739ddf836fef7777c76efa4f84cd7e59dc06f7d651062b2afde20a2e4be32",
+    "sourceFile": "src\\content\\relationships\\kailasagiri-divyadesam-associated-with-vishnu.md"
   },
   {
     "id": "kanchipuram-varadaraja-divyadesam-associated-with-vishnu",
@@ -969,6 +1063,20 @@
     "sourceFile": "src\\content\\relationships\\kashi-vishwanath-celebrated-during-mahashivaratri.md"
   },
   {
+    "id": "kashi-vishwanath-tradition-of-shaiva",
+    "from": "kashi-vishwanath",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Kashi Vishwanath Temple belongs to the Śaiva tradition as one of the twelve Jyotirliṅgas.",
+    "contentHash": "a0417dc53533b813972cc6234392fd1c3b5540ab91ffa2f437262ec69dfc846b",
+    "sourceFile": "src\\content\\relationships\\kashi-vishwanath-tradition-of-shaiva.md"
+  },
+  {
     "id": "katha-upanishad-commentary-on-by-shankara",
     "from": "katha-upanishad",
     "relationship": "commentary-on",
@@ -981,6 +1089,19 @@
     "editorialNote": "Śaṅkara's Bhāṣya on the Kaṭha Upaniṣad, the dialogue between Naciketā and Yama, teaching the distinction between śreyaḥ and preyaḥ, the chariot analogy (body-chariot, senses-horses, mind-reins, intellect-charioteer, ātman-master), and the na jāyate mriyate vā verse.",
     "contentHash": "d2e54a76d46561432dd84941ed5a05526dc163250bf0654b4e395ed843c88cee",
     "sourceFile": "src\\content\\relationships\\katha-upanishad-commentary-on-by-shankara.md"
+  },
+  {
+    "id": "katha-upanishad-teaches-atman",
+    "from": "katha-upanishad",
+    "relationship": "teaches",
+    "to": "atman",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ],
+    "editorialNote": "The Kaṭha Upaniṣad teaches the nature of the ātman (self) through the chariot analogy and the distinction between the eternal and the ephemeral.",
+    "contentHash": "005671ebda4f9c89ce4054e2258c7a2d1193f71281c499355e8d33cdc4866c65",
+    "sourceFile": "src\\content\\relationships\\katha-upanishad-teaches-atman.md"
   },
   {
     "id": "kedarnath-associated-with-shiva",
@@ -1244,6 +1365,19 @@
     "sourceFile": "src\\content\\relationships\\mandukya-upanishad-commentary-on-by-shankara.md"
   },
   {
+    "id": "mandukya-upanishad-teaches-brahman",
+    "from": "mandukya-upanishad",
+    "relationship": "teaches",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ],
+    "editorialNote": "The Māṇḍūkya Upaniṣad teaches the nature of Brahman as the fourth state (turīya) beyond waking, dreaming, and deep sleep.",
+    "contentHash": "5f65c0a20bf53f86edbd4b4ad340d7d6b5d364a23fa4c6e39da1c21a3d7c759d",
+    "sourceFile": "src\\content\\relationships\\mandukya-upanishad-teaches-brahman.md"
+  },
+  {
     "id": "meenakshi-amman-associated-with-devi",
     "from": "meenakshi-amman",
     "relationship": "associated-with",
@@ -1270,6 +1404,19 @@
     "editorialNote": "The Meenakshi Amman Temple celebrates Navaratri as a major festival with the Golu display.",
     "contentHash": "4ce7dd716ba9d1717b0756ed29af8a0b4ee393fa2e2a7eea9b7ea18fe5074fed",
     "sourceFile": "src\\content\\relationships\\meenakshi-amman-celebrated-during-navaratri.md"
+  },
+  {
+    "id": "meenakshi-amman-tradition-of-shakta",
+    "from": "meenakshi-amman",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Meenakshi Amman Temple belongs to the Śākta tradition, being dedicated to the Goddess Meenakshi (Durgā).",
+    "contentHash": "0a0cb4493e32e5aa3fe2d9cee531cf7a3a6baf42ca38920438570ab7d76c4a30",
+    "sourceFile": "src\\content\\relationships\\meenakshi-amman-tradition-of-shakta.md"
   },
   {
     "id": "mundaka-upanishad-commentary-on-by-shankara",
@@ -1955,6 +2102,20 @@
     "sourceFile": "src\\content\\relationships\\sabarimala-celebrated-during-mahashivaratri.md"
   },
   {
+    "id": "sabarimala-temple-tradition-of-shaiva",
+    "from": "sabarimala",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Sabarimala Temple belongs to the Śaiva tradition through its association with Lord Ayyappa (son of Śiva).",
+    "contentHash": "23ef31b607b88f82996206d460e77a98f0856be431a04b6935d6ed9a215f2288",
+    "sourceFile": "src\\content\\relationships\\sabarimala-tradition-of-shaiva.md"
+  },
+  {
     "id": "samaveda-contains-sakhas",
     "from": "samaveda",
     "relationship": "contains",
@@ -2002,8 +2163,8 @@
       "gretil",
       "andhra-pradesh-tourism"
     ],
-    "editorialNote": "The Simhācalam Divya Deśam is associated with Viṣṇu as Varāha Narasiṃha.",
-    "contentHash": "301fa79a714d4f4fdfb98eb38448cce83c9c71810c41c4e463f3f45514f3a705",
+    "editorialNote": "The Varāha Narasiṃha Temple at Simhācalam is associated with Viṣṇu as Narasiṃha.",
+    "contentHash": "0a8d813bf8df1c15159ccef1d758293ce3a5543fab8d398996adb5ce6a83dabb",
     "sourceFile": "src\\content\\relationships\\simhachalam-divyadesam-associated-with-vishnu.md"
   },
   {
@@ -2047,6 +2208,20 @@
     "sourceFile": "src\\content\\relationships\\srirangam-divyadesam-full-celebrated-during-vaikunta-ekadashi.md"
   },
   {
+    "id": "srirangam-divyadesam-full-tradition-of-sri-vaishnava",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "tradition-of",
+    "to": "sri-vaishnava",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Śrīraṅgam Ranganatha Temple belongs to the Śrīvaiṣṇava tradition, associated with Rāmānuja.",
+    "contentHash": "14152e209bffd910e5cd602e32647c74974cdf3d4e5a319a07470f141f4ca8fb",
+    "sourceFile": "src\\content\\relationships\\srirangam-divyadesam-full-tradition-of-sri-vaishnava.md"
+  },
+  {
     "id": "taittiriya-upanishad-commentary-on-by-madhva",
     "from": "taittiriya-upanishad",
     "relationship": "commentary-on",
@@ -2088,6 +2263,71 @@
     "sourceFile": "src\\content\\relationships\\taittiriya-upanishad-commentary-on-by-shankara.md"
   },
   {
+    "id": "thirukoshtiyur-divyadesam-associated-with-vishnu",
+    "from": "thirukoshtiyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Sowrīrāja Perumāl Temple at Tirukkoṣṭiyūr is associated with Viṣṇu as Sowrīrāja.",
+    "contentHash": "5d0889b8aa9c47e79c5e598b5e08e9182c1fe7429dd14111c23bf5d8da5bd436",
+    "sourceFile": "src\\content\\relationships\\thirukoshtiyur-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thirukovalur-divyadesam-associated-with-shiva",
+    "from": "thirukovalur-divyadesam",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tirukkovilur complex also houses a Śiva temple (Kāmeśvara), making it a combined Viṣṇu-Śiva site.",
+    "contentHash": "32d8eb5c3df27ea4b34ff8fca3026deac1b31eaf7acb3c784ac2cf8976cfb7b0",
+    "sourceFile": "src\\content\\relationships\\thirukovalur-divyadesam-associated-with-shiva.md"
+  },
+  {
+    "id": "thirukovalur-divyadesam-associated-with-vishnu",
+    "from": "thirukovalur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tirukkovilur Divya Deśam is associated with Viṣṇu as Aparājiteśvara/Kāmeśvara.",
+    "contentHash": "632ac025b89ae0489ce99dbd1eddd7505391ff317ff4b06c18d2e79ec05537f9",
+    "sourceFile": "src\\content\\relationships\\thirukovalur-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thirukuttalapadi-divyadesam-associated-with-vishnu",
+    "from": "thirukuttalapadi-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tirukuttaḷapādi Temple is associated with Viṣṇu as Kūṭṭalai Perumāl.",
+    "contentHash": "e238883223107b20a981b5796ff5d07a49058aeb89b9aa9e102252aec28929c5",
+    "sourceFile": "src\\content\\relationships\\thirukuttalapadi-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thirumukkudal-divyadesam-associated-with-vishnu",
+    "from": "thirumukkudal-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tirumukkūḍal Temple at Kumbakonam is associated with Viṣṇu as Nārāyaṇa (with Brahmā and Rudra in one).",
+    "contentHash": "3520b64c4705e53462a01383ad7a85cea1c66234c2c79a73a8863ebcf1d5043f",
+    "sourceFile": "src\\content\\relationships\\thirumukkudal-divyadesam-associated-with-vishnu.md"
+  },
+  {
     "id": "thirunavaya-divyadesam-associated-with-vishnu",
     "from": "thirunavaya-divyadesam",
     "relationship": "associated-with",
@@ -2112,6 +2352,149 @@
     "editorialNote": "The Tirunāvāya Temple celebrates Karkkaṭaka-vāvu (ancestor rites during Adhika Māsa).",
     "contentHash": "9be4d2d7dba7f9243b894c8e35f258a49fd937a09c20967ed5444aadbdd20e58",
     "sourceFile": "src\\content\\relationships\\thirunavaya-divyadesam-celebrated-during-karkkataka-vavu.md"
+  },
+  {
+    "id": "thiruppattanam-divyadesam-associated-with-vishnu",
+    "from": "thiruppattanam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruppaṭṭanam Temple is associated with Viṣṇu as Tiruppaṭṭanam Perumāl.",
+    "contentHash": "9befcc9e243cf2c1de7300aa2ad738d400968227848fa557e1178395aeaef056",
+    "sourceFile": "src\\content\\relationships\\thiruppattanam-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruppattinam-divyadesam-associated-with-vishnu",
+    "from": "thiruppattinam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruppattinam Temple is associated with Viṣṇu as Perumāl.",
+    "contentHash": "098770f987c6aa1cc5dd73da2227d2a20411f27c69ad1343f03f3a5fb64b1992",
+    "sourceFile": "src\\content\\relationships\\thiruppattinam-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruppattipuliyur-divyadesam-associated-with-vishnu",
+    "from": "thiruppattipuliyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruppaṭṭi-puliyūr Temple is associated with Viṣṇu as Paṭṭi-puliyūr Perumāl.",
+    "contentHash": "7f158d1208f5e7a5c6e6fbb63240b65ef16aae8abbcf6f0375ed2684511d4fc5",
+    "sourceFile": "src\\content\\relationships\\thiruppattipuliyur-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruppernamal-divyadesam-associated-with-vishnu",
+    "from": "thiruppernamal-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruppernamal Temple is associated with Viṣṇu as Tiruppernamal Perumāl.",
+    "contentHash": "d42d457caa04d3ac6a88e70d45bebc505db367da377dde20b25f64b9ec6bb825",
+    "sourceFile": "src\\content\\relationships\\thiruppernamal-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruppuliyur-divyadesam-associated-with-vishnu",
+    "from": "thiruppuliyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruppuliyūr Temple is associated with Viṣṇu as Tiruppuliyūr Perumāl.",
+    "contentHash": "bf539bac5d9cd622b543f63ce01fcf86b4e111533b50a57d8b75ed97ccc78f2b",
+    "sourceFile": "src\\content\\relationships\\thiruppuliyur-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruppullani-divyadesam-associated-with-vishnu",
+    "from": "thiruppullani-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Ādi Jagannātha Temple at Tiruppullāṇi is associated with Viṣṇu as Ādi Jagannātha.",
+    "contentHash": "329c54a40e55a1c792e8bb6404e34a7bd92907037815519c96442e4d51013731",
+    "sourceFile": "src\\content\\relationships\\thiruppullani-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruvallikeni-divyadesam-associated-with-vishnu",
+    "from": "thiruvallikeni-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Pārthasārathi Temple at Tiruvallikēṇi is associated with Viṣṇu as Pārthasārathi (Kṛṣṇa).",
+    "contentHash": "97ed50c5ca290a3d864f9f2adef34bab135040f80c1f7bf222a63ad9e2f52f0a",
+    "sourceFile": "src\\content\\relationships\\thiruvallikeni-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruvananpuram-divyadesam-associated-with-vishnu",
+    "from": "thiruvananpuram-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Anantasayana Temple at Tiruvānana-pura is associated with Viṣṇu as Anantasayana.",
+    "contentHash": "1e8daa8fb3dc1efe90b75f9ffb6f79d906277b276d97fc5661a5e17fc211d206",
+    "sourceFile": "src\\content\\relationships\\thiruvananpuram-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruvanmiyur-divyadesam-associated-with-vishnu",
+    "from": "thiruvanmiyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruvaramudreśvara Temple at Tiruvanmiyur is associated with Viṣṇu as Tiruvaramudreśvara.",
+    "contentHash": "b41acb43765026029c51b05d6a4eb7d9a4708059dc4b451db6077f736572a4a7",
+    "sourceFile": "src\\content\\relationships\\thiruvanmiyur-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruvaraha-kota-divyadesam-associated-with-vishnu",
+    "from": "thiruvaraha-kota-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ],
+    "editorialNote": "The Tiruvarāha Koṭṭa Temple is associated with Viṣṇu as Vārāha (boar avatāra).",
+    "contentHash": "abb79916a285c0d83869c71c2c1b25933ce823026d285ae00b0e4ebeae98d5c8",
+    "sourceFile": "src\\content\\relationships\\thiruvaraha-kota-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "thiruvaymar-divyadesam-associated-with-vishnu",
+    "from": "thiruvaymar-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ],
+    "editorialNote": "The Tiruvāy-mara Temple is associated with Viṣṇu as Tiruvāy-mara Perumāl.",
+    "contentHash": "6a92682d0bba893674a80c8b498a0ff8c4bd061434aae52cb2db1c922d48ea24",
+    "sourceFile": "src\\content\\relationships\\thiruvaymar-divyadesam-associated-with-vishnu.md"
   },
   {
     "id": "thrikkakara-divyadesam-associated-with-vishnu",
@@ -2140,7 +2523,7 @@
     "sourceFile": "src\\content\\relationships\\thrikkakara-divyadesam-celebrated-during-onam.md"
   },
   {
-    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "id": "thirumala-tirupati-divyadesam-associated-with-vishnu",
     "from": "tirumala-tirupati-divyadesam",
     "relationship": "associated-with",
     "to": "vishnu",
@@ -2148,9 +2531,23 @@
       "gretil",
       "andhra-pradesh-tourism"
     ],
-    "editorialNote": "The Tirumala Tirupati Divya Deśam is associated with Viṣṇu as Veṅkaṭeśvara.",
-    "contentHash": "ecbbe79bb58c4e721e1409c0092673109198f569758024c84536d00122c6f706",
+    "editorialNote": "The Veṅkaṭeśvara Temple at Tirumala is associated with Viṣṇu as Veṅkaṭeśvara.",
+    "contentHash": "519352793698a59d4e73e4899c7387e53bc2d98fddada14a8bb707ee616d8e43",
     "sourceFile": "src\\content\\relationships\\tirumala-tirupati-divyadesam-associated-with-vishnu.md"
+  },
+  {
+    "id": "tirumala-tirupati-divyadesam-tradition-of-vaishnava",
+    "from": "tirumala-tirupati-divyadesam",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "editorialNote": "The Tirumala Venkateswara Temple belongs to the Vaiṣṇava tradition, particularly the Āzhagiya Maḍhabāgya Vaiṣṇava sampradāya.",
+    "contentHash": "37744f3a0016803351be8a8f4e032f98e04c50e76461a12b0ad633281da6ca0c",
+    "sourceFile": "src\\content\\relationships\\tirumala-tirupati-divyadesam-tradition-of-vaishnava.md"
   },
   {
     "id": "tirupati-balaji-associated-with-vishnu",

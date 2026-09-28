@@ -64662,6 +64662,112 @@
     }
   },
   {
+    "id": "kailasagiri-divyadesam",
+    "title": "Kailāsa Giri Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Kailasagiri Temple",
+      "Kailasa Hill Temple",
+      "కైలాస గిరి కోవిలு"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Kailāsa Giri Temple at Kailāsa Giri hills (Chittoor district, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Nārāyaṇa in a reclining posture (aśṭāṅgābhiṣeka form). The temple is built into the hillside. The annual Brahmotsavam and the Nārāyaṇa Ekādaśī are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple offers panoramic views of the surrounding hills and plains. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Kailāsa Giri Temple at Kailāsa Giri hills (Chittoor district, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Nārāyaṇa in a reclining posture (aśṭāṅgābhiṣeka form). The temple is built into the hillside. The annual Brahmotsavam and the Nārāyaṇa Ekādaśī are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple offers panoramic views of the surrounding hills and plains.\n---\n\ncontent_short: \"\"",
+    "contentHash": "3df9710d1a8a2e372d391657ac69937f79e4d1d054c49488d410c41d85a220ca",
+    "sourceFile": "src\\content\\temples\\kailasagiri-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "kalighat",
     "title": "Kālīghāṭ Temple Kolkata",
     "type": "temple",
@@ -67985,6 +68091,112 @@
     }
   },
   {
+    "id": "thirucherapally-divyadesam",
+    "title": "Tiruccherapalli Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirucherapally Temple",
+      "Tiruchirappalli",
+      "திருச்செரப்பள்ளி கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruccherapalli Temple at Tiruchirappalli (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruccherapalli Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sacred place and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruccherapalli Temple at Tiruchirappalli (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruccherapalli Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sacred place and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "8b4ef3cb88ddb3fd2658f8ae20e17e76adb8c9a6dd5768f31bd47673f7f977fd",
+    "sourceFile": "src\\content\\temples\\thirucherapally-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "thiruchitra-divyadesam",
     "title": "Tirucitra Divya Deśam",
     "type": "temple",
@@ -68091,6 +68303,324 @@
     }
   },
   {
+    "id": "thirukadambari-divyadesam",
+    "title": "Tirukāmākṣaṇa Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukadambari Temple",
+      "Kamakshi Temple",
+      "திருக்காமாட்சி கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukāmākṣaṇa Temple (Thirukadambari) at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirukāmākṣaṇa Perumāl. The temple name derives from \"Tirukāmā\" (beloved Lord) and \"aṣa\" (to praise). The annual Brahmotsavam and the Aṣṭa-dala-pūjā are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is known for its ancient architecture and the annual float festival (Theppam). ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukāmākṣaṇa Temple (Thirukadambari) at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirukāmākṣaṇa Perumāl. The temple name derives from \"Tirukāmā\" (beloved Lord) and \"aṣa\" (to praise). The annual Brahmotsavam and the Aṣṭa-dala-pūjā are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is known for its ancient architecture and the annual float festival (Theppam).\n---\n\ncontent_short: \"\"",
+    "contentHash": "2556b2239914f1d9e028fcd5b251f71fe542e462402abc321c7be5515381fd47",
+    "sourceFile": "src\\content\\temples\\thirukadambari-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirukadgal-divyadesam",
+    "title": "Tirukkalga Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukkadgal Temple",
+      "Thirukalagam",
+      "திருக்கடல் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukkalga Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kalga Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the battle (yuddha) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukkalga Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kalga Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the battle (yuddha) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "81fb8d694bde5c80267835634594edd4b69a149b8c210ce88241b55524bd191e",
+    "sourceFile": "src\\content\\temples\\thirukadgal-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirukannapur-divyadesam",
+    "title": "Tirukkannapura Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukannapur Temple",
+      "Kannapur",
+      "திருக்கன்னப்பூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukkannapura Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kannapura Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the town of Kannapura and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukkannapura Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kannapura Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the town of Kannapura and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "3dd08e7175a48164e790ec8a478f40a7a8889e08e2ee31d3f251a3458564f931",
+    "sourceFile": "src\\content\\temples\\thirukannapur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "thirukkoloor",
     "title": "Tirukkōḷūr Temple",
     "type": "temple",
@@ -68124,6 +68654,112 @@
     "body": "The Tirukkōḷūr Temple (Tamil Nadu), one of the 108 Divya Deśams, the birthplace of Naṭhāmuṉi (the first Āḻvār of the post-Sangam era), dedicated to Viṣṇu as Vaiṭhamanīdhi; its connection to the Āḻvār tradition is represented here as a catalogue entry.\n---",
     "contentHash": "cec3b02f98a620d53ed734c1b53dfa4880c2822a77f580a1be67df50717d77ed",
     "sourceFile": "src\\content\\temples\\thirukkolur.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirukollapalli-divyadesam",
+    "title": "Tirukolla-paḍi Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukollapalli Temple",
+      "Kollapadu",
+      "திருக்கோல்லப்பளி கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukolla-paḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kollam-Paḍi Perumāl (the Lord of the collection/harvest). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Agastya and the Kollam era. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukolla-paḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kollam-Paḍi Perumāl (the Lord of the collection/harvest). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Agastya and the Kollam era.\n---\n\ncontent_short: \"\"",
+    "contentHash": "e6646e537be4ec40cba0dea73fc1daaad7cec7de9706bd5ded73e49d6097cac3",
+    "sourceFile": "src\\content\\temples\\thirukollapalli-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -68302,6 +68938,220 @@
     }
   },
   {
+    "id": "thirukottaram-divyadesam",
+    "title": "Tirukkoṭṭaṇam Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukottaram Temple",
+      "Thirukottanam",
+      "திருக்கோட்டணம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukkoṭṭaṇam Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Koṭṭaṇam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the fort (koṭṭam) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukkoṭṭaṇam Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Koṭṭaṇam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the fort (koṭṭam) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "4536662b7ac1b9d317a251688c9fde90b9042320f1b6497b0f1542acda4cf702",
+    "sourceFile": "src\\content\\temples\\thirukottaram-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirukovalur-divyadesam",
+    "title": "Tirukovilur Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta",
+      "te"
+    ],
+    "aliases": [
+      "Tirukkovilur Temple",
+      "Tirukoilur",
+      "Kovilur Temple",
+      "திருக்கோவிலூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Kāmeshvara Temple at Tirukkovilur (Tiruvannamalai district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Aparājiteśvara/Kāmeśvara. The Pallava-Chola temple with a 7th-century origin. The annual Maha Śivarātri and the Brahmotsavam are major festivals. Glorified by Tirumaṅgai Āḻvār. The nearby Tiruvōndrēśvara (Tiruvannamalai) temple of Śiva is part of the same complex. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Kāmeshvara Temple at Tirukkovilur (Tiruvannamalai district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Aparājiteśvara/Kāmeśvara. The Pallava-Chola temple with a 7th-century origin. The annual Maha Śivarātri and the Brahmotsavam are major festivals. Glorified by Tirumaṅgai Āḻvār. The nearby Tiruvōndrēśvara (Tiruvannamalai) temple of Śiva is part of the same complex.\n---\n\ncontent_short: \"\"",
+    "contentHash": "c2a07ba335faa2f58c6c379c6a61db93bd3c68ab0ffbe3848ea862f2439ceaca",
+    "sourceFile": "src\\content\\temples\\thirukovalur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "thirukurungudi-divyadesam",
     "title": "Tirukkurunkudi Divya Deśam",
     "type": "temple",
@@ -68336,6 +69186,218 @@
     "body": "The Nambi Temple at Tirukkurunkudi (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Nambi (the Lord) in a standing posture with Śrīdevi and Bhūdevi. At the foot of the Western Ghats (Mahendragiri Hills). The Cōḷa-period temple with a beautiful vimāna and the Tirupparkadal (milk ocean) tank. Glorified by Nammāḻvār (who was born nearby) and Tirumaṅgai Āḻvār. The annual Brahmotsavam and the Nammāḻvār-avatāra-utsavam are major festivals. One of the southernmost Divya Deśams.\n---",
     "contentHash": "7adf5d33ed267053c2c71c6f9c637f3c86ce8228f09fda5ec7945f93a2edb3ee",
     "sourceFile": "src\\content\\temples\\thirukurungudi-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirukuttalapadi-divyadesam",
+    "title": "Tirukuttaḷapādi Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirukottaram Temple",
+      "Kutralam",
+      "திருக்கோட்டாரம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirukuttaḷapādi Temple at Kutralam (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kutralan/Kūṭṭalai Perumāl. Located on the banks of the Tambraparni River near the famous Kutralam waterfalls. The annual Brahmotsavam and the Kudamuzhala festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the Kutralam region (the \"land of the bow\" from Sanskrit kodaṁ-lam). ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirukuttaḷapādi Temple at Kutralam (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kutralan/Kūṭṭalai Perumāl. Located on the banks of the Tambraparni River near the famous Kutralam waterfalls. The annual Brahmotsavam and the Kudamuzhala festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the Kutralam region (the \"land of the bow\" from Sanskrit kodaṁ-lam).\n---\n\ncontent_short: \"\"",
+    "contentHash": "dcb24118f156760134de0a4db97f1b0d16b7d03b31d7c966998659c6baf6d3b5",
+    "sourceFile": "src\\content\\temples\\thirukuttalapadi-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirumalagiri-divyadesam",
+    "title": "Tirumalāgiri Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Tirumalagiri Temple",
+      "Tirumalagiri",
+      "తిరుమలగిరి కోవిలు"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirumalāgiri Temple in Karimnagar district (Telangana/Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Tirumalāgiri Perumāl. Located on a hilltop with panoramic views. The annual Brahmotsavam and the Maṅgapraśana festival are celebrated. Glorified by Tiruppaṇ Āḻvār and Tirumāldevar. The temple is associated with the story of the sage Gautama and the divine tank (Pushkarinī). ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirumalāgiri Temple in Karimnagar district (Telangana/Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Tirumalāgiri Perumāl. Located on a hilltop with panoramic views. The annual Brahmotsavam and the Maṅgapraśana festival are celebrated. Glorified by Tiruppaṇ Āḻvār and Tirumāldevar. The temple is associated with the story of the sage Gautama and the divine tank (Pushkarinī).\n---\n\ncontent_short: \"\"",
+    "contentHash": "19a4394c20b51b0f1ec6286e371095b621a8112faae10dbf6ccf3eef3b42f66b",
+    "sourceFile": "src\\content\\temples\\thirumalagiri-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -68514,6 +69576,218 @@
     }
   },
   {
+    "id": "thirumanikundram-divyadesam",
+    "title": "Tirumanikūṇḍa Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirumanikundram Temple",
+      "Manimandira",
+      "திருமணிகுண்ட் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirumanikūṇḍa Temple at Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirumanikūṇḍa Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the precious stone (mani) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirumanikūṇḍa Temple at Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tirumanikūṇḍa Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the precious stone (mani) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "7e5a284e875b07924f9202275ee97c5511e7fc765bd3f5309426fdd39cd97152",
+    "sourceFile": "src\\content\\temples\\thirumanikundram-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirumukkudal-divyadesam",
+    "title": "Tirumukkūḍal Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirumukkudal Temple",
+      "Mukkudal",
+      "திருமுக்கூடல் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirumukkūḍal Temple at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to the three deities in one: Viṣṇu (Nārāyaṇa), Brahmā, and Rudra (Śiva). The unique trinity (tri-devata) temple representing the Trimūrti in one sanctum. The annual Brahmotsavam and the Maha Shivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The temple represents the concept of Trimūrti in one form (Tirumukkūḍal = \"three-joined\"). ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirumukkūḍal Temple at Kumbakonam (Tamil Nadu), a Divya Deśam dedicated to the three deities in one: Viṣṇu (Nārāyaṇa), Brahmā, and Rudra (Śiva). The unique trinity (tri-devata) temple representing the Trimūrti in one sanctum. The annual Brahmotsavam and the Maha Shivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The temple represents the concept of Trimūrti in one form (Tirumukkūḍal = \"three-joined\").\n---\n\ncontent_short: \"\"",
+    "contentHash": "def11f08aecf28966bdbe0d8d1a91a47f15b84b0f5ad8296ff738df408d7fc9f",
+    "sourceFile": "src\\content\\temples\\thirumukkudal-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "thirunavaya-divyadesam",
     "title": "Tirunāvāya Divya Deśam",
     "type": "temple",
@@ -68620,6 +69894,854 @@
     }
   },
   {
+    "id": "thiruparimala-divyadesam",
+    "title": "Tirupariśrīmala Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Tiruparimala Temple",
+      "Parimala Temple",
+      "తిరుపరిమల కోవిలు"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirupariśrīmala Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Pariśrīmala Perumāl (the fully auspicious Lord). The temple is known for its fine sculpture and architecture. The annual Parikrama and the Brahmotsavam are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple tank (Pushkarinī) is associated with the story of the sage Agastya. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirupariśrīmala Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Pariśrīmala Perumāl (the fully auspicious Lord). The temple is known for its fine sculpture and architecture. The annual Parikrama and the Brahmotsavam are celebrated. Glorified by Tiruppaṇ Āḻvār. The temple tank (Pushkarinī) is associated with the story of the sage Agastya.\n---\n\ncontent_short: \"\"",
+    "contentHash": "084909a8039b1349f87075eefe0dd1be1dcc1c895fcb2bb04edb3ec2adbfa8dd",
+    "sourceFile": "src\\content\\temples\\thiruparimala-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppaingala-divyadesam",
+    "title": "Tiruppaṅkala Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppaingala Temple",
+      "Tiruppangala",
+      "திருப்பங்கல கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppaṅkala Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṅkala Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the bamboo grove (paṅkala) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppaṅkala Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṅkala Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the bamboo grove (paṅkala) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "688d56b962cc1582c8863459d5e2114a56762187f3fed8a707c4d1bb396cac3a",
+    "sourceFile": "src\\content\\temples\\thiruppaingala-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppanaiyur-divyadesam",
+    "title": "Tiruppaṇṇiyūr Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppaniyur Temple",
+      "Paniyur",
+      "திருப்பணியூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppaṇṇiyūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pāṇiyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pāṇi and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppaṇṇiyūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pāṇiyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pāṇi and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "291bcb969f74f7210bdf71fbd121da67142aac331538d9d0214afbc92c0b717c",
+    "sourceFile": "src\\content\\temples\\thiruppanaiyur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirupparamakudi-divyadesam",
+    "title": "Tirupparāṅkuḍi Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirupparamakudi Temple",
+      "Parankusha Temple",
+      "திருப்பரங்குடி கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirupparāṅkuḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Azhimukham (the face of the Lord). Located near the Courtallam waterfalls. The annual Brahmotsavam and the Theppam (float festival) are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the Western Ghats. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirupparāṅkuḍi Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Azhimukham (the face of the Lord). Located near the Courtallam waterfalls. The annual Brahmotsavam and the Theppam (float festival) are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the Western Ghats.\n---\n\ncontent_short: \"\"",
+    "contentHash": "f715490295cead851fe8b476ca70f52eb103476a9a0d9d337eca95530d019f16",
+    "sourceFile": "src\\content\\temples\\thirupparamakudi-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirupparankalam-divyadesam",
+    "title": "Tirupparāṅkaḷam Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirupparankalam Temple",
+      "Parankalam",
+      "திருப்பரங்களம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirupparāṅkaḷam Temple at Thiruvananthapuram district (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Parāṅkaḷam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Para and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirupparāṅkaḷam Temple at Thiruvananthapuram district (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Parāṅkaḷam Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Para and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "196fdbf60ab2b3f4031b9397cd8967f4b52fd259150cf148e251c8b4fb505942",
+    "sourceFile": "src\\content\\temples\\thirupparankalam-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirupparanthasar-divyadesam",
+    "title": "Tirupparāntasar Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirupparantasar Temple",
+      "Paranthasar",
+      "திருப்பரந்தசர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirupparāntasar Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Parāntasar Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Parāntara and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirupparāntasar Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Parāntasar Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Parāntara and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "d8b35c06cc568811a93f7a0c47992c8db6153c7fb8f9f28a81bc50425464951f",
+    "sourceFile": "src\\content\\temples\\thirupparanthasar-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thirupparava-saram-divyadesam",
+    "title": "Tirupparavasaram Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thirupparavasaram Temple",
+      "Paravasaram",
+      "திருப்பரவசரம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tirupparavasaram Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paravasara Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Paravasara and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tirupparavasaram Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paravasara Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Paravasara and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "1d6b78d3fd5ec0cfc8b933833ba8a45cf83e284291a9795d6f3e2eafca8aaeb4",
+    "sourceFile": "src\\content\\temples\\thirupparava-saram-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppariyalur-divyadesam",
+    "title": "Tiruppariyālūr Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppariyalur Temple",
+      "Thiruppariyalur",
+      "திருப்பரியாலூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppariyālūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pariyālūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pariyāla. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppariyālūr Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pariyālūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the sage Pariyāla.\n---\n\ncontent_short: \"\"",
+    "contentHash": "d3881c87c381418d094a5cc3b8794f5708bc12f2dac2bd7be46dbef7cdd95fe8",
+    "sourceFile": "src\\content\\temples\\thiruppariyalur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
     "id": "thiruparkadal-divyadesam",
     "title": "Tiruppāṟkaṭal Divya Deśam",
     "type": "temple",
@@ -68654,6 +70776,748 @@
     "body": "The Tiruppāṟkaṭal Temple (the Ocean of Milk) at Kāñcīpuram (Tamil Nadu), a Divya Deśam where Viṣṇu reclines on Ādiśeṣa in the Kṣīrasāgara (ocean of milk). The temple is associated with the Pāṟkaṭal (the milk ocean) where the Devas and Asuras churned for amṛta. Glorified by Poygai Āḻvār, Bhūta Āḻvār, and Tirumaṅgai Āḻvār. The annual Kṣīrābdhi-navamī festival celebrates the churning. A small but theologically important Divya Deśam representing the cosmic ocean.\n---",
     "contentHash": "111e80375150656441e1dfc88585ac25e3dfce74380ffe7796f6a6aeb8bff4c7",
     "sourceFile": "src\\content\\temples\\thirupparkadal-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppattanam-divyadesam",
+    "title": "Tiruppaṭṭanam Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppattanam Temple",
+      "Thiruppattanam",
+      "திருப்பட்டனம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppaṭṭanam Temple near Thiruvananthapuram (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Thiruppaṭṭanam Perumāl. Located in the ancient port town of Pāṇṭyāṅkal. The annual festival is celebrated during the Tamil month of Āvaḻpōcchai. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the maritime trade of the ancient Tamil coast. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppaṭṭanam Temple near Thiruvananthapuram (Kerala/Tamil Nadu border), a Divya Deśam dedicated to Viṣṇu as Thiruppaṭṭanam Perumāl. Located in the ancient port town of Pāṇṭyāṅkal. The annual festival is celebrated during the Tamil month of Āvaḻpōcchai. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the maritime trade of the ancient Tamil coast.\n---\n\ncontent_short: \"\"",
+    "contentHash": "b3722b7e61b502153e63b98c6a6a52885a1c98ae5398467176ee7b7261e2bd92",
+    "sourceFile": "src\\content\\temples\\thiruppattanam-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppattinam-divyadesam",
+    "title": "Tiruppattinam Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppattinam Temple",
+      "Thiruppattinam",
+      "திருப்பட்டிணம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppattinam Temple in Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Perumāl. Located on the southern tip of the Tamil coast, near the sea. The annual Brahmotsavam and the Navaratri festivals are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the southern boundary of the ancient Tamil land (Tamilakam). ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppattinam Temple in Kanyakumari district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Perumāl. Located on the southern tip of the Tamil coast, near the sea. The annual Brahmotsavam and the Navaratri festivals are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the southern boundary of the ancient Tamil land (Tamilakam).\n---\n\ncontent_short: \"\"",
+    "contentHash": "056a2f1b254a96dacb39de2bdd844390bb724ad75bc325b5f9d5cf1eb65188e1",
+    "sourceFile": "src\\content\\temples\\thiruppattinam-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppattipuliyur-divyadesam",
+    "title": "Tiruppaṭṭi-puliyūr Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppattipuliyur Temple",
+      "Padipuliyur",
+      "திருப்பட்டிப்புலியூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppaṭṭi-puliyūr Temple near Cuddalore (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṭṭi-puliyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the tiger (puli) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppaṭṭi-puliyūr Temple near Cuddalore (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Paṭṭi-puliyūr Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the tiger (puli) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "b79837dd161010c3298cf1accf79b55b8a7983e54170b6edecdc0bafe667761e",
+    "sourceFile": "src\\content\\temples\\thiruppattipuliyur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppernamal-divyadesam",
+    "title": "Tiruppernamal Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Tiruppernamal Temple",
+      "Thiruppernamal",
+      "திருப்பெர்நமல் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppernamal Temple (Thiruppernamal) near Tiruvannamalai, Tamil Nadu, a Divya Deśam dedicated to Viṣṇu as Tiruppernamal Perumāl. Associated with the story of Pṛthu (the first king to perform yajña) and the giving-up of the kingdom. The annual Aṅga-dwādashi festival is celebrated. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple is also associated with the sage Durvāsa and the Swayambhū (self-manifested) deity. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppernamal Temple (Thiruppernamal) near Tiruvannamalai, Tamil Nadu, a Divya Deśam dedicated to Viṣṇu as Tiruppernamal Perumāl. Associated with the story of Pṛthu (the first king to perform yajña) and the giving-up of the kingdom. The annual Aṅga-dwādashi festival is celebrated. Glorified by Nammāḻvār and Tirumaṅgai Āḻvār. The temple is also associated with the sage Durvāsa and the Swayambhū (self-manifested) deity.\n---\n\ncontent_short: \"\"",
+    "contentHash": "1c3be7023c11a17b32f8e63bf937f80f1fea3aad139e455176782d1264da67f1",
+    "sourceFile": "src\\content\\temples\\thiruppernamal-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppugalur-divyadesam",
+    "title": "Tiruppugal-ūr Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppugalur Temple",
+      "Thirupugalur",
+      "திருப்புகலூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppugalūr Temple at Tiruppugalūr (Tiruvarur district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppugalūr Perumāl. Located near the historical battlefield of Kalinga-pattinam. The annual festival is celebrated during the Tamil month of Aṅgaḻirai. Glorified by Tirumazhisai Āḻvār and Tirumaṅgai Āḻvār. The temple has a beautiful gopuram and a large temple tank. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppugalūr Temple at Tiruppugalūr (Tiruvarur district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppugalūr Perumāl. Located near the historical battlefield of Kalinga-pattinam. The annual festival is celebrated during the Tamil month of Aṅgaḻirai. Glorified by Tirumazhisai Āḻvār and Tirumaṅgai Āḻvār. The temple has a beautiful gopuram and a large temple tank.\n---\n\ncontent_short: \"\"",
+    "contentHash": "e11afcc40f5ecf73c58e7aed3adf4212978158f73d15589d6b86c44efb8f9f6e",
+    "sourceFile": "src\\content\\temples\\thiruppugalur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppuliyur-divyadesam",
+    "title": "Tiruppuliyūr Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppuliyur Temple",
+      "Pulicat Temple",
+      "திருப்புலியூர் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppuliyūr Temple at Cuddalore district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppuliyūr Perumāl. Located near the Pulicat Lake. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the story of the tiger (puli) and the devotee. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppuliyūr Temple at Cuddalore district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruppuliyūr Perumāl. Located near the Pulicat Lake. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the story of the tiger (puli) and the devotee.\n---\n\ncontent_short: \"\"",
+    "contentHash": "265db58c44fd7160de40ead03b41f31c7031c8a810d98b4b8dafcfeff74c9dbc",
+    "sourceFile": "src\\content\\temples\\thiruppuliyur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruppullabootham-divyadesam",
+    "title": "Tiruppulla-bhūta Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruppullabootham Temple",
+      "Pullabootham",
+      "திருப்புல்லபூதம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruppulla-bhūta Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pulla-bhūta Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the grass (pulla) and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruppulla-bhūta Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pulla-bhūta Perumāl. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the grass (pulla) and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "65b5f10819d48fdff77c740b486945ef74a7097fe3975a541ef91596999aa345",
+    "sourceFile": "src\\content\\temples\\thiruppullabootham-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -68972,6 +71836,854 @@
     "body": "The Pārthasārathi Temple at Tiruvallikēṇi (Triplicane, Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Pārthasārathi (Kṛṣṇa as Arjuna's charioteer). The 8th-century Pallava temple, expanded by the Cōḷas and Vijayanagara. Five sancta: Pārthasārathi, Ranganātha, Rāma, Narasiṃha, and Varāha. The temple tank (Kairavinī) is famous for the float festival (Teppa-utsavam). Glorified by Poygai Āḻvār, Bhūta Āḻvār, Pēy Āḻvār, Tirumaṅgai Āḻvār, and Nammāḻvār. One of the oldest Divya Deśams in an urban setting.\n---",
     "contentHash": "ae1e585d9d3d2bdceae7520b9ddbbffdc456e5ae52e177a4991b47ec7cdb02c9",
     "sourceFile": "src\\content\\temples\\thiruvallikeni-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvananpuram-divyadesam",
+    "title": "Tiruvānana-pura Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruvananthapuram Temple",
+      "Ananthasayana Temple",
+      "திருவானந்தபுரம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Anantasayana Temple at Tiruvānana-pura (Thiruvananthapuram, Kerala), a Divya Deśam dedicated to Viṣṇu as Anantasayana (reclining on the cosmic serpent). The deity is in reclining posture on Ādiśeṣa, with the hill temple offering a panoramic view. The annual Anavasyava Ekādaśī and the annual temple car festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple gives its name to the city of Thiruvananthapuram. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Anantasayana Temple at Tiruvānana-pura (Thiruvananthapuram, Kerala), a Divya Deśam dedicated to Viṣṇu as Anantasayana (reclining on the cosmic serpent). The deity is in reclining posture on Ādiśeṣa, with the hill temple offering a panoramic view. The annual Anavasyava Ekādaśī and the annual temple car festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple gives its name to the city of Thiruvananthapuram.\n---\n\ncontent_short: \"\"",
+    "contentHash": "961502c760c06b73c1e5421883f78ca90d95a64753e13b33ae5fa09ad3a7a52a",
+    "sourceFile": "src\\content\\temples\\thiruvananpuram-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvanmiyur-divyadesam",
+    "title": "Tiruvaramudreśvara Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Tiruvanmiyur Temple",
+      "Muthu Pillai Temple",
+      "திருவாரண்முத்தம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvaramudreśvara Temple at Tiruvanmiyur (Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvaramudreśvara (the Lord of the fragrant place). A 7th-century Pallava temple with beautiful early Chola bronzes. The annual Brahmotsavam and the Aṅga-pūrṇa festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the legend of the sage Agastya. The nearby Parthasarathy Temple (Triplicane) is another Divya Deśam. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvaramudreśvara Temple at Tiruvanmiyur (Chennai, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvaramudreśvara (the Lord of the fragrant place). A 7th-century Pallava temple with beautiful early Chola bronzes. The annual Brahmotsavam and the Aṅga-pūrṇa festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple tank (Pushkarinī) is associated with the legend of the sage Agastya. The nearby Parthasarathy Temple (Triplicane) is another Divya Deśam.\n---\n\ncontent_short: \"\"",
+    "contentHash": "40e3bb7fa1f61662a0e6394675b2ad583ac2e7acf055453ab07458729e2ea541",
+    "sourceFile": "src\\content\\temples\\thiruvanmiyur-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvannamalai-divyadesam",
+    "title": "Tiruvāṇṇamalai Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruvannamalai Temple",
+      "Arunachaleswarar Temple",
+      "திருவண்ணமலை கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvāṇṇamalai Temple at Tiruvāṇṇamalai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Arunachalesvara (the Lord of the red hill). The temple is associated with the sacred hill (Arunachala) worshipped by Śaṅkara and Ramana Maharshi. The annual Brahmotsavam and the Mahashivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is also a major Śaiva pilgrimage site. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvāṇṇamalai Temple at Tiruvāṇṇamalai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Arunachalesvara (the Lord of the red hill). The temple is associated with the sacred hill (Arunachala) worshipped by Śaṅkara and Ramana Maharshi. The annual Brahmotsavam and the Mahashivaratri are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is also a major Śaiva pilgrimage site.\n---\n\ncontent_short: \"\"",
+    "contentHash": "b6585b26e73b4cd2611c49e85e651fad9161bb6f45e6aa0036906cdc9a6b459f",
+    "sourceFile": "src\\content\\temples\\thiruvannamalai-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvanthamalai-divyadesam",
+    "title": "Tiruvānthamālai Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruvanthamalai Temple",
+      "Vannmalai",
+      "திருவாந்தமாலை கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvānthamālai Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Vānthamālai Perumāl (the Lord with garlands of flowers). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the flower garlands and the divine intervention. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvānthamālai Temple at Tirunelveli district (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Vānthamālai Perumāl (the Lord with garlands of flowers). The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the legend of the flower garlands and the divine intervention.\n---\n\ncontent_short: \"\"",
+    "contentHash": "f32ca4674e9023087ae5a458f41faccd3b4afe2e70a19f6eac7ac026e82a1585",
+    "sourceFile": "src\\content\\temples\\thiruvanthamalai-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvaraha-kota-divyadesam",
+    "title": "Tiruvarāha Koṭṭa Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Tiruvarada Kota",
+      "Varada Temple",
+      "తిరువరహ కోట"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvarāha Koṭṭa Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Vārāha (boar avatāra). Located near the Tirumala hills. The temple is associated with the rescue of Bhūmi-devī (the Earth goddess) by Vārāha. The annual Vāsudeva Ekādaśī is the main festival. Glorified by Tiruppaṇ Āḻvār, Periyāḻvār, and Tirumāldevar. The nearby cave of Bāṇa is associated with the story. The sanctum houses a 12-foot Vārāha deity. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvarāha Koṭṭa Temple at Tirupati district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Vārāha (boar avatāra). Located near the Tirumala hills. The temple is associated with the rescue of Bhūmi-devī (the Earth goddess) by Vārāha. The annual Vāsudeva Ekādaśī is the main festival. Glorified by Tiruppaṇ Āḻvār, Periyāḻvār, and Tirumāldevar. The nearby cave of Bāṇa is associated with the story. The sanctum houses a 12-foot Vārāha deity.\n---\n\ncontent_short: \"\"",
+    "contentHash": "9d2b4ddb1dcb183d297b1c071bf6690b194b83bb089b720cf6b5ffc94a841af6",
+    "sourceFile": "src\\content\\temples\\thiruvaraha-kota-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvarasagaram-divyadesam",
+    "title": "Tiruvarasagara Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "te"
+    ],
+    "aliases": [
+      "Thiruvarasagaram Temple",
+      "Varasagaram",
+      "తిరువరసగరం కోవిలు"
+    ],
+    "sources": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvarasagara Temple at Guntur district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varasagara Perumāl. The temple is associated with the legend of the sage Agastya and the divine tank. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tiruppaṇ Āḻvār. The temple architecture follows the local style with a modest gopuram. ---",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvarasagara Temple at Guntur district (Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varasagara Perumāl. The temple is associated with the legend of the sage Agastya and the divine tank. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tiruppaṇ Āḻvār. The temple architecture follows the local style with a modest gopuram.\n---\n\ncontent_short: \"\"",
+    "contentHash": "bce5f3de61ff792c247d34161fc452fe880c3dd2c53dabf32abd1c12e9e1d6d9",
+    "sourceFile": "src\\content\\temples\\thiruvarasagaram-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvaymar-divyadesam",
+    "title": "Tiruvāy-mara Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Thiruvaimar Temple",
+      "Thiruvaymar",
+      "திருவாய்மரம் கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiruvāy-mara Temple near Chennai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvāy-mara Perumāl (the Lord under the banyan tree). Associated with the banyan tree (vāy-tree) where Viṣṇu rested. The annual festival coincides with the Tamil month of Āvaḻpōcchai (mid-Feb). Glorified by Tirumaṅgai Āḻvār. The temple is in a rural setting near Tambaram. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiruvāy-mara Temple near Chennai (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiruvāy-mara Perumāl (the Lord under the banyan tree). Associated with the banyan tree (vāy-tree) where Viṣṇu rested. The annual festival coincides with the Tamil month of Āvaḻpōcchai (mid-Feb). Glorified by Tirumaṅgai Āḻvār. The temple is in a rural setting near Tambaram.\n---\n\ncontent_short: \"\"",
+    "contentHash": "e6af6a294ba28f0f0cf482ae30b8002554eaf8db3dd20284f134f338b3fd6749",
+    "sourceFile": "src\\content\\temples\\thiruvaymar-divyadesam.md",
+    "publicationReadiness": {
+      "publishable": true,
+      "blockers": [],
+      "warnings": [],
+      "checks": [
+        {
+          "id": "content-id",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Stable entity ID is present."
+        },
+        {
+          "id": "content-title",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Title is present."
+        },
+        {
+          "id": "content-body",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Content body is present."
+        },
+        {
+          "id": "language",
+          "category": "CONTENT",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Language metadata is present."
+        },
+        {
+          "id": "workflow-state",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Record is explicitly published."
+        },
+        {
+          "id": "verification",
+          "category": "EDITORIAL",
+          "status": "PASS",
+          "severity": "error",
+          "message": "Verification state is acceptable."
+        },
+        {
+          "id": "sources",
+          "category": "SOURCE",
+          "status": "PASS",
+          "severity": "error",
+          "message": "All source IDs resolve."
+        },
+        {
+          "id": "rights",
+          "category": "RIGHTS",
+          "status": "PASS",
+          "severity": "info",
+          "message": "Referenced source rights are recorded."
+        },
+        {
+          "id": "evidence",
+          "category": "EVIDENCE",
+          "status": "NOT_APPLICABLE",
+          "severity": "info",
+          "message": "No claims recorded."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thiruvellankanni-divyadesam",
+    "title": "Tiru-Vellāṅkaṇṇi Divya Deśam",
+    "type": "temple",
+    "language": [
+      "sa",
+      "en",
+      "ta"
+    ],
+    "aliases": [
+      "Vellankanni Temple",
+      "Our Lady of Good Health",
+      "வேலாங்கண்ணி கோவில்"
+    ],
+    "sources": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "status": "published",
+    "verification": "verified",
+    "classifications": [
+      "TEMPLE",
+      "PILGRIMAGE"
+    ],
+    "description": "The Tiru-Vellāṅkaṇṇi Temple (Vellankanni) at Tiru-Vellāṅkaṇṇi (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiru-Vellāṅkaṇṇi Perumāl. The temple is associated with the legend of the sage Agastya and the goddess. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is also known as the \"Rome of India\" for the basilica church built later by Portuguese missionaries. ---",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ],
+    "relationshipIds": [],
+    "body": "The Tiru-Vellāṅkaṇṇi Temple (Vellankanni) at Tiru-Vellāṅkaṇṇi (Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Tiru-Vellāṅkaṇṇi Perumāl. The temple is associated with the legend of the sage Agastya and the goddess. The annual festival is celebrated during the Tamil month of Aippāsi. Glorified by Tirumaṅgai Āḻvār. The temple is also known as the \"Rome of India\" for the basilica church built later by Portuguese missionaries.\n---\n\ncontent_short: \"\"",
+    "contentHash": "cb832759a85a0c1346ac97c433b2a3246eaaf600fdde717ebbf56aaabf14fe5c",
+    "sourceFile": "src\\content\\temples\\thiruvellankanni-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],

@@ -1,5 +1,15 @@
 [
   {
+    "id": "ahobilam-divyadesam-associated-with-narasimha",
+    "from": "ahobilam-divyadesam",
+    "relationship": "associated-with",
+    "to": "narasimha",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ]
+  },
+  {
     "id": "ahobilam-divyadesam-associated-with-vishnu",
     "from": "ahobilam-divyadesam",
     "relationship": "associated-with",
@@ -488,6 +498,16 @@
     ]
   },
   {
+    "id": "brihadaranyaka-upanishad-teaches-atonement",
+    "from": "brihadaranyaka-upanishad",
+    "relationship": "teaches",
+    "to": "karma",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
+    ]
+  },
+  {
     "id": "brihadeeswara-associated-with-shiva",
     "from": "brihadeeswara",
     "relationship": "associated-with",
@@ -504,6 +524,17 @@
     "from": "brihadeeswara",
     "relationship": "celebrated-during",
     "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "unesco-world-heritage-centre"
+    ]
+  },
+  {
+    "id": "brihadeeswara-tradition-of-shaiva",
+    "from": "brihadeeswara",
+    "relationship": "tradition-of",
+    "to": "shaiva",
     "sourceIds": [
       "gretil",
       "tamil-nadu-tourism-department",
@@ -540,6 +571,16 @@
       "gretil",
       "chowkhamba-sanskrit-academy",
       "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "chandogya-upanishad-teaches-unity",
+    "from": "chandogya-upanishad",
+    "relationship": "teaches",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
     ]
   },
   {
@@ -592,6 +633,17 @@
       "gretil",
       "gujarat-tourism",
       "bbc-religions"
+    ]
+  },
+  {
+    "id": "dwarka-divyadesam-tradition-of-vaishnava",
+    "from": "dwarka-divyadesam",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -692,6 +744,17 @@
     ]
   },
   {
+    "id": "jagannath-puri-tradition-of-vaishnava",
+    "from": "jagannath-puri",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "odisha-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "jambukeswarar-tiruvanaikaval-associated-with-shiva",
     "from": "jambukeswarar-tiruvanaikaval",
     "relationship": "associated-with",
@@ -710,6 +773,16 @@
     "sourceIds": [
       "gretil",
       "uttarakhand-tourism"
+    ]
+  },
+  {
+    "id": "kailasagiri-divyadesam-associated-with-vishnu",
+    "from": "kailasagiri-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
     ]
   },
   {
@@ -744,6 +817,17 @@
     ]
   },
   {
+    "id": "kashi-vishwanath-tradition-of-shaiva",
+    "from": "kashi-vishwanath",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "unesco-world-heritage-centre",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "katha-upanishad-commentary-on-by-shankara",
     "from": "katha-upanishad",
     "relationship": "commentary-on",
@@ -752,6 +836,16 @@
       "gretil",
       "chowkhamba-sanskrit-academy",
       "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "katha-upanishad-teaches-atman",
+    "from": "katha-upanishad",
+    "relationship": "teaches",
+    "to": "atman",
+    "sourceIds": [
+      "gretil",
+      "chowkhamba-sanskrit-academy"
     ]
   },
   {
@@ -953,6 +1047,16 @@
     ]
   },
   {
+    "id": "mandukya-upanishad-teaches-brahman",
+    "from": "mandukya-upanishad",
+    "relationship": "teaches",
+    "to": "brahman",
+    "sourceIds": [
+      "gretil",
+      "soas-university-london"
+    ]
+  },
+  {
     "id": "meenakshi-amman-associated-with-devi",
     "from": "meenakshi-amman",
     "relationship": "associated-with",
@@ -972,6 +1076,16 @@
       "gretil",
       "tamil-nadu-tourism-department",
       "bbc-religions"
+    ]
+  },
+  {
+    "id": "meenakshi-amman-tradition-of-shakta",
+    "from": "meenakshi-amman",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
     ]
   },
   {
@@ -1490,6 +1604,17 @@
     ]
   },
   {
+    "id": "sabarimala-temple-tradition-of-shaiva",
+    "from": "sabarimala",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "kerala-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "samaveda-contains-sakhas",
     "from": "samaveda",
     "relationship": "contains",
@@ -1561,6 +1686,17 @@
     ]
   },
   {
+    "id": "srirangam-divyadesam-full-tradition-of-sri-vaishnava",
+    "from": "srirangam-divyadesam-full",
+    "relationship": "tradition-of",
+    "to": "sri-vaishnava",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "taittiriya-upanishad-commentary-on-by-madhva",
     "from": "taittiriya-upanishad",
     "relationship": "commentary-on",
@@ -1593,6 +1729,56 @@
     ]
   },
   {
+    "id": "thirukoshtiyur-divyadesam-associated-with-vishnu",
+    "from": "thirukoshtiyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thirukovalur-divyadesam-associated-with-shiva",
+    "from": "thirukovalur-divyadesam",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thirukovalur-divyadesam-associated-with-vishnu",
+    "from": "thirukovalur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thirukuttalapadi-divyadesam-associated-with-vishnu",
+    "from": "thirukuttalapadi-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thirumukkudal-divyadesam-associated-with-vishnu",
+    "from": "thirumukkudal-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
     "id": "thirunavaya-divyadesam-associated-with-vishnu",
     "from": "thirunavaya-divyadesam",
     "relationship": "associated-with",
@@ -1610,6 +1796,116 @@
     "sourceIds": [
       "gretil",
       "kerala-tourism"
+    ]
+  },
+  {
+    "id": "thiruppattanam-divyadesam-associated-with-vishnu",
+    "from": "thiruppattanam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruppattinam-divyadesam-associated-with-vishnu",
+    "from": "thiruppattinam-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruppattipuliyur-divyadesam-associated-with-vishnu",
+    "from": "thiruppattipuliyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruppernamal-divyadesam-associated-with-vishnu",
+    "from": "thiruppernamal-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruppuliyur-divyadesam-associated-with-vishnu",
+    "from": "thiruppuliyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruppullani-divyadesam-associated-with-vishnu",
+    "from": "thiruppullani-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruvallikeni-divyadesam-associated-with-vishnu",
+    "from": "thiruvallikeni-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruvananpuram-divyadesam-associated-with-vishnu",
+    "from": "thiruvananpuram-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruvanmiyur-divyadesam-associated-with-vishnu",
+    "from": "thiruvanmiyur-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "thiruvaraha-kota-divyadesam-associated-with-vishnu",
+    "from": "thiruvaraha-kota-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism"
+    ]
+  },
+  {
+    "id": "thiruvaymar-divyadesam-associated-with-vishnu",
+    "from": "thiruvaymar-divyadesam",
+    "relationship": "associated-with",
+    "to": "vishnu",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department"
     ]
   },
   {
@@ -1633,13 +1929,24 @@
     ]
   },
   {
-    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "id": "thirumala-tirupati-divyadesam-associated-with-vishnu",
     "from": "tirumala-tirupati-divyadesam",
     "relationship": "associated-with",
     "to": "vishnu",
     "sourceIds": [
       "gretil",
       "andhra-pradesh-tourism"
+    ]
+  },
+  {
+    "id": "tirumala-tirupati-divyadesam-tradition-of-vaishnava",
+    "from": "tirumala-tirupati-divyadesam",
+    "relationship": "tradition-of",
+    "to": "vaishnava",
+    "sourceIds": [
+      "gretil",
+      "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
     ]
   },
   {

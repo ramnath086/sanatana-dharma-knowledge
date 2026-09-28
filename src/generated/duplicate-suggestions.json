@@ -335,6 +335,15 @@
   {
     "kind": "ALIAS_COLLISION",
     "entityIds": [
+      "thirukottaram-divyadesam",
+      "thirukuttalapadi-divyadesam"
+    ],
+    "reason": "Alias collision: Thirukottaram Temple.",
+    "recommendation": "Review aliases and canonical identity."
+  },
+  {
+    "kind": "ALIAS_COLLISION",
+    "entityIds": [
       "tirumala-tirupati-divyadesam",
       "tirupati-divyadesam-full"
     ],

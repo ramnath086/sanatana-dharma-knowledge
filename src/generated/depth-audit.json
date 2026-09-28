@@ -35,7 +35,7 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -77,12 +77,10 @@
     "type": "concept",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": [
-      "relationship"
-    ]
+    "needsWork": []
   },
   {
     "entityId": "krishna",
@@ -209,7 +207,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 11,
+    "relationshipCount": 12,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -237,7 +235,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 16,
+    "relationshipCount": 32,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -771,13 +769,12 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -786,13 +783,12 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   },
   {
@@ -801,13 +797,12 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 0,
+    "relationshipCount": 3,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
       "claim",
-      "evidence",
-      "relationship"
+      "evidence"
     ]
   }
 ]

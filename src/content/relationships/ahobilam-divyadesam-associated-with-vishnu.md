@@ -7,4 +7,4 @@ sources: [gretil, andhra-pradesh-tourism]
 status: published
 verification: verified
 ---
-The Ahobilam Divya Deśam is associated with Viṣṇu as Nava Narasiṃha (nine forms).
+The Nava Narasiṃha Temple at Ahobilam is associated with Viṣṇu as Narasiṃha (nine forms).
