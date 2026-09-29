@@ -3,7 +3,7 @@ id: ahobilam-divyadesam
 title: Ahobilam Divya Deśam
 type: temple
 language: [sa, en, te]
-aliases: [Ahobilam Temple, Nava Narasimha Temple, అహోబిలం నవ నరసింహ svem poderes]
+aliases: [Ahobilam Temple, Nava Narasimha Temple, Ahobalam, अहोबिलम्, అహోబిలం నవ నరసింహ సామွှరులు]
 sources: [gretil, andhra-pradesh-tourism, archaeological-survey-of-india]
 status: published
 verification: verified

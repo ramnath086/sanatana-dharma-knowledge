@@ -3,7 +3,7 @@ id: rameshwaram-divyadesam
 title: Rāmeśvaram Divya Deśam
 type: temple
 language: [sa, en, ta]
-aliases: [Ramanathaswamy Temple, Ramanathaswamy Temple Rameshwaram, இராமநாதசுவாமி கோவில்]
+aliases: [Ramanathaswamy Temple, Ramanathaswamy Temple Rameshwaram, Rameshwaram, रामेश्वरम, இராமநாதசுவாமி கோவில்]
 sources: [gretil, tamil-nadu-tourism-department, archaeological-survey-of-india, unesco-world-heritage-centre]
 status: published
 verification: verified

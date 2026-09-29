@@ -1,6 +1,6 @@
 ---
-id: tirupati-balaji-associated-with-vishnu
-from: tirupati-balaji
+id: tirumala-tirupati-divyadesam-associated-with-vishnu
+from: tirumala-tirupati-divyadesam
 to: vishnu
 relationship: associated-with
 sources: [gretil, andhra-pradesh-tourism, archaeological-survey-of-india]

@@ -3,7 +3,7 @@ id: thirukuttalapadi-divyadesam
 title: Tirukuttaḷapādi Divya Deśam
 type: temple
 language: [sa, en, ta]
-aliases: [Thirukottaram Temple, Kutralam, திருக்கோட்டாரம் கோவில்]
+aliases: [Thirukuttalapadi Temple, Kutralam, Tirukuttalam, திருக்குட்டாலப்பாடி கோவில்]
 sources: [gretil, tamil-nadu-tourism-department, archaeological-survey-of-india]
 status: published
 verification: verified

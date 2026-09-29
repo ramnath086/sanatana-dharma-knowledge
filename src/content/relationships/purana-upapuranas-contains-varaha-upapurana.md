@@ -1,5 +1,5 @@
 ---
-id: purana-upapuranas-contains-varaha-upapurana
+id: purana-upapuranas-contains-varaha-purana-upapurana
 from: purana-upapurana
 to: varaha-purana-upapurana
 relationship: contains

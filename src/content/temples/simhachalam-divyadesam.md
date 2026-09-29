@@ -3,7 +3,7 @@ id: simhachalam-divyadesam
 title: Simhācalam Divya Deśam
 type: temple
 language: [sa, en, te]
-aliases: [Simhachalam Temple, Varaha Narasimha Temple, సింహాచలం వరాహ నరసింహ స 이끗]
+aliases: [Simhachalam Temple, Simhadri, Varaha Narasimha Temple, सिंहाचलम्, సింహాచలం వరాహ నరసింహ స్ధలం]
 sources: [gretil, andhra-pradesh-tourism, archaeological-survey-of-india]
 status: published
 verification: verified

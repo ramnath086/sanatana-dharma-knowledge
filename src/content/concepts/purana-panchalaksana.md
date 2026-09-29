@@ -3,7 +3,7 @@ id: purana-panchalaksana
 title: Purāṇa Pañcalakṣaṇa
 type: concept
 language: [sa, en]
-aliases: [Purana Panchalaksana, पुराण पञ्चलक्षण]
+aliases: [Purana Panchalaksana, Five Characteristics of Purana, पुराण पञ्चलक्षण]
 sources: [gretil]
 status: published
 verification: verified

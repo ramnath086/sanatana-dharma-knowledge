@@ -1327,7 +1327,7 @@
     ]
   },
   {
-    "id": "purana-upapuranas-contains-matsya-upapurana",
+    "id": "purana-upapuranas-contains-matsya-purana-upapurana",
     "from": "purana-upapurana",
     "relationship": "contains",
     "to": "matsya-purana-upapurana",
@@ -1357,7 +1357,7 @@
     "id": "purana-upapuranas-contains-nrisimha",
     "from": "purana-upapurana",
     "relationship": "contains",
-    "to": "nrisimha-purana",
+    "to": "narasimha-purana",
     "sourceIds": [
       "gretil"
     ]
@@ -1381,7 +1381,7 @@
     ]
   },
   {
-    "id": "purana-upapuranas-contains-varaha-upapurana",
+    "id": "purana-upapuranas-contains-varaha-purana-upapurana",
     "from": "purana-upapurana",
     "relationship": "contains",
     "to": "varaha-purana-upapurana",
@@ -1459,17 +1459,6 @@
     "to": "ramayana-yuddha-kanda",
     "sourceIds": [
       "gretil"
-    ]
-  },
-  {
-    "id": "rameshwaram-associated-with-shiva",
-    "from": "rameshwaram",
-    "relationship": "associated-with",
-    "to": "shiva",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism",
-      "archaeological-survey-of-india"
     ]
   },
   {
@@ -1950,8 +1939,8 @@
     ]
   },
   {
-    "id": "tirupati-balaji-associated-with-vishnu",
-    "from": "tirupati-balaji",
+    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "from": "tirumala-tirupati-divyadesam",
     "relationship": "associated-with",
     "to": "vishnu",
     "sourceIds": [

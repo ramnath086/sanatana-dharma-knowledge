@@ -1735,7 +1735,7 @@
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-manava.md"
   },
   {
-    "id": "purana-upapuranas-contains-matsya-upapurana",
+    "id": "purana-upapuranas-contains-matsya-purana-upapurana",
     "from": "purana-upapurana",
     "relationship": "contains",
     "to": "matsya-purana-upapurana",
@@ -1743,7 +1743,7 @@
       "gretil"
     ],
     "editorialNote": "The Upapurāṇas include the Matsya Upapurāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "0ecf38d408f3cd7441bf3125a8121fa873b0a804f7ef7d4259d63af68c2570cf",
+    "contentHash": "2de10290d12c287b3c949fea44495aa4fd2a8a334cc8e1d8622d263e8e25aea1",
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-matsya-upapurana.md"
   },
   {
@@ -1774,12 +1774,12 @@
     "id": "purana-upapuranas-contains-nrisimha",
     "from": "purana-upapurana",
     "relationship": "contains",
-    "to": "nrisimha-purana",
+    "to": "narasimha-purana",
     "sourceIds": [
       "gretil"
     ],
     "editorialNote": "The Upapurāṇas include the Nṛsiṃha Purāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "b2230212a878675ee9199bc579af43770aca42c355c2556d8bf65acda2fded2d",
+    "contentHash": "e3f4ebb7e19cdc4716e717276f19fd043342d2b40123df61df8e464a8cb1c7f6",
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-nrisimha.md"
   },
   {
@@ -1807,7 +1807,7 @@
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-saura.md"
   },
   {
-    "id": "purana-upapuranas-contains-varaha-upapurana",
+    "id": "purana-upapuranas-contains-varaha-purana-upapurana",
     "from": "purana-upapurana",
     "relationship": "contains",
     "to": "varaha-purana-upapurana",
@@ -1815,7 +1815,7 @@
       "gretil"
     ],
     "editorialNote": "The Upapurāṇas include the Varāha Upapurāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "3ca6fb1a30642c745b9fefddd4e9e87dfc23fbcc00d6258d1bafd147ad029e83",
+    "contentHash": "284b974689ced46d325846c571409ebd7970a4b34e5e4700c4ab4d1c3c2d212c",
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-varaha-upapurana.md"
   },
   {
@@ -1913,20 +1913,6 @@
     "editorialNote": "The Rāmāyaṇa contains the Yuddha Kāṇḍa; represented here as a catalogue entry.\n---",
     "contentHash": "9aafd531afc0a826afb622a1e2598f13e19678d4e0c6f5b34b123d7cb6bfdf14",
     "sourceFile": "src\\content\\relationships\\ramayana-contains-yuddha-kanda.md"
-  },
-  {
-    "id": "rameshwaram-associated-with-shiva",
-    "from": "rameshwaram",
-    "relationship": "associated-with",
-    "to": "shiva",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "editorialNote": "The Ramanathaswamy Temple at Rameshwaram is associated with Lord Shiva as one of the twelve Jyotirlinga sites.",
-    "contentHash": "3df16f407e2e56e411ce226c50ece0b7541c1d35013b890e458751d95bf030bf",
-    "sourceFile": "src\\content\\relationships\\rameshwaram-associated-with-shiva.md"
   },
   {
     "id": "rameshwaram-divyadesam-associated-with-shiva",
@@ -2550,8 +2536,8 @@
     "sourceFile": "src\\content\\relationships\\tirumala-tirupati-divyadesam-tradition-of-vaishnava.md"
   },
   {
-    "id": "tirupati-balaji-associated-with-vishnu",
-    "from": "tirupati-balaji",
+    "id": "tirumala-tirupati-divyadesam-associated-with-vishnu",
+    "from": "tirumala-tirupati-divyadesam",
     "relationship": "associated-with",
     "to": "vishnu",
     "sourceIds": [
@@ -2560,7 +2546,7 @@
       "archaeological-survey-of-india"
     ],
     "editorialNote": "The Tirumala Venkateswara Temple is associated with Lord Vishnu (Venkateswara) as its presiding deity.",
-    "contentHash": "e2e1b05555c7f71f985a56754b564e6273901f5c840537845be89bf6acd3fad9",
+    "contentHash": "c97cf51a92d5503e8c1046f685c0640ebb2843aabd506d23ab16ba056f7cc4f8",
     "sourceFile": "src\\content\\relationships\\tirupati-balaji-associated-with-vishnu.md"
   },
   {

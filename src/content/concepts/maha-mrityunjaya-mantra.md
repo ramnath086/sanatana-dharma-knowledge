@@ -3,7 +3,7 @@ id: maha-mrityunjaya-mantra
 title: Mahā Mrityunjaya Mantra
 type: concept
 language: [sa, en]
-aliases: [Maha Mrityunjaya Mantra, Mahamrityunjaya, महा मृत्युंजय मंत्र]
+aliases: [Maha Mrityunjaya Mantra, Mahamrityunjaya, Tryambakam Mantra, महा मृत्युंजय मंत्र]
 sources: [gretil]
 status: published
 verification: verified

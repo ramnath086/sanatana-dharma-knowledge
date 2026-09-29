@@ -1,5 +1,5 @@
 ---
-id: purana-upapuranas-contains-matsya-upapurana
+id: purana-upapuranas-contains-matsya-purana-upapurana
 from: purana-upapurana
 to: matsya-purana-upapurana
 relationship: contains

@@ -3,7 +3,7 @@ id: srirangam-divyadesam-full
 title: Śrīraṅgam Ranganatha Divya Deśam
 type: temple
 language: [sa, en, ta]
-aliases: [Srirangam Temple, Ranganathaswamy Temple, Sri Ranganathaswamy, அரங்கநாதன் கோவில்]
+aliases: [Srirangam Temple, Ranganathaswamy Temple, Sri Ranganathaswamy, Srirangam, Ranganathaswamy Temple, श्रीरंगम, அரங்கநாதன் கோவில்]
 sources: [gretil, tamil-nadu-tourism-department, archaeological-survey-of-india, unesco-world-heritage-centre]
 status: published
 verification: verified

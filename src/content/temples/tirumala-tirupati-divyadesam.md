@@ -3,7 +3,7 @@ id: tirumala-tirupati-divyadesam
 title: Tirumala Tirupati Divya Deśam
 type: temple
 language: [sa, en, te, ta]
-aliases: [Tirumala Venkateswara Temple, Tirupati Balaji, Sri Venkateswara Temple, తిరుమల వేంకటేశ్వర స్ధలం]
+aliases: [Tirumala Venkateswara Temple, Tirupati Balaji, Sri Venkateswara Temple, Tirupati, Venkateswara Temple, Tirumala, Tirupati Temple, Tirumala Temple, तिरुपति बालाजी, तिरुमला वेंकटेश्वर मंदिर, తిరుమల వేంకటేశ్వర స్ధలం]
 sources: [gretil, andhra-pradesh-tourism, archaeological-survey-of-india]
 status: published
 verification: verified

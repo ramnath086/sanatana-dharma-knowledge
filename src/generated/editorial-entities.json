@@ -3790,108 +3790,6 @@
     }
   },
   {
-    "id": "devi-bhagavata-content",
-    "title": "Devī Bhāgavata Content",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Devi Bhagavata Content",
-      "Devi Bhagavatam",
-      "देवी भागवत"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "PURANA",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "description": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), its twelve skandhas, focus on the Goddess as supreme reality, the Devī Gītā, and Śākta theology; its role in Goddess worship traditions is represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), its twelve skandhas, focus on the Goddess as supreme reality, the Devī Gītā, and Śākta theology; its role in Goddess worship traditions is represented here as a catalogue entry.\n---",
-    "contentHash": "67aaf9195350ceddeacd2dad0bacfe59645e1c9ebce1fb2aabca9d99476d0e8e",
-    "sourceFile": "src\\content\\concepts\\devi-bhagavata-content.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
     "id": "dharma",
     "title": "Dharma",
     "type": "concept",
@@ -9210,6 +9108,7 @@
     "aliases": [
       "Maha Mrityunjaya Mantra",
       "Mahamrityunjaya",
+      "Tryambakam Mantra",
       "महा मृत्युंजय मंत्र"
     ],
     "sources": [
@@ -9229,7 +9128,7 @@
     ],
     "relationshipIds": [],
     "body": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry.\n---",
-    "contentHash": "db39218c8a49d3cd21c31d90f8639e8e74c1ee85324a78012537a739491023a7",
+    "contentHash": "d77d238b3e05a910b49ac165d26a955ba2eaaca7cf232c946686c6c33f0b64f4",
     "sourceFile": "src\\content\\concepts\\maha-mrityunjaya-mantra.md",
     "publicationReadiness": {
       "publishable": true,
@@ -9635,109 +9534,6 @@
     "body": "The Kurukṣetra War, the central conflict of the Mahābhārata, fought between the Pāṇḍavas and Kauravas over eighteen days; its key warriors (Bhīṣma, Droṇa, Karṇa, Arjuna), the Bhagavad Gītā discourse, and its traditional dating are represented here as a catalogue entry.\n---",
     "contentHash": "b6122e7b0a4dd61344900fbb54764718af694ca94b464195885da2311bbaf8c6",
     "sourceFile": "src\\content\\concepts\\mahabharata-war.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "mahamrityunjaya-mantra",
-    "title": "Mahāmṛtyuñjaya Mantra",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Mahamrityunjaya Mantra",
-      "Tryambakam Mantra",
-      "महामृत्युंजय मंत्र"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "MANTRA",
-      "VEDIC",
-      "PRACTICE",
-      "CONCEPT"
-    ],
-    "description": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry.\n---",
-    "contentHash": "5f9e19f2d31b3c33ec0775d92391911e12ba02d3ba57eec145e600d389637b9d",
-    "sourceFile": "src\\content\\concepts\\mahamrityunjaya-mantra.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -12967,108 +12763,6 @@
     }
   },
   {
-    "id": "prasad",
-    "title": "Prasāda",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Prasad",
-      "Prasadam",
-      "प्रसाद"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "PRACTICE",
-      "RITUAL",
-      "CONCEPT"
-    ],
-    "description": "Prasāda (grace/offering): food or items offered to a deity during worship (pūjā) and then distributed to devotees as divine grace; its theological significance as transformed matter bearing the deity's blessing; its role in pūjā, festivals, and daily practice are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "Prasāda (grace/offering): food or items offered to a deity during worship (pūjā) and then distributed to devotees as divine grace; its theological significance as transformed matter bearing the deity's blessing; its role in pūjā, festivals, and daily practice are represented here as a catalogue entry.\n---",
-    "contentHash": "fdc3fae2909a2a3f087c7c608832f53e170356c0c7a29172d1be7135999be8d1",
-    "sourceFile": "src\\content\\concepts\\prasad.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
     "id": "prasthana-traya",
     "title": "Prasthānatraya",
     "type": "concept",
@@ -13587,6 +13281,7 @@
     ],
     "aliases": [
       "Purana Panchalaksana",
+      "Five Characteristics of Purana",
       "पुराण पञ्चलक्षण"
     ],
     "sources": [
@@ -13605,109 +13300,8 @@
     ],
     "relationshipIds": [],
     "body": "The five distinguishing characteristics of a Purāṇa: sarga (creation), pratisarga (re-creation), vaṃśa (genealogy), manvantara (cosmic ages), and vaṃśānucarita (dynastic history).",
-    "contentHash": "b5713ab7548e9b4a00c64151c392e871a05c56891ace1df2cab08e82327b0d46",
+    "contentHash": "f7a003d65ebf698fedf764111ae4f894d65d62fff1ad795d11eb94215dd86937",
     "sourceFile": "src\\content\\concepts\\purana-panchalaksana.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "purana-panchalakshana",
-    "title": "Purāṇa Pañcalakṣaṇa",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Purana Panchalakshana",
-      "Five Characteristics of Purana",
-      "पुराण पञ्चलक्षण"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "PURANA",
-      "CONCEPT"
-    ],
-    "description": "The five characteristic topics (pañcalakṣaṇa) that define a Purāṇa: sarga (primary creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The five characteristic topics (pañcalakṣaṇa) that define a Purāṇa: sarga (primary creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry.\n---",
-    "contentHash": "cb9a573e9aa63989ec19214511ca047f3bee1cb3320676cc06bbbb53db32fc8f",
-    "sourceFile": "src\\content\\concepts\\purana-panchalakshana.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -13809,107 +13403,6 @@
     "body": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Kṛṣṇa), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry.\n---",
     "contentHash": "996c3174ef785ae4ed4a117bf805754a7c36780d1123ed03183aff77ea59d143",
     "sourceFile": "src\\content\\concepts\\purana-sectarian-classification.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "purana-sectarian",
-    "title": "Purāṇa Sectarian Classification",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Purana Sectarian",
-      "Puranic Classification",
-      "पुराण संप्रदाय वर्गीकरण"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "PURANA",
-      "CONCEPT"
-    ],
-    "description": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Krishna), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Krishna), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry.\n---",
-    "contentHash": "df15acdbc0e6c0783b728fb3f8b2c5447c97182a1daf4af1487621f21cfb0985",
-    "sourceFile": "src\\content\\concepts\\purana-sectarian.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -18151,109 +17644,6 @@
     }
   },
   {
-    "id": "skanda-forms",
-    "title": "Skanda Forms",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Skanda Forms",
-      "Kartikeya Forms",
-      "Murugan Forms",
-      "स्कन्द रूप"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "DEITY",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "description": "The forms of Skanda (Kārttikeya, Murugaṇ, Subrahmaṇya): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, and the Tamil Murugaṇ; their iconography (vel, peacock, rooster) and regional worship (especially Tamil Nadu) are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The forms of Skanda (Kārttikeya, Murugaṇ, Subrahmaṇya): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, and the Tamil Murugaṇ; their iconography (vel, peacock, rooster) and regional worship (especially Tamil Nadu) are represented here as a catalogue entry.\n---",
-    "contentHash": "dee5d204a58625d265083647e6dfceba4c6c0f8526ba52547606ff1217e06d82",
-    "sourceFile": "src\\content\\concepts\\skanda-forms.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
     "id": "smriti",
     "title": "Smṛti",
     "type": "concept",
@@ -19418,107 +18808,6 @@
     "body": "The trisandhyā (three daily junctions): the Vedic prescription for worship at dawn (prātaḥ-sandhyā), noon (mādhyāhnika), and dusk (sāyaṃ-sandhyā); the Gāyatrī mantra recitation, prāṇāyāma, arghya offering, and upasthāna; its role in the daily routine of the twice-born (dvija) and its continuation in modern practice are represented here as a catalogue entry.\n---",
     "contentHash": "03a969e37b30cbbefec22fd7a44ad819d19c8c7706317eadf0e44bafc4ba4e73",
     "sourceFile": "src\\content\\concepts\\trisandhya.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "upapurana",
-    "title": "Upapurāṇa",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Upapurana",
-      "उपपुराण"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "CONCEPT",
-      "PURANA",
-      "PHILOSOPHY"
-    ],
-    "description": "The subsidiary Purāṇas, traditionally numbering eighteen, supplementing the Mahāpurāṇas with regional and sectarian material.",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The subsidiary Purāṇas, traditionally numbering eighteen, supplementing the Mahāpurāṇas with regional and sectarian material.",
-    "contentHash": "37ae46feae1b523bcc11944e13ab3ec6293cd340c7eeabb3cc0741b8ba9c6083",
-    "sourceFile": "src\\content\\concepts\\upapurana.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -22364,107 +21653,6 @@
     "body": "The classification of yajña in Vedic and Smṛta tradition: nitya (daily, like agnihotra), naimittika (occasional), kāmya (desire-motivated), the seven havir-yajñas, the seven soma-yajñas, and the mahāyajñas (panca-mahāyajña); their performers, materials, and purposes are represented here as a catalogue entry.\n---",
     "contentHash": "ac2c348ce50dad0bd73c0ee5efd077aebafb328e7ac602199ca9e0051ac8c646",
     "sourceFile": "src\\content\\concepts\\yajna-types.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "yajnavalkya-smriti-content",
-    "title": "Yājñavalkya Smṛti Content",
-    "type": "concept",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Yajnavalkya Smriti Content",
-      "Yajnavalkya Smriti",
-      "याज्ञवल्क्य स्मृति विषय"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "DHARMASHASTRA",
-      "CONCEPT"
-    ],
-    "description": "The Yājñavalkya Smṛti, its three books (ācāra, vyavahāra, prāyaścitta), its more systematic organization compared to Manusmṛti, and its influence on medieval Dharmaśāstra digests are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The Yājñavalkya Smṛti, its three books (ācāra, vyavahāra, prāyaścitta), its more systematic organization compared to Manusmṛti, and its influence on medieval Dharmaśāstra digests are represented here as a catalogue entry.\n---",
-    "contentHash": "2c31dc178170e36230740ad6e87632dc0ed52af63c776165d73128cb51bb9169",
-    "sourceFile": "src\\content\\concepts\\yajnavalkya-smriti-content.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -27829,115 +27017,6 @@
     }
   },
   {
-    "id": "diwali",
-    "title": "Dīpāvalī",
-    "type": "festival",
-    "language": [
-      "sa",
-      "en",
-      "hi",
-      "gu",
-      "mr",
-      "bn"
-    ],
-    "aliases": [
-      "Diwali",
-      "Deepavali",
-      "Deepawali",
-      "दीपावली"
-    ],
-    "sources": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "FESTIVAL",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "description": "Dīpāvalī (Diwali), the festival of lights observed on the new moon of Kārttika (Oct–Nov); celebrating Rāma's return to Ayodhyā, Lakṣmī-pūjā, the victory of light over darkness; regional variations include Kālī Pūjā (Bengal), the worship of Yama (Dhanteras), and the Sikh Bandī Chhor Divas; its economic and cultural significance are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "relationshipIds": [],
-    "body": "Dīpāvalī (Diwali), the festival of lights observed on the new moon of Kārttika (Oct–Nov); celebrating Rāma's return to Ayodhyā, Lakṣmī-pūjā, the victory of light over darkness; regional variations include Kālī Pūjā (Bengal), the worship of Yama (Dhanteras), and the Sikh Bandī Chhor Divas; its economic and cultural significance are represented here as a catalogue entry.\n---",
-    "contentHash": "e34af0f14aa7562e551086b1806005f4e4261afbdaf2f79aefd5ef70c32cc104",
-    "sourceFile": "src\\content\\festivals\\diwali.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
     "id": "dussehra",
     "title": "Vijayadaśamī / Dussehra",
     "type": "festival",
@@ -28153,109 +27232,6 @@
     }
   },
   {
-    "id": "ganesha-caturthi",
-    "title": "Gaṇeśa Caturthī",
-    "type": "festival",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Ganesh Chaturthi",
-      "गणेश चतुर्थी"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "FESTIVAL",
-      "Deity",
-      "TRADITION",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "description": "A festival associated with Gaṇeśa whose public and household observances vary by region and community.",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "A festival associated with Gaṇeśa whose public and household observances vary by region and community.",
-    "contentHash": "0eff7bc67d2bff3002efece3a5d6996dd6b1b8d4328b1b80ea8a6464a498115a",
-    "sourceFile": "src\\content\\festivals\\ganesha-caturthi.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
     "id": "gita-jayanti",
     "title": "Gītā Jayantī",
     "type": "festival",
@@ -28366,6 +27342,7 @@
     ],
     "aliases": [
       "Guru Purnima",
+      "Vyasa Purnima",
       "गुरु पूर्णिमा"
     ],
     "sources": [
@@ -28385,114 +27362,8 @@
     ],
     "relationshipIds": [],
     "body": "A festival honoring spiritual teachers, observed on the full moon of Āṣāḍha in Hindu traditions; Buddhist and Jain traditions observe related festivals on different dates; specific observances vary by lineage and region.",
-    "contentHash": "d40a00194fc8a7d6965647e6ce8aa21844499b95a46f2d67badff327e87cb3ab",
+    "contentHash": "29c142cbf0e4d18e0e7d299ccefb07dac7218bef9a975b600016f54961254ffc",
     "sourceFile": "src\\content\\festivals\\guru-purnima.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "gurupurnima",
-    "title": "Guru Pūrṇimā",
-    "type": "festival",
-    "language": [
-      "sa",
-      "en",
-      "hi",
-      "gu"
-    ],
-    "aliases": [
-      "Guru Purnima",
-      "Vyasa Purnima",
-      "गुरु पूर्णिमा"
-    ],
-    "sources": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "FESTIVAL",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "description": "Guru Pūrṇimā, the full moon day of Āṣāḍha (Jun–Jul), dedicated to the guru (spiritual teacher); traditionally associated with Vyāsa (the compiler of the Vedas), observed by disciples offering pūjā, dakṣiṇā, and seeking blessings; its observance in Ādi Śaṅkara maṭhas, Gauḍīya Vaiṣṇava, and other traditions is represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil",
-      "bbc-religions"
-    ],
-    "relationshipIds": [],
-    "body": "Guru Pūrṇimā, the full moon day of Āṣāḍha (Jun–Jul), dedicated to the guru (spiritual teacher); traditionally associated with Vyāsa (the compiler of the Vedas), observed by disciples offering pūjā, dakṣiṇā, and seeking blessings; its observance in Ādi Śaṅkara maṭhas, Gauḍīya Vaiṣṇava, and other traditions is represented here as a catalogue entry.\n---",
-    "contentHash": "58b9b01bdf98db9d4d03a525fad007a4acec3bf0a5b7816f154b53f41ec438eb",
-    "sourceFile": "src\\content\\festivals\\gurupurnima.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -31017,6 +29888,7 @@
     ],
     "aliases": [
       "Prasad",
+      "Prasadam",
       "प्रसाद"
     ],
     "sources": [
@@ -31044,7 +29916,7 @@
     ],
     "relationshipIds": [],
     "body": "A glossary entry for the term prasāda, representing its ritual and social meanings across traditions.",
-    "contentHash": "b762bb0556dba1ee315e039a33981d36efc3bb9013455aab1935c74e4dd4c79d",
+    "contentHash": "8305b7943d72b8a252016827eb2643a35434431a61155a5ad872451c39618835",
     "sourceFile": "src\\content\\glossary\\prasada.md",
     "publicationReadiness": {
       "publishable": true,
@@ -46859,8 +45731,8 @@
     ],
     "aliases": [
       "Jabala Upanishad",
-      "Kauṣītaki Brāhmaṇa Upaniṣad",
-      "कौषीतकि उपनिषद्"
+      "Jabala Upaniṣad",
+      "जबाल उपनिषद्"
     ],
     "sources": [
       "gretil"
@@ -46871,13 +45743,13 @@
       "SHRUTI",
       "VEDANTA"
     ],
-    "description": "The Jabāla Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
+    "description": "The Jabāla Upaniṣad (Jabala Upanishad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
     "sourceIds": [
       "gretil"
     ],
     "relationshipIds": [],
-    "body": "The Jabāla Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry.\n---",
-    "contentHash": "421f0875b6e7e98cfc58357b5904b5bf131fc1c53eb47ee2e8de8c604739cdb7",
+    "body": "The Jabāla Upaniṣad (Jabala Upanishad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry.\n---",
+    "contentHash": "d5bdd59e7ed5d4dc0b0de3c86c6135c7512061e45c4149654be7ecb8528492c3",
     "sourceFile": "src\\content\\scriptures\\jabala-upanishad.md",
     "publicationReadiness": {
       "publishable": true,
@@ -52727,106 +51599,6 @@
     "body": "The Niḥśvāsa Āgama, one of the twenty-eight principal Śaiva Āgamas, named for the \"exhalation\" (niḥśvāsa) of Śiva as the creative breath of the universe; its cosmogonic focus and the emanation of tattvas from Śiva is represented here as a catalogue entry.\n---",
     "contentHash": "358d9a81e43e64eb57bf1eff5130240ebc878d58ad630a43a4a1adedb59aa406",
     "sourceFile": "src\\content\\scriptures\\nihshvasa-agama.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "nrisimha-purana",
-    "title": "Nṛsiṃha Purāṇa",
-    "type": "scripture",
-    "language": [
-      "sa",
-      "en"
-    ],
-    "aliases": [
-      "Nrisimha Purana",
-      "Narasimha Purana",
-      "नृसिंह पुराण"
-    ],
-    "sources": [
-      "gretil"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "PURANA"
-    ],
-    "description": "The Nṛsiṃha Purāṇa, one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha avatar of Viṣṇu, the story of Prahlāda, and the worship of Narasiṃha; its role in Vaiṣṇava traditions is represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil"
-    ],
-    "relationshipIds": [],
-    "body": "The Nṛsiṃha Purāṇa, one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha avatar of Viṣṇu, the story of Prahlāda, and the worship of Narasiṃha; its role in Vaiṣṇava traditions is represented here as a catalogue entry.\n---",
-    "contentHash": "d249ac361899307957dc31c09760daa123cfe1d6f118dbe7c495b888feac72b1",
-    "sourceFile": "src\\content\\scriptures\\nrisimha-purana.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -61787,7 +60559,9 @@
     "aliases": [
       "Ahobilam Temple",
       "Nava Narasimha Temple",
-      "అహోబిలం నవ నరసింహ svem poderes"
+      "Ahobalam",
+      "अहोबिलम्",
+      "అహోబిలం నవ నరసింహ సామွှరులు"
     ],
     "sources": [
       "gretil",
@@ -61808,115 +60582,8 @@
     ],
     "relationshipIds": [],
     "body": "The Nava Narasiṃha Temple complex at Ahobilam (Nandyal district, Andhra Pradesh), a Divya Deśam with nine shrines for the nine forms of Narasiṃha (Nava Narasiṃha): Ahobila, Bhārgava, Yogananda, Chatravata, Krodha, Malola, Jvālā, Pavana, and Karanja. Spread across the Nallamala Hills. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Brahmotsavam and the Narasiṃha-jayantī attract thousands. Unique for the nine distinct Narasiṃha forms in one pilgrimage circuit.\n---",
-    "contentHash": "e2dad224d38d6adefc27d64d46877f55065ec81b8f1308c0e21c5fbde3160a15",
+    "contentHash": "ded1295e292f14bdc5ee6561bc8499af8e5b0eed52adf82d69db269e65d216b3",
     "sourceFile": "src\\content\\temples\\ahobilam-divyadesam.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "ahobilam",
-    "title": "Ahobilam Temple",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "te"
-    ],
-    "aliases": [
-      "Ahobilam Temple",
-      "Ahobalam",
-      "अहोबिलम्"
-    ],
-    "sources": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
-    ],
-    "description": "The Ahobilam Temple complex in Andhra Pradesh, the principal shrine of Narasiṃha (Viṣṇu's man-lion avatar), with nine temples (Nava-Narasiṃha) on the Nallamala hills; its association with the Prahlāda narrative, the Śrīvaiṣṇava tradition, and the Ahobila Maṭha are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Ahobilam Temple complex in Andhra Pradesh, the principal shrine of Narasiṃha (Viṣṇu's man-lion avatar), with nine temples (Nava-Narasiṃha) on the Nallamala hills; its association with the Prahlāda narrative, the Śrīvaiṣṇava tradition, and the Ahobila Maṭha are represented here as a catalogue entry.\n---",
-    "contentHash": "3a40456209ff120a0640459eeb6ad95023fecbb0ac840cc2137cab1cdfd05cea",
-    "sourceFile": "src\\content\\temples\\ahobilam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -62318,6 +60985,8 @@
     "aliases": [
       "Badrinath Temple",
       "Badri Narayan Temple",
+      "Badrinath",
+      "बद्रीनाथ",
       "बद्रीनाथ मन्दिर"
     ],
     "sources": [
@@ -62341,115 +61010,8 @@
     ],
     "relationshipIds": [],
     "body": "The Badrinath Temple (Badarīnātha), a Divya Deśam in the Garhwal Himalayas (Uttarakhand) at 3,133 m, dedicated to Viṣṇu as Badarīnārāyaṇa. One of the four Char Dham pilgrimage sites and one of the 108 Divya Deśams glorified by the Āḻvārs (Nammāḻvār, Tirumaṅgai Āḻvār). The temple houses a 1m black stone image of Viṣṇu in padmāsana. Open only six months a year (Apr-Nov); the idol is moved to Joshimath in winter. Mentioned in the Nālāyira Divya Prabandham.\n---",
-    "contentHash": "022807e0a0ccf97bd6b82a13e4d80f8a07d047ea425fc9f91511fadac8833d50",
+    "contentHash": "3366c116a034bcce115b8f076310d55c665bf6809a1af327b7ebec2bd5ac75db",
     "sourceFile": "src\\content\\temples\\badrinath-divyadesam.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "badrinath",
-    "title": "Badrinātha Temple",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "hi"
-    ],
-    "aliases": [
-      "Badrinath",
-      "Badrinath Temple",
-      "बद्रीनाथ"
-    ],
-    "sources": [
-      "gretil",
-      "uttarakhand-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
-    ],
-    "description": "The Badrinātha Temple at Badrinath, Uttarakhand, one of the four Dhāmas and a major Viṣṇu pilgrimage site; its seasonal opening, architecture, and Ādi Śaṅkara association are represented here as a catalogue entry.",
-    "sourceIds": [
-      "gretil",
-      "uttarakhand-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Badrinātha Temple at Badrinath, Uttarakhand, one of the four Dhāmas and a major Viṣṇu pilgrimage site; its seasonal opening, architecture, and Ādi Śaṅkara association are represented here as a catalogue entry.",
-    "contentHash": "42fc17da11feb7c91f0814c50be2c8219903e51d6181e0c767ca3d6ad44d57dc",
-    "sourceFile": "src\\content\\temples\\badrinath.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -66918,6 +65480,8 @@
     "aliases": [
       "Ramanathaswamy Temple",
       "Ramanathaswamy Temple Rameshwaram",
+      "Rameshwaram",
+      "रामेश्वरम",
       "இராமநாதசுவாமி கோவில்"
     ],
     "sources": [
@@ -66941,115 +65505,8 @@
     ],
     "relationshipIds": [],
     "body": "The Rāmanāthasvāmī Temple at Rāmeśvaram (Tamil Nadu), a Divya Deśam and one of the four Char Dham, dedicated to Viṣṇu as Rāmanātha (Rāma's Lord) — here Viṣṇu and Śiva are worshipped together. One of the twelve Jyotirliṅgas (Rāmanāthaliṅga). The longest temple corridor in India (1,220m with 1,212 pillars). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, and Kulasekhara Āḻvār. The sacred tīrthas (22 wells) within the complex. The Sethu (Adam's Bridge) to Śrī Lanka is nearby.\n---",
-    "contentHash": "201c200b2139e7efb600443774452b4598eb7f2286f25a02dfbfd9f09f2089f0",
+    "contentHash": "55ffe286078d7189450577dd1a055440c8f568c57220cf0b942fa1256a1980cd",
     "sourceFile": "src\\content\\temples\\rameshwaram-divyadesam.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "rameshwaram",
-    "title": "Rāmeśvaram Temple",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "ta"
-    ],
-    "aliases": [
-      "Rameshwaram",
-      "Ramanathaswamy Temple",
-      "रामेश्वरम"
-    ],
-    "sources": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
-    ],
-    "description": "The Rāmanāthasvāmi Temple at Rāmeśvaram, Tamil Nadu, one of the twelve Jyotirliṅgas and a Dhāma; its corridors, tīrthas, and Rāma association are represented here as a catalogue entry.",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Rāmanāthasvāmi Temple at Rāmeśvaram, Tamil Nadu, one of the twelve Jyotirliṅgas and a Dhāma; its corridors, tīrthas, and Rāma association are represented here as a catalogue entry.",
-    "contentHash": "0784953cfdb6c9761342f801305b9109e2b185df4f4b34c8c59949cd3ae5ee30",
-    "sourceFile": "src\\content\\temples\\rameshwaram.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -67456,8 +65913,10 @@
     ],
     "aliases": [
       "Simhachalam Temple",
+      "Simhadri",
       "Varaha Narasimha Temple",
-      "సింహాచలం వరాహ నరసింహ స 이끗"
+      "सिंहाचलम्",
+      "సింహాచలం వరాహ నరసింహ స్ధలం"
     ],
     "sources": [
       "gretil",
@@ -67478,115 +65937,8 @@
     ],
     "relationshipIds": [],
     "body": "The Varāha Narasiṃha Temple at Simhācalam (Visakhapatnam, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varāha Narasiṃha (the boar-man-lion form). The deity is covered in sandalwood paste year-round (revealed only on Akṣaya Tritīyā). The Kalinga-style architecture with a 96-pillar mandapa. Glorified by Tirumaṅgai Āḻvār. The annual Candana-yātrā (sandalwood procession) and the Narasiṃha-jayantī are major festivals. One of the few Divya Deśams with a Narasiṃha primary deity.\n---",
-    "contentHash": "139771e40854fa4f8eef13bbb1ecd2aca6569599d5385995303b0c0197a83f0b",
+    "contentHash": "b90eaec887604050041d5f956d6725496a0bbdf3ef7a4043f30a15a68c4b0980",
     "sourceFile": "src\\content\\temples\\simhachalam-divyadesam.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "simhachalam",
-    "title": "Simhachalam Temple",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "te"
-    ],
-    "aliases": [
-      "Simhachalam Temple",
-      "Simhadri",
-      "सिंहाचलम्"
-    ],
-    "sources": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
-    ],
-    "description": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam (Simhādri), Andhra Pradesh, dedicated to Narasiṃha as the 'lion-hill' deity; its Kalinga-Chola architecture, the sandalwood paste covering (candana), the annual Candanotsava festival, and its importance in the Śrīvaiṣṇava tradition are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam (Simhādri), Andhra Pradesh, dedicated to Narasiṃha as the 'lion-hill' deity; its Kalinga-Chola architecture, the sandalwood paste covering (candana), the annual Candanotsava festival, and its importance in the Śrīvaiṣṇava tradition are represented here as a catalogue entry.\n---",
-    "contentHash": "f7c1014f118eb7c9ecf80456f32868285513db0bc101f964fb8550bf2b0c0715",
-    "sourceFile": "src\\content\\temples\\simhachalam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -67780,6 +66132,9 @@
       "Srirangam Temple",
       "Ranganathaswamy Temple",
       "Sri Ranganathaswamy",
+      "Srirangam",
+      "Ranganathaswamy Temple",
+      "श्रीरंगम",
       "அரங்கநாதன் கோவில்"
     ],
     "sources": [
@@ -67803,115 +66158,8 @@
     ],
     "relationshipIds": [],
     "body": "The Śrī Raṅganātha Temple at Śrīraṅgam (Tiruchirappalli, Tamil Nadu), the foremost Divya Deśam and the largest functioning Hindu temple complex (156 acres). Dedicated to Viṣṇu as Raṅganātha (reclining on Ādiśeṣa). Seven concentric prākāras, 21 gopuras (the Rājagopuram is 73m, Asia's tallest). The Āḻvār tradition: all twelve Āḻvārs glorified it; Nammāḻvār's Tiruvāymoḻi was first recited here. The annual Vaikuṇṭha Ekādaśī (21-day festival) draws millions. The temple houses the Āḻvār sannidhis and the Rāmānuja's sanctum.\n---",
-    "contentHash": "ad4cb6c5e5b8920362b9b1df21f583c694991095e5f759ee6d6dd1cd13433a01",
+    "contentHash": "98278871ca27afb04cd1fc27ddeafda3ee92a34b6d90ae57b792c2605d3d769b",
     "sourceFile": "src\\content\\temples\\srirangam-divyadesam-full.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "srirangam",
-    "title": "Śrīraṅgam Temple (Ranganathaswamy)",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "ta"
-    ],
-    "aliases": [
-      "Srirangam",
-      "Ranganathaswamy Temple",
-      "श्रीरंगम"
-    ],
-    "sources": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
-    ],
-    "description": "The Ranganātha Temple at Śrīraṅgam, Tamil Nadu, the largest functioning temple complex in India and a major Vaiṣṇava pilgrimage site; its seven enclosures and Āḻvār associations are represented here as a catalogue entry.",
-    "sourceIds": [
-      "gretil",
-      "tamil-nadu-tourism-department",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Ranganātha Temple at Śrīraṅgam, Tamil Nadu, the largest functioning temple complex in India and a major Vaiṣṇava pilgrimage site; its seven enclosures and Āḻvār associations are represented here as a catalogue entry.",
-    "contentHash": "8f944b3413b449ae993f485a5c8dfba4dc1c5b72764a86e1a209647cba00b0cc",
-    "sourceFile": "src\\content\\temples\\srirangam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],
@@ -69267,9 +67515,10 @@
       "ta"
     ],
     "aliases": [
-      "Thirukottaram Temple",
+      "Thirukuttalapadi Temple",
       "Kutralam",
-      "திருக்கோட்டாரம் கோவில்"
+      "Tirukuttalam",
+      "திருக்குட்டாலப்பாடி கோவில்"
     ],
     "sources": [
       "gretil",
@@ -69290,7 +67539,7 @@
     ],
     "relationshipIds": [],
     "body": "The Tirukuttaḷapādi Temple at Kutralam (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kutralan/Kūṭṭalai Perumāl. Located on the banks of the Tambraparni River near the famous Kutralam waterfalls. The annual Brahmotsavam and the Kudamuzhala festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the Kutralam region (the \"land of the bow\" from Sanskrit kodaṁ-lam).\n---\n\ncontent_short: \"\"",
-    "contentHash": "dcb24118f156760134de0a4db97f1b0d16b7d03b31d7c966998659c6baf6d3b5",
+    "contentHash": "9dd5f2d90dc4d9cfe50da497a2ecf43a28f8dd17e8ef3d4313d1060220ede768",
     "sourceFile": "src\\content\\temples\\thirukuttalapadi-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
@@ -72875,223 +71124,13 @@
       "Tirumala Venkateswara Temple",
       "Tirupati Balaji",
       "Sri Venkateswara Temple",
-      "తిరుమల వేంకటేశ్వర స్ధలం"
-    ],
-    "sources": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "PILGRIMAGE"
-    ],
-    "description": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous. ---",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous.\n---",
-    "contentHash": "316060e347181d601fef8ba9a74cfd57ce84f7c3e9c2072c456919777e25f521",
-    "sourceFile": "src\\content\\temples\\tirumala-tirupati-divyadesam.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "tirupati-balaji",
-    "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "te",
-      "ta"
-    ],
-    "aliases": [
       "Tirupati",
       "Venkateswara Temple",
       "Tirumala",
-      "तिरुपति बालाजी"
-    ],
-    "sources": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
-    ],
-    "description": "The Venkaṭeśvara Temple at Tirumala, Andhra Pradesh, one of the most visited pilgrimage sites in India; its history, architecture, and administration are complex and represented here as a catalogue entry.",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Venkaṭeśvara Temple at Tirumala, Andhra Pradesh, one of the most visited pilgrimage sites in India; its history, architecture, and administration are complex and represented here as a catalogue entry.",
-    "contentHash": "f46e497c82326afa2c80adefee6bdcdd756a4a54c11393f02a13eefbc88f253d",
-    "sourceFile": "src\\content\\temples\\tirupati-balaji.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "tirupati-divyadesam-full",
-    "title": "Tirupati Veṅkaṭeśvara Divya Deśam",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "te",
-      "ta"
-    ],
-    "aliases": [
-      "Tirumala Venkateswara Temple",
-      "Tirupati Balaji",
-      "Sri Venkateswara Temple",
+      "Tirupati Temple",
+      "Tirumala Temple",
+      "तिरुपति बालाजी",
+      "तिरुमला वेंकटेश्वर मंदिर",
       "తిరుమల వేంకటేశ్వర స్ధలం"
     ],
     "sources": [
@@ -73113,116 +71152,8 @@
     ],
     "relationshipIds": [],
     "body": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous.\n---",
-    "contentHash": "2ba9d162ab6a50c62ef6a91a5d53d50a56a77634f12b6a28eaf738535f9d792c",
-    "sourceFile": "src\\content\\temples\\tirupati-divyadesam-full.md",
-    "publicationReadiness": {
-      "publishable": true,
-      "blockers": [],
-      "warnings": [],
-      "checks": [
-        {
-          "id": "content-id",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Stable entity ID is present."
-        },
-        {
-          "id": "content-title",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Title is present."
-        },
-        {
-          "id": "content-body",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Content body is present."
-        },
-        {
-          "id": "language",
-          "category": "CONTENT",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Language metadata is present."
-        },
-        {
-          "id": "workflow-state",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Record is explicitly published."
-        },
-        {
-          "id": "verification",
-          "category": "EDITORIAL",
-          "status": "PASS",
-          "severity": "error",
-          "message": "Verification state is acceptable."
-        },
-        {
-          "id": "sources",
-          "category": "SOURCE",
-          "status": "PASS",
-          "severity": "error",
-          "message": "All source IDs resolve."
-        },
-        {
-          "id": "rights",
-          "category": "RIGHTS",
-          "status": "PASS",
-          "severity": "info",
-          "message": "Referenced source rights are recorded."
-        },
-        {
-          "id": "evidence",
-          "category": "EVIDENCE",
-          "status": "NOT_APPLICABLE",
-          "severity": "info",
-          "message": "No claims recorded."
-        }
-      ]
-    }
-  },
-  {
-    "id": "tirupati-tirumala",
-    "title": "Tirumala Venkateswara Temple",
-    "type": "temple",
-    "language": [
-      "sa",
-      "en",
-      "te"
-    ],
-    "aliases": [
-      "Tirupati Temple",
-      "Tirumala Temple",
-      "Venkateswara Temple",
-      "तिरुमला वेंकटेश्वर मंदिर"
-    ],
-    "sources": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "status": "published",
-    "verification": "verified",
-    "classifications": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
-    ],
-    "description": "The Tirumala Venkateswara Temple at Tirupati, Andhra Pradesh, one of the most visited pilgrimage sites in the world, dedicated to Veṅkaṭeśvara (Viṣṇu); its Dravidian architecture, the Ananda Nilayam vimana, the Tirumala Tirupati Devasthanams (TTD) administration, the laddu prasadam, and the annual Brahmotsavam are represented here as a catalogue entry. ---",
-    "sourceIds": [
-      "gretil",
-      "andhra-pradesh-tourism",
-      "archaeological-survey-of-india"
-    ],
-    "relationshipIds": [],
-    "body": "The Tirumala Venkateswara Temple at Tirupati, Andhra Pradesh, one of the most visited pilgrimage sites in the world, dedicated to Veṅkaṭeśvara (Viṣṇu); its Dravidian architecture, the Ananda Nilayam vimana, the Tirumala Tirupati Devasthanams (TTD) administration, the laddu prasadam, and the annual Brahmotsavam are represented here as a catalogue entry.\n---",
-    "contentHash": "94d1818f913abd7ca170ababca59e976954fb76783359336d0d62346b091946f",
-    "sourceFile": "src\\content\\temples\\tirupati-tirumala.md",
+    "contentHash": "b53be62b87c82c5d79c09c25fe71a463cbe50ac7b9d81fdb840983a04b93b022",
+    "sourceFile": "src\\content\\temples\\tirumala-tirupati-divyadesam.md",
     "publicationReadiness": {
       "publishable": true,
       "blockers": [],

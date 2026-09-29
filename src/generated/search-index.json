@@ -808,29 +808,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "devi-bhagavata-content",
-    "title": "Devī Bhāgavata Content",
-    "aliases": [
-      "Devi Bhagavata Content",
-      "Devi Bhagavatam",
-      "देवी भागवत"
-    ],
-    "sanskritTitle": "",
-    "description": "The Devī Bhāgavata Purāṇa (Śrī Devī Bhāgavatam), its twelve skandhas, focus on the Goddess as supreme reality, the Devī Gītā, and Śākta theology; its role in Goddess worship traditions is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "dharma",
     "title": "Dharma",
     "aliases": [
@@ -2010,6 +1987,7 @@
     "aliases": [
       "Maha Mrityunjaya Mantra",
       "Mahamrityunjaya",
+      "Tryambakam Mantra",
       "महा मृत्युंजय मंत्र"
     ],
     "sanskritTitle": "",
@@ -2107,30 +2085,6 @@
     "type": "concept",
     "classification": [
       "ITIHASA",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "mahamrityunjaya-mantra",
-    "title": "Mahāmṛtyuñjaya Mantra",
-    "aliases": [
-      "Mahamrityunjaya Mantra",
-      "Tryambakam Mantra",
-      "महामृत्युंजय मंत्र"
-    ],
-    "sanskritTitle": "",
-    "description": "The Mahāmṛtyuñjaya Mantra (Ṛgveda 7.59.12), addressed to Tryambaka (Śiva), for conquering death and disease; its traditional use in healing, protection, and japa practice is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "MANTRA",
-      "VEDIC",
-      "PRACTICE",
       "CONCEPT"
     ],
     "language": [
@@ -2829,29 +2783,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "prasad",
-    "title": "Prasāda",
-    "aliases": [
-      "Prasad",
-      "Prasadam",
-      "प्रसाद"
-    ],
-    "sanskritTitle": "",
-    "description": "Prasāda (grace/offering): food or items offered to a deity during worship (pūjā) and then distributed to devotees as divine grace; its theological significance as transformed matter bearing the deity's blessing; its role in pūjā, festivals, and daily practice are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PRACTICE",
-      "RITUAL",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "prasthana-traya",
     "title": "Prasthānatraya",
     "aliases": [
@@ -2970,6 +2901,7 @@
     "title": "Purāṇa Pañcalakṣaṇa",
     "aliases": [
       "Purana Panchalaksana",
+      "Five Characteristics of Purana",
       "पुराण पञ्चलक्षण"
     ],
     "sanskritTitle": "",
@@ -2988,28 +2920,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "purana-panchalakshana",
-    "title": "Purāṇa Pañcalakṣaṇa",
-    "aliases": [
-      "Purana Panchalakshana",
-      "Five Characteristics of Purana",
-      "पुराण पञ्चलक्षण"
-    ],
-    "sanskritTitle": "",
-    "description": "The five characteristic topics (pañcalakṣaṇa) that define a Purāṇa: sarga (primary creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "purana-sectarian-classification",
     "title": "Purāṇa Sectarian Classification",
     "aliases": [
@@ -3019,28 +2929,6 @@
     ],
     "sanskritTitle": "",
     "description": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Kṛṣṇa), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "purana-sectarian",
-    "title": "Purāṇa Sectarian Classification",
-    "aliases": [
-      "Purana Sectarian",
-      "Puranic Classification",
-      "पुराण संप्रदाय वर्गीकरण"
-    ],
-    "sanskritTitle": "",
-    "description": "The traditional tripartite classification of Purāṇas by predominance of guṇas: Sāttvika (Viṣṇu/Krishna), Rājasa (Brahmā), and Tāmasa (Śiva); this classification's textual basis and sectarian implications are represented here as a catalogue entry. ---",
     "type": "concept",
     "classification": [
       "PURANA",
@@ -3970,30 +3858,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "skanda-forms",
-    "title": "Skanda Forms",
-    "aliases": [
-      "Skanda Forms",
-      "Kartikeya Forms",
-      "Murugan Forms",
-      "स्कन्द रूप"
-    ],
-    "sanskritTitle": "",
-    "description": "The forms of Skanda (Kārttikeya, Murugaṇ, Subrahmaṇya): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, and the Tamil Murugaṇ; their iconography (vel, peacock, rooster) and regional worship (especially Tamil Nadu) are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "DEITY",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "smriti",
     "title": "Smṛti",
     "aliases": [
@@ -4259,28 +4123,6 @@
       "VEDIC",
       "PRACTICE",
       "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "upapurana",
-    "title": "Upapurāṇa",
-    "aliases": [
-      "Upapurana",
-      "उपपुराण"
-    ],
-    "sanskritTitle": "",
-    "description": "The subsidiary Purāṇas, traditionally numbering eighteen, supplementing the Mahāpurāṇas with regional and sectarian material.",
-    "type": "concept",
-    "classification": [
-      "CONCEPT",
-      "PURANA",
-      "PHILOSOPHY"
     ],
     "language": [
       "sa",
@@ -4907,28 +4749,6 @@
     "classification": [
       "RITUAL",
       "PRACTICE",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "yajnavalkya-smriti-content",
-    "title": "Yājñavalkya Smṛti Content",
-    "aliases": [
-      "Yajnavalkya Smriti Content",
-      "Yajnavalkya Smriti",
-      "याज्ञवल्क्य स्मृति विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Yājñavalkya Smṛti, its three books (ācāra, vyavahāra, prāyaścitta), its more systematic organization compared to Manusmṛti, and its influence on medieval Dharmaśāstra digests are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "DHARMASHASTRA",
       "CONCEPT"
     ],
     "language": [
@@ -6177,34 +5997,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "diwali",
-    "title": "Dīpāvalī",
-    "aliases": [
-      "Diwali",
-      "Deepavali",
-      "Deepawali",
-      "दीपावली"
-    ],
-    "sanskritTitle": "",
-    "description": "Dīpāvalī (Diwali), the festival of lights observed on the new moon of Kārttika (Oct–Nov); celebrating Rāma's return to Ayodhyā, Lakṣmī-pūjā, the victory of light over darkness; regional variations include Kālī Pūjā (Bengal), the worship of Yama (Dhanteras), and the Sikh Bandī Chhor Divas; its economic and cultural significance are represented here as a catalogue entry. ---",
-    "type": "festival",
-    "classification": [
-      "FESTIVAL",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "hi",
-      "gu",
-      "mr",
-      "bn"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "dussehra",
     "title": "Vijayadaśamī / Dussehra",
     "aliases": [
@@ -6256,30 +6048,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "ganesha-caturthi",
-    "title": "Gaṇeśa Caturthī",
-    "aliases": [
-      "Ganesh Chaturthi",
-      "गणेश चतुर्थी"
-    ],
-    "sanskritTitle": "",
-    "description": "A festival associated with Gaṇeśa whose public and household observances vary by region and community.",
-    "type": "festival",
-    "classification": [
-      "FESTIVAL",
-      "Deity",
-      "TRADITION",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "gita-jayanti",
     "title": "Gītā Jayantī",
     "aliases": [
@@ -6306,6 +6074,7 @@
     "title": "Guru Pūrṇimā",
     "aliases": [
       "Guru Purnima",
+      "Vyasa Purnima",
       "गुरु पूर्णिमा"
     ],
     "sanskritTitle": "",
@@ -6320,31 +6089,6 @@
     "language": [
       "sa",
       "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "gurupurnima",
-    "title": "Guru Pūrṇimā",
-    "aliases": [
-      "Guru Purnima",
-      "Vyasa Purnima",
-      "गुरु पूर्णिमा"
-    ],
-    "sanskritTitle": "",
-    "description": "Guru Pūrṇimā, the full moon day of Āṣāḍha (Jun–Jul), dedicated to the guru (spiritual teacher); traditionally associated with Vyāsa (the compiler of the Vedas), observed by disciples offering pūjā, dakṣiṇā, and seeking blessings; its observance in Ādi Śaṅkara maṭhas, Gauḍīya Vaiṣṇava, and other traditions is represented here as a catalogue entry. ---",
-    "type": "festival",
-    "classification": [
-      "FESTIVAL",
-      "REGIONAL_TRADITION",
-      "CULTURE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "hi",
-      "gu"
     ],
     "tags": [],
     "relatedEntityIds": []
@@ -6909,6 +6653,7 @@
     "title": "Prasāda",
     "aliases": [
       "Prasad",
+      "Prasadam",
       "प्रसाद"
     ],
     "sanskritTitle": "प्रसाद",
@@ -10274,11 +10019,11 @@
     "title": "Jabāla Upaniṣad",
     "aliases": [
       "Jabala Upanishad",
-      "Kauṣītaki Brāhmaṇa Upaniṣad",
-      "कौषीतकि उपनिषद्"
+      "Jabala Upaniṣad",
+      "जबाल उपनिषद्"
     ],
     "sanskritTitle": "",
-    "description": "The Jabāla Upaniṣad (also Kauṣītaki Brāhmaṇa Upaniṣad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
+    "description": "The Jabāla Upaniṣad (Jabala Upanishad), associated with the Ṛgveda, discusses prāṇa, the nature of the self, and the path to liberation; its textual content is represented here as a catalogue entry. ---",
     "type": "scripture",
     "classification": [
       "SHRUTI",
@@ -11527,27 +11272,6 @@
     "type": "scripture",
     "classification": [
       "AGAMA"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "nrisimha-purana",
-    "title": "Nṛsiṃha Purāṇa",
-    "aliases": [
-      "Nrisimha Purana",
-      "Narasimha Purana",
-      "नृसिंह पुराण"
-    ],
-    "sanskritTitle": "",
-    "description": "The Nṛsiṃha Purāṇa, one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha avatar of Viṣṇu, the story of Prahlāda, and the worship of Narasiṃha; its role in Vaiṣṇava traditions is represented here as a catalogue entry. ---",
-    "type": "scripture",
-    "classification": [
-      "PURANA"
     ],
     "language": [
       "sa",
@@ -13451,7 +13175,9 @@
     "aliases": [
       "Ahobilam Temple",
       "Nava Narasimha Temple",
-      "అహోబిలం నవ నరసింహ svem poderes"
+      "Ahobalam",
+      "अहोबिलम्",
+      "అహోబిలం నవ నరసింహ సామွှరులు"
     ],
     "sanskritTitle": "",
     "description": "The Nava Narasiṃha Temple complex at Ahobilam (Nandyal district, Andhra Pradesh), a Divya Deśam with nine shrines for the nine forms of Narasiṃha (Nava Narasiṃha): Ahobila, Bhārgava, Yogananda, Chatravata, Krodha, Malola, Jvālā, Pavana, and Karanja. Spread across the Nallamala Hills. Glorified by Tirumaṅgai Āḻvār and Nammāḻvār. The annual Brahmotsavam and the Narasiṃha-jayantī attract thousands. Unique for the nine distinct Narasiṃha forms in one pilgrimage circuit. ---",
@@ -13459,30 +13185,6 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "te"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "ahobilam",
-    "title": "Ahobilam Temple",
-    "aliases": [
-      "Ahobilam Temple",
-      "Ahobalam",
-      "अहोबिलम्"
-    ],
-    "sanskritTitle": "",
-    "description": "The Ahobilam Temple complex in Andhra Pradesh, the principal shrine of Narasiṃha (Viṣṇu's man-lion avatar), with nine temples (Nava-Narasiṃha) on the Nallamala hills; its association with the Prahlāda narrative, the Śrīvaiṣṇava tradition, and the Ahobila Maṭha are represented here as a catalogue entry. ---",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
     ],
     "language": [
       "sa",
@@ -13569,6 +13271,8 @@
     "aliases": [
       "Badrinath Temple",
       "Badri Narayan Temple",
+      "Badrinath",
+      "बद्रीनाथ",
       "बद्रीनाथ मन्दिर"
     ],
     "sanskritTitle": "",
@@ -13577,30 +13281,6 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "hi"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "badrinath",
-    "title": "Badrinātha Temple",
-    "aliases": [
-      "Badrinath",
-      "Badrinath Temple",
-      "बद्रीनाथ"
-    ],
-    "sanskritTitle": "",
-    "description": "The Badrinātha Temple at Badrinath, Uttarakhand, one of the four Dhāmas and a major Viṣṇu pilgrimage site; its seasonal opening, architecture, and Ādi Śaṅkara association are represented here as a catalogue entry.",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
     ],
     "language": [
       "sa",
@@ -14604,6 +14284,8 @@
     "aliases": [
       "Ramanathaswamy Temple",
       "Ramanathaswamy Temple Rameshwaram",
+      "Rameshwaram",
+      "रामेश्वरम",
       "இராமநாதசுவாமி கோவில்"
     ],
     "sanskritTitle": "",
@@ -14612,30 +14294,6 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "ta"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "rameshwaram",
-    "title": "Rāmeśvaram Temple",
-    "aliases": [
-      "Rameshwaram",
-      "Ramanathaswamy Temple",
-      "रामेश्वरम"
-    ],
-    "sanskritTitle": "",
-    "description": "The Rāmanāthasvāmi Temple at Rāmeśvaram, Tamil Nadu, one of the twelve Jyotirliṅgas and a Dhāma; its corridors, tīrthas, and Rāma association are represented here as a catalogue entry.",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
     ],
     "language": [
       "sa",
@@ -14725,8 +14383,10 @@
     "title": "Simhācalam Divya Deśam",
     "aliases": [
       "Simhachalam Temple",
+      "Simhadri",
       "Varaha Narasimha Temple",
-      "సింహాచలం వరాహ నరసింహ స 이끗"
+      "सिंहाचलम्",
+      "సింహాచలం వరాహ నరసింహ స్ధలం"
     ],
     "sanskritTitle": "",
     "description": "The Varāha Narasiṃha Temple at Simhācalam (Visakhapatnam, Andhra Pradesh), a Divya Deśam dedicated to Viṣṇu as Varāha Narasiṃha (the boar-man-lion form). The deity is covered in sandalwood paste year-round (revealed only on Akṣaya Tritīyā). The Kalinga-style architecture with a 96-pillar mandapa. Glorified by Tirumaṅgai Āḻvār. The annual Candana-yātrā (sandalwood procession) and the Narasiṃha-jayantī are major festivals. One of the few Divya Deśams with a Narasiṃha primary deity. ---",
@@ -14734,30 +14394,6 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "te"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "simhachalam",
-    "title": "Simhachalam Temple",
-    "aliases": [
-      "Simhachalam Temple",
-      "Simhadri",
-      "सिंहाचलम्"
-    ],
-    "sanskritTitle": "",
-    "description": "The Varāha Lakṣmī Narasiṃha Temple at Simhachalam (Simhādri), Andhra Pradesh, dedicated to Narasiṃha as the 'lion-hill' deity; its Kalinga-Chola architecture, the sandalwood paste covering (candana), the annual Candanotsava festival, and its importance in the Śrīvaiṣṇava tradition are represented here as a catalogue entry. ---",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
     ],
     "language": [
       "sa",
@@ -14798,6 +14434,9 @@
       "Srirangam Temple",
       "Ranganathaswamy Temple",
       "Sri Ranganathaswamy",
+      "Srirangam",
+      "Ranganathaswamy Temple",
+      "श्रीरंगम",
       "அரங்கநாதன் கோவில்"
     ],
     "sanskritTitle": "",
@@ -14806,30 +14445,6 @@
     "classification": [
       "TEMPLE",
       "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "ta"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "srirangam",
-    "title": "Śrīraṅgam Temple (Ranganathaswamy)",
-    "aliases": [
-      "Srirangam",
-      "Ranganathaswamy Temple",
-      "श्रीरंगम"
-    ],
-    "sanskritTitle": "",
-    "description": "The Ranganātha Temple at Śrīraṅgam, Tamil Nadu, the largest functioning temple complex in India and a major Vaiṣṇava pilgrimage site; its seven enclosures and Āḻvār associations are represented here as a catalogue entry.",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
     ],
     "language": [
       "sa",
@@ -15123,9 +14738,10 @@
     "id": "thirukuttalapadi-divyadesam",
     "title": "Tirukuttaḷapādi Divya Deśam",
     "aliases": [
-      "Thirukottaram Temple",
+      "Thirukuttalapadi Temple",
       "Kutralam",
-      "திருக்கோட்டாரம் கோவில்"
+      "Tirukuttalam",
+      "திருக்குட்டாலப்பாடி கோவில்"
     ],
     "sanskritTitle": "",
     "description": "The Tirukuttaḷapādi Temple at Kutralam (Tirunelveli district, Tamil Nadu), a Divya Deśam dedicated to Viṣṇu as Kutralan/Kūṭṭalai Perumāl. Located on the banks of the Tambraparni River near the famous Kutralam waterfalls. The annual Brahmotsavam and the Kudamuzhala festival are celebrated. Glorified by Tirumaṅgai Āḻvār. The temple is associated with the sage Agastya and the Kutralam region (the \"land of the bow\" from Sanskrit kodaṁ-lam). ---",
@@ -15908,57 +15524,13 @@
       "Tirumala Venkateswara Temple",
       "Tirupati Balaji",
       "Sri Venkateswara Temple",
-      "తిరుమల వేంకటేశ్వర స్ధలం"
-    ],
-    "sanskritTitle": "",
-    "description": "The Veṅkaṭeśvara Temple at Tirumala (Tirupati, Andhra Pradesh), a Divya Deśam and the most visited pilgrimage site in India (30-40 million annually). Dedicated to Viṣṇu as Veṅkaṭeśvara (Lord of Veṅkaṭa Hill). The Dravidian architecture with gold-plated vimāna (Ananda Nilayam). Glorified by Nammāḻvār, Tirumaṅgai Āḻvār, Kulasekhara Āḻvār, and Tiruppaṇ Āḻvār. The Tirumalā-Tirupati Devasthānams (TTD) manages the temple. The Brahmotsavam (9-day festival) and the weekly Śeṣa-vāhana-sevā are major events. The laddū-prasādam is world-famous. ---",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "PILGRIMAGE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "te",
-      "ta"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "tirupati-balaji",
-    "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
-    "aliases": [
       "Tirupati",
       "Venkateswara Temple",
       "Tirumala",
-      "तिरुपति बालाजी"
-    ],
-    "sanskritTitle": "",
-    "description": "The Venkaṭeśvara Temple at Tirumala, Andhra Pradesh, one of the most visited pilgrimage sites in India; its history, architecture, and administration are complex and represented here as a catalogue entry.",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "Pilgrimage",
-      "Tradition"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "te",
-      "ta"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "tirupati-divyadesam-full",
-    "title": "Tirupati Veṅkaṭeśvara Divya Deśam",
-    "aliases": [
-      "Tirumala Venkateswara Temple",
-      "Tirupati Balaji",
-      "Sri Venkateswara Temple",
+      "Tirupati Temple",
+      "Tirumala Temple",
+      "तिरुपति बालाजी",
+      "तिरुमला वेंकटेश्वर मंदिर",
       "తిరుమల వేంకటేశ్వర స్ధలం"
     ],
     "sanskritTitle": "",
@@ -15973,31 +15545,6 @@
       "en",
       "te",
       "ta"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "tirupati-tirumala",
-    "title": "Tirumala Venkateswara Temple",
-    "aliases": [
-      "Tirupati Temple",
-      "Tirumala Temple",
-      "Venkateswara Temple",
-      "तिरुमला वेंकटेश्वर मंदिर"
-    ],
-    "sanskritTitle": "",
-    "description": "The Tirumala Venkateswara Temple at Tirupati, Andhra Pradesh, one of the most visited pilgrimage sites in the world, dedicated to Veṅkaṭeśvara (Viṣṇu); its Dravidian architecture, the Ananda Nilayam vimana, the Tirumala Tirupati Devasthanams (TTD) administration, the laddu prasadam, and the annual Brahmotsavam are represented here as a catalogue entry. ---",
-    "type": "temple",
-    "classification": [
-      "TEMPLE",
-      "PILGRIMAGE",
-      "CULTURE"
-    ],
-    "language": [
-      "sa",
-      "en",
-      "te"
     ],
     "tags": [],
     "relatedEntityIds": []

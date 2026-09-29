@@ -327,15 +327,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "devi-bhagavata-content",
-    "title": "Devī Bhāgavata Content",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "dharma",
     "title": "Dharma",
     "status": "published",
@@ -839,15 +830,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "mahamrityunjaya-mantra",
-    "title": "Mahāmṛtyuñjaya Mantra",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "mahapurana",
     "title": "Mahāpurāṇa",
     "status": "published",
@@ -1127,15 +1109,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "prasad",
-    "title": "Prasāda",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "prasthana-traya",
     "title": "Prasthānatraya",
     "status": "published",
@@ -1188,25 +1161,7 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "purana-panchalakshana",
-    "title": "Purāṇa Pañcalakṣaṇa",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "purana-sectarian-classification",
-    "title": "Purāṇa Sectarian Classification",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "purana-sectarian",
     "title": "Purāṇa Sectarian Classification",
     "status": "published",
     "issues": [
@@ -1580,15 +1535,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "skanda-forms",
-    "title": "Skanda Forms",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "smriti",
     "title": "Smṛti",
     "status": "published",
@@ -1690,15 +1636,6 @@
   {
     "entityId": "trisandhya",
     "title": "Trisandhyā",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "upapurana",
-    "title": "Upapurāṇa",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1951,15 +1888,6 @@
   {
     "entityId": "yajna-types",
     "title": "Yajña Types",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "yajnavalkya-smriti-content",
-    "title": "Yājñavalkya Smṛti Content",
     "status": "published",
     "issues": [
       "No relationships"
@@ -2399,15 +2327,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "diwali",
-    "title": "Dīpāvalī",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "dussehra",
     "title": "Vijayadaśamī / Dussehra",
     "status": "published",
@@ -2426,15 +2345,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "ganesha-caturthi",
-    "title": "Gaṇeśa Caturthī",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "gita-jayanti",
     "title": "Gītā Jayantī",
     "status": "published",
@@ -2445,15 +2355,6 @@
   },
   {
     "entityId": "guru-purnima",
-    "title": "Guru Pūrṇimā",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "gurupurnima",
     "title": "Guru Pūrṇimā",
     "status": "published",
     "issues": [
@@ -4380,9 +4281,7 @@
     "entityId": "narasimha-purana",
     "title": "Nṛsiṃha Purāṇa",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4419,13 +4318,6 @@
     "issues": [
       "No relationships"
     ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "nrisimha-purana",
-    "title": "Nṛsiṃha Purāṇa",
-    "status": "published",
-    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5148,15 +5040,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "ahobilam",
-    "title": "Ahobilam Temple",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "akshardham-delhi",
     "title": "Akshardham Delhi",
     "status": "published",
@@ -5188,15 +5071,6 @@
     "title": "Badrinath Divya Deśam",
     "status": "published",
     "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "badrinath",
-    "title": "Badrinātha Temple",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5544,13 +5418,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "rameshwaram",
-    "title": "Rāmeśvaram Temple",
-    "status": "published",
-    "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "sabarimala",
     "title": "Sabarimala Temple (Ayyappa)",
     "status": "published",
@@ -5583,15 +5450,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "simhachalam",
-    "title": "Simhachalam Temple",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "somnath",
     "title": "Somnāth Temple",
     "status": "published",
@@ -5603,15 +5461,6 @@
     "title": "Śrīraṅgam Ranganatha Divya Deśam",
     "status": "published",
     "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "srirangam",
-    "title": "Śrīraṅgam Temple (Ranganathaswamy)",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5999,31 +5848,6 @@
     "title": "Tirumala Tirupati Divya Deśam",
     "status": "published",
     "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "tirupati-balaji",
-    "title": "Tirupati Balaji (Veṅkaṭeśvara Temple)",
-    "status": "published",
-    "issues": [],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "tirupati-divyadesam-full",
-    "title": "Tirupati Veṅkaṭeśvara Divya Deśam",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "tirupati-tirumala",
-    "title": "Tirumala Venkateswara Temple",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

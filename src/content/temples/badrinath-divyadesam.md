@@ -3,7 +3,7 @@ id: badrinath-divyadesam
 title: Badrinath Divya Deśam
 type: temple
 language: [sa, en, hi]
-aliases: [Badrinath Temple, Badri Narayan Temple, बद्रीनाथ मन्दिर]
+aliases: [Badrinath Temple, Badri Narayan Temple, Badrinath, बद्रीनाथ, बद्रीनाथ मन्दिर]
 sources: [gretil, unesco-world-heritage-centre, uttarakhand-tourism, archaeological-survey-of-india]
 status: published
 verification: verified

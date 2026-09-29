@@ -85,7 +85,6 @@
   <url><loc>/concept/dana-types</loc></url>
   <url><loc>/concept/dana</loc></url>
   <url><loc>/concept/darshan</loc></url>
-  <url><loc>/concept/devi-bhagavata-content</loc></url>
   <url><loc>/concept/dharma</loc></url>
   <url><loc>/concept/dharmasutra</loc></url>
   <url><loc>/concept/digital-humanities</loc></url>
@@ -143,7 +142,6 @@
   <url><loc>/concept/mahabharata-parvas</loc></url>
   <url><loc>/concept/mahabharata-upanishad</loc></url>
   <url><loc>/concept/mahabharata-war</loc></url>
-  <url><loc>/concept/mahamrityunjaya-mantra</loc></url>
   <url><loc>/concept/mahapurana</loc></url>
   <url><loc>/concept/maitrayaniya-sakha</loc></url>
   <url><loc>/concept/mandodari</loc></url>
@@ -175,16 +173,13 @@
   <url><loc>/concept/pancha-mahabhuta</loc></url>
   <url><loc>/concept/parinamavada</loc></url>
   <url><loc>/concept/prakriti</loc></url>
-  <url><loc>/concept/prasad</loc></url>
   <url><loc>/concept/prasthana-traya</loc></url>
   <url><loc>/concept/prayascitta-types</loc></url>
   <url><loc>/concept/prayascitta</loc></url>
   <url><loc>/concept/puja-shodashopachara</loc></url>
   <url><loc>/concept/purana-mahapurana-list</loc></url>
   <url><loc>/concept/purana-panchalaksana</loc></url>
-  <url><loc>/concept/purana-panchalakshana</loc></url>
   <url><loc>/concept/purana-sectarian-classification</loc></url>
-  <url><loc>/concept/purana-sectarian</loc></url>
   <url><loc>/concept/purana-structure</loc></url>
   <url><loc>/concept/purana-traditional-attribution</loc></url>
   <url><loc>/concept/purana-upapurana</loc></url>
@@ -226,7 +221,6 @@
   <url><loc>/concept/shuddhadvaita-pusti</loc></url>
   <url><loc>/concept/siglum</loc></url>
   <url><loc>/concept/sita</loc></url>
-  <url><loc>/concept/skanda-forms</loc></url>
   <url><loc>/concept/smriti</loc></url>
   <url><loc>/concept/srimad-bhagavatam-commentary</loc></url>
   <url><loc>/concept/stemmatics</loc></url>
@@ -239,7 +233,6 @@
   <url><loc>/concept/thumri-dadra</loc></url>
   <url><loc>/concept/tirtha-types</loc></url>
   <url><loc>/concept/trisandhya</loc></url>
-  <url><loc>/concept/upapurana</loc></url>
   <url><loc>/concept/vairagya</loc></url>
   <url><loc>/concept/vaiseshika-atomism</loc></url>
   <url><loc>/concept/vaiseshika-creation</loc></url>
@@ -268,7 +261,6 @@
   <url><loc>/concept/vyakarana</loc></url>
   <url><loc>/concept/vyavahara</loc></url>
   <url><loc>/concept/yajna-types</loc></url>
-  <url><loc>/concept/yajnavalkya-smriti-content</loc></url>
   <url><loc>/concept/yajurveda-sakha</loc></url>
   <url><loc>/concept/yoga-ashtanga</loc></url>
   <url><loc>/concept/yoga-kleshas</loc></url>
@@ -319,13 +311,10 @@
   <url><loc>/festival/chhath-puja</loc></url>
   <url><loc>/festival/deva-uthani-ekadashi</loc></url>
   <url><loc>/festival/dipavali</loc></url>
-  <url><loc>/festival/diwali</loc></url>
   <url><loc>/festival/dussehra</loc></url>
   <url><loc>/festival/ganesh-chaturthi</loc></url>
-  <url><loc>/festival/ganesha-caturthi</loc></url>
   <url><loc>/festival/gita-jayanti</loc></url>
   <url><loc>/festival/guru-purnima</loc></url>
-  <url><loc>/festival/gurupurnima</loc></url>
   <url><loc>/festival/hartalika-teej</loc></url>
   <url><loc>/festival/holi</loc></url>
   <url><loc>/festival/janmashtami</loc></url>
@@ -562,7 +551,6 @@
   <url><loc>/scripture/natya-shastra</loc></url>
   <url><loc>/scripture/nighantu</loc></url>
   <url><loc>/scripture/nihshvasa-agama</loc></url>
-  <url><loc>/scripture/nrisimha-purana</loc></url>
   <url><loc>/scripture/nrisimha-tapaniya-purana</loc></url>
   <url><loc>/scripture/nrisimha-upanishad</loc></url>
   <url><loc>/scripture/padma-purana</loc></url>
@@ -652,12 +640,10 @@
   <url><loc>/scripture/yogaja-agama</loc></url>
   <url><loc>/scripture/yogattva-upanishad</loc></url>
   <url><loc>/temple/ahobilam-divyadesam</loc></url>
-  <url><loc>/temple/ahobilam</loc></url>
   <url><loc>/temple/akshardham-delhi</loc></url>
   <url><loc>/temple/alagar-koil</loc></url>
   <url><loc>/temple/ashtabuyakaram-divyadesam</loc></url>
   <url><loc>/temple/badrinath-divyadesam</loc></url>
-  <url><loc>/temple/badrinath</loc></url>
   <url><loc>/temple/baidyanath</loc></url>
   <url><loc>/temple/belur-chennakesava</loc></url>
   <url><loc>/temple/brihadeeswara</loc></url>
@@ -700,15 +686,12 @@
   <url><loc>/temple/pandharpur</loc></url>
   <url><loc>/temple/puri-govardhana-matha</loc></url>
   <url><loc>/temple/rameshwaram-divyadesam</loc></url>
-  <url><loc>/temple/rameshwaram</loc></url>
   <url><loc>/temple/sabarimala</loc></url>
   <url><loc>/temple/sarangapani-divyadesam</loc></url>
   <url><loc>/temple/shrngeri-matha</loc></url>
   <url><loc>/temple/simhachalam-divyadesam</loc></url>
-  <url><loc>/temple/simhachalam</loc></url>
   <url><loc>/temple/somnath</loc></url>
   <url><loc>/temple/srirangam-divyadesam-full</loc></url>
-  <url><loc>/temple/srirangam</loc></url>
   <url><loc>/temple/srivilliputhur</loc></url>
   <url><loc>/temple/thirucherapally-divyadesam</loc></url>
   <url><loc>/temple/thiruchitra-divyadesam</loc></url>
@@ -756,9 +739,6 @@
   <url><loc>/temple/thiruvellankanni-divyadesam</loc></url>
   <url><loc>/temple/thrikkakara-divyadesam</loc></url>
   <url><loc>/temple/tirumala-tirupati-divyadesam</loc></url>
-  <url><loc>/temple/tirupati-balaji</loc></url>
-  <url><loc>/temple/tirupati-divyadesam-full</loc></url>
-  <url><loc>/temple/tirupati-tirumala</loc></url>
   <url><loc>/temple/tryambakeshwar</loc></url>
   <url><loc>/temple/vaishno-devi</loc></url>
   <url><loc>/tradition/darshana</loc></url>

@@ -3,7 +3,7 @@ id: prasada
 title: Prasāda
 type: glossary-term
 language: [sa, en]
-aliases: [Prasad, प्रसाद]
+aliases: [Prasad, Prasadam, प्रसाद]
 sources: [gretil]
 status: published
 verification: verified

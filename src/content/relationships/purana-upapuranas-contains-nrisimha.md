@@ -1,7 +1,7 @@
 ---
 id: purana-upapuranas-contains-nrisimha
 from: purana-upapurana
-to: nrisimha-purana
+to: narasimha-purana
 relationship: contains
 sources: [gretil]
 status: published
