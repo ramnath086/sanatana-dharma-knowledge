@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 10 (Vibhūti Yoga); represented here as a catalogue entry.
----
+Vibhūti Yoga: Kṛṣṇa's description of his divine manifestations and their glories.

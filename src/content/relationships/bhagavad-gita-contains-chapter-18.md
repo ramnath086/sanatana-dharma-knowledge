@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 18 (Mokṣa Saṃnyāsa Yoga); represented here as a catalogue entry.
----
+Mokṣa-Saṅnyāsa Yoga: The final teaching on renunciation, the results of action, and the path to liberation.

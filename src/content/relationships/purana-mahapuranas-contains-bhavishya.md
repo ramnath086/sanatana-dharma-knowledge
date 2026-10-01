@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Bhaviṣya Purāṇa; represented here as a catalogue entry.
----
+The Bhaviṣya Purāṇa is one of the eighteen Mahāpurāṇas, containing prophecies and historical accounts including those of the Gupta period.

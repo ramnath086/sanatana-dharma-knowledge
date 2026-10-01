@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 3 (Karma Yoga); represented here as a catalogue entry.
----
+Karma Yoga: The teaching on selfless action and the path of unattached performance.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Bhāgavata Purāṇa; represented here as a catalogue entry.
----
+The Bhāgavata Purāṇa is one of the eighteen Mahāpurāṇas, a major Vaiṣṇava text in twelve skandhas central to the Gauḍīya tradition.

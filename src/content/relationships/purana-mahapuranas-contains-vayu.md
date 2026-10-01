@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Vāyu Purāṇa; represented here as a catalogue entry.
----
+The Vāyu Purāṇa is one of the eighteen Mahāpurāṇas, a Śaiva text associated with the wind god, containing the Gaṇeśa Purāṇa.

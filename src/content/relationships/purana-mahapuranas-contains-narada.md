@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Nārada Purāṇa; represented here as a catalogue entry.
----
+The Nārada Purāṇa is one of the eighteen Mahāpurāṇas, focusing on devotion (bhakti) and social topics.

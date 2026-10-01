@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the eighth Maṇḍala; represented here as a catalogue entry.
----
+Maṇḍala 8 of the Ṛgveda contains hymns to Agni, Indra, and the Maruts.

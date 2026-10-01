@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra contains adhyāya 3 (Sādhana); represented here as a catalogue entry.
----
+Adhyāya 3 (Sādhana): explains the means of attaining Brahman through knowledge, devotion, and ethical conduct.

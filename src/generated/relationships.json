@@ -61,6 +61,26 @@
     ]
   },
   {
+    "id": "baidyanath-associated-with-shiva",
+    "from": "baidyanath",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "baidyanath-tradition-of-shaiva",
+    "from": "baidyanath",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "bhagavad-gita-bhashya-madhva-authored-by-madhva",
     "from": "bhagavad-gita-bhashya-madhva",
     "relationship": "authored-by",
@@ -542,6 +562,26 @@
     ]
   },
   {
+    "id": "chamunda-devi-associated-with-devi",
+    "from": "chamunda-devi",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "chamunda-devi-tradition-of-shakta",
+    "from": "chamunda-devi",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "chandogya-upanishad-commentary-on-by-madhva",
     "from": "chandogya-upanishad",
     "relationship": "commentary-on",
@@ -643,6 +683,26 @@
     "sourceIds": [
       "gretil",
       "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "dwarka-matha-associated-with-devi",
+    "from": "dwarka-matha",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "dwarka-matha-tradition-of-shakta",
+    "from": "dwarka-matha",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
       "archaeological-survey-of-india"
     ]
   },
@@ -776,6 +836,26 @@
     ]
   },
   {
+    "id": "jwalamukhi-associated-with-devi",
+    "from": "jwalamukhi",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "jwalamukhi-tradition-of-shakta",
+    "from": "jwalamukhi",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "kailasagiri-divyadesam-associated-with-vishnu",
     "from": "kailasagiri-divyadesam",
     "relationship": "associated-with",
@@ -783,6 +863,86 @@
     "sourceIds": [
       "gretil",
       "andhra-pradesh-tourism"
+    ]
+  },
+  {
+    "id": "kalighat-associated-with-devi",
+    "from": "kalighat",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kalighat-celebrated-during-dipavali",
+    "from": "kalighat",
+    "relationship": "celebrated-during",
+    "to": "dipavali",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kalighat-tradition-of-shakta",
+    "from": "kalighat",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kamakhya-associated-with-devi",
+    "from": "kamakhya",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kamakhya-celebrated-during-navaratri",
+    "from": "kamakhya",
+    "relationship": "celebrated-during",
+    "to": "navaratri",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kamakhya-tradition-of-shakta",
+    "from": "kamakhya",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kanchi-kamakoti-associated-with-devi",
+    "from": "kanchi-kamakoti",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "kanchi-kamakoti-tradition-of-shakta",
+    "from": "kanchi-kamakoti",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -892,7 +1052,7 @@
     ]
   },
   {
-    "id": "mahabharata-contains-ashramavasika-parva",
+    "id": "mahabharata-contains-ashramavasikaparva",
     "from": "mahabharata",
     "relationship": "contains",
     "to": "mahabharata-ashramavasikaparva",
@@ -1036,6 +1196,39 @@
     ]
   },
   {
+    "id": "mahakaleshwar-ujjain-associated-with-shiva",
+    "from": "mahakaleshwar-ujjain",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "madhya-pradesh-archaeology",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "mahakaleshwar-ujjain-celebrated-during-mahashivaratri",
+    "from": "mahakaleshwar-ujjain",
+    "relationship": "celebrated-during",
+    "to": "mahashivaratri",
+    "sourceIds": [
+      "gretil",
+      "madhya-pradesh-archaeology",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "mahakaleshwar-ujjain-tradition-of-shaiva",
+    "from": "mahakaleshwar-ujjain",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "madhya-pradesh-archaeology",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
     "id": "mandukya-upanishad-commentary-on-by-shankara",
     "from": "mandukya-upanishad",
     "relationship": "commentary-on",
@@ -1097,6 +1290,50 @@
       "gretil",
       "chowkhamba-sanskrit-academy",
       "cambridge-university-press"
+    ]
+  },
+  {
+    "id": "nageshwar-dwarka-associated-with-shiva",
+    "from": "nageshwar-dwarka",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "nageshwar-dwarka-tradition-of-shaiva",
+    "from": "nageshwar-dwarka",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "gujarat-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "omkareshwar-associated-with-shiva",
+    "from": "omkareshwar",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "madhya-pradesh-archaeology",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "omkareshwar-tradition-of-shaiva",
+    "from": "omkareshwar",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "madhya-pradesh-archaeology",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -1357,7 +1594,7 @@
     "id": "purana-upapuranas-contains-nrisimha",
     "from": "purana-upapurana",
     "relationship": "contains",
-    "to": "narasimha-purana",
+    "to": "nrisimha-purana-upapurana",
     "sourceIds": [
       "gretil"
     ]
@@ -1479,6 +1716,17 @@
     "sourceIds": [
       "gretil",
       "tamil-nadu-tourism-department"
+    ]
+  },
+  {
+    "id": "rameshwaram-divyadesam-tradition-of-shaiva",
+    "from": "rameshwaram-divyadesam",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
+      "tamil-nadu-tourism-department",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -1620,6 +1868,26 @@
     "sourceIds": [
       "gretil",
       "bbc-religions"
+    ]
+  },
+  {
+    "id": "shrngeri-matha-associated-with-devi",
+    "from": "shrngeri-matha",
+    "relationship": "associated-with",
+    "to": "devi",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "shrngeri-matha-tradition-of-shakta",
+    "from": "shrngeri-matha",
+    "relationship": "tradition-of",
+    "to": "shakta",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
     ]
   },
   {
@@ -1946,6 +2214,36 @@
     "sourceIds": [
       "gretil",
       "andhra-pradesh-tourism",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "tryambakeshwar-associated-with-shiva",
+    "from": "tryambakeshwar",
+    "relationship": "associated-with",
+    "to": "shiva",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "tryambakeshwar-celebrated-during-kumbha-mela",
+    "from": "tryambakeshwar",
+    "relationship": "celebrated-during",
+    "to": "kumbha-mela",
+    "sourceIds": [
+      "gretil",
+      "archaeological-survey-of-india"
+    ]
+  },
+  {
+    "id": "tryambakeshwar-tradition-of-shaiva",
+    "from": "tryambakeshwar",
+    "relationship": "tradition-of",
+    "to": "shaiva",
+    "sourceIds": [
+      "gretil",
       "archaeological-survey-of-india"
     ]
   },

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Garuḍa Purāṇa; represented here as a catalogue entry.
----
+The Garuḍa Purāṇa is one of the eighteen Mahāpurāṇas, a Vaiṣṇava text focusing on Viṣṇu, Garuḍa, and the afterlife (preta-siddhānta).

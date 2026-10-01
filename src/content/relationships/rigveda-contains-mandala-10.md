@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the tenth Maṇḍala (Puruṣa Sūkta, Nāsadīya Sūkta); represented here as a catalogue entry.
----
+Maṇḍala 10 of the Ṛgveda contains the famous Puruṣa Sūkta, the Hymn of the Dead (Narāyaṇa Sūkta), and the creation hymn (Hymn of the Cosmic Being).

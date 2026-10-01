@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Māṇḍūkya Upaniṣad; represented here as a catalogue entry.
----
+The Māṇḍūkya Upaniṣad discusses the four states of consciousness (waking, dreaming, deep sleep, and Turiya) and the transcendental beyond.

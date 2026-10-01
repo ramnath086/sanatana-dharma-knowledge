@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 15 (Puruṣottama Yoga); represented here as a catalogue entry.
----
+Puruṣottama Yoga: The teaching on the eternal soul, the supreme personality, and the path of devotion.

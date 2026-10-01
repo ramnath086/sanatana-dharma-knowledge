@@ -1,11 +1,10 @@
 ---
 id: purana-upapuranas-contains-nrisimha
 from: purana-upapurana
-to: narasimha-purana
+to: nrisimha-purana-upapurana
 relationship: contains
 sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Nṛsiṃha Purāṇa; represented here as a catalogue entry.
----
+The Nṛsiṃha Upapurāṇa focuses on the Narasiṃha (man-lion) avatar of Viṣṇu.

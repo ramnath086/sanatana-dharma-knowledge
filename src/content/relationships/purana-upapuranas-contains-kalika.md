@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Kālikā Purāṇa; represented here as a catalogue entry.
----
+The Kālikā Upapurāṇa focuses on Kālī worship and Śākta traditions.

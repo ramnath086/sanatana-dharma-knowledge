@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Yuddha Kāṇḍa; represented here as a catalogue entry.
----
+Yuddha Kāṇḍa: the great war between Rāma and Rāvaṇa, the death of Rāvaṇa, and Sītā's test of purity (Pariksha).

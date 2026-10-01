@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 17 (Śraddhā Traya Vibhāga Yoga); represented here as a catalogue entry.
----
+Śraddhā-Traya Vibhāga Yoga: The three kinds of faith and the practice of yoga according to one's nature.

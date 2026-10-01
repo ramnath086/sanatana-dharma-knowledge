@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Araṇya Kāṇḍa; represented here as a catalogue entry.
----
+Araṇya Kāṇḍa: the Pandavas' forest exile, their encounter with the sage Viśrāma, and the battle with the demon Virupakṣa.

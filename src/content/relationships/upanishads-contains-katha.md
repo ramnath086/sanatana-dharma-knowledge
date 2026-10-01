@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Kaṭha Upaniṣad; represented here as a catalogue entry.
----
+The Kaṭha Upaniṣad contains the famous dialogue between Yama and Nārada on death and the immortal soul.

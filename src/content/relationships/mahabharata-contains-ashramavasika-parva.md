@@ -1,5 +1,5 @@
 ---
-id: mahabharata-contains-ashramavasika-parva
+id: mahabharata-contains-ashramavasikaparva
 from: mahabharata
 to: mahabharata-ashramavasikaparva
 relationship: contains

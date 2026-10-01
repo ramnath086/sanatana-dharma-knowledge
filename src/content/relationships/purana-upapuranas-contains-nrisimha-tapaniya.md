@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Nṛsiṃha Tāpanīya Purāṇa; represented here as a catalogue entry.
----
+The Nṛsiṃha Tāpanīya Upapurāṇa focuses on the Narasiṃha avatar and Tāpinī practices.

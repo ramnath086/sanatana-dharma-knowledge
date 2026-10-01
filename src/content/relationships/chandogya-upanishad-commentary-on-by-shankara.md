@@ -7,4 +7,4 @@ sources: [gretil, chowkhamba-sanskrit-academy, cambridge-university-press]
 status: published
 verification: verified
 ---
-Śaṅkara's Bhāṣya on the Chāndogya Upaniṣad, famous for the sat-vidyā (being), the uddālaka-śvetaketu dialogue (tat tvam asi), and the dahara-vidyā (heart-space).
+Śaṅkara's Bhāṣya on the Chāndogya Upaniṣad, famous for the sat-vidyā (being), the uddālaka-śvetaketu dialogue (tat tvam archaeological-survey-of-india), and the dahara-vidyā (heart-space).

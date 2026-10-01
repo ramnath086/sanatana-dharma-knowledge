@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Praśna Upaniṣad; represented here as a catalogue entry.
----
+The Praśna Upaniṣad contains six questions and answers about consciousness, the self, and the cosmos.

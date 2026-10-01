@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Garga Purāṇa; represented here as a catalogue entry.
----
+The Garga Upapurāṇa focuses on teachings of the sage Garga.

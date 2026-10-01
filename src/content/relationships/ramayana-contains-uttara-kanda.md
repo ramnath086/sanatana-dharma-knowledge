@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Uttara Kāṇḍa; represented here as a catalogue entry.
----
+Uttara Kāṇḍa: the later life of Rāma, Sītā's exile and return, and the birth of Lava and Kuśa.

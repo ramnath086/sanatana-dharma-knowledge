@@ -52,15 +52,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "agni-purana-content",
-    "title": "Agni Purāṇa Content",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "alankara-shastra",
     "title": "Alaṅkāra Śāstra",
     "status": "published",
@@ -160,15 +151,6 @@
   {
     "entityId": "bhagavad-gita-philosophy",
     "title": "Bhagavad Gītā Philosophy",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "bhagavata-purana-content",
-    "title": "Bhāgavata Purāṇa Content",
     "status": "published",
     "issues": [
       "No relationships"
@@ -455,15 +437,6 @@
   {
     "entityId": "ganesha-forms",
     "title": "Gaṇeśa Forms",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "garuda-purana-content",
-    "title": "Garuḍa Purāṇa Content",
     "status": "published",
     "issues": [
       "No relationships"
@@ -857,15 +830,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "manu-smriti-content",
-    "title": "Manu Smṛti Content",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "manuscript-catalogue",
     "title": "Manuscript Catalogue",
     "status": "published",
@@ -877,15 +841,6 @@
   {
     "entityId": "manuscript-preservation",
     "title": "Manuscript Preservation",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "matsya-purana-content",
-    "title": "Matsya Purāṇa Content",
     "status": "published",
     "issues": [
       "No relationships"
@@ -1481,15 +1436,6 @@
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
-    "entityId": "shiva-purana-content",
-    "title": "Śiva Purāṇa Content",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
     "entityId": "shraddha-types",
     "title": "Śrāddha Types",
     "status": "published",
@@ -1816,15 +1762,6 @@
   {
     "entityId": "vishishtadvaita-prapatti",
     "title": "Viśiṣṭādvaita Prapatti",
-    "status": "published",
-    "issues": [
-      "No relationships"
-    ],
-    "classification": "VALID_ISOLATED_ENTITY"
-  },
-  {
-    "entityId": "vishnu-purana-content",
-    "title": "Viṣṇu Purāṇa Content",
     "status": "published",
     "issues": [
       "No relationships"
@@ -2321,9 +2258,7 @@
     "entityId": "dipavali",
     "title": "Dīpāvalī",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -2400,9 +2335,7 @@
     "entityId": "kumbha-mela",
     "title": "Kumbha Melā",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4281,7 +4214,9 @@
     "entityId": "narasimha-purana",
     "title": "Nṛsiṃha Purāṇa",
     "status": "published",
-    "issues": [],
+    "issues": [
+      "No relationships"
+    ],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -4318,6 +4253,13 @@
     "issues": [
       "No relationships"
     ],
+    "classification": "VALID_ISOLATED_ENTITY"
+  },
+  {
+    "entityId": "nrisimha-purana-upapurana",
+    "title": "Nṛsiṃha Upapurāṇa",
+    "status": "published",
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5077,9 +5019,7 @@
     "entityId": "baidyanath",
     "title": "Baidyanath Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5102,9 +5042,7 @@
     "entityId": "chamunda-devi",
     "title": "Chamunda Devi Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5152,9 +5090,7 @@
     "entityId": "dwarka-matha",
     "title": "Dvārakā Maṭha",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5219,9 +5155,7 @@
     "entityId": "jwalamukhi",
     "title": "Jvālāmukhī Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5244,27 +5178,21 @@
     "entityId": "kalighat",
     "title": "Kālīghāṭ Temple Kolkata",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "kamakhya",
     "title": "Kāmākhyā Temple Guwahati",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
     "entityId": "kanchi-kamakoti",
     "title": "Kāñcī Kāmakōṭi Pīṭham",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5326,9 +5254,7 @@
     "entityId": "mahakaleshwar-ujjain",
     "title": "Mahākāleśvara Temple Ujjain",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5360,9 +5286,7 @@
     "entityId": "nageshwar-dwarka",
     "title": "Nāgeśvara Temple Dwarka",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5378,9 +5302,7 @@
     "entityId": "omkareshwar",
     "title": "Omkāreśvara Temple",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5437,9 +5359,7 @@
     "entityId": "shrngeri-matha",
     "title": "Śṛṅgerī Maṭha",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {
@@ -5854,9 +5774,7 @@
     "entityId": "tryambakeshwar",
     "title": "Tryambakeśvara Temple Nashik",
     "status": "published",
-    "issues": [
-      "No relationships"
-    ],
+    "issues": [],
     "classification": "VALID_ISOLATED_ENTITY"
   },
   {

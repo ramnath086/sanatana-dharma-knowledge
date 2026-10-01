@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Mānava Purāṇa; represented here as a catalogue entry.
----
+The Mānava Upapurāṇa focuses on teachings of the sage Manu.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 13 (Kṣetra Kṣetrajña Vibhāga Yoga); represented here as a catalogue entry.
----
+Kṣetra-Kṣetrajña Vibhāga Yoga: The distinction between the field (body) and the knower of the field (soul).

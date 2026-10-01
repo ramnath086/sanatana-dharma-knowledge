@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Chāndogya Upaniṣad; represented here as a catalogue entry.
----
+The Chāndogya Upaniṣad contains the famous teaching "Tat Tvam Asi" and the story of the seven generations of Vālakhilyas.

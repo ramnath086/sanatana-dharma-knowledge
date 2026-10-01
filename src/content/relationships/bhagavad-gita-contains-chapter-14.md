@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 14 (Guṇa Traya Vibhāga Yoga); represented here as a catalogue entry.
----
+Guṇa-Traya Vibhāga Yoga: The three modes of material nature and transcendence through devotion.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the sixth Maṇḍala; represented here as a catalogue entry.
----
+Maṇḍala 6 of the Ṛgveda contains hymns to Indra, Agni, and other deities.

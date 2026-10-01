@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra contains adhyāya 2 (Avirodha); represented here as a catalogue entry.
----
+Adhyāya 2 (Avirodha): argues against rival schools and establishes the authority of the Upaniṣads.

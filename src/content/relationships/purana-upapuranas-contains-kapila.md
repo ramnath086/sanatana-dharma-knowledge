@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Kapila Purāṇa; represented here as a catalogue entry.
----
+The Kapila Upapurāṇa focuses on the sage Kapila, founder of the Sāṅkhya school.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 2 (Sāṅkhya Yoga); represented here as a catalogue entry.
----
+Sāṅkhya Yoga: Kṛṣṇa's teaching on the immortal soul, the nature of the self, and the paths of knowledge and action.

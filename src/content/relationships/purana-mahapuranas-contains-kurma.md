@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Kūrma Purāṇa; represented here as a catalogue entry.
----
+The Kūrma Purāṇa is one of the eighteen Mahāpurāṇas, a Vaiṣṇava text dedicated to the turtle incarnation of Viṣṇu.

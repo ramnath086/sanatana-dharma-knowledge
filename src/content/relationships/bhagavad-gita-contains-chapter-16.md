@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 16 (Daivāsura Sampad Vibhāga Yoga); represented here as a catalogue entry.
----
+Daivāsura Sampad Vibhāga Yoga: The divine and demonic natures and the characteristics of godly persons.

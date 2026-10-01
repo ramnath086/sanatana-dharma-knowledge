@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 8 (Akṣara Brahma Yoga); represented here as a catalogue entry.
----
+Akṣara-Brahma Yoga: The teaching on the imperishable Brahman and the paths of departure at death.

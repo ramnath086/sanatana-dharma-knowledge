@@ -110,28 +110,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "agni-purana-content",
-    "title": "Agni Purāṇa Content",
-    "aliases": [
-      "Agni Purana Content",
-      "अग्नि पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Agni Purāṇa, its encyclopedic scope covering cosmology, geography, iconography, medicine, polity, and Dharmaśāstra; its role as a compendium of traditional knowledge is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "alankara-shastra",
     "title": "Alaṅkāra Śāstra",
     "aliases": [
@@ -391,29 +369,6 @@
       "ITIHASA",
       "SMRITI",
       "PHILOSOPHY",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "bhagavata-purana-content",
-    "title": "Bhāgavata Purāṇa Content",
-    "aliases": [
-      "Bhagavata Purana Content",
-      "Srimad Bhagavatam Content",
-      "भागवत पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Bhāgavata Purāṇa (Śrīmad Bhāgavatam), its twelve skandhas, focus on Kṛṣṇa-bhakti, the daśāvatāra, and the dialogue between Parīkṣit and Śuka; its theological emphasis on bhakti-yoga is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
       "CONCEPT"
     ],
     "language": [
@@ -1129,28 +1084,6 @@
     "type": "concept",
     "classification": [
       "DEITY",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "garuda-purana-content",
-    "title": "Garuḍa Purāṇa Content",
-    "aliases": [
-      "Garuda Purana Content",
-      "गरुड पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Garuḍa Purāṇa, its focus on Viṣṇu worship, funeral rites (antyeṣṭi), gemology, and the afterlife journey (pretakalpā); its role in death rituals is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
       "TRADITION",
       "CONCEPT"
     ],
@@ -2161,28 +2094,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "manu-smriti-content",
-    "title": "Manu Smṛti Content",
-    "aliases": [
-      "Manu Smriti Content",
-      "Manusmriti Content",
-      "मनुस्मृति विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Manusmṛti (Mānava Dharmaśāstra), its twelve chapters covering varṇa, āśrama, rājadharma, vyavahāra (legal procedure), prāyaścitta (expiation), and the rules of daily conduct; its textual structure and influence on later Dharmaśāstra are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "DHARMASHASTRA",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "manuscript-catalogue",
     "title": "Manuscript Catalogue",
     "aliases": [
@@ -2220,28 +2131,6 @@
       "CONCEPT",
       "Manuscript",
       "Scholarship"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "matsya-purana-content",
-    "title": "Matsya Purāṇa Content",
-    "aliases": [
-      "Matsya Purana Content",
-      "मत्स्य पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Matsya Purāṇa, its focus on the Matsya avatāra, temple architecture (vāstu), vrata rituals, and royal genealogies; its architectural and ritual prescriptions are represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
-      "CONCEPT"
     ],
     "language": [
       "sa",
@@ -3725,28 +3614,6 @@
     "relatedEntityIds": []
   },
   {
-    "id": "shiva-purana-content",
-    "title": "Śiva Purāṇa Content",
-    "aliases": [
-      "Shiva Purana Content",
-      "शिव पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Śiva Purāṇa, its saṃhitās, focus on Śiva's forms, the jyotirliṅgas, and Śaiva theology; its role in Śaiva ritual and philosophical traditions is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
     "id": "shraddha-types",
     "title": "Śrāddha Types",
     "aliases": [
@@ -4570,28 +4437,6 @@
     "type": "concept",
     "classification": [
       "VEDANTA",
-      "CONCEPT"
-    ],
-    "language": [
-      "sa",
-      "en"
-    ],
-    "tags": [],
-    "relatedEntityIds": []
-  },
-  {
-    "id": "vishnu-purana-content",
-    "title": "Viṣṇu Purāṇa Content",
-    "aliases": [
-      "Vishnu Purana Content",
-      "विष्णु पुराण विषय"
-    ],
-    "sanskritTitle": "",
-    "description": "The Viṣṇu Purāṇa, its six aṃśas, focus on Viṣṇu's avatāras, cosmology, and the genealogy of the solar and lunar dynasties; its influence on later Vaiṣṇava theology is represented here as a catalogue entry. ---",
-    "type": "concept",
-    "classification": [
-      "PURANA",
-      "TRADITION",
       "CONCEPT"
     ],
     "language": [
@@ -11272,6 +11117,27 @@
     "type": "scripture",
     "classification": [
       "AGAMA"
+    ],
+    "language": [
+      "sa",
+      "en"
+    ],
+    "tags": [],
+    "relatedEntityIds": []
+  },
+  {
+    "id": "nrisimha-purana-upapurana",
+    "title": "Nṛsiṃha Upapurāṇa",
+    "aliases": [
+      "Nrisimha Upapurana",
+      "Nṛsiṃha Upaniṣad",
+      "नृसिंह उपपुराण"
+    ],
+    "sanskritTitle": "",
+    "description": "The Nṛsiṃha Upapurāṇa is one of the eighteen Upapurāṇas, focusing on the Nṛsiṃha (man-lion) avatar of Viṣṇu. It contains stories of the devotee Prahlāda, the defeat of the demon Hiraṇyakaipu, and the symbolism of the Nṛsiṃha form as the Supreme Being who transcends all categories. The text also includes a description of the iconography, the sacred places associated with Nṛsiṃha worship, and the theological significance of the avatar. It is associated with the Vaiṣṇava tradition and is recited during the monthly Nṛsiṃha-vātaṇa and the annual Nṛsiṃha-jayantī festival. --- A subsidiary Purāṇa focusing on the Narasiṃha avatar, recited in Vaiṣṇava temples and household practice.",
+    "type": "scripture",
+    "classification": [
+      "PURANA"
     ],
     "language": [
       "sa",

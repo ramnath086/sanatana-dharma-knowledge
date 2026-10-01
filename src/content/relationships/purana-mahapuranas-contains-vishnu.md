@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Viṣṇu Purāṇa; represented here as a catalogue entry.
----
+The Viṣṇu Purāṇa is one of the eighteen Mahāpurāṇas, focusing on Viṣṇu's avatars and the genealogy of the solar dynasty.

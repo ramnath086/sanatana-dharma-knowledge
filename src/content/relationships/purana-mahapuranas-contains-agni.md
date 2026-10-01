@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Agni Purāṇa; represented here as a catalogue entry.
----
+The Āgni Purāṇa is one of the eighteen Mahāpurāṇas, an encyclopedic text covering cosmology, iconography, medicine, and Dharmaśāstra.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahābhārata contains the Ādi Parva; represented here as a catalogue entry.
----
+The Mahābhārata is divided into 18 major parvas (books) plus a supplement, covering the epic narrative from lineage to war and aftermath.

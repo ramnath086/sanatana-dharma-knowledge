@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Kiṣkindhā Kāṇḍa; represented here as a catalogue entry.
----
+Kiṣkindhā Kāṇḍa: Rāma's alliance with Sugrīva, the search for Sītā in the forest, and the division of the earth.

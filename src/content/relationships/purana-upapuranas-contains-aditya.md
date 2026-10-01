@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Āditya Purāṇa; represented here as a catalogue entry.
----
+The Āditya Upapurāṇa focuses on the Āditya (solar) lineage of Viṣṇu.

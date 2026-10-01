@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Brahmāṇḍa Purāṇa; represented here as a catalogue entry.
----
+The Brahmāṇḍa Purāṇa is one of the eighteen Mahāpurāṇas, a Śaiva text describing the structure of the universe (Brahmāṇḍa).

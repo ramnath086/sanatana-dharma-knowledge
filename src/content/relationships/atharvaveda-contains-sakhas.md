@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Atharvaveda is transmitted in Śaunaka and Paippalāda recensions; represented here as a catalogue entry.
----
+The Atharvaveda is associated with several śākhās (branches), including the Śāukla and Pūrṇāṣṭikā recensions.

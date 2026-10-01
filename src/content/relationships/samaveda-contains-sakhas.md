@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Sāmaveda is transmitted in Kauthuma, Rāṇāyanīya, Jaiminīya recensions; represented here as a catalogue entry.
----
+The Sāmaveda is associated with several śākhās, including the Jaiminīya and Śāukla recensions.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the seventh Maṇḍala (with Mahāmṛtyuñjaya); represented here as a catalogue entry.
----
+Maṇḍala 7 of the Ṛgveda contains hymns to Indra, Agni, and Varuṇa.

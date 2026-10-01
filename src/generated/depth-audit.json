@@ -178,7 +178,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 10,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -207,7 +207,7 @@
     "type": "deity",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 11,
+    "relationshipCount": 16,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -249,12 +249,10 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 0,
+    "relationshipCount": 1,
     "claimCount": 1,
     "evidenceCount": 1,
-    "needsWork": [
-      "relationship"
-    ]
+    "needsWork": []
   },
   {
     "entityId": "holi",
@@ -291,7 +289,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 5,
+    "relationshipCount": 6,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -305,7 +303,7 @@
     "type": "festival",
     "status": "published",
     "sourceCount": 2,
-    "relationshipCount": 3,
+    "relationshipCount": 4,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -754,7 +752,7 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 3,
+    "relationshipCount": 9,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [
@@ -768,7 +766,7 @@
     "type": "tradition",
     "status": "published",
     "sourceCount": 1,
-    "relationshipCount": 1,
+    "relationshipCount": 8,
     "claimCount": 0,
     "evidenceCount": 0,
     "needsWork": [

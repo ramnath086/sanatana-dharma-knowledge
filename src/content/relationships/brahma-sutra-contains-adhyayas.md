@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra contains four adhyāyas; represented here as a catalogue entry.
----
+The Brahma Sūtra is divided into four adhyāyas (chapters) covering the nature of Brahman and the path to liberation.

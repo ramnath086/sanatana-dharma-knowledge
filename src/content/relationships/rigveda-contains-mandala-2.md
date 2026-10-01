@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the second Maṇḍala; represented here as a catalogue entry.
----
+Maṇḍala 2 of the Ṛgveda contains hymns addressed to Indra and other deities.

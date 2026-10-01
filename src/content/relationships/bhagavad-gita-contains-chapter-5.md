@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 5 (Karma Saṃnyāsa Yoga); represented here as a catalogue entry.
----
+Karma-Saṅnyāsa Yoga: Further instruction on renunciation and the path of meditation.

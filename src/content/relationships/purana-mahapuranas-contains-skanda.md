@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Skanda Purāṇa; represented here as a catalogue entry.
----
+The Skanda Purāṇa is one of the eighteen Mahāpurāṇas, one of the largest texts covering North and South India, with the Pañcāśa-kuṇḍa stotra.

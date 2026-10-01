@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 9 (Rāja Vidyā Rāja Guhya Yoga); represented here as a catalogue entry.
----
+Rāja-Vidya-Rāja-Guhya Yoga: Kṛṣṇa's invitation to the highest knowledge and the yoga of devotion.

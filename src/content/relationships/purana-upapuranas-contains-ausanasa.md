@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Auśanasa Purāṇa; represented here as a catalogue entry.
----
+The Auśanasa Upapurāṇa focuses on teachings of the sage Auśanasa.

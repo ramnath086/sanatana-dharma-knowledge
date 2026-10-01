@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Saura Purāṇa; represented here as a catalogue entry.
----
+The Saura Upapurāṇa focuses on the Saura (solar) tradition and Sūrya worship.

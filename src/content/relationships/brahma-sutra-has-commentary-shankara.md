@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra has Śaṅkara's Brahma Sūtra Bhāṣya (Advaita); represented here as a catalogue entry.
----
+Ādi Śaṅkara's Bhāṣya on the Brahma Sūtra is the foundational Advaita Vedānta commentary establishing non-dualism.

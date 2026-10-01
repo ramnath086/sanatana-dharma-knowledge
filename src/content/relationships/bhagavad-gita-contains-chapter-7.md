@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 7 (Jñāna Vijñāna Yoga); represented here as a catalogue entry.
----
+Jñāna-Vijñāna Yoga: Kṛṣṇa reveals the path of knowledge and wisdom leading to the supreme reality.

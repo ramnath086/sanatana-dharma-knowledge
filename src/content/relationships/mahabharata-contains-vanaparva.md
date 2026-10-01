@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahābhārata contains the Vana Parva; represented here as a catalogue entry.
----
+Vana Parva: the Pandavas' 12 years of forest exile, including their exploits such as the story of Arjuna and the Nivātakaṇṭa, and the celestial pilgrimage.

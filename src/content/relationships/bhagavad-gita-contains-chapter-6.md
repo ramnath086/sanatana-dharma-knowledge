@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 6 (Dhyāna Yoga); represented here as a catalogue entry.
----
+Dhyāna Yoga: The path of meditation and the practice of mental discipline and contemplation.

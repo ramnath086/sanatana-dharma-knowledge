@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Ayodhyā Kāṇḍa; represented here as a catalogue entry.
----
+Ayodhyā Kāṇḍa: the exile of Rāma to the forest, the death of Daśaratha, and the abduction of Sītā by Rāvaṇa.

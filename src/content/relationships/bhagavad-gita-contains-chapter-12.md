@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 12 (Bhakti Yoga); represented here as a catalogue entry.
----
+Bhakti Yoga: The supreme path of loving devotion to the Lord, superior to paths of knowledge and action.

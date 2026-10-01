@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the ninth Maṇḍala (Soma Pavamāna); represented here as a catalogue entry.
----
+Maṇḍala 9 of the Ṛgveda contains the famous Puruṣa Sūkta and hymns to the cosmic order (Ṛta).

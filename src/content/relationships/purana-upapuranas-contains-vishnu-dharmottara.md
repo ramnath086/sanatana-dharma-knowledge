@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Viṣṇu Dharmottara Purāṇa; represented here as a catalogue entry.
----
+The Viṣṇu Dharmottara Upapurāṇa contains Dharmaśāstra, iconography, and artistic guidelines.

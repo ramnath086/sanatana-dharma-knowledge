@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Nandi Purāṇa; represented here as a catalogue entry.
----
+The Nandi Upapurāṇa focuses on the bull Nandi and Śaiva theology.

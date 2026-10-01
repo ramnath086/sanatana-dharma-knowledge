@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Kena Upaniṣad; represented here as a catalogue entry.
----
+The Kena Upaniṣad discusses the inadequacy of language to describe the divine and the nature of true knowledge.

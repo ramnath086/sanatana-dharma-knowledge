@@ -15,8 +15,6 @@
   <url><loc>/knowledge/vedanta</loc></url>
   <url><loc>/knowledge/concept</loc></url>
   <url><loc>/knowledge/agama</loc></url>
-  <url><loc>/knowledge/purana</loc></url>
-  <url><loc>/knowledge/tradition</loc></url>
   <url><loc>/knowledge/culture</loc></url>
   <url><loc>/knowledge/philosophy</loc></url>
   <url><loc>/knowledge/dharmashastra</loc></url>
@@ -27,6 +25,7 @@
   <url><loc>/knowledge/shruti</loc></url>
   <url><loc>/knowledge/vedic</loc></url>
   <url><loc>/knowledge/smriti</loc></url>
+  <url><loc>/knowledge/tradition</loc></url>
   <url><loc>/knowledge/art</loc></url>
   <url><loc>/knowledge/music</loc></url>
   <url><loc>/knowledge/stotra</loc></url>
@@ -38,6 +37,7 @@
   <url><loc>/knowledge/history</loc></url>
   <url><loc>/knowledge/mantra</loc></url>
   <url><loc>/knowledge/yoga</loc></url>
+  <url><loc>/knowledge/purana</loc></url>
   <url><loc>/knowledge/darshana</loc></url>
   <url><loc>/knowledge/pilgrimage</loc></url>
   <url><loc>/knowledge/tantra</loc></url>
@@ -54,7 +54,6 @@
   <url><loc>/concept/advaita-ajativada</loc></url>
   <url><loc>/concept/advaita-avidya</loc></url>
   <url><loc>/concept/agamic-tradition</loc></url>
-  <url><loc>/concept/agni-purana-content</loc></url>
   <url><loc>/concept/alankara-shastra</loc></url>
   <url><loc>/concept/anubandha-chatushtaya</loc></url>
   <url><loc>/concept/apaddharma</loc></url>
@@ -67,7 +66,6 @@
   <url><loc>/concept/atman</loc></url>
   <url><loc>/concept/bhagavad-gita-chapters</loc></url>
   <url><loc>/concept/bhagavad-gita-philosophy</loc></url>
-  <url><loc>/concept/bhagavata-purana-content</loc></url>
   <url><loc>/concept/bhakti-movement</loc></url>
   <url><loc>/concept/bhakti</loc></url>
   <url><loc>/concept/bharata-natyam</loc></url>
@@ -100,7 +98,6 @@
   <url><loc>/concept/folio</loc></url>
   <url><loc>/concept/gandhari</loc></url>
   <url><loc>/concept/ganesha-forms</loc></url>
-  <url><loc>/concept/garuda-purana-content</loc></url>
   <url><loc>/concept/gayatri-mantra</loc></url>
   <url><loc>/concept/gayatri</loc></url>
   <url><loc>/concept/gita-bhakti-yoga</loc></url>
@@ -145,10 +142,8 @@
   <url><loc>/concept/mahapurana</loc></url>
   <url><loc>/concept/maitrayaniya-sakha</loc></url>
   <url><loc>/concept/mandodari</loc></url>
-  <url><loc>/concept/manu-smriti-content</loc></url>
   <url><loc>/concept/manuscript-catalogue</loc></url>
   <url><loc>/concept/manuscript-preservation</loc></url>
-  <url><loc>/concept/matsya-purana-content</loc></url>
   <url><loc>/concept/maya-vada</loc></url>
   <url><loc>/concept/maya</loc></url>
   <url><loc>/concept/mimamsa-apurva</loc></url>
@@ -215,7 +210,6 @@
   <url><loc>/concept/shaiva-agamas</loc></url>
   <url><loc>/concept/shiksha</loc></url>
   <url><loc>/concept/shilpa-shastra</loc></url>
-  <url><loc>/concept/shiva-purana-content</loc></url>
   <url><loc>/concept/shraddha-types</loc></url>
   <url><loc>/concept/shruti</loc></url>
   <url><loc>/concept/shuddhadvaita-pusti</loc></url>
@@ -253,7 +247,6 @@
   <url><loc>/concept/vidura</loc></url>
   <url><loc>/concept/vishishtadvaita-nitya-vibhuti</loc></url>
   <url><loc>/concept/vishishtadvaita-prapatti</loc></url>
-  <url><loc>/concept/vishnu-purana-content</loc></url>
   <url><loc>/concept/vishnu-sahasranama</loc></url>
   <url><loc>/concept/vivarta-vada</loc></url>
   <url><loc>/concept/vrata-categories</loc></url>
@@ -551,6 +544,7 @@
   <url><loc>/scripture/natya-shastra</loc></url>
   <url><loc>/scripture/nighantu</loc></url>
   <url><loc>/scripture/nihshvasa-agama</loc></url>
+  <url><loc>/scripture/nrisimha-purana-upapurana</loc></url>
   <url><loc>/scripture/nrisimha-tapaniya-purana</loc></url>
   <url><loc>/scripture/nrisimha-upanishad</loc></url>
   <url><loc>/scripture/padma-purana</loc></url>

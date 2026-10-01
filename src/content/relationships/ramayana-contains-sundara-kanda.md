@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Sundara Kāṇḍa; represented here as a catalogue entry.
----
+Sundara Kāṇḍa: Hanumān's journey to Lanka, his discovery of Sītā in the Ashoka grove, and his return to Rāma.

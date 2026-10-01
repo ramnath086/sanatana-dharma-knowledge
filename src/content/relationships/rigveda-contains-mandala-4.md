@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the fourth Maṇḍala; represented here as a catalogue entry.
----
+Maṇḍala 4 of the Ṛgveda contains hymns to Agni and other deities.

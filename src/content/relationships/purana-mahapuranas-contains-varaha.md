@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Varāha Purāṇa; represented here as a catalogue entry.
----
+The Varāha Purāṇa is one of the eighteen Mahāpurāṇas, focusing on the Varāha (boar) incarnation of Viṣṇu.

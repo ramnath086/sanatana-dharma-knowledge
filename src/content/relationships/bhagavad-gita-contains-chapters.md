@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains eighteen chapters; represented here as a catalogue entry.
----
+The Bhagavad Gītā is divided into 18 chapters covering Kṛṣṇa's teachings on karma yoga, jñāna yoga, and bhakti yoga.

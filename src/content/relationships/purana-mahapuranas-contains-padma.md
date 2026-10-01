@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Padma Purāṇa; represented here as a catalogue entry.
----
+The Padma Purāṇa is one of the eighteen Mahāpurāṇas, a Vaiṣṇava text containing the famous Goṣāṣṇa-darpaṇaṇḍana.

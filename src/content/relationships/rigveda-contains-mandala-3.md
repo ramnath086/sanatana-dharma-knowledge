@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the third Maṇḍala (with Gāyatrī Mantra); represented here as a catalogue entry.
----
+Maṇḍala 3 of the Ṛgveda contains hymns to Agni, Indra, and other deities, including the Viṣṇu Sūkta.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Bṛhadāraṇyaka Upaniṣad; represented here as a catalogue entry.
----
+The Bṛhadāraṇyaka Upaniṣad contains the famous teachings on the self (ātman) and the neti-neti method of negation.

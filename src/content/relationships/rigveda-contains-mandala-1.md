@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains ten Maṇḍalas; represented here as a catalogue entry.
----
+Maṇḍala 1 of the Ṛgveda contains the famous Nāsadīya Sūkta describing the origin of creation.

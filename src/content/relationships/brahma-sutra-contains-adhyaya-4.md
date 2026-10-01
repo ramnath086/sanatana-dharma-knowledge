@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra contains adhyāya 4 (Phala); represented here as a catalogue entry.
----
+Adhyāya 4 (Phala): describes the fruit of liberation, the vision of the supreme Brahman, and the nature of the realized soul.

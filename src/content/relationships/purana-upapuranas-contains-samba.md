@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Sāmba Purāṇa; represented here as a catalogue entry.
----
+The Sāmba Upapurāṇa focuses on Sāmba (son of Kṛṣṇa) and Vaiṣṇava theology.

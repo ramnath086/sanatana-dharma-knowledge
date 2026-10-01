@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Muṇḍaka Upaniṣad; represented here as a catalogue entry.
----
+The Muṇḍaka Upaniṣad distinguishes between higher (para) and lower (aparā) knowledge and the nature of liberation.

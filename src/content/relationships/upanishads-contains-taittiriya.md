@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Taittirīya Upaniṣad; represented here as a catalogue entry.
----
+The Taittirīya Upaniṣad contains the famous teaching on the five sheaths (kośas) of existence: Annamaya, Pranamaya, Manomaya, Vijnamaya, and Anandamaya.

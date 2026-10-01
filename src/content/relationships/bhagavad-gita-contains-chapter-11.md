@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 11 (Viśvarūpa Darśana Yoga); represented here as a catalogue entry.
----
+Viśvarūpa-darśana Yoga: Arjuna's vision of Kṛṣṇa's universal form (Viśvarūpa) and cosmic form.

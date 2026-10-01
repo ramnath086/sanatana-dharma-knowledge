@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Śiva Purāṇa; represented here as a catalogue entry.
----
+The Śiva Purāṇa is one of the eighteen Mahāpurāṇas, a major Śaiva text focusing on Shiva's manifestations and the Purāṇic discourse.

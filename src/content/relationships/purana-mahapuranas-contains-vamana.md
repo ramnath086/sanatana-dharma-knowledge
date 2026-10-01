@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Vāmana Purāṇa; represented here as a catalogue entry.
----
+The Vāmana Purāṇa is one of the eighteen Mahāpurāṇas, focusing on the Vāmana (dwarf) incarnation of Viṣṇu.

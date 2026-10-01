@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Brahma Purāṇa; represented here as a catalogue entry.
----
+The Brahmā Purāṇa is one of the eighteen Mahāpurāṇas, a Śaiva text with extensive material on pilgrimage sites in North India.

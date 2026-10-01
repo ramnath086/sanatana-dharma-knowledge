@@ -7,4 +7,4 @@ sources: [gretil, chowkhamba-sanskrit-academy]
 status: published
 verification: verified
 ---
-The Chāndogya Upaniṣad teaches the unity of the individual self (jīvātman) with the ultimate (paramātman) through the "tat tvam asi" mahāvākya.
+The Chāndogya Upaniṣad teaches the unity of the individual self (jīvātman) with the ultimate (paramātman) through the "tat tvam archaeological-survey-of-india" mahāvākya.

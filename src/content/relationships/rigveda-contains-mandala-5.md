@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Ṛgveda Saṃhitā contains the fifth Maṇḍala; represented here as a catalogue entry.
----
+Maṇḍala 5 of the Ṛgveda contains hymns to Agni, Indra, and the Āditya clan deities.

@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upaniṣads include the Aitareya Upaniṣad; represented here as a catalogue entry.
----
+The Aitareya Upaniṣad discusses the origin of life from the cosmic Being and the nature of consciousness.

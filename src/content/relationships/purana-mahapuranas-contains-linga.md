@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahāpurāṇas include the Liṅga Purāṇa; represented here as a catalogue entry.
----
+The Liṅga Purāṇa is one of the eighteen Mahāpurāṇas, a Śaiva text devoted to the liṅga form of Śiva.

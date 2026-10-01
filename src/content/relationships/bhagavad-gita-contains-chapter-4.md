@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Bhagavad Gītā contains chapter 4 (Jñāna Karma Saṃnyāsa Yoga); represented here as a catalogue entry.
----
+Jñāna-Karma Saṅgrahana Yoga: Kṛṣṇa's discourse on the transmission of knowledge and the guru-disciple lineage.
