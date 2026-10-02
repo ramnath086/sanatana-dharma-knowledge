@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, COMMENTARY]
 ---
-Prakāśātman's Brahma Sūtra Bhāṣya (Pancapadika), a detailed Advaita commentary elaborating on the first five sūtras of the Brahma Sūtra; its analysis of the categories of error (bhrama) is represented here as a catalogue entry.
----
+Prakāśātman's Brahma Sūtra Bhāṣya (Pancapadika), a detailed Advaita commentary elaborating on the first five sūtras of the Brahma Sūtra.

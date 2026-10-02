@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The seventeenth book (Svargārohaṇa Parva) of the Mahābhārata, describing Yudhiṣṭhira's final ascent to heaven (svarga) and the resolution of the epic's central tensions; represented here as a catalogue entry.
----
+The seventeenth book (Svargārohaṇa Parva) of the Mahābhārata, describing Yudhiṣṭhira's final ascent to heaven (svarga) and the resolution of the epic's central tensions.

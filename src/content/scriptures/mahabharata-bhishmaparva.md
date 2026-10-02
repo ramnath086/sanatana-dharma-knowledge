@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The sixth book (Bhīṣma Parva) of the Mahābhārata, containing the first ten days of the Kurukṣetra war under Bhīṣma's command, including the Bhagavad Gītā; represented here as a catalogue entry.
----
+The sixth book (Bhīṣma Parva) of the Mahābhārata, containing the first ten days of the Kurukṣetra war under Bhīṣma's command, including the Bhagavad Gītā.

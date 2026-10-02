@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Śrīvilliputtūr Temple, one of the 108 Divya Deśams, the birthplace of Āṇḍāl (the only female Āḻvār), dedicated to Vaṭapaṭraśāyī Perumal and Āṇḍāl; its towering rājagopuram, the Āṇḍāl shrine, and the Adi Puram festival are represented here as a catalogue entry.
----
+The Śrīvilliputtūr Temple, one of the 108 Divya Deśams, the birthplace of Āṇḍāl (the only female Āḻvār), dedicated to Vaṭapaṭraśāyī Perumal and Āṇḍāl.

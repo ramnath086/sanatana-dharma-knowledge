@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The second kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Ayodhyā Kāṇḍa), describing the events in Ayodhyā leading to Rāma's exile, including Kaikeyī's boons, Daśaratha's grief, and Rāma's departure; represented here as a catalogue entry.
----
+The second kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Ayodhyā Kāṇḍa), describing the events in Ayodhyā leading to Rāma's exile, including Kaikeyī's boons, Daśaratha's grief, and Rāma's departure.

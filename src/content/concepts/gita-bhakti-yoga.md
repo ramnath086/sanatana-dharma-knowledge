@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI, PHILOSOPHY, PRACTICE]
 ---
-The Bhagavad Gītā's teaching of bhakti-yoga (the yoga of devotion): the qualities of the devotee (bhakta), the nature of divine love, and the supremacy of bhakti as the path to liberation; its exposition across chapters 7–12 and 18 is represented here as a catalogue entry.
----
+The Bhagavad Gītā's teaching of bhakti-yoga (the yoga of devotion): the qualities of the devotee (bhakta), the nature of divine love, and the supremacy of bhakti as the path to liberation.

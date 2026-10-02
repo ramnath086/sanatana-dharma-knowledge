@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition, Practice]
 ---
-The Viṭṭhala Temple at Pāṇḍharpur, Maharashtra, the center of the Vārkarī tradition; its annual Palkhi pilgrimage and Nāmadeva/Tukārām associations are represented here as a catalogue entry.
-
-
-
+The Viṭṭhala Temple at Pāṇḍharpur, Maharashtra, the center of the Vārkarī tradition.

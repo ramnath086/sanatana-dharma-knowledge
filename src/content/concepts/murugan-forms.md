@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DEITY, TRADITION, CONCEPT]
 ---
-The forms of Murugaṇ (Kārttikeya, Subrahmaṇya, Skanda): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, the Tamil deity of the Kurinji landscape; the six abodes (Arupadai Veedu: Tiruttani, Swamimalai, Palani, Tirupparankunram, Pazhamudircholai, Tiruchendur); his iconography (vel, peacock, rooster) and the Kanda Shasti festival are represented here as a catalogue entry.
----
+The forms of Murugaṇ (Kārttikeya, Subrahmaṇya, Skanda): the six-faced Ṣaṇmukha, the youthful Kumāra, the warrior Senāpati, the Tamil deity of the Kurinji landscape; the six abodes (Arupadai Veedu: Tiruttani, Swamimalai, Palani, Tirupparankunram, Pazhamudircholai, Tiruchendur).

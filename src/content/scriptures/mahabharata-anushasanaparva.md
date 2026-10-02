@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The thirteenth book (Anuśāsana Parva) of the Mahābhārata, continuing Bhīṣma's teachings on dharma, varṇa, āśrama, and the glory of Viṣṇu; represented here as a catalogue entry.
----
+The thirteenth book (Anuśāsana Parva) of the Mahābhārata, continuing Bhīṣma's teachings on dharma, varṇa, āśrama, and the glory of Viṣṇu.

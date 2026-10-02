@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Dvijaja Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the twice-born (dvija) tradition of Śaiva initiation and the transmission of mantras through the guru-śiṣya lineage; its emphasis on dīkṣā is represented here as a catalogue entry.
----
+The Dvijaja Āgama, one of the twenty-eight principal Śaiva Āgamas, associated with the twice-born (dvija) tradition of Śaiva initiation and the transmission of mantras through the guru-śiṣya lineage.

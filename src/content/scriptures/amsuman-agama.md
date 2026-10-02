@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Aṃśumān Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the radiant (aṃśumān) aspect of Śiva as the source of all light and knowledge; its treatment of the solar symbolism in Śaiva theology is represented here as a catalogue entry.
----
+The Aṃśumān Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the radiant (aṃśumān) aspect of Śiva as the source of all light and knowledge.

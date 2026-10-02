@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DHARMASHASTRA, CONCEPT]
 ---
-The four āśramas (stages of life) in Dharmaśāstra: brahmacarya (student), gṛhastha (householder), vānaprastha (forest-dweller), and saṃnyāsa (renunciant); their duties (dharma), transitions (saṃskāras), and the ideal progression toward mokṣa are represented here as a catalogue entry.
----
+The four āśramas (stages of life) in Dharmaśāstra: brahmacarya (student), gṛhastha (householder), vānaprastha (forest-dweller), and saṃnyāsa (renunciant).

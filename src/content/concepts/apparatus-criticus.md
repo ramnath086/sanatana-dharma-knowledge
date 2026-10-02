@@ -4,10 +4,9 @@ title: Apparatus Criticus
 type: concept
 language: [sa, en]
 aliases: [Apparatus Criticus, Critical Apparatus, क्रिटिकल अपैरेटस]
-sources: [gretil, soas-university-london, cambridge-university-press]
+sources: [gretil, soas-university-london, cambridge-university-press, digital-india-library]
 status: published
 verification: verified
-classifications: [CONCEPT, Manuscript, Scholarship]
+classifications: [CONCEPT, Manuscript, Scholarship]
 ---
-The critical apparatus in a scholarly edition recording variant readings, editorial decisions, and conjectures; its formats (positive, negative, hybrid) are represented here as a catalogue entry.
-
+The critical apparatus is the scholarly apparatus of a critical edition recording variant readings, editorial emendations, and source-witness identification for each lemma. Its forms include the positive apparatus (listing witnesses supporting the chosen reading), the negative (listing rejected variants), and the hybrid. Modern standards (CSE, Leuven, Cambridge conventions) encode sigla (e.g. * for corrections, † for deletions) and witness sigla; digital critical editions (CEEC, Muktabodha, Sarit) render apparatus relationally (TEI <app>) so that a reader may traverse the editorial argument and reinstate alternatives.

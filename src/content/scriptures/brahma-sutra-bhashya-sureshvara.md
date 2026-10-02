@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, COMMENTARY]
 ---
-Sureśvara's Brahma Sūtra Bhāṣya (Bṛhadāraṇyaka Upaniṣad Bhāṣya Vārtika), the direct disciple of Śaṅkara, providing a detailed Vārtika on Śaṅkara's Brahma Sūtra Bhāṣya; its elaboration of Advaita arguments is represented here as a catalogue entry.
----
+Sureśvara's Brahma Sūtra Bhāṣya (Bṛhadāraṇyaka Upaniṣad Bhāṣya Vārtika), the direct disciple of Śaṅkara, providing a detailed Vārtika on Śaṅkara's Brahma Sūtra Bhāṣya.

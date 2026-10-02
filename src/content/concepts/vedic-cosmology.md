@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC, CONCEPT]
 ---
-Vedic cosmology: the Ṛgvedic vision of the universe (brahmāṇḍa) emerging from the cosmic sacrifice (puruṣa-sūkta, RV 10.90), the three worlds (bhūr, bhuvaḥ, svaḥ), the cosmic mountain (Meru), the seven dvīpas and oceans; the Upaniṣadic evolution to brahman as the substrate of all; represented here as a catalogue entry.
----
+Vedic cosmology: the Ṛgvedic vision of the universe (brahmāṇḍa) emerging from the cosmic sacrifice (puruṣa-sūkta, RV 10.90), the three worlds (bhūr, bhuvaḥ, svaḥ), the cosmic mountain (Meru), the seven dvīpas and oceans; the Upaniṣadic evolution to brahman as the substrate of all.

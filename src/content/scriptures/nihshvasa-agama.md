@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Niḥśvāsa Āgama, one of the twenty-eight principal Śaiva Āgamas, named for the "exhalation" (niḥśvāsa) of Śiva as the creative breath of the universe; its cosmogonic focus and the emanation of tattvas from Śiva is represented here as a catalogue entry.
----
+The Niḥśvāsa Āgama, one of the twenty-eight principal Śaiva Āgamas, named for the "exhalation" (niḥśvāsa) of Śiva as the creative breath of the universe.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Sāmaveda Saṃhitā is the collection of melodic verses (sāmans) drawn primarily from the Ṛgveda for liturgical chanting; its textual structure and musical notation are represented here as a catalogue entry.
----
+The Sāmaveda Saṃhitā is the collection of melodic verses (sāmans) drawn primarily from the Ṛgveda for liturgical chanting.

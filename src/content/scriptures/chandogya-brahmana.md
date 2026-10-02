@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Chāndogya Brāhmaṇa (the first part of the Chāndogya Upaniṣad's textual complex), associated with the Kauthuma Śākhā of the Sāmaveda, contains the Chāndogya Upaniṣad; its content is represented here as a catalogue entry.
----
+The Chāndogya Brāhmaṇa (the first part of the Chāndogya Upaniṣad's textual complex), associated with the Kauthuma Śākhā of the Sāmaveda, contains the Chāndogya Upaniṣad.

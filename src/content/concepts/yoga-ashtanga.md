@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, YOGA, PRACTICE, CONCEPT]
 ---
-The eight limbs (aṣṭāṅga) of Patañjali's Yoga: yama (restraints), niyama (observances), āsana (posture), prāṇāyāma (breath control), pratyāhāra (sense withdrawal), dhāraṇā (concentration), dhyāna (meditation), samādhi (absorption); their sequential practice and interdependence are represented here as a catalogue entry.
----
+The eight limbs (aṣṭāṅga) of Patañjali's Yoga: yama (restraints), niyama (observances), āsana (posture), prāṇāyāma (breath control), pratyāhāra (sense withdrawal), dhāraṇā (concentration), dhyāna (meditation), samādhi (absorption).

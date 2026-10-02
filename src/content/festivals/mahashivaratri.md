@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-Mahāśivarātri, the 'Great Night of Śiva', observed on the 14th night of the dark fortnight of Phālguna/Māgha (Feb–Mar); all-night vigil (jāgaraṇa), fasting, Rudrābhiṣeka, bilva leaf offerings, and the chanting of 'Oṃ Namaḥ Śivāya'; its association with Śiva's cosmic dance (Tāṇḍava) and the marriage of Śiva-Pārvatī are represented here as a catalogue entry.
----
+Mahāśivarātri, the 'Great Night of Śiva', observed on the 14th night of the dark fortnight of Phālguna/Māgha (Feb–Mar); all-night vigil (jāgaraṇa), fasting, Rudrābhiṣeka, bilva leaf offerings, and the chanting of 'Oṃ Namaḥ Śivāya'.

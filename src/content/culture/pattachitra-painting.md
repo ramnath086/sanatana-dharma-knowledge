@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CULTURE, ART, CONCEPT]
 ---
-The Pattachitra cloth painting tradition of Odisha and West Bengal, characterized by bold lines, natural colors, and themes from Jagannātha cult, Rāmāyaṇa, and Mahābhārata; its ritual use in temple worship is represented here as a catalogue entry.
----
+The Pattachitra cloth painting tradition of Odisha and West Bengal, characterized by bold lines, natural colors, and themes from Jagannātha cult, Rāmāyaṇa, and Mahābhārata.

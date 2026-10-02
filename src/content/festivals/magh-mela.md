@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [FESTIVAL, REGIONAL_TRADITION, CULTURE]
 ---
-The annual Māgha Mela at Prayāgraja (Allahabad), Uttar Pradesh, during the month of Māgha (Jan–Feb), a smaller precursor to the Kumbha Mela; its ritual bathing, kalpavās, and regional significance are represented here as a catalogue entry.
----
+The annual Māgha Mela at Prayāgraja (Allahabad), Uttar Pradesh, during the month of Māgha (Jan–Feb), a smaller precursor to the Kumbha Mela.

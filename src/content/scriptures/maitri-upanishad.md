@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA]
 ---
-The Maitrī Upaniṣad, associated with the Kṛṣṇa Yajurveda (Maitrāyaṇīya Śākhā), presents a dialogue between King Bṛhadratha and Sage Śākāyanya on the nature of the self and the means to liberation; its text is represented here as a catalogue entry.
----
+The Maitrī Upaniṣad, associated with the Kṛṣṇa Yajurveda (Maitrāyaṇīya Śākhā), presents a dialogue between King Bṛhadratha and Sage Śākāyanya on the nature of the self and the means to liberation.

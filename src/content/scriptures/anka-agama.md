@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Aṅka Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the distinguishing marks (aṅka) of Śiva's various forms and the iconographic prescriptions for temple images; its contribution to Śaiva iconography is represented here as a catalogue entry.
----
+The Aṅka Āgama, one of the twenty-eight principal Śaiva Āgamas, detailing the distinguishing marks (aṅka) of Śiva's various forms and the iconographic prescriptions for temple images.

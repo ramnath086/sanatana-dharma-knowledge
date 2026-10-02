@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA]
 ---
-The Saura Purāṇa, one of the eighteen Upapurāṇas, focusing on the worship of Sūrya (the Sun), solar cosmology, and the Sūrya mantras; its role in solar worship traditions is represented here as a catalogue entry.
----
+The Saura Purāṇa, one of the eighteen Upapurāṇas, focusing on the worship of Sūrya (the Sun), solar cosmology, and the Sūrya mantras.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]
 ---
-A systematic descriptive record of manuscript holdings, including codicological, paleographical, and textual metadata; its standards (TEI, MSDESC) and major projects are represented here as a catalogue entry.
-
+A systematic descriptive record of manuscript holdings, including codicological, paleographical, and textual metadata.

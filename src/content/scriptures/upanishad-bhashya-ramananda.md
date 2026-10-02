@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA, COMMENTARY]
 ---
-Rāmānanda's Upaniṣad Bhāṣyas, reflecting the Viśiṣṭādvaita tradition in the North Indian Bhakti context, emphasizing Rāma as the supreme reality of the Upaniṣads; his influence on the Rāmānandī tradition is represented here as a catalogue entry.
----
+Rāmānanda's Upaniṣad Bhāṣyas, reflecting the Viśiṣṭādvaita tradition in the North Indian Bhakti context, emphasizing Rāma as the supreme reality of the Upaniṣads.

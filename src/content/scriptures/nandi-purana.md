@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA]
 ---
-The Nandi Purāṇa, one of the eighteen Upapurāṇas, a Śaiva text narrated by Nandi (Śiva's bull), focusing on Śiva worship, the glory of the liṅga, and Śaiva rituals; its role in Śaiva traditions is represented here as a catalogue entry.
----
+The Nandi Purāṇa, one of the eighteen Upapurāṇas, a Śaiva text narrated by Nandi (Śiva's bull), focusing on Śiva worship, the glory of the liṅga, and Śaiva rituals.

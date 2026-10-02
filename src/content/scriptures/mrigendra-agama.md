@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Mṛgendra Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the philosophy of Śiva, the nature of the soul (paśu), bondage (pāśa), and the path to liberation; represented here as a catalogue entry.
----
+The Mṛgendra Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the philosophy of Śiva, the nature of the soul (paśu), bondage (pāśa), and the path to liberation.

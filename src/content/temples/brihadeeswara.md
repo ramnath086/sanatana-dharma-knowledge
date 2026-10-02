@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition, Culture]
 ---
-The Bṛhadīśvara Temple at Thanjavur, Tamil Nadu, a UNESCO World Heritage site built by Rājarāja I; its architecture, inscriptions, and bronze sculptures are represented here as a catalogue entry.
-
-
-
+The Bṛhadīśvara Temple at Thanjavur, Tamil Nadu, a UNESCO World Heritage site built by Rājarāja I.

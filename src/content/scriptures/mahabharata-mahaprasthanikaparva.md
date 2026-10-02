@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The sixteenth book (Mahāprasthānika Parva) of the Mahābhārata, describing the Pāṇḍavas' great journey (mahāprasthāna) toward the Himalayas and their successive falls; represented here as a catalogue entry.
----
+The sixteenth book (Mahāprasthānika Parva) of the Mahābhārata, describing the Pāṇḍavas' great journey (mahāprasthāna) toward the Himalayas and their successive falls.

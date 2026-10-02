@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, CONCEPT]
 ---
-The Kurukṣetra War, the central conflict of the Mahābhārata, fought between the Pāṇḍavas and Kauravas over eighteen days; its key warriors (Bhīṣma, Droṇa, Karṇa, Arjuna), the Bhagavad Gītā discourse, and its traditional dating are represented here as a catalogue entry.
----
+The Kurukṣetra War, the central conflict of the Mahābhārata, fought between the Pāṇḍavas and Kauravas over eighteen days.

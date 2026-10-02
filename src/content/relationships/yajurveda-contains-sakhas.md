@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Yajurveda is transmitted in Kṛṣṇa and Śukla recensions; represented here as a catalogue entry.
----
+The Yajurveda is transmitted in Kṛṣṇa and Śukla recensions.

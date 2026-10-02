@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC, CONCEPT]
 ---
-The four principal Vedic priests (ṛtvij) and their assistants: hotṛ (Ṛgveda recitation), adhvaryu (Yajurveda ritual action), udgātṛ (Sāmaveda chanting), brahman (Atharvaveda supervision); their roles, assistants, and the symbolic correspondence to the four Vedas are represented here as a catalogue entry.
----
+The four principal Vedic priests (ṛtvij) and their assistants: hotṛ (Ṛgveda recitation), adhvaryu (Yajurveda ritual action), udgātṛ (Sāmaveda chanting), brahman (Atharvaveda supervision).

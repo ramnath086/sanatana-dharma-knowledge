@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TRADITION, PRACTICE, CONCEPT]
 ---
-Saṃnyāsa (renunciation): the fourth āśrama (stage of life) in Dharmaśāstra, characterized by the renunciation of worldly duties, the adoption of the ochre robe (kāṣāya), the begging bowl (bhikṣāpātra), and the pursuit of mokṣa through jñāna and vairāgya; the types of saṃnyāsa (kuṭīcaka, bahūdaka, haṃsa, paramahaṃsa), the saṃnyāsa dīkṣā, and the saṃnyāsī's daily routine are represented here as a catalogue entry.
----
+Saṃnyāsa (संन्यास) is the fourth āśrama, the renunciation of worldly life and the renunciation of the fruits of action, the culmination of the fourfold social-spiritual scheme. The Gītā (18.48–56) distinguishes vānaprastha-saṃnyāsa and parivrrajja-saṃnyāsa, the latter as the mendicant path of the Ādi Śaṅkarācārya's paramparā. The Buddhist Pāramitā texts and the Jain Ācārāṅga treat saṃnyāsa as abandonment of all worldly ties. It is preceded by the qualifications (sādhana) of vairāgya, śānti, upāya, and the firm conviction (niścaya) of the identity (or non-identity) of self and ultimate reality.

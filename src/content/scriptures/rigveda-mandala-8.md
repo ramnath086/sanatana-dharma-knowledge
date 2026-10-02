@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The eighth Maṇḍala of the Ṛgveda Saṃhitā contains 103 hymns attributed to the Kaṇva and Āṅgirasa families; dedicated to Indra, Agni, and the Aśvins; contains the Vālakhilya hymns (8.49–59); represented here as a catalogue entry.
----
+The eighth Maṇḍala of the Ṛgveda Saṃhitā contains 103 hymns attributed to the Kaṇva and Āṅgirasa families; dedicated to Indra, Agni, and the Aśvins; contains the Vālakhilya hymns (8.49–59).

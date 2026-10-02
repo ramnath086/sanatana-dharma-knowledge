@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Aitareya Āraṇyaka, associated with the Ṛgveda, contains the Aitareya Upaniṣad and discusses the inner meaning of ritual; its content is represented here as a catalogue entry.
----
+The Aitareya Āraṇyaka, associated with the Ṛgveda, contains the Aitareya Upaniṣad and discusses the inner meaning of ritual.

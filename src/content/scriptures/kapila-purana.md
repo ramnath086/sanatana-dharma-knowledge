@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA]
 ---
-The Kapila Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Kapila, focusing on Sāṅkhya philosophy, the worship of Viṣṇu, and the glory of the Gangā; its philosophical orientation is represented here as a catalogue entry.
----
+The Kapila Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Kapila, focusing on Sāṅkhya philosophy, the worship of Viṣṇu, and the glory of the Gangā.

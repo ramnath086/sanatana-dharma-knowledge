@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Dīpta Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its treatment of the caryā pāda (conduct) and the radiant (dīpta) manifestation of Śiva in the world; its emphasis on the guru-śiṣya paramparā and the initiation lineage is represented here as a catalogue entry.
----
+The Dīpta Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its treatment of the caryā pāda (conduct) and the radiant (dīpta) manifestation of Śiva in the world.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The eleventh book (Strī Parva) of the Mahābhārata, depicting the lamentations of the women (strī) after the war, including Gandhārī's curse and the grief of the widows; represented here as a catalogue entry.
----
+The eleventh book (Strī Parva) of the Mahābhārata, depicting the lamentations of the women (strī) after the war, including Gandhārī's curse and the grief of the widows.

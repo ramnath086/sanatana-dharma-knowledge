@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Kāmākhyā Temple at Guwahati (Assam), one of the fifty-one Śakti Pīṭhas, where the yoni of Devī fell, a major center of Tantric Śākta worship; its unique yoni worship, the Ambubachi Mela, and the ten Mahāvidyā temples are represented here as a catalogue entry.
----
+The Kāmākhyā Temple at Guwahati (Assam), one of the fifty-one Śakti Pīṭhas, where the yoni of Devī fell, a major center of Tantric Śākta worship.

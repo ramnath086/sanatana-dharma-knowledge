@@ -9,6 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition]
 ---
-The Somnāth Temple at Prabhas Patan, Gujarat, the first of the twelve Jyotirliṅgas; its history of repeated destruction and reconstruction is represented here as a catalogue entry.
-
-
+The Somnāth Temple at Prabhas Patan, Gujarat, the first of the twelve Jyotirliṅgas.

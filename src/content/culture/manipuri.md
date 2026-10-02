@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, CULTURE, ART]
 ---
-The classical dance tradition of Manipur, with its devotional themes (Rāsa Līlā), subtle movements, and distinctive costume; its repertoire and ritual context are represented here as a catalogue entry.
----
+The classical dance tradition of Manipur, with its devotional themes (Rāsa Līlā), subtle movements, and distinctive costume.

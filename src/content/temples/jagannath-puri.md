@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition]
 ---
-The Jagannātha Temple at Purī, Odisha, one of the four Dhāmas; its distinctive deities, Ratha Yātrā, and temple administration are represented here as a catalogue entry.
-
-
-
+The Jagannātha Temple at Purī, Odisha, one of the four Dhāmas.

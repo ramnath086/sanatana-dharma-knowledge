@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC, CONCEPT]
 ---
-The Rāṇāyanīya Śākhā is a recension of the Sāmaveda, historically prominent in Gujarat and Maharashtra; its texts are closely related to the Kauthuma recension; represented here as a catalogue entry.
----
+The Rāṇāyanīya Śākhā is a recension of the Sāmaveda, historically prominent in Gujarat and Maharashtra; its texts are closely related to the Kauthuma recension.

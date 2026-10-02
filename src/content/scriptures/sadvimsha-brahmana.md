@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Ṣaḍviṃśa Brāhmaṇa, the twenty-sixth book supplementing the Pañcaviṃśa Brāhmaṇa, contains additional ritual material for Sāma Vedic sacrifices; its content is represented here as a catalogue entry.
----
+The Ṣaḍviṃśa Brāhmaṇa, the twenty-sixth book supplementing the Pañcaviṃśa Brāhmaṇa, contains additional ritual material for Sāma Vedic sacrifices.

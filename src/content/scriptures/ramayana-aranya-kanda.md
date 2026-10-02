@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The third kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Araṇya Kāṇḍa), describing Rāma, Sītā, and Lakṣmaṇa's life in the forest, the encounter with Śūrpaṇakhā, and Sītā's abduction by Rāvaṇa; represented here as a catalogue entry.
----
+The third kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Araṇya Kāṇḍa), describing Rāma, Sītā, and Lakṣmaṇa's life in the forest, the encounter with Śūrpaṇakhā, and Sītā's abduction by Rāvaṇa.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA]
 ---
-The Śvetāśvatara Upaniṣad, associated with the Kṛṣṇa Yajurveda, is a theistic Upaniṣad focusing on Rudra/Śiva as the supreme deity; its theistic terminology and bhakti orientation are represented here as a catalogue entry.
----
+The Śvetāśvatara Upaniṣad, associated with the Kṛṣṇa Yajurveda, is a theistic Upaniṣad focusing on Rudra/Śiva as the supreme deity.

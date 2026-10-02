@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, Culture, Art]
 ---
-The classical dance form of Tamil Nadu, reconstructed in the 20th century from sadir traditions; its repertoire (alarippu, jatisvaram, varṇam, padam, tillāṇa) and theoretical basis are represented here as a catalogue entry.
-
-
-
+The classical dance form of Tamil Nadu, reconstructed in the 20th century from sadir traditions.

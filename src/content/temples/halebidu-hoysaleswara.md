@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION, CULTURE]
 ---
-The Hoysaleswara Temple at Halebidu, Karnataka, a twin Hoysala temple dedicated to Śiva, renowned for its extensive sculptural program; its architecture, iconography, and UNESCO World Heritage nomination are represented here as a catalogue entry.
----
+The Hoysaleswara Temple at Halebidu, Karnataka, a twin Hoysala temple dedicated to Śiva, renowned for its extensive sculptural program.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, CONCEPT]
 ---
-The Vaiśeṣika atomic theory (paramāṇu-vāda) positing eternal, indivisible atoms as the ultimate constituents of physical substances; its metaphysical implications and differences from other atomic theories are represented here as a catalogue entry.
----
+The Vaiśeṣika atomic theory (paramāṇu-vāda) positing eternal, indivisible atoms as the ultimate constituents of physical substances.

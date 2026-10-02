@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, CONCEPT]
 ---
-The Sāṃkhya dualism of puruṣa (pure consciousness, plural, passive witness) and prakṛti (primordial matter, singular, active, composed of three guṇas); their interaction (saṃyoga) as the cause of evolution, the distinction between knowledge (jñāna) and ignorance (ajñāna), and liberation (kaivalya) as the isolation of puruṣa from prakṛti are represented here as a catalogue entry.
----
+The Sāṃkhya dualism of puruṣa (pure consciousness, plural, passive witness) and prakṛti (primordial matter, singular, active, composed of three guṇas).

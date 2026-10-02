@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Sahasra Āgama, one of the twenty-eight principal Śaiva Āgamas, named for its thousand (sahasra) verses or topics, covering all four pādas with emphasis on the thousand names and forms of Śiva; its comprehensive scope is represented here as a catalogue entry.
----
+The Sahasra Āgama, one of the twenty-eight principal Śaiva Āgamas, named for its thousand (sahasra) verses or topics, covering all four pādas with emphasis on the thousand names and forms of Śiva.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, CONCEPT]
 ---
-The Sāṃkhya theory of cosmic evolution (pariṇāma) from prakṛti: the sequential manifestation of mahat (buddhi), ahaṃkāra (ego), the five tanmātras (subtle elements), the five mahābhūtas (gross elements), the five jñānendriyas (sense organs), the five karmendriyas (action organs), and manas (mind); the teleological direction of evolution toward the liberation of puruṣa is represented here as a catalogue entry.
----
+The Sāṃkhya theory of cosmic evolution (pariṇāma) from prakṛti: the sequential manifestation of mahat (buddhi), ahaṃkāra (ego), the five tanmātras (subtle elements), the five mahābhūtas (gross elements), the five jñānendriyas (sense organs), the five karmendriyas (action organs), and manas (mind).

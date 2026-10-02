@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The sixth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Yuddha Kāṇḍa), describing the war between Rāma's army and Rāvaṇa's forces, the death of Rāvaṇa, and Sītā's rescue; represented here as a catalogue entry.
----
+The sixth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Yuddha Kāṇḍa), describing the war between Rāma's army and Rāvaṇa's forces, the death of Rāvaṇa, and Sītā's rescue.

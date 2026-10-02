@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PRACTICE, MANTRA, CONCEPT]
 ---
-The japa-mālā (prayer beads) used for counting mantra repetitions: the standard 108 beads, the meru (guru bead), materials (rudrākṣa, tulasī, sphatika, etc.), and the rules for its use in japa practice are represented here as a catalogue entry.
----
+Japa mālā (prayer beads, mala) is a string of 108 beads (plus one larger guru-bead, the 'sumihira' / 'meru') used to count repetitions of a mantra or divine name during japa. Traditionally made of Tulsi (holy basil) wood or rudrakṣa (divine-eye) seeds, it is held in the right hand and moved between the thumb and the other fingers, with the gaze averted, to aid sustained concentration on the sacred syllable or name.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Kauṣītaki Brāhmaṇa, associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.
----
+The Kauṣītaki Brāhmaṇa, associated with the Bāṣkala Śākhā of the Ṛgveda, contains ritual prescriptions and theological explanations.

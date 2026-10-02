@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TANTRA]
 ---
-The Tripurā Rahasya, a Śākta text in three books (Mahātmya, Jñāna, Caryā), attributed to Dattātreya, expounding the worship of Tripurasundarī, the nature of consciousness, and the path of jñāna within the Śrīvidyā tradition; its Advaita-Tantric synthesis is represented here as a catalogue entry.
----
+The Tripurā Rahasya, a Śākta text in three books (Mahātmya, Jñāna, Caryā), attributed to Dattātreya, expounding the worship of Tripurasundarī, the nature of consciousness, and the path of jñāna within the Śrīvidyā tradition.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC, RITUAL, CONCEPT]
 ---
-The Vedic sacrificial system (yajña): the seven havir-yajñas (Agnihotra, Darśa-pūrṇamāsa, Āgrayaṇa, Cāturmāsya, Nirūḍhapaśubandha, Sautrāmaṇi, Agniṣṭoma) and the seven soma-yajñas (Agnistoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Vājapeya, Atirātra, Aptoryāma); their structure, priests (ṛtvij), and cosmological significance are represented here as a catalogue entry.
----
+The Vedic sacrificial system (yajña): the seven havir-yajñas (Agnihotra, Darśa-pūrṇamāsa, Āgrayaṇa, Cāturmāsya, Nirūḍhapaśubandha, Sautrāmaṇi, Agniṣṭoma) and the seven soma-yajñas (Agnistoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Vājapeya, Atirātra, Aptoryāma).

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA]
 ---
-The first adhyāya (chapter) of the Brahma Sūtra (Samanvaya), consisting of four pādas and 134 sūtras, harmonizing the diverse Upaniṣadic statements to establish that Brahman is the sole cause of the universe; represented here as a catalogue entry.
----
+The first adhyāya (chapter) of the Brahma Sūtra (Samanvaya), consisting of four pādas and 134 sūtras, harmonizing the diverse Upaniṣadic statements to establish that Brahman is the sole cause of the universe.

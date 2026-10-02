@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA]
 ---
-The fourth adhyāya of the Brahma Sūtra (Phala), consisting of four pādas and 113 sūtras, describing the fruit (phala) of knowledge — liberation (mokṣa), the state of the liberated, and the fate of the knower of Brahman; represented here as a catalogue entry.
----
+The fourth adhyāya of the Brahma Sūtra (Phala), consisting of four pādas and 113 sūtras, describing the fruit (phala) of knowledge — liberation (mokṣa), the state of the liberated, and the fate of the knower of Brahman.

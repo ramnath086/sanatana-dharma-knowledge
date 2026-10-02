@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION, CULTURE]
 ---
-The Jyotir Maṭha (Jyotirmath/Joshimath) in Uttarakhand, the third of the four Ādi Śaṅkara maṭhas, located near Badrinath; its association with the Nṛsiṃha Temple, the cave of Totakācārya, its role in the Himalayan Advaita tradition, and the recent land subsidence concerns are represented here as a catalogue entry.
----
+The Jyotir Maṭha (Jyotirmath/Joshimath) in Uttarakhand, the third of the four Ādi Śaṅkara maṭhas, located near Badrinath.

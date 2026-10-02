@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA]
 ---
-The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme deity and teaches the dvādaśākṣara mantra; its text is represented here as a catalogue entry.
----
+The Nārāyaṇa Upaniṣad, a Vaiṣṇava Upaniṣad, identifies Nārāyaṇa (Viṣṇu) as the supreme deity and teaches the dvādaśākṣara mantra.

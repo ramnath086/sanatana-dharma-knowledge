@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The fourteenth book (Āśramavāsika Parva) of the Mahābhārata, describing the Pāṇḍavas' retirement to the forest, Dhṛtarāṣṭra's death, and the end of the Kuru elders; represented here as a catalogue entry.
----
+The fourteenth book (Āśramavāsika Parva) of the Mahābhārata, describing the Pāṇḍavas' retirement to the forest, Dhṛtarāṣṭra's death, and the end of the Kuru elders.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Raurava Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of temple architecture, iconography, and the philosophy of Śiva-Śakti; represented here as a catalogue entry.
----
+The Raurava Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of temple architecture, iconography, and the philosophy of Śiva-Śakti.

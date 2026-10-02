@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION, CULTURE]
 ---
-The Chennakesava Temple at Belur, Karnataka, a Hoysala masterpiece with intricate soapstone sculptures, built by Viṣṇuvardhana; its architecture, iconography, and UNESCO World Heritage nomination are represented here as a catalogue entry.
----
+The Chennakesava Temple at Belur, Karnataka, a Hoysala masterpiece with intricate soapstone sculptures, built by Viṣṇuvardhana.

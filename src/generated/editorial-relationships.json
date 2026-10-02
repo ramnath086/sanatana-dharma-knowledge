@@ -500,8 +500,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Brahma Sūtra has Madhva's Brahma Sūtra Bhāṣya (Dvaita); represented here as a catalogue entry.\n---",
-    "contentHash": "d7a1cc820e6b424149c0e19dea9050d305e20adb9711872e5dad7fdeefd745cc",
+    "editorialNote": "The Brahma Sūtra has Madhva's Brahma Sūtra Bhāṣya (Dvaita).",
+    "contentHash": "67ad1a8309d8e9b030a87553e927b891de3a0d6a82639a970fc94badbd09ad15",
     "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-madhva.md"
   },
   {
@@ -512,8 +512,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Brahma Sūtra has Nimbārka's Vedānta Pārijāta Saurabha (Bhedābheda); represented here as a catalogue entry.\n---",
-    "contentHash": "7258dfc972fb5f19571ba51a8ac63c8f6263be4da74308b622cb50ea045acdee",
+    "editorialNote": "The Brahma Sūtra has Nimbārka's Vedānta Pārijāta Saurabha (Bhedābheda).",
+    "contentHash": "f254ab70472c0d78724b84d7c02e78bb249583691fb1ad4dab5b2993a4f225bc",
     "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-nimbarka.md"
   },
   {
@@ -524,8 +524,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Brahma Sūtra has Vallabha's Anubhāṣya (Śuddhādvaita); represented here as a catalogue entry.\n---",
-    "contentHash": "e55a9d2129cab4c0e790b6527b3f7f5332b1a655ab278e6a422e5d7111f907d4",
+    "editorialNote": "The Brahma Sūtra has Vallabha's Anubhāṣya (Śuddhādvaita).",
+    "contentHash": "301ea74b6bf1decc362a99bb7e755e4f62b8f9257fbb4a14e77435049d180284",
     "sourceFile": "src\\content\\relationships\\brahma-sutra-commentary-vallabha.md"
   },
   {
@@ -1362,8 +1362,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Anuśāsana Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "191dd17a1d817fec760d8a22cdf4d90249b59d0c053241b7e4bd43dc23cff256",
+    "editorialNote": "The Mahābhārata contains the Anuśāsana Parva.",
+    "contentHash": "f7547346730c67880ac50f247284a93b9471ec16a70d92c540167912bf7d6793",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-anushasana-parva.md"
   },
   {
@@ -1374,8 +1374,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Āśramavāsika Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "033dab69dc3112979ff90c5ed626b6e3d540b5203e18ae3d1bc7717651a25457",
+    "editorialNote": "The Mahābhārata contains the Āśramavāsika Parva.",
+    "contentHash": "b4522acdfded1e8cc0c7422ca4d5de2a7ffe8fec3c77ef1a7b08154220f1fba5",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-ashramavasika-parva.md"
   },
   {
@@ -1386,8 +1386,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Bhīṣma Parva (with Bhagavad Gītā); represented here as a catalogue entry.\n---",
-    "contentHash": "fc4544da597a7209a1ec455ec2e5789c7c9eb64d63f8bee1ae219f5bc1a87a89",
+    "editorialNote": "The Mahābhārata contains the Bhīṣma Parva (with Bhagavad Gītā).",
+    "contentHash": "33e4238ebe63dcb0f92b043ee0f534a5600d657365b90bad0029bb07ce2afef6",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-bhishma-parva.md"
   },
   {
@@ -1398,8 +1398,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Droṇa Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "a651afb41f4ee9cd89be9458a47ff543c382e1c83e5ced72db481f3985407e81",
+    "editorialNote": "The Mahābhārata contains the Droṇa Parva.",
+    "contentHash": "dd5e6493f7e8b769b8b0017ccb28d53bcf8881ca877da66ad37c1268be225ac7",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-drona-parva.md"
   },
   {
@@ -1410,8 +1410,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Karṇa Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "2ee1d24c2411b3c83b946a029dd054e1c156570105f294ae8a38f3a922eba3cc",
+    "editorialNote": "The Mahābhārata contains the Karṇa Parva.",
+    "contentHash": "d856f169260ecd76f332a45adcbb1088c36a24e4b3b84f93db241e5efc31a530",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-karna-parva.md"
   },
   {
@@ -1422,8 +1422,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Mahāprasthānika Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "6f845edda9dd1b6d43bfdcff80ceab06301d5ae33a641320510d5f6c24d09b50",
+    "editorialNote": "The Mahābhārata contains the Mahāprasthānika Parva.",
+    "contentHash": "bf12da533c04c13edb8f75f8bca79a8390b371f865ef8201f847b24dfc266cdc",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-mahaprasthanika-parva.md"
   },
   {
@@ -1434,8 +1434,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Mausala Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "ea47493d3be2f7bdb71f7b0e6c951adeab8b4d8aca848574ce584e8441eb6cb7",
+    "editorialNote": "The Mahābhārata contains the Mausala Parva.",
+    "contentHash": "c3a49d8194019e88654341950635744857059024d8b442e46dd23c8006e395c4",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-mausala-parva.md"
   },
   {
@@ -1458,8 +1458,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Sabhā Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "bf12d3dbd09e27dcb479cd5dec969190411235b569fb8499a1112e16045908f6",
+    "editorialNote": "The Mahābhārata contains the Sabhā Parva.",
+    "contentHash": "e1b4186f1c965d5f3d8b93f98106285da4a600989cb88ef7821f86289769f32c",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-sabha-parva.md"
   },
   {
@@ -1470,8 +1470,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Sauptika Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "6473dc56f82d7751763a9ab5cd9d8530db62b9e89084a5e23e36b0865f817936",
+    "editorialNote": "The Mahābhārata contains the Sauptika Parva.",
+    "contentHash": "25a436740a886fd9c061e169523f3f931e184ab401ff3ef20f6aeeb6828b200d",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-sauptika-parva.md"
   },
   {
@@ -1482,8 +1482,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Śalya Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "7c7dbf13648d819c9041f6e25fb159ed3e598bdc7b335f3b070b2c2673da5249",
+    "editorialNote": "The Mahābhārata contains the Śalya Parva.",
+    "contentHash": "4c9c7eae3127e9607e05c7e81787dcb0e27ad046081764bfcf777804919d7f73",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-shalya-parva.md"
   },
   {
@@ -1494,8 +1494,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Śānti Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "8d7abda70cc30e981e33c4ec4e5184146a31d0d520042ea5d40d669be1871fde",
+    "editorialNote": "The Mahābhārata contains the Śānti Parva.",
+    "contentHash": "5e5459fe4be2551066cd7aa0bd1e908cf651377803bc58ad283fde178587fbb4",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-shanti-parva.md"
   },
   {
@@ -1506,8 +1506,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Strī Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "48638da103d9b843f3ece1068f13722c064f21a0a3419fc348b89a3f6e2151d0",
+    "editorialNote": "The Mahābhārata contains the Strī Parva.",
+    "contentHash": "6dfb9c4c253e6a72adfa134625a8686b0a2a3ad1ad7e7e60d833ddad8b27e8a9",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-stri-parva.md"
   },
   {
@@ -1518,8 +1518,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Svargārohaṇa Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "20664311814cfb1ac68d5c8012c378dc9477163a1f067fe6e8620bf55bda4c21",
+    "editorialNote": "The Mahābhārata contains the Svargārohaṇa Parva.",
+    "contentHash": "259fe4fedbe5ccf7fb9d6fc03e7b64f655ae58216f02f648919db229c7325309",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-svargarohana-parva.md"
   },
   {
@@ -1530,8 +1530,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Udyoga Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "34550c5067c8020b2cd071abe75cfb1d55f9b8f3e12c449e1b466b284e200df1",
+    "editorialNote": "The Mahābhārata contains the Udyoga Parva.",
+    "contentHash": "dd429625eb6dc95c6d1ee5ce467b136afd010bf10c285110da9ea12826260eed",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-udyoga-parva.md"
   },
   {
@@ -1554,8 +1554,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Mahābhārata contains the Virāṭa Parva; represented here as a catalogue entry.\n---",
-    "contentHash": "4ce142ccc26cbadba53e7ffd06df1a25fb2dcaaf8f888bcbe8aec53130541d2f",
+    "editorialNote": "The Mahābhārata contains the Virāṭa Parva.",
+    "contentHash": "700057b67967b9afb255938e40ab4a941d74751907503e04fdd6006f08e5c277",
     "sourceFile": "src\\content\\relationships\\mahabharata-contains-virata-parva.md"
   },
   {
@@ -2048,8 +2048,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Upapurāṇas include the Matsya Upapurāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "2de10290d12c287b3c949fea44495aa4fd2a8a334cc8e1d8622d263e8e25aea1",
+    "editorialNote": "The Upapurāṇas include the Matsya Upapurāṇa.",
+    "contentHash": "6094db55035f8a1f4f334f2ff5db78c611448cf9474f07237a4a4f65289bb87d",
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-matsya-upapurana.md"
   },
   {
@@ -2120,8 +2120,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Upapurāṇas include the Varāha Upapurāṇa; represented here as a catalogue entry.\n---",
-    "contentHash": "284b974689ced46d325846c571409ebd7970a4b34e5e4700c4ab4d1c3c2d212c",
+    "editorialNote": "The Upapurāṇas include the Varāha Upapurāṇa.",
+    "contentHash": "f0913ce57090b5c10ff75b328c801e5695214580b384cd9be4a528c5e0d883f3",
     "sourceFile": "src\\content\\relationships\\purana-upapuranas-contains-varaha-upapurana.md"
   },
   {
@@ -2168,8 +2168,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Rāmāyaṇa contains the Bāla Kāṇḍa; represented here as a catalogue entry.\n---",
-    "contentHash": "d896aa2a553eb93933593371f4a6f4e99d819428ddeb763315a4c105a8d8a7ad",
+    "editorialNote": "The Rāmāyaṇa contains the Bāla Kāṇḍa.",
+    "contentHash": "c55d5a762f3d472794df8d2749bc7029a9d194eb930bb1d8b42d52c8ab80faa6",
     "sourceFile": "src\\content\\relationships\\ramayana-contains-bala-kanda.md"
   },
   {
@@ -3019,8 +3019,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The principal Upaniṣads include Īśa; represented here as a catalogue entry.\n---",
-    "contentHash": "28127ff74f304bb216615715c3214dea1076245a8227dcfe2f6f45086ba81a57",
+    "editorialNote": "The principal Upaniṣads include Īśa.",
+    "contentHash": "f9529f91314c6d5d1766790dda9586a9b5627dac746c5ac80469816081d74624",
     "sourceFile": "src\\content\\relationships\\upanishads-contains-isha.md"
   },
   {
@@ -3143,8 +3143,8 @@
     "sourceIds": [
       "gretil"
     ],
-    "editorialNote": "The Yajurveda is transmitted in Kṛṣṇa and Śukla recensions; represented here as a catalogue entry.\n---",
-    "contentHash": "5726e91ac813d9ff2168e4913f231722c2713a8cd57ed5ae507ff34064e491d6",
+    "editorialNote": "The Yajurveda is transmitted in Kṛṣṇa and Śukla recensions.",
+    "contentHash": "5ffa360eed64d401c75f6bfe8fbd3887cec50a95ad7d913a08207a2aa1b5717d",
     "sourceFile": "src\\content\\relationships\\yajurveda-contains-sakhas.md"
   }
 ]

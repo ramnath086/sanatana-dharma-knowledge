@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DHARMASHASTRA]
 ---
-The Yājñavalkya Smṛti, a systematic Dharmaśāstra text in three books (ācāra, vyavahāra, prāyaścitta), more concise and organized than Manusmṛti; its influence on medieval Dharmaśāstra digests is represented here as a catalogue entry.
----
+The Yājñavalkya Smṛti, a systematic Dharmaśāstra text in three books (ācāra, vyavahāra, prāyaścitta), more concise and organized than Manusmṛti.

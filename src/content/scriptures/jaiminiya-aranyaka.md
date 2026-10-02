@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Jaiminīya Āraṇyaka, associated with the Jaiminīya Śākhā of the Sāmaveda, contains the Jaiminīya Upaniṣad Bṛhadāraṇyaka and related forest texts; its content is represented here as a catalogue entry.
----
+The Jaiminīya Āraṇyaka, associated with the Jaiminīya Śākhā of the Sāmaveda, contains the Jaiminīya Upaniṣad Bṛhadāraṇyaka and related forest texts.

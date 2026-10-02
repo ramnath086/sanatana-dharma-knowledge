@@ -4,10 +4,9 @@ title: Bhagavad Gītā Chapter 2 — Sāṅkhya Yoga
 type: scripture
 language: [sa, en]
 aliases: [Bhagavad Gita Chapter 2, Sankhya Yoga, भगवद्गीता अध्याय २]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, muktabodha]
 status: published
 verification: verified
 classifications: [SMRITI, ITIHASA]
 ---
-The second chapter of the Bhagavad Gītā (Sāṅkhya Yoga), containing Kṛṣṇa's foundational teaching on the immortality of the self (ātman), the nature of action (karma), and the practice of yoga; its 72 verses are foundational to the Gītā's philosophy; represented here as a catalogue entry.
----
+Gītā Chapter 2 (Sāṅkhya Yoga) opens Kṛṣṇa's teaching with the impermanence of the body and the immortality of the ātman (the body is discarded like cast-off garments). It distinguishes the field (kṣetra) and the knower of the field, defines yoga as skill in action, and contrasts the transient (dehī) with the eternal (nāśa-bandhu). It is the canonical locus of the doctrines of karma-yoga, jñāna-yoga, and the teaching that mokṣa comes only through knowledge (jñāna) of the self's identity with Brahman.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Aitareya Brāhmaṇa, associated with the Śākalya Śākhā of the Ṛgveda, provides ritual prescriptions and theological explanations; its content is represented here as a catalogue entry.
----
+The Aitareya Brāhmaṇa, associated with the Śākalya Śākhā of the Ṛgveda, provides ritual prescriptions and theological explanations.

@@ -4,10 +4,9 @@ title: Kaṭha Śākhā
 type: concept
 language: [sa, en]
 aliases: [Katha Shakha, Katha Recension, कठ शाखा]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy]
 status: published
 verification: verified
 classifications: [SHRUTI, VEDIC, CONCEPT]
 ---
-The Kaṭha Śākhā is a recension of the Kṛṣṇa Yajurveda; its texts include the Kaṭha Saṃhitā, Brāhmaṇa, Āraṇyaka, and the Kaṭha Upaniṣad; represented here as a catalogue entry.
----
+The Kāṭha Śākha (Kāṭha) is a recension of the Black (Kṛṣṇa) Yajur Veda, the source of the Kāṭha Saṃhitā, the Kāṭha Brāhmaṇa, the Kāṭha Āraṇyaka, and the Kāṭha Upaniṣad (the Upaniṣad of Death, the dialogue between Naciketas and Yama). It is one of the surviving śākhas of the Yajur Veda; its texts preserve the 'death' (mṛtyu) doctrine and the early 'knowledge' (jñāna) of the Self (Ātman) that are central to the Vedānta.

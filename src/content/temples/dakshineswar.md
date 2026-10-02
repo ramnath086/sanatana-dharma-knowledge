@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Dakṣiṇeśvara Kālī Temple near Kolkata (West Bengal), built by Rāṇī Rashmoni, where Rāmakṛṣṇa Paramahaṃsa attained spiritual realization; its twelve shrines of Kālī, the Navaratna architecture, and the Nahabat (music room) are represented here as a catalogue entry.
----
+The Dakṣiṇeśvara Kālī Temple near Kolkata (West Bengal), built by Rāṇī Rashmoni, where Rāmakṛṣṇa Paramahaṃsa attained spiritual realization.

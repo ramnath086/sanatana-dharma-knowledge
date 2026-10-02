@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The seventh kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Uttara Kāṇḍa), describing Rāma's return to Ayodhyā, his coronation, Sītā's banishment, the birth of his sons, and his eventual departure; represented here as a catalogue entry.
----
+The seventh kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Uttara Kāṇḍa), describing Rāma's return to Ayodhyā, his coronation, Sītā's banishment, the birth of his sons, and his eventual departure.

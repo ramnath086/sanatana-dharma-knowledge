@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SMRITI, ITIHASA, COMMENTARY]
 ---
-Rāmānuja's Gītā Bhāṣya, presenting the Viśiṣṭādvaita interpretation of the Gītā, emphasizing bhakti as the supreme path and the role of prapatti (self-surrender); its distinction from Śaṅkara's interpretation is represented here as a catalogue entry.
----
+Rāmānuja's Gītā Bhāṣya, presenting the Viśiṣṭādvaita interpretation of the Gītā, emphasizing bhakti as the supreme path and the role of prapatti (self-surrender).

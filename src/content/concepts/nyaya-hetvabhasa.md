@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, CONCEPT]
 ---
-The Nyāya classification of fallacies of inference (hetvābhāsas) including savyabhicāra, viruddha, satpratipakṣa, asiddha, and bādhita; their definitions and examples are represented here as a catalogue entry.
----
+The Nyāya classification of fallacies of inference (hetvābhāsas) including savyabhicāra, viruddha, satpratipakṣa, asiddha, and bādhita.

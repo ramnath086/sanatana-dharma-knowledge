@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANGA, DHARMASHASTRA]
 ---
-The Gautama Dharmasūtra, associated with the Sāmaveda, is an early Dharma Sūtra presenting legal, social, and ritual norms; its textual content is represented here as a catalogue entry.
----
+The Gautama Dharmasūtra, associated with the Sāmaveda, is an early Dharma Sūtra presenting legal, social, and ritual norms.

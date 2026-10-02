@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA, CONCEPT]
 ---
-The five characteristic topics (pañcalakṣaṇa) of the Purāṇas: sarga (creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories); their textual manifestation across the Purāṇic corpus is represented here as a catalogue entry.
----
+The five characteristic topics (pañcalakṣaṇa) of the Purāṇas: sarga (creation), pratisarga (secondary creation), vaṃśa (genealogies), manvantara (cosmic cycles), and vaṃśānucarita (dynastic histories).

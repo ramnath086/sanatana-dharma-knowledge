@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Nāgeśvara Temple near Dwarka (Gujarat), one of the twelve Jyotirliṅgas, located near the Dwarkadhish Temple; its architecture, the nearby Gopi Talav, and the legend of Daruka are represented here as a catalogue entry.
----
+The Nāgeśvara Temple near Dwarka (Gujarat), one of the twelve Jyotirliṅgas, located near the Dwarkadhish Temple.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The fifteenth book (Mausala Parva) of the Mahābhārata, describing the destruction of the Yādava clan through mutual slaughter (mausala) and Kṛṣṇa's departure; represented here as a catalogue entry.
----
+The fifteenth book (Mausala Parva) of the Mahābhārata, describing the destruction of the Yādava clan through mutual slaughter (mausala) and Kṛṣṇa's departure.

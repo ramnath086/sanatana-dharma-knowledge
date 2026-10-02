@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Matsya Upapurāṇa; represented here as a catalogue entry.
----
+The Upapurāṇas include the Matsya Upapurāṇa.

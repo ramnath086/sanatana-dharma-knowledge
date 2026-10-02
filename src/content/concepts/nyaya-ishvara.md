@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, CONCEPT]
 ---
-The Nyāya concept of Īśvara (God) as the efficient cause (nimitta-kāraṇa) of the universe, the creator, sustainer, and destroyer of the world, who is distinct from the material cause (prakṛti) and the individual selves (jīva); the arguments for God's existence (kārya-kāraṇa-anvaya, āyojanāt, dhṛtyādēḥ, padāt, pratyayataḥ, śrutēḥ) are represented here as a catalogue entry.
----
+The Nyāya concept of Īśvara (God) as the efficient cause (nimitta-kāraṇa) of the universe, the creator, sustainer, and destroyer of the world, who is distinct from the material cause (prakṛti) and the individual selves (jīva).

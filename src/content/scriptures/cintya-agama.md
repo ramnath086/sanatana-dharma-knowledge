@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Cintya Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the jñāna pāda and the contemplative (cintya) knowledge of Śiva as the supreme consciousness; its treatment of the thirty-six tattvas and the path of knowledge is represented here as a catalogue entry.
----
+The Cintya Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the jñāna pāda and the contemplative (cintya) knowledge of Śiva as the supreme consciousness.

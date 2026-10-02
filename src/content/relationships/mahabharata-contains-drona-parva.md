@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahābhārata contains the Droṇa Parva; represented here as a catalogue entry.
----
+The Mahābhārata contains the Droṇa Parva.

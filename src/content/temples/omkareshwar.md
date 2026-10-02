@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Omkāreśvara Temple on Mandhata Island (Madhya Pradesh), one of the twelve Jyotirliṅgas, situated on the Narmadā river, with the unique Om-shaped island; its architecture, the Mamleshwar Temple on the mainland, and the Narmadā Parikramā are represented here as a catalogue entry.
----
+The Omkāreśvara Temple on Mandhata Island (Madhya Pradesh), one of the twelve Jyotirliṅgas, situated on the Narmadā river, with the unique Om-shaped island.

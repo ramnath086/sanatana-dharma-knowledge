@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, CONCEPT]
 ---
-The eighteen parvas (books) of the Mahābhārata: Ādi, Sabhā, Araṇya, Virāṭa, Udyoga, Bhīṣma, Droṇa, Karṇa, Śalya, Sauptika, Strī, Śānti, Anuśāsana, Āśramavāsika, Mausala, Mahāprasthānika, Svargārohaṇa; their narrative scope and key episodes are represented here as a catalogue entry.
----
+The eighteen parvas (books) of the Mahābhārata: Ādi, Sabhā, Araṇya, Virāṭa, Udyoga, Bhīṣma, Droṇa, Karṇa, Śalya, Sauptika, Strī, Śānti, Anuśāsana, Āśramavāsika, Mausala, Mahāprasthānika, Svargārohaṇa.

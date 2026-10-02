@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TANTRA]
 ---
-The Rudrayāmala Tantra, a major Śākta-Śaiva Tantra in 44 chapters, expounding the worship of Śiva and Śakti in their fierce forms, the ten Mahāvidyās, and the practice of kaula; its influence on Bengali Śākta traditions is represented here as a catalogue entry.
----
+The Rudrayāmala Tantra, a major Śākta-Śaiva Tantra in 44 chapters, expounding the worship of Śiva and Śakti in their fierce forms, the ten Mahāvidyās, and the practice of kaula.

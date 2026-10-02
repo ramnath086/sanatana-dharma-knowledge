@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, CONCEPT]
 ---
-The Advaita doctrine of ajāti-vāda (non-origination), associated with Gauḍapāda, asserting that the world of birth and death never truly originates and that Brahman alone is real; its arguments and relation to Māṇḍūkya Kārikā are represented here as a catalogue entry.
----
+The Advaita doctrine of ajāti-vāda (non-origination), associated with Gauḍapāda, asserting that the world of birth and death never truly originates and that Brahman alone is real.

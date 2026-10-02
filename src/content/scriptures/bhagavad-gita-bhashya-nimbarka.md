@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SMRITI, ITIHASA, COMMENTARY]
 ---
-Nimbārka's Gītā Bhāṣya, presenting the Bhedābheda interpretation, reconciling difference and non-difference through the relation of whole and part; its unique synthesis is represented here as a catalogue entry.
----
+Nimbārka's Gītā Bhāṣya, presenting the Bhedābheda interpretation, reconciling difference and non-difference through the relation of whole and part.

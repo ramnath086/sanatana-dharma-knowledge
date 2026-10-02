@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, COMMENTARY]
 ---
-Vācaspati Miśra's Brahma Sūtra Bhāṣya (Bhāmatī), a sub-commentary on Śaṅkara's Brahma Sūtra Bhāṣya, establishing the Bhāmatī school of Advaita and its theory of avidyā; represented here as a catalogue entry.
----
+Vācaspati Miśra's Brahma Sūtra Bhāṣya (Bhāmatī), a sub-commentary on Śaṅkara's Brahma Sūtra Bhāṣya, establishing the Bhāmatī school of Advaita and its theory of avidyā.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, CULTURE, TRADITION]
 ---
-The traditional Indian system of architecture and spatial design, governing temple, palace, and domestic construction; its texts, principles, and regional variations are represented here as a catalogue entry.
----
+The traditional Indian system of architecture and spatial design, governing temple, palace, and domestic construction.

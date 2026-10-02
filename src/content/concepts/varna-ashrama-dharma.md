@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DHARMASHASTRA, CONCEPT]
 ---
-The integrated system of varṇa (four social classes) and āśrama (four life stages) duties in Dharmaśāstra; the interdependence of social and life-stage obligations, their textual basis in Smṛti texts, and their role in traditional society are represented here as a catalogue entry.
----
+The integrated system of varṇa (four social classes) and āśrama (four life stages) duties in Dharmaśāstra.

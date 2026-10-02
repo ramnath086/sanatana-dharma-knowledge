@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA]
 ---
-The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the self, and the means to liberation through knowledge and meditation; its text is represented here as a catalogue entry.
----
+The Brahma Upaniṣad, associated with the Kṛṣṇa Yajurveda, focuses on the nature of Brahman, the self, and the means to liberation through knowledge and meditation.

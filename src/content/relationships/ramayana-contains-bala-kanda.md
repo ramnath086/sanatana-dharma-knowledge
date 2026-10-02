@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Rāmāyaṇa contains the Bāla Kāṇḍa; represented here as a catalogue entry.
----
+The Rāmāyaṇa contains the Bāla Kāṇḍa.

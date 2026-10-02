@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DARSHANA, YOGA, CONCEPT]
 ---
-The five kleśas (afflictions) in Patañjali's Yoga: avidyā (ignorance), asmitā (egoism), rāga (attachment), dveṣa (aversion), abhiniveśa (fear of death); their role in saṃsāra and their removal through yogic practice are represented here as a catalogue entry.
----
+The five kleśas (afflictions) in Patañjali's Yoga: avidyā (ignorance), asmitā (egoism), rāga (attachment), dveṣa (aversion), abhiniveśa (fear of death).

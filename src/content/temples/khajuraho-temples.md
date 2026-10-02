@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION, CULTURE]
 ---
-The Khajuraho group of temples, Madhya Pradesh, built by the Chandela dynasty (9th–12th centuries), famous for their erotic sculptures and Nagara architecture; a UNESCO World Heritage site represented here as a catalogue entry.
----
+The Khajuraho group of temples, Madhya Pradesh, built by the Chandela dynasty (9th–12th centuries), famous for their erotic sculptures and Nagara architecture.

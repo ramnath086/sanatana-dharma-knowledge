@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, CONCEPT]
 ---
-The Bhedābheda doctrine of avibhāga-bheda (difference-in-non-difference), asserting that the whole and its parts are simultaneously different and non-different (like fire and its sparks); its variants in Bhāskara, Yādavaprakāśa, and Nimbārka are represented here as a catalogue entry.
----
+The Bhedābheda doctrine of avibhāga-bheda (difference-in-non-difference), asserting that the whole and its parts are simultaneously different and non-different (like fire and its sparks).

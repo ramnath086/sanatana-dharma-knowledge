@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The first kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Bāla Kāṇḍa), describing the birth of Rāma, his childhood, education under Vasiṣṭha, marriage to Sītā, and the journey to Mithilā; represented here as a catalogue entry.
----
+The first kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Bāla Kāṇḍa), describing the birth of Rāma, his childhood, education under Vasiṣṭha, marriage to Sītā, and the journey to Mithilā.

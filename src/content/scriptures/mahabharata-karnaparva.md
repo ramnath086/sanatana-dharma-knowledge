@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The eighth book (Karṇa Parva) of the Mahābhārata, describing the two days of war under Karṇa's command and his final duel with Arjuna; represented here as a catalogue entry.
----
+The eighth book (Karṇa Parva) of the Mahābhārata, describing the two days of war under Karṇa's command and his final duel with Arjuna.

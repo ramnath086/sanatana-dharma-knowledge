@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Suprabheda Āgama, one of the twenty-eight principal Śaiva Āgamas, covering jñāna, yoga, kriyā, and caryā pādas with emphasis on temple construction and iconography; represented here as a catalogue entry.
----
+The Suprabheda Āgama, one of the twenty-eight principal Śaiva Āgamas, covering jñāna, yoga, kriyā, and caryā pādas with emphasis on temple construction and iconography.

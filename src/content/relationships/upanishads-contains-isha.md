@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The principal Upaniṣads include Īśa; represented here as a catalogue entry.
----
+The principal Upaniṣads include Īśa.

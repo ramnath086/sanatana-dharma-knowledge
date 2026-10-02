@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA]
 ---
-The Garga Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Garga, focusing on astrology (jyotiṣa), omens, and the worship of Kṛṣṇa; its astronomical content is represented here as a catalogue entry.
----
+The Garga Purāṇa, one of the eighteen Upapurāṇas, attributed to the sage Garga, focusing on astrology (jyotiṣa), omens, and the worship of Kṛṣṇa.

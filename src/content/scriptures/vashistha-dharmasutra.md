@@ -9,4 +9,4 @@ status: published
 verification: verified
 classifications: [Dharmashastra, DHARMASHASTRA]
 ---
-An early Dharmasūtra associated with the Ṛgveda, prescribing duties for the four varṇas and āśramas; represented here as a catalogue entry.
+An early Dharmasūtra associated with the Ṛgveda, prescribing duties for the four varṇas and āśramas.

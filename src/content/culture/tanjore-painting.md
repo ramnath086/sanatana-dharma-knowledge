@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CULTURE, ART, CONCEPT]
 ---
-The Thanjavur (Tanjore) painting tradition of Tamil Nadu, characterized by gold leaf, vibrant colors, and gesso work; its themes (Śrī Viṣṇu, Śiva, Gaṇeśa, Rāma), technique, and patronage by Maratha rulers are represented here as a catalogue entry.
----
+The Thanjavur (Tanjore) painting tradition of Tamil Nadu, characterized by gold leaf, vibrant colors, and gesso work.

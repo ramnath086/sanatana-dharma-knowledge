@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DHARMASHASTRA, PRACTICE, RITUAL, CONCEPT]
 ---
-The classification of dāna (gift) in Dharmaśāstra: nitya (daily), naimittika (occasional), kāmya (desire-motivated), and vimukti (liberation-oriented); the qualified recipients (supātra), objects, and occasions for giving are represented here as a catalogue entry.
----
+The classification of dāna (gift) in Dharmaśāstra: nitya (daily), naimittika (occasional), kāmya (desire-motivated), and vimukti (liberation-oriented).

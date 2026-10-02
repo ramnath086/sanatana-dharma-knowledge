@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TRADITION, TEACHER]
 ---
-Rāghavendra Svāmī (1595–1671), the Dvaita Vedānta pontiff (Rāghavendra Maṭha, Mantralayam), known for his commentaries on Madhva's works and his reputation as a miracle-worker; his role in the Dvaita tradition, the Brindavan at Mantralayam, and his continued popular veneration are represented here as a catalogue entry.
----
+Rāghavendra Svāmī (1595–1671), the Dvaita Vedānta pontiff (Rāghavendra Maṭha, Mantralayam), known for his commentaries on Madhva's works and his reputation as a miracle-worker.

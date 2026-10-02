@@ -4,10 +4,9 @@ title: Ṛgveda Maṇḍala 3
 type: scripture
 language: [sa, en]
 aliases: [Rigveda Mandala 3, Rig Veda Book 3, ऋग्वेद मण्डल ३]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, muktabodha]
 status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The third Maṇḍala of the Ṛgveda Saṃhitā contains 62 hymns attributed to the ṛṣi Viśvāmitra; famous for the Gāyatrī Mantra (3.62.10) addressed to Savitṛ; represented here as a catalogue entry.
----
+Mandala III of the Ṛg Vāda, the 'Viṣṇu-mandala,' glorifies the three steps (trivandhura) of the Boar and the cosmic-measurement (puru-māṇḍala) of Viṣṇu, the god who 'stepped beyond' (adhyātman) the universe. The Viṣṇu sūktas (particularly the celebrated 'viṣṇor neto jyāyās tvag' and 'saṃprasthena triguṇena') articulate the Vedic conception of divine immanence and transcendence and are later the scriptural warrant for the Vaiṣṇṇava theology of the avatar.

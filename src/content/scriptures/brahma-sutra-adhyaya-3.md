@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA]
 ---
-The third adhyāya of the Brahma Sūtra (Sādhana), consisting of four pādas and 186 sūtras, discussing the means (sādhana) to realize Brahman, including meditation (upāsanā), ethics, and the path of knowledge; represented here as a catalogue entry.
----
+The third adhyāya of the Brahma Sūtra (Sādhana), consisting of four pādas and 186 sūtras, discussing the means (sādhana) to realize Brahman, including meditation (upāsanā), ethics, and the path of knowledge.

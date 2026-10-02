@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA]
 ---
-The second adhyāya of the Brahma Sūtra (Avirodha), consisting of four pādas and 157 sūtras, refuting objections from other schools (Sāṃkhya, Yoga, Vaiśeṣika, Buddhist, Jain) and showing the consistency of the Vedānta doctrine; represented here as a catalogue entry.
----
+The second adhyāya of the Brahma Sūtra (Avirodha), consisting of four pādas and 157 sūtras, refuting objections from other schools (Sāṃkhya, Yoga, Vaiśeṣika, Buddhist, Jain) and showing the consistency of the Vedānta doctrine.

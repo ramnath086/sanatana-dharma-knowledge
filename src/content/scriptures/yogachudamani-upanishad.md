@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA, YOGA]
 ---
-The Yogacūḍāmaṇi Upaniṣad, a Yoga Upaniṣad, describes the chakras, nāḍīs, kuṇḍalinī, and the practice of rāja-yoga leading to samādhi; its text is represented here as a catalogue entry.
----
+The Yogacūḍāmaṇi Upaniṣad, a Yoga Upaniṣad, describes the chakras, nāḍīs, kuṇḍalinī, and the practice of rāja-yoga leading to samādhi.

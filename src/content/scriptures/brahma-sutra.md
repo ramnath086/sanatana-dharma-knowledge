@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA]
 ---
-The Brahma Sūtra (Vedānta Sūtra) of Bādarāyaṇa, the foundational text of Vedānta darśana, in four adhyāyas and 555 sūtras; its systematic inquiry into brahman, the reconciliation of Upaniṣadic statements, and its role as the prasthāna-traya (with Upaniṣads and Bhagavad Gītā) are represented here as a catalogue entry.
----
+The Brahma Sūtra (Vedānta Sūtra) of Bādarāyaṇa, the foundational text of Vedānta darśana, in four adhyāyas and 555 sūtras.

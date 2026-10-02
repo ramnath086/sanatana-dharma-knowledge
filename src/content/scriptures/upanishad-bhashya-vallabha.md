@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDANTA, COMMENTARY]
 ---
-Vallabha's commentaries on selected Upaniṣads (including the Subodhinī on the Īśa, Kaṭha, and Bṛhadāraṇyaka), presenting the Śuddhādvaita interpretation and the path of puṣṭi (grace); his emphasis on Kṛṣṇa as the supreme reality of the Upaniṣads is represented here as a catalogue entry.
----
+Vallabha's commentaries on selected Upaniṣads (including the Subodhinī on the Īśa, Kaṭha, and Bṛhadāraṇyaka), presenting the Śuddhādvaita interpretation and the path of puṣṭi (grace).

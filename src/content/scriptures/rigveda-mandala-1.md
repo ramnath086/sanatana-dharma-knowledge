@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The first Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns (sūktas) primarily dedicated to Agni and Indra; its composition is attributed to the ṛṣi Madhucchandas and other seers; represented here as a catalogue entry.
----
+The first Maṇḍala of the Ṛgveda Saṃhitā contains 191 hymns (sūktas) primarily dedicated to Agni and Indra; its composition is attributed to the ṛṣi Madhucchandas and other seers.

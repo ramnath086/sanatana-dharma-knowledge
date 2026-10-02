@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [MANTRA, VEDIC, PRACTICE, CONCEPT]
 ---
-The Gāyatrī Mantra (Ṛgveda 3.62.10), addressed to Savitṛ, is the most revered Vedic mantra; its metre (gāyatrī), traditional initiation (upadeśa), and role in sandhyāvandana are represented here as a catalogue entry.
----
+The Gāyatrī Mantra (Ṛgveda 3.62.10), addressed to Savitṛ, is the most revered Vedic mantra.

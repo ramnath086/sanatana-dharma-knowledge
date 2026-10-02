@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DEITY, TRADITION, CONCEPT]
 ---
-The eight principal forms of Lakṣmī (Aṣṭalakṣmī): Ādi, Dhana, Dhānya, Gaja, Santāna, Vīra, Vijaya, and Vidyā; their individual attributes, iconography, and the Aṣṭalakṣmī Stotram are represented here as a catalogue entry.
----
+The eight principal forms of Lakṣmī (Aṣṭalakṣmī): Ādi, Dhana, Dhānya, Gaja, Santāna, Vīra, Vijaya, and Vidyā.

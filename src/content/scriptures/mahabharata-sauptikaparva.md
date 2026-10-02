@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The tenth book (Sauptika Parva) of the Mahābhārata, describing the night raid (sauptika) by Aśvatthāman, Kṛpa, and Kṛtavarman on the sleeping Pāṇḍava army; represented here as a catalogue entry.
----
+The tenth book (Sauptika Parva) of the Mahābhārata, describing the night raid (sauptika) by Aśvatthāman, Kṛpa, and Kṛtavarman on the sleeping Pāṇḍava army.

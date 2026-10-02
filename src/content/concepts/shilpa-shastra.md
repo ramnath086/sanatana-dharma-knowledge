@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, CULTURE, ART]
 ---
-The traditional Indian system of iconography and sculpture, prescribing proportions, gestures, attributes, and materials for deity images; its texts and regional schools are represented here as a catalogue entry.
----
+The traditional Indian system of iconography and sculpture, prescribing proportions, gestures, attributes, and materials for deity images.

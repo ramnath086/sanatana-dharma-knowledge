@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Sūkṣma Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the subtle (sūkṣma) body, the nāḍīs, cakras, and the kuṇḍalinī yoga leading to Śiva-realization; its detailed yogic physiology is represented here as a catalogue entry.
----
+The Sūkṣma Āgama, one of the twenty-eight principal Śaiva Āgamas, focusing on the subtle (sūkṣma) body, the nāḍīs, cakras, and the kuṇḍalinī yoga leading to Śiva-realization.

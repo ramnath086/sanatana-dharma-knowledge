@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The seventh Maṇḍala of the Ṛgveda Saṃhitā contains 104 hymns attributed to the ṛṣi Vasiṣṭha; dedicated to Indra, Agni, Varuṇa, and the Viśvedevas; contains the Mahāmṛtyuñjaya Mantra (7.59.12); represented here as a catalogue entry.
----
+The seventh Maṇḍala of the Ṛgveda Saṃhitā contains 104 hymns attributed to the ṛṣi Vasiṣṭha; dedicated to Indra, Agni, Varuṇa, and the Viśvedevas; contains the Mahāmṛtyuñjaya Mantra (7.59.12).

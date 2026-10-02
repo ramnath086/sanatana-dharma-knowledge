@@ -10,5 +10,5 @@ verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
 
-A Vedic collection represented as a source-aware catalogue entry. Its textual and recitational traditions are not treated as identical to those of the other Vedas.
+The Sāmaveda ('Veda of melodies') is the Vedic collection that preserves Ṛgvedic verses adapted into melodic (sāman) recitation for the soma-yajña; it is divided traditionally into a Pūrva (the earlier, melody-oriented texts drawn from the Ṛg) and a Uttara (the Āraṇyaka-like portions). Only two recensions (śākhas) survive: the Jaiminiya (the 'Jaiminiya Sāma') and the Śukla (the 'white' Sāma); their melodic (sāma-gāna) traditions differ from one another and from the plain (text) recitation of the other Vedas.
 

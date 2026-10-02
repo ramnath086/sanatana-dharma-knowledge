@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition]
 ---
-The temple city of Kāñcīpuram, Tamil Nadu, with major Śaiva (Ekāmranātha, Kāmākṣī) and Vaiṣṇava (Varadarāja) temples; its history as a Śaṅkara maṭha center is represented here as a catalogue entry.
-
-
-
+The temple city of Kāñcīpuram, Tamil Nadu, with major Śaiva (Ekāmranātha, Kāmākṣī) and Vaiṣṇava (Varadarāja) temples.

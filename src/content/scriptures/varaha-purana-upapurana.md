@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [PURANA]
 ---
-The Varāha Upapurāṇa, one of the eighteen Upapurāṇas, distinct from the Mahāpurāṇa Varāha Purāṇa, focusing on Viṣṇu's Varāha avatar and the rescue of Bhūdevī; represented here as a catalogue entry.
----
+The Varāha Upapurāṇa, one of the eighteen Upapurāṇas, distinct from the Mahāpurāṇa Varāha Purāṇa, focusing on Viṣṇu's Varāha avatar and the rescue of Bhūdevī.

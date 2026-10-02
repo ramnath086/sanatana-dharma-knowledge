@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Brahma Sūtra has Vallabha's Anubhāṣya (Śuddhādvaita); represented here as a catalogue entry.
----
+The Brahma Sūtra has Vallabha's Anubhāṣya (Śuddhādvaita).

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TRADITION, CONCEPT]
 ---
-The guru-śiṣya paramparā (teacher-disciple lineage): the oral transmission of knowledge (vidyā) from guru to śiṣya across generations; its role in Vedic, Vedānta, Yoga, Tantra, and artistic traditions; the concepts of dīkṣā (initiation), śraddhā (faith), and the guru as the embodiment of the teaching; its continuity in contemporary traditions are represented here as a catalogue entry.
----
+The guru-śiṣya paramparā (teacher-disciple lineage): the oral transmission of knowledge (vidyā) from guru to śiṣya across generations; its role in Vedic, Vedānta, Yoga, Tantra, and artistic traditions; the concepts of dīkṣā (initiation), śraddhā (faith), and the guru as the embodiment of the teaching.

@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, Culture, Art, Sanskrit]
 ---
-The classical Sanskrit theatre tradition, with its nāṭyaśāstra foundation, dramatic types (nāṭaka, prakaraṇa), and playwrights (Kālidāsa, Bhāsa, Śūdraka, Bhavabhūti); represented here as a catalogue entry.
-
-
-
+The classical Sanskrit theatre tradition, with its nāṭyaśāstra foundation, dramatic types (nāṭaka, prakaraṇa), and playwrights (Kālidāsa, Bhāsa, Śūdraka, Bhavabhūti).

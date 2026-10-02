@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [VEDANTA, CONCEPT]
 ---
-In Advaita Vedānta, adhyāsa (superimposition) is the erroneous attribution of the qualities of the non-self (anatman) to the self (ātman); its definition, types (svarūpa and samsarga), and role in bondage are represented here as a catalogue entry.
----
+In Advaita Vedānta, adhyāsa (superimposition) is the erroneous attribution of the qualities of the non-self (anatman) to the self (ātman).

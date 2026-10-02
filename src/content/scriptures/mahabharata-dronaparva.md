@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The seventh book (Droṇa Parva) of the Mahābhārata, describing the five days of war under Droṇa's command, including the deaths of Abhimanyu and Droṇa; represented here as a catalogue entry.
----
+The seventh book (Droṇa Parva) of the Mahābhārata, describing the five days of war under Droṇa's command, including the deaths of Abhimanyu and Droṇa.

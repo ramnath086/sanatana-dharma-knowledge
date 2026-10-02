@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Aḻagar Kōyil Temple near Madurai (Tamil Nadu), one of the 108 Divya Deśams, dedicated to Kallāḻagar (Viṣṇu as Kallāḻagar); its hill location, the Chitrai festival (Aḻagar entering the Vaigai river), and the connection to the Āḻvārs are represented here as a catalogue entry.
----
+The Aḻagar Kōyil Temple near Madurai (Tamil Nadu), one of the 108 Divya Deśams, dedicated to Kallāḻagar (Viṣṇu as Kallāḻagar).

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Atharvaveda Saṃhitā, the fourth Veda, containing hymns and prose for healing, protection, and domestic rituals, transmitted in Śaunaka and Paippalāda recensions; its textual structure is represented here as a catalogue entry.
----
+The Atharvaveda Saṃhitā, the fourth Veda, containing hymns and prose for healing, protection, and domestic rituals, transmitted in Śaunaka and Paippalāda recensions.

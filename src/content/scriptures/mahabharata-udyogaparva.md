@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The fifth book (Udyoga Parva) of the Mahābhārata, detailing the preparations for war (udyoga), the failed peace missions, and the marshalling of armies on both sides; represented here as a catalogue entry.
----
+The fifth book (Udyoga Parva) of the Mahābhārata, detailing the preparations for war (udyoga), the failed peace missions, and the marshalling of armies on both sides.

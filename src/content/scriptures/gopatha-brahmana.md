@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The Gopatha Brāhmaṇa, the only Brāhmaṇa of the Atharvaveda (associated with the Śaunaka and Paippalāda Śākhās), provides ritual instructions and explanations specific to Atharvan practice; its content is represented here as a catalogue entry.
----
+The Gopatha Brāhmaṇa, the only Brāhmaṇa of the Atharvaveda (associated with the Śaunaka and Paippalāda Śākhās), provides ritual instructions and explanations specific to Atharvan practice.

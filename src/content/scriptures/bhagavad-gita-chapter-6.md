@@ -4,10 +4,9 @@ title: Bhagavad Gītā Chapter 6 — Dhyāna Yoga
 type: scripture
 language: [sa, en]
 aliases: [Bhagavad Gita Chapter 6, Dhyana Yoga, Atma Samyama Yoga, भगवद्गीता अध्याय ६]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, muktabodha]
 status: published
 verification: verified
 classifications: [SMRITI, ITIHASA]
 ---
-The sixth chapter of the Bhagavad Gītā (Dhyāna Yoga / Ātma Saṃyama Yoga), detailing the practice of meditation (dhyāna), the discipline of the mind, and the qualities of the true yogin; its 47 verses present the practical path of meditation; represented here as a catalogue entry.
----
+Gītā Chapter 6 (Dhyāna-yoga / Ātma-saṅgraha) teaches the practical discipline (abhyāsa-vairāgya) of meditation (dhyāna), the six modifications (vṛtti) of the mind, and the attainment (prāpti) of samādhi and the peace (śānti) that transcends ordinary mind. It warns against the self-centered (ātma) practice without mastery and commends the sthira-sukham (steady-happiness) of the sage who rests in the absolute.

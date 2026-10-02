@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [DHARMASHASTRA, PRACTICE, RITUAL, CONCEPT]
 ---
-The classification of prāyaścitta (expiation) in Dharmaśātra: prāṇāyāma, tīrtha-yātrā, dāna, vrata, homa, japa, and fasting; their application to specific offenses (pātaka, upapātaka) and the gradation of penances are represented here as a catalogue entry.
----
+The classification of prāyaścitta (expiation) in Dharmaśātra: prāṇāyāma, tīrtha-yātrā, dāna, vrata, homa, japa, and fasting.

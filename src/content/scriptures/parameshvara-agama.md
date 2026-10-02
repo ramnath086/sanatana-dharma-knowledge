@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Parameśvara Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of Śiva-Śakti philosophy, the nature of mala (impurity), and the path of initiation (dīkṣā); represented here as a catalogue entry.
----
+The Parameśvara Āgama, one of the twenty-eight principal Śaiva Āgamas, known for its detailed treatment of Śiva-Śakti philosophy, the nature of mala (impurity), and the path of initiation (dīkṣā).

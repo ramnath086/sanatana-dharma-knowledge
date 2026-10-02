@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The twelfth book (Śānti Parva) of the Mahābhārata, the longest book, containing Bhīṣma's teachings on rājadharma, āpad-dharma, and mokṣa from his bed of arrows; represented here as a catalogue entry.
----
+The twelfth book (Śānti Parva) of the Mahābhārata, the longest book, containing Bhīṣma's teachings on rājadharma, āpad-dharma, and mokṣa from his bed of arrows.

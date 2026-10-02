@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The fourth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Kiṣkindhā Kāṇḍa), describing Rāma and Lakṣmaṇa's alliance with Sugrīva, the search for Sītā, and the killing of Vālin; represented here as a catalogue entry.
----
+The fourth kāṇḍa (book) of the Vālmīki Rāmāyaṇa (Kiṣkindhā Kāṇḍa), describing Rāma and Lakṣmaṇa's alliance with Sugrīva, the search for Sītā, and the killing of Vālin.

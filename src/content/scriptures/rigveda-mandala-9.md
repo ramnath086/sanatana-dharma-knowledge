@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [SHRUTI, VEDIC]
 ---
-The ninth Maṇḍala of the Ṛgveda Saṃhitā contains 114 hymns dedicated entirely to Soma Pavamāna (the purifying Soma); its hymns are attributed to various ṛṣis and are used in the Soma sacrifice; represented here as a catalogue entry.
----
+The ninth Maṇḍala of the Ṛgveda Saṃhitā contains 114 hymns dedicated entirely to Soma Pavamāna (the purifying Soma); its hymns are attributed to various ṛṣis and are used in the Soma sacrifice.

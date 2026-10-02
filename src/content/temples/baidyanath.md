@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, PILGRIMAGE, TRADITION]
 ---
-The Baidyanath Temple at Deoghar (Jharkhand), one of the twelve Jyotirliṅgas, also known as Baba Baidyanath Dham, where Rāvaṇa is said to have worshipped Śiva; its architecture, the Shravani Mela, and the nearby Basukinath Temple are represented here as a catalogue entry.
----
+The Baidyanath Temple at Deoghar (Jharkhand), one of the twelve Jyotirliṅgas, also known as Baba Baidyanath Dham, where Rāvaṇa is said to have worshipped Śiva.

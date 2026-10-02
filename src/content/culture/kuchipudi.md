@@ -9,7 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, Culture, Art]
 ---
-The classical dance-drama tradition of Andhra Pradesh, with solo and group forms; its history, repertoire, and theoretical basis are represented here as a catalogue entry.
-
-
-
+Kuchipudi is a classical dance-drama of Andhra Pradesh performed by the village actor-dancer-singer in an all-in-one theatrical style. Its signature items are the Tarangam (a balanced dance on a plate of milk and flowers), the 'Jatra' story-scenes, and the dance (nṛtya) of the Krishna-legend. One of the eight classical dance forms, it is celebrated for its rhythmic footwork (tāḷa) and the vivid abhinaya (expression) of the story (kathā).

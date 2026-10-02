@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Mahābhārata contains the Bhīṣma Parva (with Bhagavad Gītā); represented here as a catalogue entry.
----
+The Mahābhārata contains the Bhīṣma Parva (with Bhagavad Gītā).

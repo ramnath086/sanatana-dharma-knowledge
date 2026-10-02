@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [MANTRA, PRACTICE, CONCEPT]
 ---
-The sixteen-word Vaiṣṇava mahāmantra (Hare Kṛṣṇa Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma, Rāma Rāma Hare Hare), its centrality in Gauḍīya Vaiṣṇava practice, and its source in the Kali-santaraṇa Upaniṣad are represented here as a catalogue entry.
----
+The Hare Kṛṣṇa mahāmantra is the congregational (saṅkīrtana) mantra of the Gauḍīya tradition, composed of the names Hare, Kṛṣṇa, and Rāma arranged as: hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa / hare rāma hare rāma rāma rāma hare hare — the 32-syllable (16-word) mantra addressed to the divine feminine energy (Hare), the all-attractive supreme (Kṛṣṇa), and his pleasure (Rāma). Caitanya Mahāprabhu (1486–1533) is said to have propounded it as the supreme practice (śuddha-nāma-saṅkīrtana) for the age of Kali, receiving it in the spiritual line descending from Śrī Caitanya's own guru (Lochmānadāsa Gosvāmī → Nārāyaṇa Gauḍa).

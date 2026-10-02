@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [TANTRA]
 ---
-The Kulārṇava Tantra, a major Śākta Tantra in 17 chapters, expounding the Kaula tradition, the worship of Kuleśvarī, the cakra system, and the guru-śiṣya relationship; its synthesis of tantric and Vedic elements is represented here as a catalogue entry.
----
+The Kulārṇava Tantra, a major Śākta Tantra in 17 chapters, expounding the Kaula tradition, the worship of Kuleśvarī, the cakra system, and the guru-śiṣya relationship.

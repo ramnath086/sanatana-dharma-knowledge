@@ -9,6 +9,4 @@ status: published
 verification: verified
 classifications: [TEMPLE, Pilgrimage, Tradition]
 ---
-The Kedārnātha Temple at Kedarnath, Uttarakhand, one of the twelve Jyotirliṅgas; its high-altitude location, seasonal access, and Śaṅkara association are represented here as a catalogue entry.
-
-
+The Kedārnātha Temple at Kedarnath, Uttarakhand, one of the twelve Jyotirliṅgas.

@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, CONCEPT]
 ---
-The cultural impact of the Itihāsas (Mahābhārata and Rāmāyaṇa) on Indian civilization: their role in shaping values, performing arts (Kathakali, Yakṣagāṇa, Rāmalīlā), temple iconography, regional languages, and the transmission of dharma across generations; their oral and textual transmission are represented here as a catalogue entry.
----
+The cultural impact of the Itihāsas (Mahābhārata and Rāmāyaṇa) on Indian civilization: their role in shaping values, performing arts (Kathakali, Yakṣagāṇa, Rāmalīlā), temple iconography, regional languages, and the transmission of dharma across generations.

@@ -4,10 +4,9 @@ title: Bhagavad Gītā Chapter 14 — Guṇa Traya Vibhāga Yoga
 type: scripture
 language: [sa, en]
 aliases: [Bhagavad Gita Chapter 14, Guna Traya Vibhaga Yoga, भगवद्गीता अध्याय १४]
-sources: [gretil]
+sources: [gretil, chowkhamba-sanskrit-academy, muktabodha]
 status: published
 verification: verified
 classifications: [SMRITI, ITIHASA]
 ---
-The fourteenth chapter of the Bhagavad Gītā (Guṇa Traya Vibhāga Yoga), analyzing the three guṇas (sattva, rajas, tamas) that bind the self to the body, their effects, and the means to transcend them; its 27 verses reveal the nature of the guṇas; represented here as a catalogue entry.
----
+Gītā Chapter 14 (Guṇatraya-vibhāgayoga) explains the three Guṇas (sattva, rajas, tamas) as the conditioning of the embodied self and the basis of the 'wheel of birth' (samsāra). It teaches the 'transcendence' (viśeṣaṇa) beyond the guṇas as the mark of the great (mahātmā) and the 'liberated' (mokṣa) who has gone beyond the 'three-fold' guṇa-bondage.

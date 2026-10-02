@@ -7,5 +7,4 @@ sources: [gretil]
 status: published
 verification: verified
 ---
-The Upapurāṇas include the Varāha Upapurāṇa; represented here as a catalogue entry.
----
+The Upapurāṇas include the Varāha Upapurāṇa.

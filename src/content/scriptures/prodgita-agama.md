@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [AGAMA]
 ---
-The Prodgītā Āgama, one of the twenty-eight principal Śaiva Āgamas, containing the "emerged song" (prodgītā) of Śiva, emphasizing the gītā (teaching song) format for conveying the highest Śaiva philosophy; its literary form is represented here as a catalogue entry.
----
+The Prodgītā Āgama, one of the twenty-eight principal Śaiva Āgamas, containing the "emerged song" (prodgītā) of Śiva, emphasizing the gītā (teaching song) format for conveying the highest Śaiva philosophy.

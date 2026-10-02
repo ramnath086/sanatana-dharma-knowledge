@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [CONCEPT, Manuscript, Scholarship]
 ---
-The discipline of evaluating manuscript variants to reconstruct a text's history and establish an edited text; its methods (stemmatics, best-text, cladistics) are represented here as a catalogue entry.
-
+The discipline of evaluating manuscript variants to reconstruct a text's history and establish an edited text.

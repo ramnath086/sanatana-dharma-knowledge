@@ -9,5 +9,4 @@ status: published
 verification: verified
 classifications: [ITIHASA, SMRITI]
 ---
-The second book (Sabhā Parva) of the Mahābhārata, describing the assembly hall (sabhā) of Yudhiṣṭhira, the Rājasūya sacrifice, and the fateful game of dice; represented here as a catalogue entry.
----
+The second book (Sabhā Parva) of the Mahābhārata, describing the assembly hall (sabhā) of Yudhiṣṭhira, the Rājasūya sacrifice, and the fateful game of dice.
