@@ -14,8 +14,18 @@ export default {
       return response;
     }
 
-    return env.ASSETS.fetch(
-      new Request(new URL("/index.html", url.origin), request)
+    if (!["GET", "HEAD"].includes(request.method)) {
+      return response;
+    }
+
+    const indexRequest = new Request(
+      new URL("/index.html", url.origin),
+      {
+        method: request.method,
+        headers: request.headers,
+      }
     );
+
+    return env.ASSETS.fetch(indexRequest);
   },
 };
