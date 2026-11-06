@@ -2,6 +2,9 @@ import { createHash } from 'node:crypto'
 import { mkdirSync, readdirSync, readFileSync, writeFileSync, statSync } from 'node:fs'
 import { join, relative, resolve } from 'node:path'
 
+export const canonicalOrigin = 'https://sanatana-dharma-knowledge.ramnath86.workers.dev'
+export const isEditorialRoute = (route) => route === '/editorial' || route.startsWith('/editorial/')
+
 export const root = resolve(process.cwd())
 export const contentRoot = join(root, 'src', 'content')
 export const generatedRoot = join(root, 'src', 'generated')
@@ -226,8 +229,8 @@ export function compileContent() {
     writeFileSync(join(generatedRoot, 'index.ts'), `// DO NOT EDIT - GENERATED FROM MARKDOWN CONTENT\nimport type { ClaimRecord, EvidenceRecord, PublicationReadiness } from '../types/editorial'\nimport type { EntityRecord, Relationship, SearchDocument, SourceRecord } from '../types/knowledge'\nimport rawEntities from './entities.json'\nimport rawEditorialEntities from './editorial-entities.json'\nimport rawRelationships from './relationships.json'\nimport rawSearchIndex from './search-index.json'\nimport rawSources from './sources.json'\nimport rawEditorialSources from './editorial-sources.json'\nimport rawClaims from './claims.json'\nimport rawEvidence from './evidence.json'\nimport rawEditorialClaims from './editorial-claims.json'\nimport rawEditorialEvidence from './editorial-evidence.json'\nimport rawReadiness from './readiness.json'\nimport evidenceCoverage from './evidence-coverage.json'\nimport duplicateSuggestions from './duplicate-suggestions.json'\nimport orphanReports from './orphan-reports.json'\nimport manifest from './manifest.json'\nconst entities = rawEntities as EntityRecord[]\nconst editorialEntities = rawEditorialEntities as (EntityRecord & { publicationReadiness: PublicationReadiness })[]\nconst relationships = rawRelationships as Relationship[]\nconst searchIndex = rawSearchIndex as SearchDocument[]\nconst sources = rawSources as SourceRecord[]\nconst editorialSources = rawEditorialSources as SourceRecord[]\nconst claims = rawClaims as ClaimRecord[]\nconst evidence = rawEvidence as EvidenceRecord[]\nconst editorialClaims = rawEditorialClaims as ClaimRecord[]\nconst editorialEvidence = rawEditorialEvidence as EvidenceRecord[]\nconst readiness = rawReadiness as Record<string, PublicationReadiness>\nexport { entities, editorialEntities, relationships, searchIndex, sources, editorialSources, claims, evidence, editorialClaims, editorialEvidence, readiness, evidenceCoverage, duplicateSuggestions, orphanReports, manifest }\n`)
     writeFileSync(join(generatedRoot, 'README.md'), '# Generated Content\n\nDO NOT EDIT. These files are generated from `src/content/` by `npm run compile-content`.\n')
     const publishedDomains = [...new Set(publicRecords.flatMap((record) => record.classifications.map((classification) => classification.toLowerCase().replaceAll(' ', '-'))))]
-    const publicRoutes = ['/', '/begin', '/scriptures', '/philosophy', '/practice', '/festivals', '/temples', '/sanskrit', '/library', '/search', '/sources', '/about', ...publishedDomains.map((domain) => `/knowledge/${domain}`), ...publicRecords.map((record) => `/${record.type}/${record.id}`)]
-    writeFileSync(join(root, 'public', 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${publicRoutes.map((route) => `  <url><loc>${route}</loc></url>`).join('\n')}\n</urlset>\n`)
+    const publicRoutes = ['/', '/begin', '/scriptures', '/philosophy', '/practice', '/festivals', '/temples', '/sanskrit', '/library', '/sources', '/about', ...publishedDomains.map((domain) => `/knowledge/${domain}`), ...publicRecords.map((record) => `/${record.type}/${record.id}`)].filter((route) => route !== '/search' && !isEditorialRoute(route))
+    writeFileSync(join(root, 'public', 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${publicRoutes.map((route) => `  <url><loc>${new URL(route, canonicalOrigin).href}</loc></url>`).join('\n')}\n</urlset>\n`)
   }
   return generated
 }
