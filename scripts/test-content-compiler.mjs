@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict'
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { claimRoot, compileContent, contentRoot, evidenceRoot, parseFrontmatter, root, sourceRoot } from './compile-content.mjs'
+import { canonicalOrigin, claimRoot, compileContent, contentRoot, evidenceRoot, isEditorialRoute, parseFrontmatter, root, sourceRoot } from './compile-content.mjs'
 import { validateClaim, validateConflict, validateEvidence } from './editorial-validation.mjs'
 import { canTransition } from './editorial-workflow.mjs'
 
@@ -21,6 +21,27 @@ try {
   assert.equal(compiled.searchIndex.length, compiled.entities.length, 'search index must include every published entity')
   assert.ok(compiled.relationships.every((relationship) => relationship.from && relationship.to))
   assert.ok(compiled.manifest.languages.includes('en'))
+  const sitemap = readFileSync(join(root, 'public', 'sitemap.xml'), 'utf8')
+  const sitemapUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1])
+  assert.equal(canonicalOrigin, 'https://sanatana-dharma-knowledge.ramnath86.workers.dev')
+  assert.ok(sitemapUrls.length > 0, 'sitemap must contain public routes')
+  assert.equal(new Set(sitemapUrls).size, sitemapUrls.length, 'sitemap URLs must be unique')
+  for (const url of sitemapUrls) assert.equal(new URL(url).origin, canonicalOrigin, 'sitemap URLs must use the absolute production origin')
+  const sitemapPaths = new Set(sitemapUrls.map((url) => new URL(url).pathname))
+  assert.equal(sitemapPaths.has('/search'), false, 'search must not be in the sitemap')
+  for (const route of ['/editorial', '/editorial/login', '/editorial/review', '/editorial/sources', '/editorial/evidence', '/editorial/content/concept/dharma', '/editorial/preview/concept/dharma']) {
+    assert.equal(isEditorialRoute(route), true, 'editorial routes, including the namespace root, must be private')
+    assert.equal(sitemapPaths.has(route), false, 'private editorial routes must not be in the sitemap')
+  }
+  assert.equal(isEditorialRoute('/sources/gretil'), false, 'public source profiles must remain public')
+  assert.equal(isEditorialRoute('/editorial-policy'), false, 'the public editorial-policy link is not an internal workspace route')
+  for (const route of ['/', '/begin', '/scriptures', '/philosophy', '/practice', '/festivals', '/temples', '/sanskrit', '/library', '/sources', '/about']) assert.ok(sitemapPaths.has(route), `public portal route ${route} must remain in the sitemap`)
+  for (const entity of compiled.entities) {
+    assert.ok(sitemapPaths.has(`/${entity.type}/${entity.id}`), `published content route /${entity.type}/${entity.id} must remain in the sitemap`)
+    for (const domain of entity.classifications) assert.ok(sitemapPaths.has(`/knowledge/${domain.toLowerCase().replaceAll(' ', '-')}`), 'published knowledge domains must remain in the sitemap')
+  }
+  assert.ok(readFileSync(join(root, 'index.html'), 'utf8').includes(`<link rel="canonical" href="${canonicalOrigin}/" />`), 'initial HTML canonical must be the absolute production homepage')
+  assert.ok(readFileSync(join(root, 'public', 'robots.txt'), 'utf8').split(/\r?\n/).includes(`Sitemap: ${canonicalOrigin}/sitemap.xml`), 'robots.txt must advertise the absolute production sitemap')
   assert.equal(compiled.sources.find((source) => source.id === 'gretil').reuseAllowed, false, 'unknown rights must default to link-only behavior')
   assert.equal(canTransition('DRAFT', 'SOURCE_CHECK'), true)
   assert.equal(canTransition('DRAFT', 'PUBLISHED'), false)
@@ -57,5 +78,5 @@ try {
   const evidenceFile = writeRecord(evidenceRoot, 'test-evidence.md', 'id: evidence-test\nentityId: dharma\nsourceId: gretil\nevidenceType: primary-text\nconfidence: medium\nreviewStatus: needs-review')
   const claimFile = writeRecord(claimRoot, 'test-claim.md', 'id: claim-test\nentityId: dharma\nclaim: A test editorial claim\nclaimType: definition\nsources: [gretil]\nevidence: [evidence-test]\nconfidence: medium\nstatus: draft')
   try { const withClaims = compileContent(); assert.equal(withClaims.editorialClaims.some((claim) => claim.id === 'claim-test'), true); assert.equal(withClaims.editorialEvidence.some((item) => item.id === 'evidence-test'), true); assert.equal(withClaims.claims.some((claim) => claim.id === 'claim-test'), false) } finally { rmSync(evidenceFile, { force: true }); rmSync(claimFile, { force: true }) }
-  console.log('Content compiler tests passed: valid content, duplicate IDs, invalid types, missing sources, draft exclusion, search generation, multilingual metadata, and relationship validation.')
+  console.log('Content compiler tests passed: valid content, duplicate IDs, invalid types, missing sources, draft exclusion, search generation, multilingual metadata, relationship validation, and SEO (canonical sitemap/HTML/robots, search/editorial exclusion, and published route preservation).')
 } finally { rmSync(testRoot, { recursive: true, force: true }); compileContent() }

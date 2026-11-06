@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://sanatana-dharma-knowledge.ramnath86.workers.dev/sitemap.xml

@@ -8,6 +8,7 @@
     "validate-content": "node scripts/compile-content.mjs --validate-only",
     "compile-content": "node scripts/compile-content.mjs",
     "test-content": "node scripts/test-content-compiler.mjs",
+    "test-routes": "node scripts/test-editorial-routes.mjs",
     "editorial-check": "node scripts/editorial-check.mjs",
     "content-quality": "node scripts/content-quality.mjs",
     "bundle-audit": "node scripts/bundle-audit.mjs",
